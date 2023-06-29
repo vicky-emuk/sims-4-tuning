@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x0000000A">
+  <Instances>
+    <I name="tutorial_Sim_Restaurant_Funds" schema="Tutorial" type="Object">
+      <T name="category">0</T>
+      <T name="name">0xD229FC71</T>
+      <L name="slides">
+        <U type="Object" schema="TunableTutorialSlideTuple">
+          <T name="image">00B2D882-00000000-584F02E1CF8FDF71</T>
+          <T name="image_console">00000000-00000000-0000000000000000</T>
+          <T name="image_console_jp">00000000-00000000-0000000000000000</T>
+          <T name="platform_filter">0</T>
+          <T name="text">0x831E9BBB</T>
+        </U>
+        <U type="Object" schema="TunableTutorialSlideTuple">
+          <T name="image">00B2D882-00000000-584F02E1CF8FDF72</T>
+          <T name="image_console">00B2D882-00000000-DAFC2F2D1818C09D</T>
+          <T name="image_console_jp">00000000-00000000-0000000000000000</T>
+          <T name="platform_filter">0</T>
+          <T name="text">0x12003351</T>
+        </U>
+        <U type="Object" schema="TunableTutorialSlideTuple">
+          <T name="image">00B2D882-00000000-584F02E1CF8FDF73</T>
+          <T name="image_console">00000000-00000000-0000000000000000</T>
+          <T name="image_console_jp">00000000-00000000-0000000000000000</T>
+          <T name="platform_filter">0</T>
+          <T name="text">0x262BD1ED</T>
+        </U>
+        <U type="Object" schema="TunableTutorialSlideTuple">
+          <T name="image">00B2D882-00000000-584F02E1CF8FDF74</T>
+          <T name="image_console">00000000-00000000-0000000000000000</T>
+          <T name="image_console_jp">00000000-00000000-0000000000000000</T>
+          <T name="platform_filter">0</T>
+          <T name="text">0xC60B86C3</T>
+        </U>
+        <U type="Object" schema="TunableTutorialSlideTuple">
+          <T name="image">00B2D882-00000000-584F02E1CF8FDF75</T>
+          <T name="image_console">00B2D882-00000000-A79F71480064EEA8</T>
+          <T name="image_console_jp">00000000-00000000-0000000000000000</T>
+          <T name="platform_filter">0</T>
+          <T name="text">0xE8F598A1</T>
+        </U>
+      </L>
+      <L name="tags">
+        <T type="Int64">2894</T>
+      </L>
+      <T name="ui_sort_order">0</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="Tutorial" schema_hash="0x6EA3D75D">
+      <Columns>
+        <Column name="category" type="TableSetReference" flags="0x00000000" />
+        <Column name="name" type="LocalizationKey" flags="0x00000000" />
+        <Column name="slides" type="Vector" flags="0x00000000" />
+        <Column name="tags" type="Vector" flags="0x00000000" />
+        <Column name="ui_sort_order" type="Int32" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableTutorialSlideTuple" schema_hash="0x33C0549A">
+      <Columns>
+        <Column name="image" type="ResourceKey" flags="0x00000000" />
+        <Column name="image_console" type="ResourceKey" flags="0x00000000" />
+        <Column name="image_console_jp" type="ResourceKey" flags="0x00000000" />
+        <Column name="platform_filter" type="Int64" flags="0x00000000" />
+        <Column name="text" type="LocalizationKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

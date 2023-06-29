@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RoleState" i="role_state" m="role.role_state" n="roleState_MagicVenueNPC_Novice_UseWand" s="222856">
+  <L n="_buffs">
+    <U>
+      <T n="buff_type">101052<!--Buff_Role_Appropriateness_NoCallToMeal--></T>
+    </U>
+    <U>
+      <T n="buff_type">219035<!--buff_WitchOccult_LockNPCStats--></T>
+    </U>
+    <U>
+      <T n="buff_type">123148<!--buff_AutonomyMod_SocialLess--></T>
+    </U>
+    <U>
+      <T n="buff_type">213039<!--buff_MagicVenueNPC_Novice--></T>
+    </U>
+    <U>
+      <T n="buff_type">222845<!--buff_WitchOccult_UseWand_NPC--></T>
+    </U>
+  </L>
+  <U n="_off_lot_autonomy_buff">
+    <T n="buff_type">130248<!--buff_OffLotAutonomyMod_Default--></T>
+  </U>
+  <V n="_on_activate" t="parameterized_autonomy_ping">
+    <U n="parameterized_autonomy_ping">
+      <V n="off_lot_rule" t="enabled">
+        <V n="enabled" t="on_lot_only" />
+      </V>
+      <L n="static_commodities">
+        <T>218699<!--staticCommodity_MagicVenueNPC_Start--></T>
+      </L>
+    </U>
+  </V>
+</I>

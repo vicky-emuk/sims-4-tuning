@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="laundry_WashingMachine_VFX_Duration_States" s="179420">
+  <L n="_values">
+    <T>179421<!--laundry_WashingMachine_Values_VFX_Duration_1--></T>
+    <T>179417<!--laundry_WashingMachine_Values_VFX_Duration_2--></T>
+    <T>179418<!--laundry_WashingMachine_Values_VFX_Duration_3--></T>
+    <T>179419<!--laundry_WashingMachine_Values_VFX_Duration_4--></T>
+    <T>179423<!--laundry_WashingMachine_Values_VFX_Duration_None--></T>
+    <T>179544<!--laundry_WashingMachine_Values_VFX_Duration_1_Quiet--></T>
+    <T>179545<!--laundry_WashingMachine_Values_VFX_Duration_2_Quiet--></T>
+    <T>179546<!--laundry_WashingMachine_Values_VFX_Duration_3_Quiet--></T>
+    <T>179547<!--laundry_WashingMachine_Values_VFX_Duration_4_Quiet--></T>
+  </L>
+</I>

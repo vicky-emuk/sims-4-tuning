@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="GiantCrops_Plant_Prune" s="259978">
+  <L n="_values">
+    <T>259975<!--state_GiantCrops_Plant_Prune_CanPrune--></T>
+    <T>259976<!--state_GiantCrops_Plant_Prune_OnCooldown--></T>
+  </L>
+  <T n="linked_stat">259977<!--commodity_GiantCrops_Plant_PruneCooldown--></T>
+</I>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RoleState" i="role_state" m="role.role_state" n="roleState_Batuu_Mission_FS2_BatuuCitizen_Suspicious" s="245440">
+  <L n="_buffs">
+    <U>
+      <T n="buff_type">142027<!--buff_Role_Appropriateness_NoPhone--></T>
+    </U>
+    <U>
+      <T n="buff_type">101052<!--Buff_Role_Appropriateness_NoCallToMeal--></T>
+    </U>
+    <U>
+      <T n="buff_type">240036<!--buff_AutonomyMod_SocialNone--></T>
+    </U>
+    <U>
+      <T n="buff_type">74343<!--buff_PreventRunning--></T>
+    </U>
+    <U>
+      <T n="buff_type">27833<!--buff_Suppress_Visible_Motives--></T>
+    </U>
+    <U>
+      <T n="buff_type">241612<!--buff_Batuu_NPC_Walkby_Citizen_Suspicious--></T>
+    </U>
+  </L>
+  <U n="_off_lot_autonomy_buff">
+    <T n="buff_type">40411<!--buff_offLotAutonomyMod_All--></T>
+  </U>
+  <E n="_role_priority">HIGH</E>
+  <L n="preroll_affordances">
+    <T>246051<!--controlPanel_Scan_NPC_GetNearPanel--></T>
+    <T>247907<!--controlPanel_Slice_NPC_GetNearPanel--></T>
+    <T>237786<!--autonomousSimPicker_PlaySabacc--></T>
+    <T>233352<!--waypoint_Batuu_Wander_AroundNeighborhood--></T>
+    <T>241611<!--batuu_Mission_SuperInteraction_Check_Surroundings_Suspicious--></T>
+  </L>
+</I>

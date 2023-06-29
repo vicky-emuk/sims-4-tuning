@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="Spotlight_VFXColor_States" s="200106">
+  <L n="_values">
+    <T>200098<!--Spotlight_VFXColor_Blue--></T>
+    <T>200103<!--spotlight_VFXColor_Green--></T>
+    <T>200105<!--spotlight_VFXColor_Orange--></T>
+    <T>200099<!--spotlight_VFXColor_Pink--></T>
+    <T>200101<!--spotlight_VFXColor_Red--></T>
+    <T>200100<!--spotlight_VFXColor_Violet--></T>
+    <T>200102<!--spotlight_VFXColor_White--></T>
+    <T>200104<!--spotlight_VFXColor_Yellow--></T>
+    <T>200141<!--spotlight_VFXColor_Off--></T>
+  </L>
+</I>

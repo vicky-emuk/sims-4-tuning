@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x0000001B">
+  <Instances>
+    <I name="tutorial_GetFamous_Celebrity_Lot_Trait_VIP_Rope_Door" schema="Tutorial" type="Object">
+      <T name="category">202234</T>
+      <T name="name">0x552CFBFA</T>
+      <L name="slides">
+        <U type="Object" schema="TunableTutorialSlideTuple">
+          <T name="image">00B2D882-00000000-99F521AC134D2BBA</T>
+          <T name="image_console">00000000-00000000-0000000000000000</T>
+          <T name="image_console_jp">00000000-00000000-0000000000000000</T>
+          <T name="platform_filter">0</T>
+          <T name="text">0x422951FE</T>
+        </U>
+        <U type="Object" schema="TunableTutorialSlideTuple">
+          <T name="image">00B2D882-00000000-99F521AC134D2BB9</T>
+          <T name="image_console">00000000-00000000-0000000000000000</T>
+          <T name="image_console_jp">00000000-00000000-0000000000000000</T>
+          <T name="platform_filter">0</T>
+          <T name="text">0xB563C7A5</T>
+        </U>
+        <U type="Object" schema="TunableTutorialSlideTuple">
+          <T name="image">00B2D882-00000000-99F521AC134D2BB8</T>
+          <T name="image_console">00000000-00000000-0000000000000000</T>
+          <T name="image_console_jp">00000000-00000000-0000000000000000</T>
+          <T name="platform_filter">0</T>
+          <T name="text">0xA4FFBD63</T>
+        </U>
+        <U type="Object" schema="TunableTutorialSlideTuple">
+          <T name="image">00B2D882-00000000-99F521AC134D2BBF</T>
+          <T name="image_console">00000000-00000000-0000000000000000</T>
+          <T name="image_console_jp">00000000-00000000-0000000000000000</T>
+          <T name="platform_filter">0</T>
+          <T name="text">0xC89B8F57</T>
+        </U>
+      </L>
+      <L name="tags">
+        <T type="Int64">2886</T>
+      </L>
+      <T name="ui_sort_order">25</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="Tutorial" schema_hash="0x6EA3D75D">
+      <Columns>
+        <Column name="category" type="TableSetReference" flags="0x00000000" />
+        <Column name="name" type="LocalizationKey" flags="0x00000000" />
+        <Column name="slides" type="Vector" flags="0x00000000" />
+        <Column name="tags" type="Vector" flags="0x00000000" />
+        <Column name="ui_sort_order" type="Int32" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableTutorialSlideTuple" schema_hash="0x33C0549A">
+      <Columns>
+        <Column name="image" type="ResourceKey" flags="0x00000000" />
+        <Column name="image_console" type="ResourceKey" flags="0x00000000" />
+        <Column name="image_console_jp" type="ResourceKey" flags="0x00000000" />
+        <Column name="platform_filter" type="Int64" flags="0x00000000" />
+        <Column name="text" type="LocalizationKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

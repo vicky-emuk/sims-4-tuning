@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalObjectInteraction" i="situation_goal" m="situations.situation_goal_object_interaction" n="goal_Sleepover_Dance" s="319584">
+  <V n="_display_data" t="enabled">
+    <U n="enabled">
+      <V n="instance_display_icon" t="enabled">
+        <T n="enabled" p="InGame\UI\Icons\Events\EventGoal_Stereo.png">2f7d0004:00000000:dd7c81a8385c2d35</T>
+      </V>
+      <V n="instance_display_name" t="enabled">
+        <T n="enabled">0x6730C912<!--Dance to Music--></T>
+      </V>
+      <V n="instance_display_tooltip" t="enabled">
+        <T n="enabled">0x1D1FB0EA<!--Turn on a stereo and dance!--></T>
+      </V>
+    </U>
+  </V>
+  <U n="_goal_test">
+    <L n="affordances">
+      <T>14315<!--stereo_Dance--></T>
+      <T>76323<!--stereo_Dance_WallSpeaker--></T>
+      <T>122399<!--DJBooth_Dance--></T>
+      <T>128572<!--DJBooth_stereo_Dance--></T>
+      <T>181327<!--stereo_EarBuds_Dance_LocalCultureSkill--></T>
+      <T>175415<!--stereo_Dance_LocalCultureSkill--></T>
+      <T>230693<!--stereo_Dance_DJRex--></T>
+      <T>149578<!--portableKeyboard_Dance--></T>
+      <T>195501<!--stereo_Dance_musicProductionStation--></T>
+      <T>167775<!--stereo_EarBuds_Dance--></T>
+      <T>227905<!--stereo_Dance_Bot--></T>
+      <T>225282<!--stereo_EncourageToDance--></T>
+      <T>123173<!--danceFloor_Dance--></T>
+      <T>278976<!--simPickerInteraction_PairedDancing_StereoDanceTogether--></T>
+    </L>
+    <E n="test_event">InteractionComplete</E>
+  </U>
+  <T n="_iterations">3</T>
+  <T n="audio_sting_on_complete" p="InGame\Audio\Bumper\bumper_event_goal_complete.propx">39b2aa4a:00000000:ed52c39bcc2a7111</T>
+</I>

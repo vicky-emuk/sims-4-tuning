@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000009">
+  <Instances>
+    <I name="subroot_EspressoBar_Serve" schema="Subroot" type="Object">
+      <L name="bone_names">
+        <T type="String">_ctnm_serve_1_</T>
+        <T type="String">_ctnm_serve_2_</T>
+        <T type="String">_ctnm_serve_3_</T>
+        <T type="String">_ctnm_serve_4_</T>
+        <T type="String">_ctnm_serve_5_</T>
+        <T type="String">_ctnm_serve_6_</T>
+        <T type="String">_ctnm_serve_7_</T>
+      </L>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="Subroot" schema_hash="0xDDA88FD4">
+      <Columns>
+        <Column name="bone_names" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

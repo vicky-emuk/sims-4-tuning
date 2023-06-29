@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="DanceTogetherSituation" i="situation" m="situations.complex.dance_together" n="situation_CheerMat_Group_01" s="284634">
+  <U n="_buff">
+    <T n="buff_type">300895<!--buff_CheerMat_InGroupCheer--></T>
+  </U>
+  <V n="_ensemble" t="enabled">
+    <U n="enabled">
+      <T n="ensemble_type">127285<!--ensemble_Generic--></T>
+    </U>
+  </V>
+  <T n="audio_sting_on_start" p="InGame\Audio\Bumper\bumper_event_start.propx">39b2aa4a:00000000:78b903461d47e4fc</T>
+  <L n="compatible_venues">
+    <T>28614<!--venue_residential--></T>
+  </L>
+  <T n="constraint_affordance">284627<!--cheerMat_Group_JigPartConstraintInteraction--></T>
+  <E n="creation_ui_option">NOT_AVAILABLE</E>
+  <T n="dance_affordance">284639<!--cheerMat_Group_Sequence_01--></T>
+  <T n="dance_leader_job">284637<!--situationJob_CheerMat_Group_Leader--></T>
+  <T n="dance_member_job">284636<!--situationJob_CheerMat_Group_Follower--></T>
+  <U n="dance_state">
+    <U n="interaction_of_interest">
+      <L n="affordances">
+        <T>284639<!--cheerMat_Group_Sequence_01--></T>
+      </L>
+    </U>
+  </U>
+  <E n="exclusivity">NEUTRAL</E>
+  <L n="jig_map">
+    <U>
+      <T n="number_of_sim">2</T>
+      <T n="jig_to_use">300763<!--scenarioGoal_Compound_Onboarding_NewInTown_Phase4_4a_OtherMandatoryGoalsCompleted--></T>
+    </U>
+    <U>
+      <T n="number_of_sim">3</T>
+      <T n="jig_to_use">300764<!--scenarioGoal_Compound_Onboarding_NewInTown_Phase4_4b_AnswerPhone--></T>
+    </U>
+    <U>
+      <T n="number_of_sim">4</T>
+      <T n="jig_to_use">300765<!--loot_Scenario_Goals_Onboarding_NewInTown_Buffs_Phase4_ChoseDate--></T>
+    </U>
+    <U>
+      <T n="number_of_sim">5</T>
+      <T n="jig_to_use">300766<!--loot_Scenario_Goals_Onboarding_NewInTown_Buffs_Phase4_ChoseHangout--></T>
+    </U>
+    <U>
+      <T n="number_of_sim">6</T>
+      <T n="jig_to_use">300767<!--buff_Scenario_Onboarding_NewInTown_Phase4_ChoseDate--></T>
+    </U>
+    <U>
+      <T n="number_of_sim">7</T>
+      <T n="jig_to_use">300768<!--buff_Scenario_Onboarding_NewInTown_Phase4_ChoseHangout--></T>
+    </U>
+  </L>
+  <T n="main_goal_audio_sting" p="InGame\Audio\Bumper\bumper_event_major_complete.propx">39b2aa4a:00000000:10b476550150a33f</T>
+  <T n="max_participants">20</T>
+  <U n="pre_situation_state">
+    <U n="situation_state">
+      <L n="job_and_role_changes">
+        <U>
+          <T n="Situation Job">284636<!--situationJob_CheerMat_Group_Follower--></T>
+          <T n="Role State">284738<!--roleState_CheerMat_Group_Follower_PreDance--></T>
+        </U>
+        <U>
+          <T n="Situation Job">284637<!--situationJob_CheerMat_Group_Leader--></T>
+          <T n="Role State">284740<!--roleState_CheerMat_Group_Leader_PreDance--></T>
+        </U>
+      </L>
+    </U>
+    <T n="time_out">30</T>
+  </U>
+  <V n="situation_end_time_string" t="show_end_time">
+    <T n="show_end_time">0xA3E17143<!--Work day ends at {0.TimeShort}--></T>
+  </V>
+  <L n="tags">
+    <E>Situation_GroupCheer</E>
+  </L>
+  <V n="travel_request_behavior" t="allow" />
+</I>

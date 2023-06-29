@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="mural_RollUp_Paint_Illusion_Bird" s="151701">
+  <L n="_values">
+    <T>151700<!--mural_RollUp_OptBirds_LinestoFinal_4--></T>
+    <T>151696<!--mural_RollUp_OptBirds_LinestoFinal_0--></T>
+    <T>151697<!--mural_RollUp_OptBirds_LinestoFinal_1--></T>
+    <T>151698<!--mural_RollUp_OptBirds_LinestoFinal_2--></T>
+    <T>151699<!--mural_RollUp_OptBirds_LinestoFinal_3--></T>
+    <T>151694<!--Mural_RollUp_OptBirds_BaseToLines_4--></T>
+    <T>151690<!--Mural_RollUp_OptBirds_BaseToLines_0--></T>
+    <T>151691<!--Mural_RollUp_OptBirds_BaseToLines_1--></T>
+    <T>151692<!--Mural_RollUp_OptBirds_BaseToLines_2--></T>
+    <T>151693<!--Mural_RollUp_OptBirds_BaseToLines_3--></T>
+    <T>151688<!--mural_RollUp_OptBirds_AToBase_4--></T>
+    <T>151684<!--mural_RollUp_OptBirds_AToBase_0--></T>
+    <T>151685<!--mural_RollUp_OptBirds_AToBase_1--></T>
+    <T>151686<!--mural_RollUp_OptBirds_AToBase_2--></T>
+    <T>151687<!--mural_RollUp_OptBirds_AToBase_3--></T>
+    <T>151682<!--mural_RollUp_OptBirds_NotStarted--></T>
+    <T>151680<!--mural_RollUp_OptBirds_Complete--></T>
+    <T>151681<!--mural_RollUp_OptBirds_Defaced--></T>
+  </L>
+  <T n="linked_stat">151702<!--commodity_Mural_IllusionBirds--></T>
+  <T n="persists_across_gallery">True</T>
+</I>

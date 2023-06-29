@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="InfectedPlant_Maturity" s="202346">
+  <L n="_values">
+    <T>202348<!--InfectedPlant_Mature--></T>
+    <T>202349<!--InfectedPlant_NotMature--></T>
+    <T>202456<!--InfectedPlant_Bloomed--></T>
+  </L>
+</I>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000036">
+  <Instances>
+    <I name="infantMilestones_GrossMotor_Crawl" schema="DevelopmentalMilestone" type="Object">
+      <L name="ages">
+        <T type="Int64">128</T>
+      </L>
+      <T name="category">1</T>
+      <T name="icon">00B2D882-00000000-9CBD2B5A99920C18</T>
+      <V name="is_primary_milestone" variant="0xB602B441" schema="DevelopmentalMilestoneIsPrimaryMilestone">
+        <T name="hint_text">0x0F608FF5</T>
+        <V name="revealable_name" variant="0xF8CBBF4C">
+          <T type="LocalizationKey">0xDA1BD1BB</T>
+        </V>
+        <L name="tests">
+          <L type="Vector">
+            <V type="Variant" variant="0xC5224F94" schema="TunableDevelopmentalMilestoneTest">
+              <V name="current_zone" variant="0xC1A03855" />
+              <T name="developmental_milestone">286480</T>
+              <T name="developmental_milestone_state">1</T>
+              <T name="fallback_result">0</T>
+              <T name="invert">0</T>
+              <V name="relationship_bits" variant="0xC1A03855" />
+              <T name="subject">1</T>
+              <T name="support_low_lod">1</T>
+            </V>
+          </L>
+        </L>
+      </V>
+      <T name="name">0xBE96CBE3</T>
+      <T name="ui_sort_order">60</T>
+      <T name="unlocked_text">0x32386969</T>
+      <T name="unlocked_text_no_context">0x32386969</T>
+      <T name="unlocked_text_target_sim_header">0x00000000</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="DevelopmentalMilestone" schema_hash="0x87ED1F96">
+      <Columns>
+        <Column name="ages" type="Vector" flags="0x00000000" />
+        <Column name="category" type="UInt32" flags="0x00000000" />
+        <Column name="icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="is_primary_milestone" type="Variant" flags="0x00000000" />
+        <Column name="name" type="LocalizationKey" flags="0x00000000" />
+        <Column name="ui_sort_order" type="Int32" flags="0x00000000" />
+        <Column name="unlocked_text" type="LocalizationKey" flags="0x00000000" />
+        <Column name="unlocked_text_no_context" type="LocalizationKey" flags="0x00000000" />
+        <Column name="unlocked_text_target_sim_header" type="LocalizationKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="DevelopmentalMilestoneIsPrimaryMilestone" schema_hash="0x14C33DFE">
+      <Columns>
+        <Column name="hint_text" type="LocalizationKey" flags="0x00000000" />
+        <Column name="revealable_name" type="Variant" flags="0x00000000" />
+        <Column name="tests" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableDevelopmentalMilestoneTest" schema_hash="0xF9AF5FBB">
+      <Columns>
+        <Column name="current_zone" type="Variant" flags="0x00000000" />
+        <Column name="developmental_milestone" type="TableSetReference" flags="0x00000000" />
+        <Column name="developmental_milestone_state" type="Int64" flags="0x00000000" />
+        <Column name="fallback_result" type="Int64" flags="0x00000000" />
+        <Column name="invert" type="Boolean" flags="0x00000000" />
+        <Column name="relationship_bits" type="Variant" flags="0x00000000" />
+        <Column name="subject" type="Int64" flags="0x00000000" />
+        <Column name="support_low_lod" type="Boolean" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

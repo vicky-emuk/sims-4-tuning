@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Objective" i="objective" m="event_testing.objective_tuning" n="objectives_CareerAssignments_SideHustle_Streamer_Livestream" s="274335">
+  <L n="completion_loot">
+    <T>284503<!--loot_Trait_Overachiever_MaxedCareer--></T>
+  </L>
+  <T n="display_text">0xEF59B76F<!--Do a Livestream--></T>
+  <V n="objective_completion_type" t="use_test_result" />
+  <V n="objective_test" t="ran_interaction_test">
+    <U n="ran_interaction_test">
+      <L n="affordances">
+        <T>276373<!--computer_Livestream_StreamerSideHustle_FreezerBunnyRush--></T>
+        <T>33436<!--computer_Livestream_Blicblock--></T>
+        <T>33431<!--computer_Livestream_Hillock--></T>
+        <T>33432<!--computer_Livestream_IncredibleSports--></T>
+        <T>33433<!--computer_Livestream_MariaSisters--></T>
+        <T>33434<!--computer_Livestream_REFUGE--></T>
+        <T>33435<!--computer_Livestream_RoadRival--></T>
+        <T>33429<!--computer_Livestream_SimsForeverRenamed--></T>
+        <T>226200<!--computer_Livestream_SimScuffle_E-Sports--></T>
+        <T>136803<!--computer_StreamLetsPlay_Blicblock--></T>
+        <T>136804<!--computer_StreamLetsPlay_Hillock--></T>
+        <T>136805<!--computer_StreamLetsPlay_IncredibleSports--></T>
+        <T>136806<!--computer_StreamLetsPlay_MariaSisters--></T>
+        <T>136808<!--computer_StreamLetsPlay_REFUGE--></T>
+        <T>136809<!--computer_StreamLetsPlay_RoadRival--></T>
+        <T>136807<!--computer_StreamLetsPlay_SimsForever--></T>
+        <T>287911<!--computer_Livestream_StreamerSideHustle_SimsInfinite_Teen--></T>
+        <T>287909<!--computer_Livestream_StreamerSideHustle_FreezerBunnyRush_Teen--></T>
+        <T>287908<!--computer_Livestream_StreamerSideHustle_DualDungeon_Teen--></T>
+        <T>276375<!--computer_Livestream_StreamerSideHustle_DualDungeon--></T>
+        <T>276376<!--computer_Livestream_StreamerSideHustle_SimsInfinite--></T>
+      </L>
+    </U>
+  </V>
+  <T n="relative_to_unlock_moment">True</T>
+  <T n="resettable">True</T>
+  <T n="tooltip">0x4D7C85F0<!--Perform Livestream on a Computer.--></T>
+</I>

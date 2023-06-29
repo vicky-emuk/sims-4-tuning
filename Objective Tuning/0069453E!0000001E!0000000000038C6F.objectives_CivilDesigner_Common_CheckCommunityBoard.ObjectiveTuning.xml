@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Objective" i="objective" m="event_testing.objective_tuning" n="objectives_CivilDesigner_Common_CheckCommunityBoard" s="232559">
+  <T n="display_text">0x15EAD0E8<!--Check Community Board--></T>
+  <V n="objective_completion_type" t="use_test_result" />
+  <V n="objective_test" t="ran_interaction_test">
+    <U n="ran_interaction_test">
+      <L n="affordances">
+        <T>234744<!--si_CommunityBoard_ApplyRepealSignature--></T>
+        <T>233432<!--si_CommunityBoard_GoToRepeal_Continuation--></T>
+        <T>223930<!--si_CommunityBoard_View--></T>
+        <T>226466<!--si_CommunityBoard_GoToVote_StreetPolicies--></T>
+        <T>231472<!--si_CommunityBoard_GoToVote_VenuePolicies--></T>
+        <T>242396<!--immediate_CheckPolicies_Street--></T>
+        <T>242398<!--immediate_CheckPolicies_Venue--></T>
+        <T>223929<!--si_CommunityBoard_Vote--></T>
+        <T>233284<!--career_CivilDesigner_RallyVoters_Continuation--></T>
+      </L>
+    </U>
+  </V>
+  <T n="relative_to_unlock_moment">True</T>
+  <T n="resettable">True</T>
+  <T n="tooltip">0xFE3BB7A5<!--Do any action on a Community Board on a Community Lot.--></T>
+</I>

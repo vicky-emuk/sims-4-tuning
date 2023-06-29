@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ClubInteractionGroup" i="club_interaction_group" m="clubs.club_tuning" n="clubInteractionGroup_ObjectBased_DrinkEspresso" s="127694">
+  <L n="affordances">
+    <T>13347<!--drink_Coffee_Generic_Consume--></T>
+    <T>130016<!--drink_Coffee_Seated_Consume--></T>
+    <T>130369<!--drink_Coffee_Stand_Consume--></T>
+    <T>13165<!--coffeeMaker_Grab--></T>
+    <T>77662<!--coffeeMaker_StartCrafting_Pot--></T>
+    <T>123942<!--espressoBar_PushOrderDrinkToGo_Autonomous--></T>
+    <T>122621<!--espressoBar_PushOrderDrink_Autonomous--></T>
+    <T>122606<!--espressoMachine_PushOrderDrink--></T>
+    <T>123944<!--espressoMachine_PushOrderDrink_ToGo--></T>
+    <T>122230<!--espressoMachine_makeDrink_StartCrafting--></T>
+    <T>123943<!--espressoMachine_MakeDrinkToGo_StartCrafting--></T>
+    <T>26324<!--coffeeTea_StartGroupCrafting_Autonomously--></T>
+    <T>130609<!--espressoMachine_MakeDrink_Autonomous--></T>
+  </L>
+  <E n="category">FOOD_AND_DRINK</E>
+  <T n="category_icon" p="InGame\UI\Icons\Clubs\Rules\clubs_rules_MakeEspresso.png">2f7d0004:00000000:7fc6f0f9ab714165</T>
+  <T n="club_bucks_reward">2</T>
+  <T n="is_targeted">False</T>
+  <T n="name">0x32433864<!--Drink Coffee--></T>
+  <T n="tooltip_template">0xB6124A00<!--Drink Coffee--></T>
+  <T n="tooltip_template_negative">0x5F801856<!--Don't Drink Coffee--></T>
+</I>

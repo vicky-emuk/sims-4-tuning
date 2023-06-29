@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x0000003E">
+  <Instances>
+    <I name="situationActivity_Wedding_Custom_State_Vows" schema="SituationActivity" type="Object">
+      <V name="_display_data" variant="0x3BB04258" schema="OptionalDisplayMixinTunable">
+        <V name="instance_display_description" variant="0x60BA1D0C">
+          <T type="LocalizationKey">0xDF44E947</T>
+        </V>
+        <V name="instance_display_icon" variant="0x190202A5">
+          <T type="ResourceKey">00B2D882-00000000-1B3311F3D2DEB581</T>
+        </V>
+        <V name="instance_display_name" variant="0x87E76EC3">
+          <T type="LocalizationKey">0x06A81E92</T>
+        </V>
+        <V name="instance_display_secondary_icon" variant="0xC1A03855" />
+        <V name="instance_display_tooltip" variant="0x5C574C73">
+          <T type="LocalizationKey">0xA2BE5BDF</T>
+        </V>
+      </V>
+      <T name="selectable">1</T>
+      <T name="tradition_type">1</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="SituationActivity" schema_hash="0xD605F90B">
+      <Columns>
+        <Column name="_display_data" type="Variant" flags="0x00000000" />
+        <Column name="selectable" type="Boolean" flags="0x00000000" />
+        <Column name="tradition_type" type="UInt32" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="OptionalDisplayMixinTunable" schema_hash="0x2A90C3F5">
+      <Columns>
+        <Column name="instance_display_description" type="Variant" flags="0x00000000" />
+        <Column name="instance_display_icon" type="Variant" flags="0x00000000" />
+        <Column name="instance_display_name" type="Variant" flags="0x00000000" />
+        <Column name="instance_display_secondary_icon" type="Variant" flags="0x00000000" />
+        <Column name="instance_display_tooltip" type="Variant" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

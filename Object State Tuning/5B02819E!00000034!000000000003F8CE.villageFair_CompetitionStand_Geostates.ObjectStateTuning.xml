@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="villageFair_CompetitionStand_Geostates" s="260302">
+  <L n="_values">
+    <T>260269<!--villageFair_CompetitionStand_Geostate_Values_Chicken--></T>
+    <T>260265<!--villageFair_CompetitionStand_Geostate_Values_Default--></T>
+    <T>260266<!--villageFair_CompetitionStand_Geostate_Values_Egg--></T>
+    <T>260272<!--villageFair_CompetitionStand_Geostate_Values_GiantCrop--></T>
+    <T>260267<!--villageFair_CompetitionStand_Geostate_Values_Milk--></T>
+    <T>260270<!--villageFair_CompetitionStand_Geostate_Values_NormalCrop--></T>
+    <T>260271<!--villageFair_CompetitionStand_Geostate_Values_Pie--></T>
+    <T>260268<!--villageFair_CompetitionStand_Geostate_Values_Wool--></T>
+  </L>
+</I>

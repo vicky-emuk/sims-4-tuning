@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="weatherAware" s="232711">
+  <L n="_values">
+    <T>232425<!--weatherAware_Rain_Heavy--></T>
+    <T>232424<!--weatherAware_Rain_Light--></T>
+    <T>232427<!--weatherAware_Rain_None--></T>
+    <T>232426<!--weatherAware_Rain_Storm--></T>
+  </L>
+</I>

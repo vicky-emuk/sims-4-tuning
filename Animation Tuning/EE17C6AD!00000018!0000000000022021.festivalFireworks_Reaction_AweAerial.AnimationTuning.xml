@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AnimationElement" i="animation" m="animation.animation_element" n="festivalFireworks_Reaction_AweAerial" s="139297">
+  <T n="asm_key" p="InEP03\Sage\React_Festival_Fireworks_Aeriel.interactionasm">02d5df13:00000000:aa4f0d6e653d3b17</T>
+  <L n="begin_states">
+    <T>AweAeriel</T>
+  </L>
+</I>

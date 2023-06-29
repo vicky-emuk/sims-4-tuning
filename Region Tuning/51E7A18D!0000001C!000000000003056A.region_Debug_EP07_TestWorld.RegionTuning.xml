@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Region" i="region" m="world.region" n="region_Debug_EP07_TestWorld" s="197994">
+  <L n="compatible_venues">
+    <T>105157<!--venue_retail--></T>
+    <T>107453<!--venue_ForestPark--></T>
+    <T>118135<!--venue_RelaxationCenter--></T>
+    <T>122247<!--venue_cafe--></T>
+    <T>123794<!--venue_pool--></T>
+    <T>130713<!--venue_Restaurant--></T>
+    <T>137844<!--venue_karaoke--></T>
+    <T>138380<!--venue_MyshunoMeadows--></T>
+    <T>144206<!--venue_artscenter--></T>
+    <T>158847<!--venue_Vet--></T>
+    <T>218857<!--venue_University_StudentCommons_Arts--></T>
+    <T>208182<!--venue_rentable_universityHousing--></T>
+    <T>218858<!--venue_University_StudentCommons_Science--></T>
+    <T>223944<!--venue_CommunityLot--></T>
+    <T>223946<!--subVenue_Garden--></T>
+    <T>223945<!--subVenue_Market--></T>
+    <T>229251<!--venue_residential_tinyhome--></T>
+    <T>231465<!--subVenue_MakerSpace--></T>
+    <T>247473<!--venue_Onsen--></T>
+    <T>252380<!--venue_residential_HauntedHouse--></T>
+    <T>273016<!--venue_wedding--></T>
+    <T>278997<!--venue_ThriftStore--></T>
+    <T>278305<!--venue_HighSchool--></T>
+    <T>314133<!--venue_RecCenter--></T>
+    <T>98817<!--venue_VisitorsAllowed--></T>
+    <T>25847<!--venue_park--></T>
+    <T>16876<!--venue_museum--></T>
+    <T>16875<!--venue_lounge--></T>
+    <T>16874<!--venue_library--></T>
+    <T>16873<!--venue_gym--></T>
+    <T>9279<!--venue_generic--></T>
+    <T>16870<!--venue_club--></T>
+    <T>16869<!--venue_bar--></T>
+    <T>28614<!--venue_residential--></T>
+    <T>103675<!--venue_rentable_cabin--></T>
+    <T>173833<!--venue_Rentable_Jungle--></T>
+    <T>239458<!--venue_rentable_vacation_generic--></T>
+    <T>205126<!--venue_beach--></T>
+  </L>
+  <U n="outfit_category_restrictions">
+    <U n="allowed_outfits">
+      <V n="blacklist" t="specify">
+        <U n="specify">
+          <L n="blacklist">
+            <E>BATUU</E>
+          </L>
+        </U>
+      </V>
+    </U>
+  </U>
+  <L n="region_buffs">
+    <T>251292<!--buff_Region_generic--></T>
+  </L>
+  <L n="snow_behavior">
+    <U>
+      <E n="key">WINTER</E>
+      <E n="value">ACCUMULATE</E>
+    </U>
+  </L>
+  <L n="tags">
+    <E>Region_Residential</E>
+    <E>Region_Retail</E>
+  </L>
+  <T n="travel_group_build_disabled_tooltip">0x90D4AD08<!--This lot is not editable while on vacation, but you can get additional supplies by using the Order Supplies interaction from the Phone, Computer, or Mailbox.--></T>
+</I>

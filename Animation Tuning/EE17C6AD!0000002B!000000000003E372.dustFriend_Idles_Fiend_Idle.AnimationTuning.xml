@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectAnimationElement" i="animation" m="animation.object_animation" n="dustFriend_Idles_Fiend_Idle" s="254834">
+  <T n="actor_name">dustCritter</T>
+  <T n="asm_key" p="InSP22\Sage\DustBunny_Fiend_Actions.interactionasm">02d5df13:00000000:187faa3cffadd78c</T>
+  <L n="begin_states">
+    <T>Idles</T>
+  </L>
+  <T n="repeat">False</T>
+</I>

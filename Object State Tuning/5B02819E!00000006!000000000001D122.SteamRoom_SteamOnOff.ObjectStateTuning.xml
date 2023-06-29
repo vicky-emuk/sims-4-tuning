@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="SteamRoom_SteamOnOff" s="119074">
+  <L n="_values">
+    <T>118937<!--SteamRoom_SteamOnOff_Off--></T>
+    <T>118934<!--SteamRoom_SteamOnOff_OnDirty--></T>
+    <T>118936<!--SteamRoom_SteamOnOff_OnFireleaf--></T>
+    <T>118933<!--SteamRoom_SteamOnOff_OnStandard--></T>
+    <T>118935<!--SteamRoom_SteamOnOff_OnSulfur--></T>
+  </L>
+</I>

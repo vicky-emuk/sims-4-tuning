@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000036">
+  <Instances>
+    <I name="preferenceItem_Communication_Flirtation" schema="ConversationPreferenceItem" type="Object">
+      <T name="cas_preference_category">307794</T>
+      <T name="dislike">306487</T>
+      <T name="like">306463</T>
+      <V name="tooltip" variant="0xF8CBBF4C">
+        <T type="LocalizationKey">0x1680FE6E</T>
+      </V>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="ConversationPreferenceItem" schema_hash="0xA17241ED">
+      <Columns>
+        <Column name="cas_preference_category" type="TableSetReference" flags="0x00000000" />
+        <Column name="dislike" type="TableSetReference" flags="0x00000000" />
+        <Column name="like" type="TableSetReference" flags="0x00000000" />
+        <Column name="tooltip" type="Variant" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

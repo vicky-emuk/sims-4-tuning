@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000027">
+  <Instances>
+    <I name="venue_residential_HauntedHouse" schema="Venue" type="Object">
+      <T name="allowed_for_clubs">1</T>
+      <L name="category_tags" />
+      <T name="display_name">0x702D0A8A</T>
+      <T name="display_name_incomplete">0x7D351BAD</T>
+      <T name="display_name_with_tier">0x00000000</T>
+      <L name="display_venue_features">
+        <U type="Object" schema="TunableDisplayVenueFeature">
+          <T name="venue_feature_description">0x75630033</T>
+          <T name="venue_feature_icon">00B2D882-00000000-02134D87336638CC</T>
+          <T name="venue_feature_name">0x8793B962</T>
+        </U>
+        <U type="Object" schema="TunableDisplayVenueFeature">
+          <T name="venue_feature_description">0xB9BF287F</T>
+          <T name="venue_feature_icon">00B2D882-00000000-06A1A254FD130120</T>
+          <T name="venue_feature_name">0x9C15BAA6</T>
+        </U>
+        <U type="Object" schema="TunableDisplayVenueFeature">
+          <T name="venue_feature_description">0x2671ECB2</T>
+          <T name="venue_feature_icon">00B2D882-00000000-4C2A016327062560</T>
+          <T name="venue_feature_name">0xF959194D</T>
+        </U>
+        <U type="Object" schema="TunableDisplayVenueFeature">
+          <T name="venue_feature_description">0xD8330062</T>
+          <T name="venue_feature_icon">00B2D882-00000000-2BCC23F2A962465C</T>
+          <T name="venue_feature_name">0x843B3ADD</T>
+        </U>
+        <U type="Object" schema="TunableDisplayVenueFeature">
+          <T name="venue_feature_description">0x7189F7E0</T>
+          <T name="venue_feature_icon">00B2D882-00000000-B3AC3199A0216085</T>
+          <T name="venue_feature_name">0xE3D7EE2F</T>
+        </U>
+        <U type="Object" schema="TunableDisplayVenueFeature">
+          <T name="venue_feature_description">0xB3FB5F34</T>
+          <T name="venue_feature_icon">00B2D882-00000000-C7DE5953D5CDE2DD</T>
+          <T name="venue_feature_name">0x0A8F909B</T>
+        </U>
+        <U type="Object" schema="TunableDisplayVenueFeature">
+          <T name="venue_feature_description">0x2FD9FB5B</T>
+          <T name="venue_feature_icon">00B2D882-00000000-455B4F37E6AA7EC0</T>
+          <T name="venue_feature_name">0xA50A4B3A</T>
+        </U>
+        <U type="Object" schema="TunableDisplayVenueFeature">
+          <T name="venue_feature_description">0x75CC5395</T>
+          <T name="venue_feature_icon">00B2D882-00000000-252B7D8D1692F2F8</T>
+          <T name="venue_feature_name">0x0D3B81B0</T>
+        </U>
+        <U type="Object" schema="TunableDisplayVenueFeature">
+          <T name="venue_feature_description">0xDABF615B</T>
+          <T name="venue_feature_icon">00B2D882-00000000-0291F74C16B44817</T>
+          <T name="venue_feature_name">0x09D19D3A</T>
+        </U>
+      </L>
+      <T name="exclude_owned_objects_in_lot_value_calculation">0</T>
+      <L name="forbidden_objects" />
+      <T name="gallery_upload_venue_type">0</T>
+      <T name="hide_from_buildbuy_ui">0</T>
+      <T name="new_venue_type_button_headline_text">0x00000000</T>
+      <L name="new_venue_type_buttons" />
+      <T name="new_venue_type_dialog_description">0x2C792855</T>
+      <T name="new_venue_type_dialog_example_item">2A8A5E22-00000002-0A3E0C3FF70905FF</T>
+      <T name="new_venue_type_dialog_image">00B2D882-00000000-29FB7080B337CE03</T>
+      <T name="new_venue_type_headline_text">0x00000000</T>
+      <L name="required_objects" />
+      <T name="tier_banner_max_fail_text">0x00000000</T>
+      <T name="tier_banner_min_fail_text">0x00000000</T>
+      <V name="variable_venues" variant="0xC1A03855" />
+      <T name="venue_description">0x3F0DC92C</T>
+      <L name="venue_flags" />
+      <T name="venue_icon">00B2D882-00000000-56A6DF3452DE42C0</T>
+      <T name="venue_thumbnail">00000000-00000000-0000000000000000</T>
+      <L name="venue_tiers" />
+      <T name="venue_type">1</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="Venue" schema_hash="0xA8B70E9E">
+      <Columns>
+        <Column name="allowed_for_clubs" type="Boolean" flags="0x00000000" />
+        <Column name="category_tags" type="Vector" flags="0x00000000" />
+        <Column name="display_name" type="LocalizationKey" flags="0x00000000" />
+        <Column name="display_name_incomplete" type="LocalizationKey" flags="0x00000000" />
+        <Column name="display_name_with_tier" type="LocalizationKey" flags="0x00000000" />
+        <Column name="display_venue_features" type="Vector" flags="0x00000000" />
+        <Column name="exclude_owned_objects_in_lot_value_calculation" type="Boolean" flags="0x00000000" />
+        <Column name="forbidden_objects" type="Vector" flags="0x00000000" />
+        <Column name="gallery_upload_venue_type" type="TableSetReference" flags="0x00000000" />
+        <Column name="hide_from_buildbuy_ui" type="Boolean" flags="0x00000000" />
+        <Column name="new_venue_type_button_headline_text" type="LocalizationKey" flags="0x00000000" />
+        <Column name="new_venue_type_buttons" type="Vector" flags="0x00000000" />
+        <Column name="new_venue_type_dialog_description" type="LocalizationKey" flags="0x00000000" />
+        <Column name="new_venue_type_dialog_example_item" type="ResourceKey" flags="0x00000000" />
+        <Column name="new_venue_type_dialog_image" type="ResourceKey" flags="0x00000000" />
+        <Column name="new_venue_type_headline_text" type="LocalizationKey" flags="0x00000000" />
+        <Column name="required_objects" type="Vector" flags="0x00000000" />
+        <Column name="tier_banner_max_fail_text" type="LocalizationKey" flags="0x00000000" />
+        <Column name="tier_banner_min_fail_text" type="LocalizationKey" flags="0x00000000" />
+        <Column name="variable_venues" type="Variant" flags="0x00000000" />
+        <Column name="venue_description" type="LocalizationKey" flags="0x00000000" />
+        <Column name="venue_flags" type="Vector" flags="0x00000000" />
+        <Column name="venue_icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="venue_thumbnail" type="ResourceKey" flags="0x00000000" />
+        <Column name="venue_tiers" type="Vector" flags="0x00000000" />
+        <Column name="venue_type" type="Int64" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableDisplayVenueFeature" schema_hash="0xA8E2950E">
+      <Columns>
+        <Column name="venue_feature_description" type="LocalizationKey" flags="0x00000000" />
+        <Column name="venue_feature_icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="venue_feature_name" type="LocalizationKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<M n="objects.components.inventory_owner_tuning" s="10549137176599340269">
+  <C n="InventoryTuning">
+    <L n="INVALID_ACCESS_STATES">
+      <T>108412<!--retailItem_ForSale_Sold--></T>
+      <T>105868<!--RetailItem_ForSale_ForSale--></T>
+    </L>
+  </C>
+</M>

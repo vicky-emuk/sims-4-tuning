@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SimReward" i="reward" m="rewards.reward" n="reward_StarWars_Reputation_Resistance_4" s="249993">
+  <T n="icon" p="InGP09\UI\Icons\Headlines\Headline_resistance.png">2f7d0004:00000000:478377467e5cb81f</T>
+  <T n="name">0x3FDB14B5<!--Resistance--></T>
+  <V n="reward_description" t="disabled" />
+  <L n="rewards">
+    <V t="specific_reward">
+      <V n="specific_reward" t="buff">
+        <U n="buff">
+          <U n="buff">
+            <T n="buff_type">325690<!--buff_AspirationComplete_Invisible--></T>
+          </U>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">241872<!--lightsaber_Train_Peace_2_1--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">241870<!--objective_Batuu_Missions_RabbitHole_RS9_Part1_Obj2--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">241871<!--lightsaber_Train_Peace_2_0--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">241849</T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">241847</T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">241848</T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">241902<!--lightsaber_Train_Protection_1_1--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">241900<!--lightsaber_Train_Power_3_5--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">241901<!--lightsaber_Train_Protection_1_0--></T>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

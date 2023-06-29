@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="mural_RollUp_Paint_Graffiti_States_Green" s="149257">
+  <L n="_values">
+    <T>149152<!--mural_RollUp_GrafGreen_LinestoFinal_4--></T>
+    <T>149148<!--mural_RollUp_GrafGreen_LinestoFinal_0--></T>
+    <T>149149<!--mural_RollUp_GrafGreen_LinestoFinal_1--></T>
+    <T>149150<!--mural_RollUp_GrafGreen_LinestoFinal_2--></T>
+    <T>149151<!--mural_RollUp_GrafGreen_LinestoFinal_3--></T>
+    <T>149146<!--Mural_RollUp_GrafGreen_BaseToLines_4--></T>
+    <T>149142<!--Mural_RollUp_GrafGreen_BaseToLines_0--></T>
+    <T>149143<!--Mural_RollUp_GrafGreen_BaseToLines_1--></T>
+    <T>149144<!--Mural_RollUp_GrafGreen_BaseToLines_2--></T>
+    <T>149145<!--Mural_RollUp_GrafGreen_BaseToLines_3--></T>
+    <T>149140<!--mural_RollUp_GrafGreen_AToBase_4--></T>
+    <T>149136<!--mural_RollUp_GrafGreen_AToBase_0--></T>
+    <T>149137<!--mural_RollUp_GrafGreen_AToBase_1--></T>
+    <T>149138<!--mural_RollUp_GrafGreen_AToBase_2--></T>
+    <T>149139<!--mural_RollUp_GrafGreen_AToBase_3--></T>
+    <T>149134<!--mural_RollUp_GrafGreen_NotStarted--></T>
+    <T>149132<!--mural_RollUp_GrafGreen_Complete--></T>
+    <T>149133<!--mural_RollUp_GrafGreen_Defaced--></T>
+  </L>
+  <T n="linked_stat">149270<!--commodity_RollUp_Graf_Green--></T>
+  <T n="persists_across_gallery">True</T>
+</I>

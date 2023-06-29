@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RoleState" i="role_state" m="role.role_state" n="roleState_BasicTrait_EcoPersonality_eco_master_flavor" s="241183">
+  <L n="_buffs" />
+  <U n="_off_lot_autonomy_buff">
+    <T n="buff_type" o="true" />
+  </U>
+  <V n="_on_activate" t="push_affordance">
+    <U n="push_affordance">
+      <T n="affordance">238512<!--civicPolicy_NPCPush_FlavorChooser--></T>
+    </U>
+  </V>
+</I>

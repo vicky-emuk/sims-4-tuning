@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RoleState" i="role_state" m="role.role_state" n="role_WolfTown_Hangout_WerewolfPackA_Active" s="289027">
+  <T n="_allow_npc_routing_on_active_lot">False</T>
+  <L n="_buffs">
+    <U>
+      <T n="buff_type">101052<!--Buff_Role_Appropriateness_NoCallToMeal--></T>
+    </U>
+    <U>
+      <T n="buff_type">240036<!--buff_AutonomyMod_SocialNone--></T>
+    </U>
+    <U>
+      <T n="buff_type">290562<!--buff_WolfTown_Role_WerewolfPack_Hangout_ShellA--></T>
+    </U>
+    <U>
+      <T n="buff_type">290581<!--buff_WolfTown_Role_WerewolfPack_Hangout_Active--></T>
+    </U>
+    <U>
+      <T n="buff_type">299591<!--buff_WolfTown_Role_WerewolfPack_Hangout_Garden--></T>
+    </U>
+  </L>
+  <U n="_off_lot_autonomy_buff">
+    <T n="buff_type">38293<!--buff_offLotAutonomyMod_OffLotOnly--></T>
+  </U>
+  <L n="role_affordances">
+    <T>285943<!--wolfTown_NPC_CreateBookToRead--></T>
+    <T>290572<!--autonomousSimPicker_WerewolfPack_SparA--></T>
+  </L>
+</I>

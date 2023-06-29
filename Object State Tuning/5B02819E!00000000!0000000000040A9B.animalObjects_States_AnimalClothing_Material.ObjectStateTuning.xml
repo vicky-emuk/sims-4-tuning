@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="animalObjects_States_AnimalClothing_Material" s="264859">
+  <L n="_values">
+    <T>264939<!--animalObjects_StateValues_AnimalClothing_NoClothing_Clean--></T>
+    <T>264940<!--animalObjects_StateValues_AnimalClothing_NoClothing_Dirty--></T>
+    <T>264876<!--animalObjects_StateValues_AnimalClothing_Chicken_Clean_Gent--></T>
+    <T>264878<!--animalObjects_StateValues_AnimalClothing_Chicken_Clean_Dots1--></T>
+    <T>264879<!--animalObjects_StateValues_AnimalClothing_Chicken_Clean_Dots2--></T>
+    <T>264881<!--animalObjects_StateValues_AnimalClothing_Chicken_Clean_Scarf1--></T>
+    <T>264882<!--animalObjects_StateValues_AnimalClothing_Chicken_Clean_Scarf2--></T>
+    <T>264883<!--animalObjects_StateValues_AnimalClothing_Chicken_Clean_Scarf3--></T>
+    <T>264885<!--animalObjects_StateValues_AnimalClothing_Chicken_Clean_Sweater1--></T>
+    <T>264886<!--animalObjects_StateValues_AnimalClothing_Chicken_Clean_Sweater2--></T>
+    <T>264887<!--animalObjects_StateValues_AnimalClothing_Chicken_Clean_Sweater3--></T>
+    <T>264889<!--animalObjects_StateValues_AnimalClothing_Chicken_Clean_Top1--></T>
+    <T>264890<!--animalObjects_StateValues_AnimalClothing_Chicken_Clean_Top2--></T>
+    <T>264892<!--animalObjects_StateValues_AnimalClothing_Chicken_Clean_Tophat1--></T>
+    <T>264893<!--animalObjects_StateValues_AnimalClothing_Chicken_Clean_Tophat2--></T>
+    <T>264894<!--animalObjects_StateValues_AnimalClothing_Chicken_Clean_Tophat3--></T>
+    <T>264916<!--animalObjects_StateValues_AnimalClothing_Cow_Clean_Cap--></T>
+    <T>264917<!--animalObjects_StateValues_AnimalClothing_Cow_Clean_Cottagecore--></T>
+    <T>264918<!--animalObjects_StateValues_AnimalClothing_Cow_Clean_Cowbell--></T>
+    <T>264919<!--animalObjects_StateValues_AnimalClothing_Cow_Clean_Professor--></T>
+    <T>264920<!--animalObjects_StateValues_AnimalClothing_Cow_Clean_Sweater--></T>
+    <T>264934<!--animalObjects_StateValues_AnimalClothing_Llama_Clean_Aviator--></T>
+    <T>264935<!--animalObjects_StateValues_AnimalClothing_Llama_Clean_Cottagecore--></T>
+    <T>264936<!--animalObjects_StateValues_AnimalClothing_Llama_Clean_Llamacorn--></T>
+    <T>264937<!--animalObjects_StateValues_AnimalClothing_Llama_Clean_Neckwarmer--></T>
+    <T>264938<!--animalObjects_StateValues_AnimalClothing_Llama_Clean_Tarp--></T>
+    <T>264896<!--animalObjects_StateValues_AnimalClothing_Chicken_Dirty_Gent--></T>
+    <T>264898<!--animalObjects_StateValues_AnimalClothing_Chicken_Dirty_Dots1--></T>
+    <T>264899<!--animalObjects_StateValues_AnimalClothing_Chicken_Dirty_Dots2--></T>
+    <T>264901<!--animalObjects_StateValues_AnimalClothing_Chicken_Dirty_Scarf1--></T>
+    <T>264902<!--animalObjects_StateValues_AnimalClothing_Chicken_Dirty_Scarf2--></T>
+    <T>264903<!--animalObjects_StateValues_AnimalClothing_Chicken_Dirty_Scarf3--></T>
+    <T>264905<!--animalObjects_StateValues_AnimalClothing_Chicken_Dirty_Sweater1--></T>
+    <T>264906<!--animalObjects_StateValues_AnimalClothing_Chicken_Dirty_Sweater2--></T>
+    <T>264907<!--animalObjects_StateValues_AnimalClothing_Chicken_Dirty_Sweater3--></T>
+    <T>264909<!--animalObjects_StateValues_AnimalClothing_Chicken_Dirty_Top1--></T>
+    <T>264910<!--animalObjects_StateValues_AnimalClothing_Chicken_Dirty_Top2--></T>
+    <T>264912<!--animalObjects_StateValues_AnimalClothing_Chicken_Dirty_Tophat1--></T>
+    <T>264913<!--animalObjects_StateValues_AnimalClothing_Chicken_Dirty_Tophat2--></T>
+    <T>264914<!--animalObjects_StateValues_AnimalClothing_Chicken_Dirty_Tophat3--></T>
+    <T>264922<!--animalObjects_StateValues_AnimalClothing_Cow_Dirty_Cap--></T>
+    <T>264923<!--animalObjects_StateValues_AnimalClothing_Cow_Dirty_Cottagecore--></T>
+    <T>264924<!--animalObjects_StateValues_AnimalClothing_Cow_Dirty_Cowbell--></T>
+    <T>264925<!--animalObjects_StateValues_AnimalClothing_Cow_Dirty_Professor--></T>
+    <T>264926<!--animalObjects_StateValues_AnimalClothing_Cow_Dirty_Sweater--></T>
+    <T>264928<!--animalObjects_StateValues_AnimalClothing_Llama_Dirty_Aviator--></T>
+    <T>264929<!--animalObjects_StateValues_AnimalClothing_Llama_Dirty_Cottagecore--></T>
+    <T>264930<!--animalObjects_StateValues_AnimalClothing_Llama_Dirty_Llamacorn--></T>
+    <T>264931<!--animalObjects_StateValues_AnimalClothing_Llama_Dirty_Neckwarmer--></T>
+    <T>264932<!--animalObjects_StateValues_AnimalClothing_Llama_Dirty_Tarp--></T>
+    <T>268586<!--animalObjects_StateValues_AnimalClothing_Chicken_Clean_FezHat--></T>
+    <T>268587<!--animalObjects_StateValues_AnimalClothing_Chicken_Dirty_FezHat--></T>
+  </L>
+</I>

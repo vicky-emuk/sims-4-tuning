@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectPart" i="object_part" m="objects.part" n="part_SlippySlide_Entrace" s="140312">
+  <T n="subroot">16738<!--subroot_SimInteractionCounter--></T>
+  <U n="supported_affordance_data">
+    <V n="compatibility" t="literal">
+      <U n="literal">
+        <V n="default_inclusion" t="exclude_all">
+          <U n="exclude_all">
+            <L n="include_affordances">
+              <T>140329<!--object_SlippySlide_Slide--></T>
+              <T>140330<!--object_SlippySlide_TrickSlide--></T>
+              <T>13983<!--sim-stand--></T>
+              <T>142591<!--si_WaitInLine_SlippySlide--></T>
+              <T>143395<!--object_slippySlide_TrickSlide_Child--></T>
+            </L>
+          </U>
+        </V>
+      </U>
+    </V>
+  </U>
+</I>

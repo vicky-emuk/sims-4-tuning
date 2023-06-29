@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="mural_RollUp_Paint_City_States_Lines" s="149244">
+  <L n="_values">
+    <T>149198<!--mural_RollUp_CityLines_Complete--></T>
+    <T>149199<!--mural_RollUp_CityLines_Defaced--></T>
+    <T>149200<!--mural_RollUp_CityLines_NotStarted--></T>
+    <T>149202<!--mural_RollUp_CityLines_AToBase_0--></T>
+    <T>149203<!--mural_RollUp_CityLines_AToBase_1--></T>
+    <T>149204<!--mural_RollUp_CityLines_AToBase_2--></T>
+    <T>149205<!--mural_RollUp_CityLines_AToBase_3--></T>
+    <T>149206<!--mural_RollUp_CityLines_AToBase_4--></T>
+    <T>149208<!--Mural_RollUp_CityLines_BaseToLines_0--></T>
+    <T>149209<!--Mural_RollUp_CityLines_BaseToLines_1--></T>
+    <T>149210<!--Mural_RollUp_CityLines_BaseToLines_2--></T>
+    <T>149211<!--Mural_RollUp_CityLines_BaseToLines_3--></T>
+    <T>149212<!--Mural_RollUp_CityLines_BaseToLines_4--></T>
+    <T>149214<!--mural_RollUp_CityLines_LinestoFinal_0--></T>
+    <T>149215<!--mural_RollUp_CityLines_LinestoFinal_1--></T>
+    <T>149216<!--mural_RollUp_CityLines_LinestoFinal_2--></T>
+    <T>149217<!--mural_RollUp_CityLines_LinestoFinal_3--></T>
+    <T>149218<!--mural_RollUp_CityLines_LinestoFinal_4--></T>
+  </L>
+  <T n="linked_stat">149266<!--commodity_RollUp_City_Lines--></T>
+  <T n="persists_across_gallery">True</T>
+</I>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<M n="ensemble.ensemble" s="2974108642411063960">
+  <C n="Ensemble">
+    <L n="ENSEMBLE_PRIORITIES">
+      <T>127285<!--ensemble_Generic--></T>
+      <T>148200<!--ensemble_DogOwner--></T>
+      <T>196335<!--ensemble_Squad--></T>
+      <T>127288<!--ensemble_Club--></T>
+      <T>168478<!--ensemble_VetPatientGroup--></T>
+      <T>215160<!--ensemble_Familiar--></T>
+      <T>209351<!--ensemble_CollegeOrganization--></T>
+      <T>252756<!--ensemble_Excursion--></T>
+      <T>275306<!--ensemble_CustomParty--></T>
+    </L>
+  </C>
+</M>

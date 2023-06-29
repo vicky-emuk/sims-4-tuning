@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RoleState" i="role_state" m="role.role_state" n="role_Venue_Beach_BeachComber" s="207772">
+  <L n="_buffs">
+    <U>
+      <T n="buff_type">101052<!--Buff_Role_Appropriateness_NoCallToMeal--></T>
+    </U>
+    <U>
+      <T n="buff_type">207806<!--buff_AutonomyMod_Venue_Beach_BeachComber--></T>
+    </U>
+    <U>
+      <T n="buff_type">123148<!--buff_AutonomyMod_SocialLess--></T>
+    </U>
+  </L>
+  <U n="_off_lot_autonomy_buff">
+    <T n="buff_type">38292<!--buff_offLotAutonomyMod_OnLotOnly--></T>
+  </U>
+  <L n="role_affordances">
+    <T>209657<!--attractorPointInteraction_Beach--></T>
+  </L>
+</I>

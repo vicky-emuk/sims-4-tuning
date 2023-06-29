@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalSet" i="situation_goal_set" m="situations.situation_goal_set" n="situationGoalSet_HarvestFestTest" s="182284">
+  <L n="chained_goal_sets">
+    <T>182216<!--situationGoalSet_WinterFestTest--></T>
+  </L>
+  <L n="goals">
+    <U>
+      <T n="goal">181881<!--HolidayTraditionGoal_WatchSportsTV--></T>
+    </U>
+    <U>
+      <T n="goal">181862<!--HolidayTraditionGoal_Gardening--></T>
+    </U>
+    <U>
+      <T n="goal">181855<!--HolidayTraditionGoal_EatGrandMeal--></T>
+    </U>
+    <U>
+      <T n="goal">181898<!--HolidayTraditionGoal_HaveDecorations--></T>
+    </U>
+    <U>
+      <T n="goal">181863<!--HolidayTraditionGoal_GiveGiftToGnomes--></T>
+    </U>
+    <U>
+      <T n="goal">181873<!--HolidayTraditionGoal_TalkToGhosts--></T>
+    </U>
+    <U>
+      <T n="goal">181875<!--HolidayTraditionGoal_GiveMeanGifts--></T>
+    </U>
+    <U>
+      <T n="goal">181877<!--HolidayTraditionGoal_GiveFunnyGifts--></T>
+    </U>
+  </L>
+</I>

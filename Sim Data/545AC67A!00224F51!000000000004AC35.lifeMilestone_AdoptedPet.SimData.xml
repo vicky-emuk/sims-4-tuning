@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000019">
+  <Instances>
+    <I name="lifeMilestone_AdoptedPet" schema="DevelopmentalMilestone" type="Object">
+      <L name="ages">
+        <T type="Int64">128</T>
+        <T type="Int64">4</T>
+        <T type="Int64">2</T>
+        <T type="Int64">8</T>
+        <T type="Int64">16</T>
+        <T type="Int64">32</T>
+        <T type="Int64">64</T>
+      </L>
+      <T name="category">5</T>
+      <T name="icon">00B2D882-00000000-04BB971462695C48</T>
+      <V name="is_primary_milestone" variant="0xB602B441" schema="DevelopmentalMilestoneIsPrimaryMilestone">
+        <T name="hint_text">0x4BF6A1D5</T>
+        <V name="revealable_name" variant="0xF8CBBF4C">
+          <T type="LocalizationKey">0x0592A59B</T>
+        </V>
+        <L name="tests">
+          <L type="Vector">
+            <T type="Int64">16</T>
+            <T type="Int64">32</T>
+            <T type="Int64">64</T>
+          </L>
+          <L type="Vector">
+            <V type="Variant" variant="0x077724AD" schema="TunableSimInfoTest">
+              <V name="ages" variant="0x1D76E931">
+                <L type="Vector">
+                  <T type="Int64">16</T>
+                  <T type="Int64">32</T>
+                  <T type="Int64">64</T>
+                </L>
+              </V>
+              <V name="can_age_up" variant="0xACE6F0CE" />
+              <V name="gender" variant="0xACE6F0CE" />
+              <V name="has_been_played" variant="0xC1A03855" />
+              <V name="is_active_sim" variant="0xC1A03855" />
+              <T name="match_type">0</T>
+              <V name="npc" variant="0xC1A03855" />
+              <V name="species" variant="0xACE6F0CE" />
+              <T name="who">1</T>
+            </V>
+            <V type="Variant" variant="0x23444110" schema="TunableHouseholdSizeTest">
+              <T name="participant">1</T>
+              <V name="test_type" variant="0xAF289042" schema="TunableTuple">
+                <U name="count" schema="TunableThreshold">
+                  <T name="comparison">6</T>
+                  <T name="value">8</T>
+                </U>
+              </V>
+            </V>
+            <V type="Variant" variant="0xCB5FDDC7" schema="TunableTraitTest">
+              <T name="apply_thresholds_on_individual_basis">1</T>
+              <L name="blacklist_trait_types" />
+              <L name="blacklist_traits" />
+              <T name="num_blacklist_allowed">0</T>
+              <T name="num_whitelist_required">1</T>
+              <T name="subject">1</T>
+              <L name="whitelist_trait_types" />
+              <L name="whitelist_traits">
+                <T type="TableSetReference">157978</T>
+                <T type="TableSetReference">257365</T>
+                <T type="TableSetReference">157979</T>
+              </L>
+            </V>
+            <V type="Variant" variant="0x33B08231" schema="TunableDevelopmentalMilestoneCompletionTest">
+              <U name="developmental_milestones" schema="TunableWhiteBlackList">
+                <V name="blacklist" variant="0xB9AFD0F6" schema="TunableBlacklist">
+                  <L name="blacklist">
+                    <T type="TableSetReference">306229</T>
+                  </L>
+                  <V name="threshold" variant="0x20B0733E" schema="TunableThreshold">
+                    <T name="comparison">2</T>
+                    <T name="value">1</T>
+                  </V>
+                </V>
+                <V name="whitelist" variant="0x39FD5036" />
+              </U>
+              <T name="fallback_result">0</T>
+              <T name="invert">0</T>
+              <T name="subject">1</T>
+            </V>
+          </L>
+        </L>
+      </V>
+      <T name="name">0xFB4F4485</T>
+      <T name="ui_sort_order">4</T>
+      <T name="unlocked_text">0x70384A8B</T>
+      <T name="unlocked_text_no_context">0xACD0348F</T>
+      <T name="unlocked_text_target_sim_header">0x00000000</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="DevelopmentalMilestone" schema_hash="0x87ED1F96">
+      <Columns>
+        <Column name="ages" type="Vector" flags="0x00000000" />
+        <Column name="category" type="UInt32" flags="0x00000000" />
+        <Column name="icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="is_primary_milestone" type="Variant" flags="0x00000000" />
+        <Column name="name" type="LocalizationKey" flags="0x00000000" />
+        <Column name="ui_sort_order" type="Int32" flags="0x00000000" />
+        <Column name="unlocked_text" type="LocalizationKey" flags="0x00000000" />
+        <Column name="unlocked_text_no_context" type="LocalizationKey" flags="0x00000000" />
+        <Column name="unlocked_text_target_sim_header" type="LocalizationKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="DevelopmentalMilestoneIsPrimaryMilestone" schema_hash="0x14C33DFE">
+      <Columns>
+        <Column name="hint_text" type="LocalizationKey" flags="0x00000000" />
+        <Column name="revealable_name" type="Variant" flags="0x00000000" />
+        <Column name="tests" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableSimInfoTest" schema_hash="0x1FAA196B">
+      <Columns>
+        <Column name="ages" type="Variant" flags="0x00000000" />
+        <Column name="can_age_up" type="Variant" flags="0x00000000" />
+        <Column name="gender" type="Variant" flags="0x00000000" />
+        <Column name="has_been_played" type="Variant" flags="0x00000000" />
+        <Column name="is_active_sim" type="Variant" flags="0x00000000" />
+        <Column name="match_type" type="Int64" flags="0x00000000" />
+        <Column name="npc" type="Variant" flags="0x00000000" />
+        <Column name="species" type="Variant" flags="0x00000000" />
+        <Column name="who" type="Int64" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableHouseholdSizeTest" schema_hash="0x24903374">
+      <Columns>
+        <Column name="participant" type="Int64" flags="0x00000000" />
+        <Column name="test_type" type="Variant" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableTuple" schema_hash="0x380DAD07">
+      <Columns>
+        <Column name="count" type="Object" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableThreshold" schema_hash="0x2A672DFF">
+      <Columns>
+        <Column name="comparison" type="Int64" flags="0x00000000" />
+        <Column name="value" type="Int32" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableTraitTest" schema_hash="0x7D5993BF">
+      <Columns>
+        <Column name="apply_thresholds_on_individual_basis" type="Boolean" flags="0x00000000" />
+        <Column name="blacklist_trait_types" type="Vector" flags="0x00000000" />
+        <Column name="blacklist_traits" type="Vector" flags="0x00000000" />
+        <Column name="num_blacklist_allowed" type="Int32" flags="0x00000000" />
+        <Column name="num_whitelist_required" type="Int32" flags="0x00000000" />
+        <Column name="subject" type="Int64" flags="0x00000000" />
+        <Column name="whitelist_trait_types" type="Vector" flags="0x00000000" />
+        <Column name="whitelist_traits" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableDevelopmentalMilestoneCompletionTest" schema_hash="0x54AC8206">
+      <Columns>
+        <Column name="developmental_milestones" type="Object" flags="0x00000000" />
+        <Column name="fallback_result" type="Int64" flags="0x00000000" />
+        <Column name="invert" type="Boolean" flags="0x00000000" />
+        <Column name="subject" type="Int64" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableWhiteBlackList" schema_hash="0x5B1537E6">
+      <Columns>
+        <Column name="blacklist" type="Variant" flags="0x00000000" />
+        <Column name="whitelist" type="Variant" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableBlacklist" schema_hash="0x9EE34961">
+      <Columns>
+        <Column name="blacklist" type="Vector" flags="0x00000000" />
+        <Column name="threshold" type="Variant" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableSelectedAspirationTrackTest" schema_hash="0x26B9527C">
+      <Columns>
+        <Column name="aspiration_track" type="TableSetReference" flags="0x00000000" />
+        <Column name="who" type="Int64" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

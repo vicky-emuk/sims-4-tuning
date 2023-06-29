@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RoleState" i="role_state" m="role.role_state" n="role_Career_InteriorDecorator_Reveal_Client_Explore" s="257624">
+  <L n="_buffs">
+    <U>
+      <T n="buff_type">101052<!--Buff_Role_Appropriateness_NoCallToMeal--></T>
+    </U>
+    <U>
+      <T n="buff_type">257626<!--buff_Career_InteriorDecorator_Reveal_Role_Client_Explore--></T>
+    </U>
+    <U>
+      <T n="buff_type">240036<!--buff_AutonomyMod_SocialNone--></T>
+    </U>
+  </L>
+  <U n="_off_lot_autonomy_buff">
+    <T n="buff_type">38292<!--buff_offLotAutonomyMod_OnLotOnly--></T>
+  </U>
+  <V n="_on_activate" t="parameterized_autonomy_ping">
+    <U n="parameterized_autonomy_ping">
+      <E n="priority">High</E>
+      <L n="static_commodities">
+        <T>258682<!--staticCommodity_Career_InteriorDecorator_Reveal_Explore--></T>
+      </L>
+    </U>
+  </V>
+  <L n="role_affordances">
+    <T>258872<!--immediate_Career_InteriorDecorator_Reveal_AskForFinalVerdict_Start--></T>
+    <T>259839<!--career_InteriorDecorator_Reveal_GoNearClient--></T>
+    <T>262510<!--immediate_Career_InteriorDecorator_Reveal_ClientScore_Bad_Debug--></T>
+    <T>262511<!--immediate_Career_InteriorDecorator_Reveal_ClientScore_Good_Debug--></T>
+    <T>262508<!--immediate_Career_InteriorDecorator_Reveal_ClientScore_Ok_Debug--></T>
+    <T>267210<!--immediate_Career_InteriorDecorator_Reveal_DoFinalReaction_Debug--></T>
+  </L>
+</I>

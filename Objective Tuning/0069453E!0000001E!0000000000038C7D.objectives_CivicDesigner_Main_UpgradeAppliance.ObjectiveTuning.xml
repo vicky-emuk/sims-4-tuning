@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Objective" i="objective" m="event_testing.objective_tuning" n="objectives_CivicDesigner_Main_UpgradeAppliance" s="232573">
+  <T n="display_text">0x802F801<!--Perform a Handiness or Eco Parts Upgrade on an appliance.--></T>
+  <V n="objective_completion_type" t="use_test_result" />
+  <V n="objective_test" t="ran_interaction_test">
+    <U n="ran_interaction_test">
+      <L n="affordances">
+        <T>233912<!--ecoUpgrades_EcoParts_EnergyEfficientDrive--></T>
+        <T>235690<!--ecoUpgrades_EcoParts_AtomizedMist--></T>
+        <T>233913<!--ecoUpgrades_EcoParts_FuelCell--></T>
+        <T>233914<!--ecoUpgrades_EcoParts_Siphoner--></T>
+        <T>235485<!--ecoUpgrades_EcoParts_CompostingContainer--></T>
+        <T>235486<!--ecoUpgrades_EcoParts_WaterRecycler--></T>
+        <T>240886<!--ecoUpgrades_EcoParts_Siphoner_Bath--></T>
+        <T>240884<!--ecoUpgrades_EcoParts_Siphoner_Shower--></T>
+        <T>240885<!--ecoUpgrades_EcoParts_Siphoner_Sink--></T>
+        <T>240889<!--ecoUpgrades_EcoParts_Siphoner_HotTub--></T>
+        <T>240890<!--ecoUpgrades_EcoParts_WaterRecycler_Bath--></T>
+        <T>240891<!--ecoUpgrades_EcoParts_WaterRecycler_HotTub--></T>
+        <T>240893<!--ecoUpgrades_EcoParts_WaterRecycler_Shower--></T>
+        <T>240892<!--ecoUpgrades_EcoParts_WaterRecycler_Sink--></T>
+        <T>240894<!--ecoUpgrades_Handiness_Siphoner_Bath--></T>
+        <T>240895<!--ecoUpgrades_Handiness_Siphoner_HotTub--></T>
+        <T>240899<!--ecoUpgrades_Handiness_Siphoner_Shower--></T>
+        <T>240900<!--ecoUpgrades_Handiness_Siphoner_Sink--></T>
+        <T>240901<!--ecoUpgrades_Handiness_WaterRecycler_Bath--></T>
+        <T>240902<!--ecoUpgrades_Handiness_WaterRecycler_HotTub--></T>
+        <T>240903<!--ecoUpgrades_Handiness_WaterRecycler_Shower--></T>
+        <T>240904<!--ecoUpgrades_Handiness_WaterRecycler_Sink--></T>
+        <T>240905<!--ecoUpgrades_Resume_Siphoner_Bath--></T>
+        <T>240906<!--ecoUpgrades_Resume_Siphoner_HotTub--></T>
+        <T>240907<!--ecoUpgrades_Resume_Siphoner_Shower--></T>
+        <T>240908<!--ecoUpgrades_Resume_Siphoner_Sink--></T>
+        <T>240909<!--ecoUpgrades_Resume_WaterRecycler_Bath--></T>
+        <T>240910<!--ecoUpgrades_Resume_WaterRecycler_HotTub--></T>
+        <T>240911<!--ecoUpgrades_Resume_WaterRecycler_Shower--></T>
+        <T>240912<!--ecoUpgrades_Resume_WaterRecycler_Sink--></T>
+        <T>233905<!--ecoUpgrades_Handiness_EnergyEfficientDrive--></T>
+        <T>233904<!--ecoUpgrades_Handiness_FuelCell--></T>
+        <T>233906<!--ecoUpgrades_Handiness_Siphoner--></T>
+        <T>235484<!--ecoUpgrades_Handiness_CompostingContainer--></T>
+        <T>235483<!--ecoUpgrades_Handiness_WaterRecycler--></T>
+        <T>233917<!--ecoUpgrades_Resume_EnergyEfficientDrive--></T>
+        <T>233918<!--ecoUpgrades_Resume_FuelCell--></T>
+        <T>233919<!--ecoUpgrades_Resume_Siphoner--></T>
+        <T>235693<!--ecoUpgrades_Resume_AtomizedMist--></T>
+        <T>235481<!--ecoUpgrades_Resume_CompostingContainer--></T>
+        <T>235482<!--ecoUpgrades_Resume_WaterRecycler--></T>
+      </L>
+    </U>
+  </V>
+  <T n="relative_to_unlock_moment">True</T>
+  <T n="resettable">True</T>
+  <T n="tooltip">0x3E1F5CA4<!--Perform an Eco-Upgrade on an appliance. Eco-Upgrade Parts can be made using a Fabricator.--></T>
+</I>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalSet" i="situation_goal_set" m="situations.situation_goal_set" n="goalSet_ActorCareer_Performance_Scene3_1" s="192784">
+  <L n="chained_goal_sets">
+    <T>192785<!--goalSet_ActorCareer_Performance_Scene3_2--></T>
+  </L>
+  <L n="goals">
+    <U>
+      <T n="goal">200001<!--goal_ActorCareer_SwordFight_TVLow_Pirate--></T>
+    </U>
+    <U>
+      <T n="goal">190206<!--goal_ActorCareer_Hug--></T>
+    </U>
+    <U>
+      <T n="goal">200084<!--goal_ActorCareer_DeathScene_TVHigh_Hospital--></T>
+    </U>
+    <U>
+      <T n="goal">194981<!--goal_ActorCareer_Sing_TVHigh_Western--></T>
+    </U>
+    <U>
+      <T n="goal">194995<!--goal_ActorCareer_TellStory_TVHigh_Victorian--></T>
+    </U>
+    <U>
+      <T n="goal">195006<!--goal_ActorCareer_HaveDrinkWith_TVHigh_Police--></T>
+    </U>
+    <U>
+      <T n="goal">195017<!--goal_ActorCareer_TurnWheel_Movie_Pirate--></T>
+    </U>
+    <U>
+      <T n="goal">195025<!--goal_ActorCareer_TellStory_Movie_Medieval--></T>
+    </U>
+    <U>
+      <T n="goal">195031<!--goal_ActorCareer_PlayGuitar_Movie_Western--></T>
+    </U>
+    <U>
+      <T n="goal">195038<!--goal_ActorCareer_Flirt_Movie_VIctorian--></T>
+    </U>
+    <U>
+      <T n="goal">195044<!--goal_ActorCareer_Kiss_Movie_Superhero--></T>
+    </U>
+    <U>
+      <T n="goal">195064<!--goal_ActorCareer_Hug_Movie_City--></T>
+    </U>
+  </L>
+</I>

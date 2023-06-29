@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TunableTemplateChooser" i="template_chooser" m="filters.sim_template" n="templateChooser_UniversityStudent_Tech" s="221775">
+  <L n="_templates">
+    <U>
+      <T n="template">226953<!--template_UniversityStudent_Science_ArtHistory--></T>
+      <T n="weight">4</T>
+    </U>
+    <U>
+      <T n="template">229107<!--template_UniversityStudent_Science_ArtHistory_YA--></T>
+      <T n="weight">36</T>
+    </U>
+    <U>
+      <T n="template">226954<!--template_UniversityStudent_Science_Biology--></T>
+      <T n="weight">7</T>
+    </U>
+    <U>
+      <T n="template">229109<!--template_UniversityStudent_Science_Biology_YA--></T>
+      <T n="weight">63</T>
+    </U>
+    <U>
+      <T n="template">226955<!--template_UniversityStudent_Science_Communications--></T>
+      <T n="weight">4</T>
+    </U>
+    <U>
+      <T n="template">229111<!--template_UniversityStudent_Science_Communications_YA--></T>
+      <T n="weight">36</T>
+    </U>
+    <U>
+      <T n="template">226956<!--template_UniversityStudent_Science_ComputerScience--></T>
+      <T n="weight">7</T>
+    </U>
+    <U>
+      <T n="template">229113<!--template_UniversityStudent_Science_ComputerScience_YA--></T>
+      <T n="weight">63</T>
+    </U>
+    <U>
+      <T n="template">226957<!--template_UniversityStudent_Science_CulinaryArts--></T>
+      <T n="weight">4</T>
+    </U>
+    <U>
+      <T n="template">229115<!--template_UniversityStudent_Science_CulinaryArts_YA--></T>
+      <T n="weight">36</T>
+    </U>
+    <U>
+      <T n="template">226958<!--template_UniversityStudent_Science_Drama--></T>
+      <T n="weight">4</T>
+    </U>
+    <U>
+      <T n="template">229117<!--template_UniversityStudent_Science_Drama_YA--></T>
+      <T n="weight">36</T>
+    </U>
+    <U>
+      <T n="template">226959<!--template_UniversityStudent_Science_Economics--></T>
+      <T n="weight">7</T>
+    </U>
+    <U>
+      <T n="template">229119<!--template_UniversityStudent_Science_Economics_YA--></T>
+      <T n="weight">63</T>
+    </U>
+    <U>
+      <T n="template">226960<!--template_UniversityStudent_Science_FineArts--></T>
+      <T n="weight">4</T>
+    </U>
+    <U>
+      <T n="template">229121<!--template_UniversityStudent_Science_FineArts_YA--></T>
+      <T n="weight">36</T>
+    </U>
+    <U>
+      <T n="template">226961<!--template_UniversityStudent_Science_History--></T>
+      <T n="weight">4</T>
+    </U>
+    <U>
+      <T n="template">229123<!--template_UniversityStudent_Science_History_YA--></T>
+      <T n="weight">36</T>
+    </U>
+    <U>
+      <T n="template">226962<!--template_UniversityStudent_Science_LanguageAndLiterature--></T>
+      <T n="weight">4</T>
+    </U>
+    <U>
+      <T n="template">229125<!--template_UniversityStudent_Science_LanguageAndLiterature_YA--></T>
+      <T n="weight">36</T>
+    </U>
+    <U>
+      <T n="template">226963<!--template_UniversityStudent_Science_Physics--></T>
+      <T n="weight">7</T>
+    </U>
+    <U>
+      <T n="template">229127<!--template_UniversityStudent_Science_Physics_YA--></T>
+      <T n="weight">63</T>
+    </U>
+    <U>
+      <T n="template">226964<!--template_UniversityStudent_Science_Psychology--></T>
+      <T n="weight">7</T>
+    </U>
+    <U>
+      <T n="template">229129<!--template_UniversityStudent_Science_Psychology_YA--></T>
+      <T n="weight">63</T>
+    </U>
+    <U>
+      <T n="template">226965<!--template_UniversityStudent_Science_Villainy--></T>
+      <T n="weight">7</T>
+    </U>
+    <U>
+      <T n="template">229131<!--template_UniversityStudent_Science_Villainy_YA--></T>
+      <T n="weight">63</T>
+    </U>
+  </L>
+</I>

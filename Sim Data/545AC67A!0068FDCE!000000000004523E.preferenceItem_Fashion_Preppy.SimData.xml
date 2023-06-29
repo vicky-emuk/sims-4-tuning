@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000035">
+  <Instances>
+    <I name="preferenceItem_Fashion_Preppy" schema="StylePreferenceItem" type="Object">
+      <T name="cas_preference_category">272754</T>
+      <T name="dislike">283153</T>
+      <T name="like">283167</T>
+      <V name="tooltip" variant="0xC1A03855" />
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="StylePreferenceItem" schema_hash="0x83FD2F5D">
+      <Columns>
+        <Column name="cas_preference_category" type="TableSetReference" flags="0x00000000" />
+        <Column name="dislike" type="TableSetReference" flags="0x00000000" />
+        <Column name="like" type="TableSetReference" flags="0x00000000" />
+        <Column name="tooltip" type="Variant" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

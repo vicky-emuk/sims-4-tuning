@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ZoneModifier" i="zone_modifier" m="zone_modifier.zone_modifier" n="zoneModifiers_Hidden_Batuu" s="249371">
+  <T n="hide_screen_slam">True</T>
+  <V n="prohibited_situations" t="enabled">
+    <U n="enabled">
+      <L n="situation_list">
+        <T>182317<!--holidaySituation--></T>
+        <T>181459<!--holidayVisitorSituation_HolidayTradition_FatherWinter--></T>
+        <T>186910<!--situation_autonomous_HolidayTradition_FlowerBunny--></T>
+        <T>182798<!--situation_Walkby_SurpriseHoliday_PirateDay--></T>
+        <T>182161<!--situation_HolidayTraditions_Walkbys_FestiveOutfits--></T>
+        <T>182177<!--situation_HolidayTraditions_Walkbys_FormalOutfits--></T>
+        <T>182187<!--situation_HolidayTraditions_Walkbys_Ghosts--></T>
+        <T>190698<!--situation_HolidayTraditions_Walkbys_NudeSims--></T>
+        <T>188033<!--situation_HolidayTraditions_Walkbys_TrickorTreat--></T>
+      </L>
+    </U>
+  </V>
+  <T n="zone_modifier_locked">True</T>
+</I>

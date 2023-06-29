@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SimReward" i="reward" m="rewards.reward" n="simReward_groupWalkingTrail_solo_bronze" s="311952">
+  <T n="icon" p="InGame\UI\Icons\Events\EventGoalSlam_RewardBronze.png">2f7d0004:00000000:e716c3d79cd07a95</T>
+  <T n="name">0xC7BDCA32<!--Underwhelming Walk--></T>
+  <L n="rewards">
+    <V t="specific_reward">
+      <V n="specific_reward" t="buff">
+        <U n="buff">
+          <U n="buff">
+            <V n="buff_reason" t="enabled">
+              <T n="enabled">0x2BAEEA99<!--(From Using Gilbert Gardens' Trails)--></T>
+            </V>
+            <T n="buff_type">311966<!--buff_groupWalkingTrail_soloWalk_rewards_bronze--></T>
+          </U>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationJob" i="situation_job" m="situations.situation_job" n="job_VampireVisit" s="152616">
+  <L n="commodities">
+    <V t="statistic_set_in_range">
+      <U n="statistic_set_in_range">
+        <T n="stat">16652<!--motive_Bladder--></T>
+        <V n="value_type" t="int_range">
+          <U n="int_range">
+            <U n="value_range">
+              <T n="lower_bound">75</T>
+              <T n="upper_bound">100</T>
+            </U>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="statistic_set_in_range">
+      <U n="statistic_set_in_range">
+        <T n="stat">150238<!--commodity_Motive_Visible_Vampire_Power--></T>
+        <V n="value_type" t="int_range">
+          <U n="int_range">
+            <U n="value_range">
+              <T n="lower_bound">75</T>
+              <T n="upper_bound">100</T>
+            </U>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="statistic_set_in_range">
+      <U n="statistic_set_in_range">
+        <T n="stat">16655<!--motive_Fun--></T>
+        <V n="value_type" t="int_range">
+          <U n="int_range">
+            <U n="value_range">
+              <T n="lower_bound">75</T>
+              <T n="upper_bound">100</T>
+            </U>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="statistic_set_in_range">
+      <U n="statistic_set_in_range">
+        <T n="stat">149541<!--commodity_Motive_Visible_Vampire_Thirst--></T>
+        <V n="value_type" t="int_range">
+          <U n="int_range">
+            <U n="value_range">
+              <T n="lower_bound">75</T>
+              <T n="upper_bound">100</T>
+            </U>
+          </U>
+        </V>
+      </U>
+    </V>
+    <V t="statistic_set_in_range">
+      <U n="statistic_set_in_range">
+        <T n="stat">16657<!--motive_Hygiene--></T>
+        <V n="value_type" t="int_range">
+          <U n="int_range">
+            <U n="value_range">
+              <T n="lower_bound">75</T>
+              <T n="upper_bound">100</T>
+            </U>
+          </U>
+        </V>
+      </U>
+    </V>
+  </L>
+  <T n="filter">153671<!--filter_Vampires_NightTime_Bite--></T>
+  <T n="goal_scoring">10</T>
+  <L n="location_based_filter_terms">
+    <V t="reference">
+      <T n="reference">260612<!--locationBasedFilterTerm_Village--></T>
+    </V>
+    <V t="reference">
+      <T n="reference">290171<!--LocationBasedFilterTerm_WolfTown_StayInTown--></T>
+    </V>
+    <V t="reference">
+      <T n="reference">203033<!--Keep_Strangeville_Npcs_In_Strangerville--></T>
+    </V>
+  </L>
+  <T n="participating_npcs_should_ignore_work">True</T>
+  <U n="sim_auto_invite">
+    <T n="lower_bound">1</T>
+    <T n="upper_bound">1</T>
+  </U>
+  <L n="sim_spawner_tags">
+    <E>Spawn_VisitorArrival</E>
+  </L>
+  <U n="tooltip_name_text_tokens">
+    <L n="tokens">
+      <V t="participant_type" />
+    </L>
+  </U>
+</I>

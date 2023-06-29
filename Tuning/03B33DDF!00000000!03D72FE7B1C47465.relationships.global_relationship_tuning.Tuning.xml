@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<M n="relationships.global_relationship_tuning" s="276742574272967781">
+  <C n="RelationshipGlobalTuning">
+    <T n="CAREGIVER_RELATIONSHIP_BIT">155918<!--relationshipBit_Toddler_CareGiverEffective--></T>
+    <T n="DEFAULT_PET_TO_SIM_TRACK">159228<!--LTR_SimToPet_Friendship_Main--></T>
+    <T n="DEFAULT_SHORT_TERM_CONTEXT_TRACK">24099<!--SocialContext_Friendship--></T>
+    <T n="DELAY_UNTIL_RELATIONSHIP_IS_CULLED">1440</T>
+    <T n="ENGAGEMENT_RELATIONSHIP_BIT">15816<!--romantic-Engaged--></T>
+    <T n="FEUD_TARGET">193944<!--relationshipBit_Feud_Target--></T>
+    <T n="HAS_MET_RELATIONSHIP_BIT">15803<!--has_met--></T>
+    <T n="MARRIAGE_RELATIONSHIP_BIT">15822<!--romantic-Married--></T>
+    <L n="MEANINGFUL_RELATIONSHIP_BITS">
+      <T>15794<!--friendship-bff--></T>
+      <T>31211<!--friendship-bff_BromanticPartner--></T>
+      <T>15795<!--friendship-bff_Evil--></T>
+      <T>15797<!--friendship-friend--></T>
+      <T>15798<!--friendship-friend_Evil--></T>
+      <T>15799<!--friendship-good_friends--></T>
+      <T>15800<!--friendship-good_friends_Evil--></T>
+      <T>15837<!--RomanticCombo_Lovers--></T>
+      <T>15838<!--RomanticCombo_RomanticInterest--></T>
+      <T>15839<!--RomanticCombo_Soulmates--></T>
+      <T>15840<!--RomanticCombo_Sweethearts--></T>
+      <T>15829<!--RomanticCombo_Lovebirds--></T>
+    </L>
+    <T n="NEIGHBOR_GIVEN_KEY_RELATIONSHIP_BIT">195367<!--relBit_Neighbor_hasKey--></T>
+    <T n="NEIGHBOR_RELATIONSHIP_BIT">75294<!--neighbor--></T>
+    <T n="REL_INSPECTOR_TRACK">16650<!--LTR_Friendship_Main--></T>
+    <L n="SIGNIFICANT_OTHER_RELATIONSHIP_BITS">
+      <T>15825<!--romantic-Significant_Other--></T>
+      <T>15816<!--romantic-Engaged--></T>
+    </L>
+    <T n="WORKPLACE_RIVAL_RELATIONSHIP_BIT">308614<!--relbit_WorkRival--></T>
+  </C>
+  <C n="TropeGlobalTuning">
+    <L n="RECIPROCAL_TROPES">
+      <U>
+        <T n="authority_trope">306291<!--familyTrope_compliant_authority--></T>
+        <T n="subordinate_trope">306294<!--familyTrope_compliant_subordinate--></T>
+      </U>
+      <U>
+        <T n="authority_trope">306356<!--familyTrope_loving_authority--></T>
+        <T n="subordinate_trope">306357<!--familyTrope_loving_subordinate--></T>
+      </U>
+      <U>
+        <T n="authority_trope">306289<!--familyTrope_permissive_authority--></T>
+        <T n="subordinate_trope">306296<!--familyTrope_permissive_subordinate--></T>
+      </U>
+    </L>
+    <L n="RELATIONSHIP_TYPE_TO_AVAILABLE_TROPES">
+      <U>
+        <E n="RelationshipType">CHILD_IN_LAW</E>
+        <L n="AvailableTropes">
+          <T>306293<!--familyTrope_close--></T>
+          <T>306282<!--familyTrope_distant--></T>
+        </L>
+      </U>
+      <U>
+        <E n="RelationshipType">COUSIN</E>
+        <L n="AvailableTropes">
+          <T>306293<!--familyTrope_close--></T>
+          <T>306282<!--familyTrope_distant--></T>
+          <T>306279<!--familyTrope_Jokesters--></T>
+        </L>
+      </U>
+      <U>
+        <E n="RelationshipType">DESCENDANT</E>
+        <L n="AvailableTropes">
+          <T>306293<!--familyTrope_close--></T>
+          <T>306282<!--familyTrope_distant--></T>
+          <T>306357<!--familyTrope_loving_subordinate--></T>
+          <T>306296<!--familyTrope_permissive_subordinate--></T>
+          <T>310888<!--familyTrope_difficult--></T>
+          <T>306294<!--familyTrope_compliant_subordinate--></T>
+          <T>306279<!--familyTrope_Jokesters--></T>
+        </L>
+      </U>
+      <U>
+        <E n="RelationshipType">GRANDCHILD</E>
+        <L n="AvailableTropes">
+          <T>306293<!--familyTrope_close--></T>
+          <T>306282<!--familyTrope_distant--></T>
+          <T>306357<!--familyTrope_loving_subordinate--></T>
+          <T>306296<!--familyTrope_permissive_subordinate--></T>
+          <T>310888<!--familyTrope_difficult--></T>
+          <T>306294<!--familyTrope_compliant_subordinate--></T>
+          <T>306279<!--familyTrope_Jokesters--></T>
+        </L>
+      </U>
+      <U>
+        <E n="RelationshipType">GRANDPARENT</E>
+        <L n="AvailableTropes">
+          <T>306293<!--familyTrope_close--></T>
+          <T>306282<!--familyTrope_distant--></T>
+          <T>306356<!--familyTrope_loving_authority--></T>
+          <T>306289<!--familyTrope_permissive_authority--></T>
+          <T>310888<!--familyTrope_difficult--></T>
+          <T>306291<!--familyTrope_compliant_authority--></T>
+          <T>306279<!--familyTrope_Jokesters--></T>
+        </L>
+      </U>
+      <U>
+        <E n="RelationshipType">PARENT</E>
+        <L n="AvailableTropes">
+          <T>306293<!--familyTrope_close--></T>
+          <T>306282<!--familyTrope_distant--></T>
+          <T>306356<!--familyTrope_loving_authority--></T>
+          <T>306289<!--familyTrope_permissive_authority--></T>
+          <T>310888<!--familyTrope_difficult--></T>
+          <T>306291<!--familyTrope_compliant_authority--></T>
+          <T>306279<!--familyTrope_Jokesters--></T>
+        </L>
+      </U>
+      <U>
+        <E n="RelationshipType">PARENTS_SIBLING</E>
+        <L n="AvailableTropes">
+          <T>306293<!--familyTrope_close--></T>
+          <T>306282<!--familyTrope_distant--></T>
+          <T>306356<!--familyTrope_loving_authority--></T>
+          <T>306279<!--familyTrope_Jokesters--></T>
+        </L>
+      </U>
+      <U>
+        <E n="RelationshipType">PARENT_IN_LAW</E>
+        <L n="AvailableTropes">
+          <T>306293<!--familyTrope_close--></T>
+          <T>306282<!--familyTrope_distant--></T>
+          <T>310888<!--familyTrope_difficult--></T>
+        </L>
+      </U>
+      <U>
+        <E n="RelationshipType">SIBLING</E>
+        <L n="AvailableTropes">
+          <T>306293<!--familyTrope_close--></T>
+          <T>306282<!--familyTrope_distant--></T>
+          <T>310888<!--familyTrope_difficult--></T>
+          <T>306279<!--familyTrope_Jokesters--></T>
+        </L>
+      </U>
+      <U>
+        <E n="RelationshipType">SIBLINGS_CHILD</E>
+        <L n="AvailableTropes">
+          <T>306293<!--familyTrope_close--></T>
+          <T>306282<!--familyTrope_distant--></T>
+          <T>306357<!--familyTrope_loving_subordinate--></T>
+          <T>306279<!--familyTrope_Jokesters--></T>
+        </L>
+      </U>
+      <U>
+        <E n="RelationshipType">SIBLING_IN_LAW</E>
+        <L n="AvailableTropes">
+          <T>306293<!--familyTrope_close--></T>
+          <T>306282<!--familyTrope_distant--></T>
+          <T>306279<!--familyTrope_Jokesters--></T>
+        </L>
+      </U>
+      <U>
+        <E n="RelationshipType">SPOUSE</E>
+        <L n="AvailableTropes">
+          <T>306293<!--familyTrope_close--></T>
+          <T>306282<!--familyTrope_distant--></T>
+          <T>306279<!--familyTrope_Jokesters--></T>
+          <T>310888<!--familyTrope_difficult--></T>
+        </L>
+      </U>
+      <U>
+        <E n="RelationshipType">STEP_CHILD</E>
+        <L n="AvailableTropes">
+          <T>306293<!--familyTrope_close--></T>
+          <T>306282<!--familyTrope_distant--></T>
+          <T>306357<!--familyTrope_loving_subordinate--></T>
+          <T>306296<!--familyTrope_permissive_subordinate--></T>
+          <T>310888<!--familyTrope_difficult--></T>
+          <T>306294<!--familyTrope_compliant_subordinate--></T>
+        </L>
+      </U>
+      <U>
+        <E n="RelationshipType">STEP_PARENT</E>
+        <L n="AvailableTropes">
+          <T>306293<!--familyTrope_close--></T>
+          <T>306282<!--familyTrope_distant--></T>
+          <T>306356<!--familyTrope_loving_authority--></T>
+          <T>306289<!--familyTrope_permissive_authority--></T>
+          <T>310888<!--familyTrope_difficult--></T>
+          <T>306291<!--familyTrope_compliant_authority--></T>
+        </L>
+      </U>
+      <U>
+        <E n="RelationshipType">STEP_SIBLING</E>
+        <L n="AvailableTropes">
+          <T>306293<!--familyTrope_close--></T>
+          <T>306282<!--familyTrope_distant--></T>
+          <T>306356<!--familyTrope_loving_authority--></T>
+          <T>306357<!--familyTrope_loving_subordinate--></T>
+          <T>310888<!--familyTrope_difficult--></T>
+          <T>306279<!--familyTrope_Jokesters--></T>
+        </L>
+      </U>
+    </L>
+    <L n="RELATIONSHIP_TYPE_TO_BIT">
+      <U>
+        <E n="RelationshipType">COUSIN</E>
+        <T n="RelationshipBit">8826<!--family_cousin--></T>
+      </U>
+      <U>
+        <E n="RelationshipType">DESCENDANT</E>
+        <T n="RelationshipBit">8805<!--family_son_daughter--></T>
+      </U>
+      <U>
+        <E n="RelationshipType">GRANDCHILD</E>
+        <T n="RelationshipBit">8807<!--family_grandchild--></T>
+      </U>
+      <U>
+        <E n="RelationshipType">GRANDPARENT</E>
+        <T n="RelationshipBit">8808<!--family_grandparent--></T>
+      </U>
+      <U>
+        <E n="RelationshipType">PARENT</E>
+        <T n="RelationshipBit">8809<!--family_parent--></T>
+      </U>
+      <U>
+        <E n="RelationshipType">PARENTS_SIBLING</E>
+        <T n="RelationshipBit">8829<!--family_aunt_uncle--></T>
+      </U>
+      <U>
+        <E n="RelationshipType">SIBLING</E>
+        <T n="RelationshipBit">8802<!--family_brother_sister--></T>
+      </U>
+      <U>
+        <E n="RelationshipType">SIBLINGS_CHILD</E>
+        <T n="RelationshipBit">9989<!--family_niece_nephew--></T>
+      </U>
+      <U>
+        <E n="RelationshipType">SPOUSE</E>
+        <T n="RelationshipBit">15822<!--romantic-Married--></T>
+      </U>
+      <U>
+        <E n="RelationshipType">STEP_SIBLING</E>
+        <T n="RelationshipBit">8824<!--family_stepsibling--></T>
+      </U>
+    </L>
+    <L n="TROPES">
+      <T>306293<!--familyTrope_close--></T>
+      <T>306291<!--familyTrope_compliant_authority--></T>
+      <T>306294<!--familyTrope_compliant_subordinate--></T>
+      <T>310888<!--familyTrope_difficult--></T>
+      <T>306282<!--familyTrope_distant--></T>
+      <T>306279<!--familyTrope_Jokesters--></T>
+      <T>306356<!--familyTrope_loving_authority--></T>
+      <T>306357<!--familyTrope_loving_subordinate--></T>
+      <T>306289<!--familyTrope_permissive_authority--></T>
+      <T>306296<!--familyTrope_permissive_subordinate--></T>
+    </L>
+  </C>
+</M>

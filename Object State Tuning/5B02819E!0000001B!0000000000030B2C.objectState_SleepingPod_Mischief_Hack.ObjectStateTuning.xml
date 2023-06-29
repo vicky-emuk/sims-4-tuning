@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="objectState_SleepingPod_Mischief_Hack" s="199468">
+  <L n="_values">
+    <T>199472<!--sleepingPod_StateValues_Mischief_Hacked_True--></T>
+    <T>199473<!--sleepingPod_StateValues_Mischief_Hacked_False--></T>
+  </L>
+</I>

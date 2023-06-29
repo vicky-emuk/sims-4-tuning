@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="mural_Wall_Paint_Nature_Flowers" s="146502">
+  <L n="_values">
+    <T>146746<!--mural_Wall_Flowers_Complete--></T>
+    <T>146597<!--mural_Wall_Flowers_BaseToLines_0--></T>
+    <T>146750<!--mural_Wall_Flowers_NotStarted--></T>
+    <T>146737<!--mural_Wall_Flowers_BaseToLines_1--></T>
+    <T>146738<!--mural_Wall_Flowers_BaseToLines_2--></T>
+    <T>146739<!--mural_Wall_Flowers_BaseToLines_3--></T>
+    <T>146740<!--mural_Wall_Flowers_BaseToLines_4--></T>
+    <T>146600<!--mural_Wall_Flowers_LinestoFinal_0--></T>
+    <T>146742<!--mural_Wall_Flowers_LinestoFinal_1--></T>
+    <T>146743<!--mural_Wall_Flowers_LinestoFinal_2--></T>
+    <T>146744<!--mural_Wall_Flowers_LinestoFinal_3--></T>
+    <T>146745<!--mural_Wall_Flowers_LinestoFinal_4--></T>
+    <T>146599<!--mural_Wall_Flowers_Defaced--></T>
+    <T>147751<!--mural_Wall_Flowers_AToBase_0--></T>
+    <T>147752<!--mural_Wall_Flowers_AToBase_1--></T>
+    <T>147753<!--mural_Wall_Flowers_AToBase_2--></T>
+    <T>147754<!--mural_Wall_Flowers_AToBase_3--></T>
+    <T>147755<!--mural_Wall_Flowers_AToBase_4--></T>
+  </L>
+  <T n="linked_stat">146762<!--commodity_Mural_Flowers--></T>
+  <T n="persists_across_gallery">True</T>
+</I>

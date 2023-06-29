@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SimReward" i="reward" m="rewards.reward" n="reward_Trait_ParanormalInvestigatorLicense_JustCAS" s="254661">
+  <T n="icon" p="InSP18\UI\Icons\CAS\RewardTraits\traitReward_paranormal.png">2f7d0004:00000000:886afefce03e3f32</T>
+  <T n="name">0x4AFBFD5D<!--Paranormal Investigator License--></T>
+  <V n="reward_description" t="enabled">
+    <T n="enabled">0xE0804062<!--Become a certified Paranormal Investigator, unlocking the Paranormal Investigator Freelance Career and the Summon Guidry Séance.--></T>
+  </V>
+  <V n="reward_unavailable_tooltip" t="enabled">
+    <T n="enabled">0x709B9CC<!--This Reward is not available to your Sim, or it is already owned by your Sim.--></T>
+  </V>
+  <L n="rewards">
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">262775<!--sI_AnimalObjects_Generic_SellSimoleons_LivestockPen--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">263058<!--recipe_CrossStitch_StitchFromPatterns_Hoop_Small_Nature_Unlockable_AdvancedPumpkin--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">262776<!--autonomousSimPicker_InteriorDecorator_Reveal_KickOff_FindClient--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">262777<!--career_InteriorDecorator_Reveal_KickOff_FromSelf--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">262781<!--recipe_CrossStitch_StitchFromPatterns_Kit_MediumHoop_Animals_Fox--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">263039<!--recipe_CrossStitch_StitchFromPatterns_Kit_MediumHoop_Words_Darby--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">262779</T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">263040<!--recipe_CrossStitch_StitchFromPatterns_Kit_SmallHoop_Words_Darby--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">262780<!--recipe_CrossStitch_StitchFromPatterns_Kit_MediumHoop_Animals_Chicken--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">263055</T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">263056<!--recipe_CrossStitch_StitchFromPatterns_Hoop_Large_Nature_Unlockable_AdvancedPumpkin--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">262783<!--recipe_CrossStitch_StitchFromPatterns_Kit_MediumHoop_Animals_Unlockable_Agnes--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">262784</T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">263041</T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">263057<!--recipe_CrossStitch_StitchFromPatterns_Hoop_Medium_Nature_Unlockable_AdvancedPumpkin--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">262785<!--recipe_CrossStitch_StitchFromPatterns_Kit_MediumHoop_Animals_Unlockable_Bird--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">263042</T>
+        </U>
+      </V>
+    </V>
+  </L>
+  <L n="tests">
+    <L>
+      <V t="trait">
+        <U n="trait">
+          <L n="blacklist_traits">
+            <T>252818<!--trait_Freelancer_Career_ParanormalInvestigator_License--></T>
+          </L>
+        </U>
+      </V>
+    </L>
+  </L>
+</I>

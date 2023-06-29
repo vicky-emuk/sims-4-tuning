@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="GreenScreenValues_Generic" s="191890">
+  <L n="_values">
+    <T>193006<!--GreenScreen_Values_Camping--></T>
+    <T>193004<!--GreenScreen_Values_CloudyDesert--></T>
+    <T>191888<!--GreenScreen_Values_FoggyRainGeneric--></T>
+    <T>193005<!--GreenScreen_Values_NightTimeCityRain--></T>
+    <T>193003<!--GreenScreen_Values_NightTimeGeneric--></T>
+    <T>191889<!--GreenScreen_Values_NightTimeSea--></T>
+    <T>191886<!--GreenScreen_Values_SunnyDesert--></T>
+    <T>191885<!--GreenScreen_Values_SunnyGeneric--></T>
+    <T>191884<!--GreenScreen_Values_SunnySea--></T>
+    <T>193165<!--greenScreen_Values_Small_Off--></T>
+    <T>200688<!--GreenScreen_Values_VictorianCity--></T>
+    <T>200687<!--GreenScreen_Values_NightTimeGenericRain--></T>
+  </L>
+</I>

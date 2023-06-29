@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectStateValue" i="object_state" m="objects.components.state" n="controlPanel_Set_4" s="231324">
+  <L n="super_affordances">
+    <T>248861<!--controlPanel_NotSliced_PracticeSlice--></T>
+    <T>230904<!--controlPanel_SliceA_2--></T>
+    <T>231332<!--controlPanel_SliceB_0--></T>
+    <T>231336<!--controlPanel_SliceC_1--></T>
+  </L>
+</I>

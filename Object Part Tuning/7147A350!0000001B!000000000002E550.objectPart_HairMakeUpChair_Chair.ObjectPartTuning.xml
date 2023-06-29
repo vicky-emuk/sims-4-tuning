@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectPart" i="object_part" m="objects.part" n="objectPart_HairMakeUpChair_Chair" s="189776">
+  <V n="supported_posture_types" t="literal">
+    <L n="literal">
+      <U>
+        <T n="posture_type">15537<!--posture_Stand--></T>
+      </U>
+      <U>
+        <T n="posture_type">15535<!--posture_Sit--></T>
+      </U>
+      <U>
+        <T n="posture_type">189778<!--posture_HairMakeUpChair_Hair--></T>
+      </U>
+      <U>
+        <T n="posture_type">189779<!--posture_HairMakeUpChair_MakeUp--></T>
+      </U>
+    </L>
+  </V>
+</I>

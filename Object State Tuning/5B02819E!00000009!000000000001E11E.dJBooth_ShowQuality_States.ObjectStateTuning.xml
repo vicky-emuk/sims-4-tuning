@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="dJBooth_ShowQuality_States" s="123166">
+  <L n="_values">
+    <T>123161<!--dJBooth_ShowQuality_0_Bad--></T>
+    <T>123162<!--dJBooth_ShowQuality_1_Average--></T>
+    <T>123160<!--dJBooth_ShowQuality_2_Good--></T>
+  </L>
+  <T n="linked_stat">123168<!--commodity_Object_DJBooth_ShowQuality--></T>
+</I>

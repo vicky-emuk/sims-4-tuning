@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="objectState_PathObstacle_TempleLock" s="178555">
+  <L n="_values">
+    <T>181572<!--objectStateValue_PathObstacles_Temple_Locked_4--></T>
+    <T>181571<!--objectStateValue_PathObstacles_Temple_Locked_3--></T>
+    <T>181570<!--objectStateValue_PathObstacles_Temple_Locked_2--></T>
+    <T>178556<!--objectStateValue_PathObstacles_Temple_Locked_1--></T>
+    <T>178557<!--objectStateValue_PathObstacles_Temple_Unlocked--></T>
+  </L>
+  <T n="linked_stat">178563<!--commodity_PathObstacle_TempleLock--></T>
+</I>

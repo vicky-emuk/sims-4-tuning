@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000016">
+  <Instances>
+    <I name="rankedStatisticDisplayInfo_Batuu_ResistanceRep" schema="RankedStatisticDisplayInfo" type="Object">
+      <L name="perks_panel_bucks_perk_info" />
+      <V name="perks_panel_disabled_confirm_tooltip" variant="0xC1A03855" />
+      <V name="perks_panel_revert_tooltip" variant="0xC1A03855" />
+      <V name="perks_panel_subtitle" variant="0xC1A03855" />
+      <V name="perks_panel_title" variant="0xC1A03855" />
+      <T name="ranked_statistic_reference">236631</T>
+      <V name="sim_info_panel_icons" variant="0xF8CBBF4C" schema="SimInfoPanelIconsTuple">
+        <T name="default_icon">00B2D882-00000000-7B48DF5C9B1B0E44</T>
+        <T name="over_icon">00B2D882-00000000-D4C49DD37B04DCF9</T>
+      </V>
+      <V name="sim_info_panel_icons_negative" variant="0xC1A03855" />
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="RankedStatisticDisplayInfo" schema_hash="0x7AC0D048">
+      <Columns>
+        <Column name="perks_panel_bucks_perk_info" type="Vector" flags="0x00000000" />
+        <Column name="perks_panel_disabled_confirm_tooltip" type="Variant" flags="0x00000000" />
+        <Column name="perks_panel_revert_tooltip" type="Variant" flags="0x00000000" />
+        <Column name="perks_panel_subtitle" type="Variant" flags="0x00000000" />
+        <Column name="perks_panel_title" type="Variant" flags="0x00000000" />
+        <Column name="ranked_statistic_reference" type="TableSetReference" flags="0x00000000" />
+        <Column name="sim_info_panel_icons" type="Variant" flags="0x00000000" />
+        <Column name="sim_info_panel_icons_negative" type="Variant" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="SimInfoPanelIconsTuple" schema_hash="0xD0DB0BEF">
+      <Columns>
+        <Column name="default_icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="over_icon" type="ResourceKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

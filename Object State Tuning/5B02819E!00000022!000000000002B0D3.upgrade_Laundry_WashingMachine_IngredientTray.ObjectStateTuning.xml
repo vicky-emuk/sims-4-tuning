@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="upgrade_Laundry_WashingMachine_IngredientTray" s="176339">
+  <L n="_values">
+    <T>176326<!--upgrade_Laundry_WashingMachine_IngredientTray_NotStarted--></T>
+    <T>176329<!--upgrade_Laundry_WashingMachine_IngredientTray_Partial--></T>
+    <T>176323<!--upgrade_Laundry_WashingMachine_IngredientTray_Completed--></T>
+  </L>
+  <T n="linked_stat">176336<!--statistic_Object_Upgrade_Laundry_WashingMachine_IngredientTray--></T>
+</I>

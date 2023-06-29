@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Objective" i="objective" m="event_testing.objective_tuning" n="objective_Aspiration_SuperParent_DisciplineChild" s="165035">
+  <L n="additional_tests">
+    <L>
+      <V t="relationship">
+        <U n="relationship">
+          <T n="num_relations">1</T>
+          <U n="required_relationship_bits">
+            <L n="match_any">
+              <T>8805<!--family_son_daughter--></T>
+              <T>152851<!--toddler_notParent_CareDependent--></T>
+              <T>162483<!--CT_notParent_CareDependent--></T>
+            </L>
+          </U>
+        </U>
+      </V>
+    </L>
+  </L>
+  <L n="completion_loot">
+    <T>273578<!--loot_Want_AspirationCompleted--></T>
+  </L>
+  <T n="display_text">0xB4E79179<!--Discipline Your Toddler, Child, or Teen {1.Number} Times--></T>
+  <V n="objective_completion_type" t="iterations">
+    <U n="iterations">
+      <T n="iterations_required_to_pass">5</T>
+    </U>
+  </V>
+  <V n="objective_test" t="ran_interaction_test">
+    <U n="ran_interaction_test">
+      <L n="affordances">
+        <T>163026<!--disciplineTemplate_Encourage--></T>
+        <T>162517<!--disciplineTemplate_AskNotToDo_Reject--></T>
+        <T>162832<!--disciplineTemplate_ExpressDisappointment_Reject--></T>
+        <T>163073<!--disciplineTemplate_HugItOut_Reject--></T>
+        <T>162822<!--disciplineTemplate_TellNotToDo_Reject--></T>
+        <T>163266<!--disciplineTemplateSocial_GiveTimeOut--></T>
+        <T>163267<!--disciplineTemplateSocial_Ground--></T>
+        <T>163246<!--disciplineTemplateSocial_AskNotToDo_Accept_Major--></T>
+        <T>163247<!--disciplineTemplateSocial_AskNotToDo_Accept_Minor--></T>
+        <T>163261<!--disciplineTemplateSocial_ExpressDisappointment_Accept_Major--></T>
+        <T>163262<!--disciplineTemplateSocial_ExpressDisappointment_Accept_Minor--></T>
+        <T>163265<!--disciplineTemplateSocial_HugItOut_Accept_Minor--></T>
+        <T>163264<!--disciplineTemplateSocial_HugItOut_Accept_Major--></T>
+        <T>163258<!--disciplineTemplateSocial_TellNotToDo_Accept_Major--></T>
+        <T>163259<!--disciplineTemplateSocial_TellNotToDo_Accept_Minor--></T>
+        <T>163280<!--disciplineTemplateSocial_YellAtAbout_Accept_Major--></T>
+        <T>163281<!--disciplineTemplateSocial_YellAtAbout_Accept_Minor--></T>
+        <T>163091<!--solo_Discipline_TimeOut--></T>
+      </L>
+      <E n="test_event">InteractionStart</E>
+    </U>
+  </V>
+  <T n="satisfaction_points">200</T>
+  <T n="tooltip">0x8FBE1D1E<!--When a Child has done a behavior that needs Disciplining (such as Making a Mess), Use the Discipline Social in the Parenting Category.--></T>
+</I>

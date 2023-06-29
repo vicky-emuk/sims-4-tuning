@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="ObjectStates_VFXMachine_Emitter" s="192056">
+  <L n="_values">
+    <T>192052<!--ObjectState_VFXMachine_Emitter_Bubbles--></T>
+    <T>192053<!--ObjectState_VFXMachine_Emitter_Confetti--></T>
+    <T>192055<!--ObjectState_VFXMachine_Emitter_Ash--></T>
+    <T>192049<!--ObjectState_VFXMachine_Emitter_Off--></T>
+    <T>192050<!--ObjectState_VFXMachine_Emitter_Rain--></T>
+    <T>192051<!--ObjectState_VFXMachine_Emitter_Snow--></T>
+    <T>192054<!--ObjectState_VFXMachine_Emitter_Sparkles--></T>
+    <T>198265<!--objectState_VFXMachine_Emitter_Money--></T>
+    <T>198266<!--objectState_VFXMachine_Emitter_Blossom--></T>
+    <T>198267<!--objectState_VFXMachine_Emitter_Leaves--></T>
+    <T>201560<!--objectState_VFXMachine_Emitter_Meatball--></T>
+    <T>201569<!--objectState_VFXMachine_Emitter_Hearts--></T>
+  </L>
+</I>

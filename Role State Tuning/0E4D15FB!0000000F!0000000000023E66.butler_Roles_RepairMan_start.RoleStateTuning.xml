@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RoleState" i="role_state" m="role.role_state" n="butler_Roles_RepairMan_start" s="147046">
+  <L n="_buffs">
+    <U>
+      <T n="buff_type">101052<!--Buff_Role_Appropriateness_NoCallToMeal--></T>
+    </U>
+    <U>
+      <T n="buff_type">145405<!--buff_Role_Butler_NPC--></T>
+    </U>
+    <U>
+      <T n="buff_type">39294<!--buff_Role_NoCareerTalk--></T>
+    </U>
+    <U>
+      <T n="buff_type">150075<!--buff_Role_Butler_RepairmanRole_NPC--></T>
+    </U>
+  </L>
+  <E n="_crafting_process_override">ACTIVE_HOUSEHOLD</E>
+  <U n="_off_lot_autonomy_buff">
+    <T n="buff_type">38292<!--buff_offLotAutonomyMod_OnLotOnly--></T>
+  </U>
+  <V n="_on_activate" t="parameterized_autonomy_ping">
+    <U n="parameterized_autonomy_ping">
+      <V n="full_ping_on_fail" t="enabled" />
+      <L n="static_commodities">
+        <T>101383<!--StaticCommodity_HandymanRepair--></T>
+      </L>
+    </U>
+  </V>
+  <L n="role_affordances">
+    <T>147325<!--situation_Butler_Order_Greet_AlwaysInvite--></T>
+    <T>147327<!--situation_Butler_Order_Greet_DontInvite--></T>
+    <T>147326<!--situation_Butler_Order_Greet_NeverInvite--></T>
+    <T>148650<!--situation_Butler_Cheats_Idle--></T>
+    <T>148651<!--situation_Butler_Cheats_Idle_Fidget--></T>
+    <T>148695<!--situation_Butler_Order_Repair--></T>
+    <T>150874<!--butler_Immediate_ForceQuit--></T>
+    <T>188192<!--butler_Immediate_Force_Sleep--></T>
+    <T>145825<!--butler_Immediate_Chores_StartCaringForChildren--></T>
+    <T>145821<!--butler_Immediate_Chores_StartCleaning--></T>
+    <T>145823<!--butler_Immediate_Chores_StartGardening--></T>
+    <T>145827<!--butler_Immediate_Chores_StartRepairingObjects--></T>
+    <T>145826<!--butler_Immediate_Chores_StopCaringForChildren--></T>
+    <T>145822<!--butler_Immediate_Chores_StopCleaning--></T>
+    <T>145824<!--butler_Immediate_Chores_StopGardening--></T>
+    <T>145828<!--butler_Immediate_Chores_StopRepairingObjects--></T>
+    <T>145861<!--situation_Butler_Order_CookMeal--></T>
+    <T>145862<!--situation_Butler_Order_CookFamilyMeal--></T>
+    <T>145863<!--situation_Butler_Order_CookPartyMeal--></T>
+    <T>146109<!--situation_Butler_Order_CheckOnChildren--></T>
+    <T>146107<!--situation_Butler_Order_CleanDirtyObjet--></T>
+    <T>146011<!--situation_Butler_Order_PrepareDrink--></T>
+    <T>146108<!--situation_Butler_Order_WaterPlants--></T>
+    <T>146023<!--situation_Butler_Order_Skill_BurnUpTheDanceFloor--></T>
+    <T>146021<!--situation_Butler_Order_Skill_PerformComedyRoutine--></T>
+    <T>146019<!--situation_Butler_Order_Skill_PlayGuitar--></T>
+    <T>146018<!--situation_Butler_Order_Skill_PlayPiano--></T>
+    <T>146020<!--situation_Butler_Order_Skill_PlayViolin--></T>
+    <T>146022<!--situation_Butler_Order_Skill_UseDJBooth--></T>
+    <T>145841<!--sim_FireButlerNPC--></T>
+    <T>145844<!--sim_Butler_Praise--></T>
+    <T>145843<!--sim_Butler_Reprimand--></T>
+  </L>
+  <L n="role_target_affordances">
+    <T>148816<!--sim_Butler_Quit--></T>
+  </L>
+  <L n="tags">
+    <E>Role_VIPRope_Allowed</E>
+  </L>
+</I>

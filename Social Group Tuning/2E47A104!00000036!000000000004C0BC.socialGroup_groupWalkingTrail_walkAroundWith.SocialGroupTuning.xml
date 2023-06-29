@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="FormationSocialGroup" i="social_group" m="socials.formation_group" n="socialGroup_groupWalkingTrail_walkAroundWith" s="311484">
+  <U n="facing_restriction">
+    <T n="range">360</T>
+  </U>
+  <V n="formation_tuning" t="reference">
+    <T n="reference">241525<!--routingFormationList_GroupWalk--></T>
+  </V>
+  <T n="max_radius">15</T>
+  <T n="radius_scale">2</T>
+  <U n="routing_event_delay">
+    <T n="lower_bound">10</T>
+    <T n="upper_bound">12</T>
+  </U>
+  <L n="routing_events">
+    <U>
+      <T n="actor_event">311771<!--routeEventPaired_groupWalkingTrail_emotion_actor_angry_walk--></T>
+      <U n="chance">
+        <T n="base_chance">30</T>
+      </U>
+      <T n="target_event">311799<!--routeEventPaired_groupWalkingTrail_listen_walk--></T>
+    </U>
+    <U>
+      <T n="actor_event">311768<!--routeEventPaired_groupWalkingTrail_chat--></T>
+      <U n="chance">
+        <T n="base_chance">30</T>
+      </U>
+      <T n="target_event">311799<!--routeEventPaired_groupWalkingTrail_listen_walk--></T>
+    </U>
+    <U>
+      <T n="actor_event">311783<!--routeEventPaired_groupWalkingTrail_emotion_actor_bored_walk--></T>
+      <U n="chance">
+        <T n="base_chance">30</T>
+      </U>
+      <T n="target_event">311799<!--routeEventPaired_groupWalkingTrail_listen_walk--></T>
+    </U>
+    <U>
+      <T n="actor_event">311775<!--routeEventPaired_groupWalkingTrail_emotion_actor_embarrassed_walk--></T>
+      <U n="chance">
+        <T n="base_chance">30</T>
+      </U>
+      <T n="target_event">311799<!--routeEventPaired_groupWalkingTrail_listen_walk--></T>
+    </U>
+    <U>
+      <T n="actor_event">311777<!--routeEventPaired_groupWalkingTrail_emotion_actor_flirty_walk--></T>
+      <U n="chance">
+        <T n="base_chance">30</T>
+      </U>
+      <T n="target_event">311799<!--routeEventPaired_groupWalkingTrail_listen_walk--></T>
+    </U>
+    <U>
+      <T n="actor_event">311781<!--routeEventPaired_groupWalkingTrail_emotion_actor_happy_walk--></T>
+      <U n="chance">
+        <T n="base_chance">30</T>
+      </U>
+      <T n="target_event">311799<!--routeEventPaired_groupWalkingTrail_listen_walk--></T>
+    </U>
+    <U>
+      <T n="actor_event">311772<!--routeEventPaired_groupWalkingTrail_emotion_actor_neutral_walk--></T>
+      <U n="chance">
+        <T n="base_chance">30</T>
+      </U>
+      <T n="target_event">311799<!--routeEventPaired_groupWalkingTrail_listen_walk--></T>
+    </U>
+    <U>
+      <T n="actor_event">311779<!--routeEventPaired_groupWalkingTrail_emotion_actor_sad_walk--></T>
+      <U n="chance">
+        <T n="base_chance">30</T>
+      </U>
+      <T n="target_event">311799<!--routeEventPaired_groupWalkingTrail_listen_walk--></T>
+    </U>
+    <U>
+      <T n="actor_event">311768<!--routeEventPaired_groupWalkingTrail_chat--></T>
+      <U n="chance">
+        <T n="base_chance">30</T>
+      </U>
+      <T n="target_event">311786<!--routeEventPaired_groupWalkingTrail_emotion_target_angry_walk--></T>
+    </U>
+    <U>
+      <T n="actor_event">311768<!--routeEventPaired_groupWalkingTrail_chat--></T>
+      <U n="chance">
+        <T n="base_chance">30</T>
+      </U>
+      <T n="target_event">311788<!--routeEventPaired_groupWalkingTrail_emotion_target_bored_walk--></T>
+    </U>
+    <U>
+      <T n="actor_event">311768<!--routeEventPaired_groupWalkingTrail_chat--></T>
+      <U n="chance">
+        <T n="base_chance">30</T>
+      </U>
+      <T n="target_event">311790<!--routeEventPaired_groupWalkingTrail_emotion_target_embarrassed_walk--></T>
+    </U>
+    <U>
+      <T n="actor_event">311768<!--routeEventPaired_groupWalkingTrail_chat--></T>
+      <U n="chance">
+        <T n="base_chance">30</T>
+      </U>
+      <T n="target_event">311792<!--routeEventPaired_groupWalkingTrail_emotion_target_flirty_walk--></T>
+    </U>
+    <U>
+      <T n="actor_event">311768<!--routeEventPaired_groupWalkingTrail_chat--></T>
+      <U n="chance">
+        <T n="base_chance">30</T>
+      </U>
+      <T n="target_event">311794<!--routeEventPaired_groupWalkingTrail_emotion_target_happy_walk--></T>
+    </U>
+    <U>
+      <T n="actor_event">311768<!--routeEventPaired_groupWalkingTrail_chat--></T>
+      <U n="chance">
+        <T n="base_chance">30</T>
+      </U>
+      <T n="target_event">311796<!--routeEventPaired_groupWalkingTrail_emotion_target_neutral_walk--></T>
+    </U>
+    <U>
+      <T n="actor_event">311768<!--routeEventPaired_groupWalkingTrail_chat--></T>
+      <U n="chance">
+        <T n="base_chance">30</T>
+      </U>
+      <T n="target_event">311798<!--routeEventPaired_groupWalkingTrail_emotion_target_sad_walk--></T>
+    </U>
+  </L>
+  <T n="routing_object">251680</T>
+  <T n="routing_object_off_state">35297<!--GenericOnOff_Off--></T>
+  <T n="routing_object_on_state">35296<!--GenericOnOff_On--></T>
+</I>

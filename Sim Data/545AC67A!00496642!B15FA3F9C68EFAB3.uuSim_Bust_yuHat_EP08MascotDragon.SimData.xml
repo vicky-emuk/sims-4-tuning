@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x0000001D">
+  <Instances>
+    <I name="uuSim_Bust_yuHat_EP08MascotDragon" schema="Client_CASThumbnailCamera" type="Object">
+      <T name="CameraPosition">-1.487675,2.127095,2.858908</T>
+      <T name="TargetPosition">0.1469393,1.650573,-0.2722939</T>
+      <T name="CameraFOV">15</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="Client_CASThumbnailCamera" schema_hash="0x5C3D3343">
+      <Columns>
+        <Column name="CameraPosition" type="Float3" flags="0x00000000" />
+        <Column name="TargetPosition" type="Float3" flags="0x00000000" />
+        <Column name="CameraFOV" type="Int32" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

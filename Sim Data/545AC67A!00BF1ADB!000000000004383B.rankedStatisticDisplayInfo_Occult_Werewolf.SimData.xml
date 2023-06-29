@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x0000003F">
+  <Instances>
+    <I name="rankedStatisticDisplayInfo_Occult_Werewolf" schema="RankedStatisticDisplayInfo" type="Object">
+      <L name="perks_panel_bucks_perk_info">
+        <U type="Object" schema="RankedStatBucksToBucksInfoTuple">
+          <T name="key">135169</T>
+          <U name="value" schema="TunableRankedStatBucksInfoTuple">
+            <V name="bucks_text" variant="0xF8CBBF4C">
+              <T type="LocalizationKey">0x2C1E8F26</T>
+            </V>
+            <V name="bucks_tooltip" variant="0xF8CBBF4C">
+              <T type="LocalizationKey">0x946FC376</T>
+            </V>
+            <V name="perk_currency_label" variant="0xF8CBBF4C">
+              <T type="LocalizationKey">0xCE555FF7</T>
+            </V>
+            <V name="perk_remove_tooltip" variant="0xF8CBBF4C">
+              <T type="LocalizationKey">0x5CC70F3F</T>
+            </V>
+          </U>
+        </U>
+      </L>
+      <V name="perks_panel_disabled_confirm_tooltip" variant="0xF8CBBF4C">
+        <T type="LocalizationKey">0x7C01E0F3</T>
+      </V>
+      <V name="perks_panel_revert_tooltip" variant="0xF8CBBF4C">
+        <T type="LocalizationKey">0xBCF6E34C</T>
+      </V>
+      <V name="perks_panel_subtitle" variant="0xF8CBBF4C">
+        <T type="LocalizationKey">0x201D05D6</T>
+      </V>
+      <V name="perks_panel_title" variant="0xF8CBBF4C">
+        <T type="LocalizationKey">0xE5A3E686</T>
+      </V>
+      <T name="ranked_statistic_reference">276388</T>
+      <V name="sim_info_panel_icons" variant="0xC1A03855" />
+      <V name="sim_info_panel_icons_negative" variant="0xC1A03855" />
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="RankedStatisticDisplayInfo" schema_hash="0x7AC0D048">
+      <Columns>
+        <Column name="perks_panel_bucks_perk_info" type="Vector" flags="0x00000000" />
+        <Column name="perks_panel_disabled_confirm_tooltip" type="Variant" flags="0x00000000" />
+        <Column name="perks_panel_revert_tooltip" type="Variant" flags="0x00000000" />
+        <Column name="perks_panel_subtitle" type="Variant" flags="0x00000000" />
+        <Column name="perks_panel_title" type="Variant" flags="0x00000000" />
+        <Column name="ranked_statistic_reference" type="TableSetReference" flags="0x00000000" />
+        <Column name="sim_info_panel_icons" type="Variant" flags="0x00000000" />
+        <Column name="sim_info_panel_icons_negative" type="Variant" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="RankedStatBucksToBucksInfoTuple" schema_hash="0x9509189F">
+      <Columns>
+        <Column name="key" type="Int64" flags="0x00000000" />
+        <Column name="value" type="Object" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableRankedStatBucksInfoTuple" schema_hash="0x9E30ACCB">
+      <Columns>
+        <Column name="bucks_text" type="Variant" flags="0x00000000" />
+        <Column name="bucks_tooltip" type="Variant" flags="0x00000000" />
+        <Column name="perk_currency_label" type="Variant" flags="0x00000000" />
+        <Column name="perk_remove_tooltip" type="Variant" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

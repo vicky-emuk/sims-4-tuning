@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ClubInteractionGroup" i="club_interaction_group" m="clubs.club_tuning" n="clubInteractionGroup_ObjectBased_UseJumpStand" s="129742">
+  <L n="affordances">
+    <T>129292<!--social_JumpStand_Dare--></T>
+    <T>128687<!--generic_JumpStand--></T>
+    <T>128671<!--rallyables_JumpStand_MoveNearby--></T>
+    <T>128669<!--reactions_JumpStand_Splashed--></T>
+    <T>128702<!--si_JumpStand_Jump_Easy--></T>
+    <T>128705<!--si_JumpStand_Jump_Hard_Backflip--></T>
+    <T>128704<!--si_JumpStand_Jump_Med_Cannonball--></T>
+    <T>128703<!--si_JumpStand_Jump_Med_SwanDive--></T>
+    <T>128712<!--si_JumpStand_Showboat_Backflip--></T>
+    <T>128711<!--si_JumpStand_Showboat_Cannonball--></T>
+    <T>128709<!--si_JumpStand_Showboat_EasyJump--></T>
+    <T>128710<!--si_JumpStand_Showboat_SwanDive--></T>
+    <T>129824<!--si_JumpStand_AutonomousJumpChooser--></T>
+  </L>
+  <E n="category">OUTDOOR</E>
+  <T n="category_icon" p="InGame\UI\Icons\Clubs\Rules\clubs_rules_UseJumpStand.png">2f7d0004:00000000:e255b20ac9fa1aa4</T>
+  <T n="club_bucks_reward">2</T>
+  <T n="is_targeted">False</T>
+  <T n="name">0x43153ED8<!--Use the Jump Platform--></T>
+  <T n="tooltip_template">0x14BB4BB7<!--Use the Jump Platform--></T>
+  <T n="tooltip_template_negative">0xFD5EA45B<!--Don't Use the Jump Platform--></T>
+</I>

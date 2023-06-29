@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="upgrade_Vacuum_Unbreakable" s="257256">
+  <L n="_values">
+    <T>257280<!--upgrade_Vacuum_Completed_Unbreakable--></T>
+    <T>257269<!--upgrade_Vacuum_NotStarted_Unbreakable--></T>
+    <T>257273<!--upgrade_Vacuum_Partial_Unbreakable--></T>
+  </L>
+  <T n="linked_stat">257278<!--statistic_Object_Upgrade_Vacuum_Unbreakable--></T>
+</I>

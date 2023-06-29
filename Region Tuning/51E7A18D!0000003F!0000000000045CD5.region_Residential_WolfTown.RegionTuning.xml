@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Region" i="region" m="world.region" n="region_Residential_WolfTown" s="285909">
+  <L n="compatible_venues">
+    <T>105157<!--venue_retail--></T>
+    <T>107453<!--venue_ForestPark--></T>
+    <T>118135<!--venue_RelaxationCenter--></T>
+    <T>122247<!--venue_cafe--></T>
+    <T>123794<!--venue_pool--></T>
+    <T>130713<!--venue_Restaurant--></T>
+    <T>137844<!--venue_karaoke--></T>
+    <T>138380<!--venue_MyshunoMeadows--></T>
+    <T>144206<!--venue_artscenter--></T>
+    <T>158847<!--venue_Vet--></T>
+    <T>218857<!--venue_University_StudentCommons_Arts--></T>
+    <T>208182<!--venue_rentable_universityHousing--></T>
+    <T>218858<!--venue_University_StudentCommons_Science--></T>
+    <T>223944<!--venue_CommunityLot--></T>
+    <T>223946<!--subVenue_Garden--></T>
+    <T>223945<!--subVenue_Market--></T>
+    <T>229251<!--venue_residential_tinyhome--></T>
+    <T>231465<!--subVenue_MakerSpace--></T>
+    <T>247473<!--venue_Onsen--></T>
+    <T>252380<!--venue_residential_HauntedHouse--></T>
+    <T>273016<!--venue_wedding--></T>
+    <T>278997<!--venue_ThriftStore--></T>
+    <T>278305<!--venue_HighSchool--></T>
+    <T>314133<!--venue_RecCenter--></T>
+    <T>98817<!--venue_VisitorsAllowed--></T>
+    <T>25847<!--venue_park--></T>
+    <T>16876<!--venue_museum--></T>
+    <T>16875<!--venue_lounge--></T>
+    <T>16874<!--venue_library--></T>
+    <T>16873<!--venue_gym--></T>
+    <T>9279<!--venue_generic--></T>
+    <T>16870<!--venue_club--></T>
+    <T>16869<!--venue_bar--></T>
+    <T>28614<!--venue_residential--></T>
+    <T>239458<!--venue_rentable_vacation_generic--></T>
+  </L>
+  <U n="outfit_category_restrictions">
+    <U n="allowed_outfits">
+      <V n="blacklist" t="specify">
+        <U n="specify">
+          <L n="blacklist">
+            <E>BATUU</E>
+          </L>
+        </U>
+      </V>
+    </U>
+  </U>
+  <L n="region_buffs">
+    <T>251292<!--buff_Region_generic--></T>
+    <T>287121<!--buff_WolfTown_InRegion--></T>
+  </L>
+  <L n="seasonal_parameters">
+    <U>
+      <E n="key">FOLIAGE_COLORSHIFT</E>
+      <L n="value">
+        <U>
+          <E n="season">SPRING</E>
+          <T n="time_in_season">0</T>
+          <T n="value">-1</T>
+        </U>
+        <U>
+          <T n="time_in_season">0.25</T>
+          <T n="value">-0.9</T>
+        </U>
+        <U>
+          <T n="time_in_season">0.5</T>
+          <T n="value">-0.8</T>
+        </U>
+        <U>
+          <T n="time_in_season">0.8</T>
+          <T n="value">-0.6</T>
+        </U>
+        <U>
+          <T n="time_in_season">1</T>
+          <T n="value">0</T>
+        </U>
+        <U>
+          <E n="season">SUMMER</E>
+        </U>
+        <U>
+          <E n="season">FALL</E>
+        </U>
+        <U>
+          <E n="season">FALL</E>
+          <T n="time_in_season">0.25</T>
+          <T n="value">0.7</T>
+        </U>
+        <U>
+          <E n="season">FALL</E>
+          <T n="time_in_season">0.5</T>
+          <T n="value">0.9</T>
+        </U>
+        <U>
+          <E n="season">FALL</E>
+          <T n="time_in_season">0.8</T>
+          <T n="value">1</T>
+        </U>
+        <U>
+          <E n="season">FALL</E>
+          <T n="time_in_season">1</T>
+          <T n="value">1</T>
+        </U>
+      </L>
+    </U>
+    <U>
+      <E n="key">FOLIAGE_REDUCTION</E>
+      <L n="value">
+        <U>
+          <T n="value">-1</T>
+        </U>
+        <U>
+          <T n="time_in_season">0.25</T>
+          <T n="value">-0.4</T>
+        </U>
+        <U>
+          <T n="time_in_season">0.5</T>
+          <T n="value">-0.1</T>
+        </U>
+        <U>
+          <T n="time_in_season">0.75</T>
+        </U>
+        <U>
+          <T n="time_in_season">1</T>
+        </U>
+        <U>
+          <E n="season">SUMMER</E>
+        </U>
+        <U>
+          <E n="season">FALL</E>
+        </U>
+        <U>
+          <E n="season">FALL</E>
+          <T n="time_in_season">0.18</T>
+          <T n="value">0</T>
+        </U>
+        <U>
+          <E n="season">FALL</E>
+          <T n="time_in_season">0.5</T>
+          <T n="value">0.3</T>
+        </U>
+        <U>
+          <E n="season">FALL</E>
+          <T n="time_in_season">0.75</T>
+          <T n="value">0.7</T>
+        </U>
+        <U>
+          <E n="season">FALL</E>
+          <T n="time_in_season">1</T>
+          <T n="value">1</T>
+        </U>
+      </L>
+    </U>
+    <U>
+      <E n="key">LEAF_ACCUMULATION</E>
+      <L n="value">
+        <U>
+          <E n="season">FALL</E>
+        </U>
+        <U>
+          <E n="season">FALL</E>
+          <T n="time_in_season">0.18</T>
+          <T n="value">0.1</T>
+        </U>
+        <U>
+          <E n="season">FALL</E>
+          <T n="time_in_season">0.55</T>
+          <T n="value">0.55</T>
+        </U>
+        <U>
+          <E n="season">FALL</E>
+          <T n="time_in_season">0.85</T>
+          <T n="value">1</T>
+        </U>
+        <U>
+          <E n="season">FALL</E>
+          <T n="time_in_season">1</T>
+          <T n="value">1</T>
+        </U>
+        <U>
+          <E n="season">WINTER</E>
+          <T n="time_in_season">0.01</T>
+          <T n="value">1</T>
+        </U>
+        <U>
+          <E n="season">WINTER</E>
+          <T n="time_in_season">0.6</T>
+          <T n="value">0</T>
+        </U>
+      </L>
+    </U>
+  </L>
+  <L n="seasonal_sunrise_time">
+    <U>
+      <E n="key">SUMMER</E>
+      <U n="value">
+        <T n="hour">6</T>
+        <T n="minute">30</T>
+      </U>
+    </U>
+    <U>
+      <E n="key">WINTER</E>
+      <U n="value">
+        <T n="hour">7</T>
+        <T n="minute">30</T>
+      </U>
+    </U>
+  </L>
+  <L n="seasonal_sunset_time">
+    <U>
+      <E n="key">SUMMER</E>
+      <U n="value">
+        <T n="hour">18</T>
+        <T n="minute">30</T>
+      </U>
+    </U>
+    <U>
+      <E n="key">WINTER</E>
+      <U n="value">
+        <T n="hour">17</T>
+        <T n="minute">30</T>
+      </U>
+    </U>
+  </L>
+  <L n="snow_behavior">
+    <U>
+      <E n="key">WINTER</E>
+      <E n="value">ACCUMULATE</E>
+    </U>
+  </L>
+  <U n="sunrise_time">
+    <T n="hour">7</T>
+  </U>
+  <U n="sunset_time">
+    <T n="hour">18</T>
+  </U>
+  <L n="tags">
+    <E>Region_Residential</E>
+    <E>Region_Retail</E>
+    <E>Region_ActiveCareer</E>
+  </L>
+  <T n="travel_group_build_disabled_tooltip">0x90D4AD08<!--This lot is not editable while on vacation, but you can get additional supplies by using the Order Supplies interaction from the Phone, Computer, or Mailbox.--></T>
+  <L n="weather">
+    <U>
+      <E n="key">FALL</E>
+      <T n="value">289818<!--weatherSeasonalForecasts_Fall_Wolftown--></T>
+    </U>
+    <U>
+      <E n="key">SPRING</E>
+      <T n="value">289819<!--weatherSeasonalForecasts_Spring_Wolftown--></T>
+    </U>
+    <U>
+      <E n="key">SUMMER</E>
+      <T n="value">289820<!--weatherSeasonalForecasts_Summer_Wolftown--></T>
+    </U>
+    <U>
+      <E n="key">WINTER</E>
+      <T n="value">289821<!--weatherSeasonalForecasts_Winter_Wolftown--></T>
+    </U>
+  </L>
+</I>

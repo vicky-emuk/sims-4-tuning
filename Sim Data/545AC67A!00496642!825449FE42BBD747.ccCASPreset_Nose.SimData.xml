@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000019">
+  <Instances>
+    <I name="ccCASPreset_Nose" schema="Client_CASThumbnailCamera" type="Object">
+      <T name="CameraPosition">-0.006942422,0.1674094,0.226325</T>
+      <T name="TargetPosition">0.005130524,0.1655304,-0.003527703</T>
+      <T name="CameraFOV">7</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="Client_CASThumbnailCamera" schema_hash="0x5C3D3343">
+      <Columns>
+        <Column name="CameraPosition" type="Float3" flags="0x00000000" />
+        <Column name="TargetPosition" type="Float3" flags="0x00000000" />
+        <Column name="CameraFOV" type="Int32" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000035">
+  <Instances>
+    <I name="Client_PubertyTuning" schema="Client_PubertyTuning" type="Object">
+      <T name="AcneLevelTagCategory">132</T>
+      <T name="AcneSkinToneTagCategory">131</T>
+      <L name="AcneLevelTags">
+        <T type="UInt32">114732</T>
+        <T type="UInt32">114724</T>
+        <T type="UInt32">114723</T>
+        <T type="UInt32">114722</T>
+      </L>
+      <T name="HairLengthTagCategory">129</T>
+      <T name="HairStyleTagCategory">130</T>
+      <T name="HairColorTagCategory">75</T>
+      <L name="HairLengthTags">
+        <T type="UInt32">2810</T>
+        <T type="UInt32">2811</T>
+        <T type="UInt32">2812</T>
+        <T type="UInt32">2813</T>
+      </L>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="Client_PubertyTuning" schema_hash="0x1F7E4D7F">
+      <Columns>
+        <Column name="AcneLevelTagCategory" type="Int64" flags="0x00000000" />
+        <Column name="AcneSkinToneTagCategory" type="Int64" flags="0x00000000" />
+        <Column name="AcneLevelTags" type="Vector" flags="0x00000000" />
+        <Column name="HairLengthTagCategory" type="Int64" flags="0x00000000" />
+        <Column name="HairStyleTagCategory" type="Int64" flags="0x00000000" />
+        <Column name="HairColorTagCategory" type="Int64" flags="0x00000000" />
+        <Column name="HairLengthTags" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

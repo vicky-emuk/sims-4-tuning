@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x0000001A">
+  <Instances>
+    <I name="holidayTradition_GiveRomanticGifts" schema="HolidayTradition" type="Object">
+      <V name="_display_data" variant="0x3BB04258" schema="OptionalDisplayMixinTunable">
+        <V name="instance_display_description" variant="0x60BA1D0C">
+          <T type="LocalizationKey">0x36B6FA1B</T>
+        </V>
+        <V name="instance_display_icon" variant="0x190202A5">
+          <T type="ResourceKey">00B2D882-00000000-819C9141FA90453A</T>
+        </V>
+        <V name="instance_display_name" variant="0x87E76EC3">
+          <T type="LocalizationKey">0xC1D4BF29</T>
+        </V>
+        <V name="instance_display_secondary_icon" variant="0xC1A03855" />
+        <V name="instance_display_tooltip" variant="0xC1A03855" />
+      </V>
+      <L name="core_object_tags" />
+      <L name="deco_object_tags">
+        <T type="Int64">2098</T>
+      </L>
+      <T name="selectable">0</T>
+      <T name="tradition_type">0</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="HolidayTradition" schema_hash="0xE39B7C0C">
+      <Columns>
+        <Column name="_display_data" type="Variant" flags="0x00000000" />
+        <Column name="core_object_tags" type="Vector" flags="0x00000000" />
+        <Column name="deco_object_tags" type="Vector" flags="0x00000000" />
+        <Column name="selectable" type="Boolean" flags="0x00000000" />
+        <Column name="tradition_type" type="UInt32" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="OptionalDisplayMixinTunable" schema_hash="0x2A90C3F5">
+      <Columns>
+        <Column name="instance_display_description" type="Variant" flags="0x00000000" />
+        <Column name="instance_display_icon" type="Variant" flags="0x00000000" />
+        <Column name="instance_display_name" type="Variant" flags="0x00000000" />
+        <Column name="instance_display_secondary_icon" type="Variant" flags="0x00000000" />
+        <Column name="instance_display_tooltip" type="Variant" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

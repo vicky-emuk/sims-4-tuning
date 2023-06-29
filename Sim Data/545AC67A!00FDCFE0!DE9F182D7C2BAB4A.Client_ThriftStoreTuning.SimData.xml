@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000035">
+  <Instances>
+    <I name="Client_ThriftStoreTuning" schema="Client_ThriftStoreTuning" type="Object">
+      <T name="BaseCost">5</T>
+      <U name="Rarity" schema="Client_ThriftStoreTuning.RarityData">
+        <T name="CostMultiplier">10</T>
+        <L name="RarityTagData">
+          <U type="Object" schema="Client_ThriftStoreTuning.RarityMapEntry">
+            <T name="Tag">2803</T>
+            <U name="Value" schema="Client_ThriftStoreTuning.Rarity">
+              <T name="Cost">1</T>
+              <T name="SortOrder">0</T>
+            </U>
+          </U>
+          <U type="Object" schema="Client_ThriftStoreTuning.RarityMapEntry">
+            <T name="Tag">2806</T>
+            <U name="Value" schema="Client_ThriftStoreTuning.Rarity">
+              <T name="Cost">7</T>
+              <T name="SortOrder">3</T>
+            </U>
+          </U>
+          <U type="Object" schema="Client_ThriftStoreTuning.RarityMapEntry">
+            <T name="Tag">2807</T>
+            <U name="Value" schema="Client_ThriftStoreTuning.Rarity">
+              <T name="Cost">9</T>
+              <T name="SortOrder">3</T>
+            </U>
+          </U>
+          <U type="Object" schema="Client_ThriftStoreTuning.RarityMapEntry">
+            <T name="Tag">2804</T>
+            <U name="Value" schema="Client_ThriftStoreTuning.Rarity">
+              <T name="Cost">2</T>
+              <T name="SortOrder">1</T>
+            </U>
+          </U>
+          <U type="Object" schema="Client_ThriftStoreTuning.RarityMapEntry">
+            <T name="Tag">2805</T>
+            <U name="Value" schema="Client_ThriftStoreTuning.Rarity">
+              <T name="Cost">4</T>
+              <T name="SortOrder">2</T>
+            </U>
+          </U>
+        </L>
+        <L name="RarityExclusiveTags">
+          <T type="UInt32">2806</T>
+          <T type="UInt32">2807</T>
+        </L>
+      </U>
+      <U name="Trend" schema="Client_ThriftStoreTuning.TrendData">
+        <T name="CostMultiplier">10</T>
+        <L name="TrendTagData">
+          <U type="Object" schema="Client_ThriftStoreTuning.TrendMapEntry">
+            <T name="Tag">1495</T>
+            <T name="Cost">2</T>
+          </U>
+          <U type="Object" schema="Client_ThriftStoreTuning.TrendMapEntry">
+            <T name="Tag">985</T>
+            <T name="Cost">2</T>
+          </U>
+          <U type="Object" schema="Client_ThriftStoreTuning.TrendMapEntry">
+            <T name="Tag">240</T>
+            <T name="Cost">1</T>
+          </U>
+          <U type="Object" schema="Client_ThriftStoreTuning.TrendMapEntry">
+            <T name="Tag">243</T>
+            <T name="Cost">2</T>
+          </U>
+          <U type="Object" schema="Client_ThriftStoreTuning.TrendMapEntry">
+            <T name="Tag">245</T>
+            <T name="Cost">5</T>
+          </U>
+          <U type="Object" schema="Client_ThriftStoreTuning.TrendMapEntry">
+            <T name="Tag">246</T>
+            <T name="Cost">3</T>
+          </U>
+          <U type="Object" schema="Client_ThriftStoreTuning.TrendMapEntry">
+            <T name="Tag">289</T>
+            <T name="Cost">3</T>
+          </U>
+          <U type="Object" schema="Client_ThriftStoreTuning.TrendMapEntry">
+            <T name="Tag">986</T>
+            <T name="Cost">2</T>
+          </U>
+          <U type="Object" schema="Client_ThriftStoreTuning.TrendMapEntry">
+            <T name="Tag">1592</T>
+            <T name="Cost">1</T>
+          </U>
+        </L>
+      </U>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="Client_ThriftStoreTuning" schema_hash="0x7C74E1AC">
+      <Columns>
+        <Column name="BaseCost" type="Int32" flags="0x00000000" />
+        <Column name="Rarity" type="Object" flags="0x00000000" />
+        <Column name="Trend" type="Object" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="Client_ThriftStoreTuning.RarityData" schema_hash="0xA0AAD88A">
+      <Columns>
+        <Column name="CostMultiplier" type="Int32" flags="0x00000000" />
+        <Column name="RarityTagData" type="Vector" flags="0x00000000" />
+        <Column name="RarityExclusiveTags" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="Client_ThriftStoreTuning.RarityMapEntry" schema_hash="0xC7CCD3CC">
+      <Columns>
+        <Column name="Tag" type="UInt32" flags="0x00000000" />
+        <Column name="Value" type="Object" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="Client_ThriftStoreTuning.Rarity" schema_hash="0xCC7EFF70">
+      <Columns>
+        <Column name="Cost" type="Int32" flags="0x00000000" />
+        <Column name="SortOrder" type="Int32" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="Client_ThriftStoreTuning.TrendData" schema_hash="0xB27DBF04">
+      <Columns>
+        <Column name="CostMultiplier" type="Int32" flags="0x00000000" />
+        <Column name="TrendTagData" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="Client_ThriftStoreTuning.TrendMapEntry" schema_hash="0x97002E16">
+      <Columns>
+        <Column name="Tag" type="UInt32" flags="0x00000000" />
+        <Column name="Cost" type="Int32" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

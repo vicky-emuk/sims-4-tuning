@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="juiceKeg_Material" s="228544">
+  <L n="_values">
+    <T>228539<!--juiceKeg_Material_BlueRaspberry--></T>
+    <T>228540<!--juiceKeg_Material_DragonFruit--></T>
+    <T>228541<!--juiceKeg_Material_PassionFruit--></T>
+    <T>228542<!--juiceKeg_Material_PineappleLime--></T>
+    <T>228546<!--juiceKeg_Material_Burn--></T>
+  </L>
+</I>

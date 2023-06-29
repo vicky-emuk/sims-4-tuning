@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ClubInteractionGroup" i="club_interaction_group" m="clubs.club_tuning" n="clubInteractionGroup_ObjectBased_Yoga" s="129745">
+  <L n="affordances">
+    <T>120031<!--inviteToJoin_YogaClass_BrainBoosting--></T>
+    <T>120032<!--inviteToJoin_YogaClass_EnergyCentering--></T>
+    <T>120033<!--inviteToJoin_YogaClass_MindConcentrating--></T>
+    <T>120026<!--join_YogaClass_BrainBoosting--></T>
+    <T>120028<!--join_YogaClass_EnergyCentering--></T>
+    <T>120027<!--join_YogaClass_MindConcentrating--></T>
+    <T>118732<!--yogaClass_Social_StartClass_BrainBoosting--></T>
+    <T>118586<!--yogaClass_Social_StartClass_EnergyCentering--></T>
+    <T>118733<!--yogaClass_Social_StartClass_MindConcentrating--></T>
+    <T>117430<!--si_yoga_Practice--></T>
+    <T>271043<!--inviteToJoin_YogaClass_PlayerLed_Private_Free_BrainBoosting--></T>
+    <T>271044<!--inviteToJoin_YogaClass_PlayerLed_Private_Paid_BrainBoosting--></T>
+    <T>119851<!--si_Yoga_Pose_Boat--></T>
+    <T>117400<!--si_Yoga_Pose_Bridge--></T>
+    <T>117412<!--si_Yoga_Pose_Corpse--></T>
+    <T>117401<!--si_Yoga_Pose_Dance--></T>
+    <T>117402<!--si_Yoga_Pose_DownwardDog--></T>
+    <T>117387<!--si_Yoga_Pose_Greeting--></T>
+    <T>117397<!--si_Yoga_Pose_HalfMoon--></T>
+    <T>119854<!--si_Yoga_Pose_Handstand--></T>
+    <T>119853<!--si_Yoga_Pose_SidePlank--></T>
+    <T>117398<!--si_Yoga_Pose_Tree--></T>
+    <T>117399<!--si_Yoga_Pose_Triangle--></T>
+    <T>119852<!--si_Yoga_Pose_Warrior--></T>
+    <T>117408<!--si_Yoga_Routine_BrainBoosting--></T>
+    <T>117407<!--si_Yoga_Routine_EnergyCentering--></T>
+    <T>117409<!--si_Yoga_Routine_MindConcentrating--></T>
+    <T>270307<!--inviteToJoin_YogaClass_PlayerLed_Public_Free_BrainBoosting--></T>
+    <T>271042<!--inviteToJoin_YogaClass_PlayerLed_Public_Paid_BrainBoosting--></T>
+    <T>271046<!--join_YogaClass_PlayerLed_Private_Free_BrainBoosting--></T>
+    <T>271047<!--join_YogaClass_PlayerLed_Private_Paid_BrainBoosting--></T>
+    <T>270309<!--join_YogaClass_PlayerLed_Public_Free_BrainBoosting--></T>
+    <T>271045<!--join_YogaClass_PlayerLed_Public_Paid_BrainBoosting--></T>
+    <T>271086<!--yogaClass_PlayerLed_Start_BrainBoosting_Private_Free--></T>
+    <T>271087<!--yogaClass_PlayerLed_Start_BrainBoosting_Private_Paid--></T>
+    <T>271088<!--yogaClass_PlayerLed_Start_BrainBoosting_Public_Free--></T>
+    <T>271089<!--yogaClass_PlayerLed_Start_BrainBoosting_Public_Paid--></T>
+    <T>271106<!--si_Yoga_Routine_ChildFriendly--></T>
+    <T>271111<!--yogaClass_Social_StartClass_ChildFriendly--></T>
+    <T>271115<!--inviteToJoin_YogaClass_ChildFriendly--></T>
+    <T>271114<!--join_YogaClass_ChildFriendly--></T>
+    <T>272033<!--join_YogaClass_PlayerLed_ChildFriendly_Private_Free--></T>
+    <T>272034<!--join_YogaClass_PlayerLed_ChildFriendly_Private_Paid--></T>
+    <T>272035<!--join_YogaClass_PlayerLed_ChildFriendly_Public_Free--></T>
+    <T>272036<!--join_YogaClass_PlayerLed_ChildFriendly_Public_Paid--></T>
+    <T>272093<!--join_YogaClass_PlayerLed_EnergyCentering_Private_Free--></T>
+    <T>272094<!--join_YogaClass_PlayerLed_EnergyCentering_Private_Paid--></T>
+    <T>272096<!--join_YogaClass_PlayerLed_EnergyCentering_Public_Free--></T>
+    <T>272095<!--join_YogaClass_PlayerLed_EnergyCentering_Public_Paid--></T>
+    <T>272097<!--join_YogaClass_PlayerLed_MindConcentrating_Private_Free--></T>
+    <T>272098<!--join_YogaClass_PlayerLed_MindConcentrating_Private_Paid--></T>
+    <T>272099<!--join_YogaClass_PlayerLed_MindConcentrating_Public_Free--></T>
+    <T>272100<!--join_YogaClass_PlayerLed_MindConcentrating_Public_Paid--></T>
+    <T>272029<!--yogaClass_PlayerLed_Start_ChildFriendly_Private_Free--></T>
+    <T>272030<!--yogaClass_PlayerLed_Start_ChildFriendly_Private_Paid--></T>
+    <T>272031<!--yogaClass_PlayerLed_Start_ChildFriendly_Public_Free--></T>
+    <T>272032<!--yogaClass_PlayerLed_Start_ChildFriendly_Public_Paid--></T>
+    <T>272070<!--yogaClass_PlayerLed_Start_EnergyCentering_Private_Free--></T>
+    <T>272072<!--yogaClass_PlayerLed_Start_EnergyCentering_Private_Paid--></T>
+    <T>272069<!--yogaClass_PlayerLed_Start_EnergyCentering_Public_Free--></T>
+    <T>272071<!--yogaClass_PlayerLed_Start_EnergyCentering_Public_Paid--></T>
+    <T>272075<!--yogaClass_PlayerLed_Start_MindConcentrating_Private_Free--></T>
+    <T>272076<!--yogaClass_PlayerLed_Start_MindConcentrating_Private_Paid--></T>
+    <T>272073<!--yogaClass_PlayerLed_Start_MindConcentrating_Public_Free--></T>
+    <T>272074<!--yogaClass_PlayerLed_Start_MindConcentrating_Public_Paid--></T>
+    <T>272037<!--inviteToJoin_YogaClass_PlayerLed_ChildFriendly_Private_Free--></T>
+    <T>272038<!--inviteToJoin_YogaClass_PlayerLed_ChildFriendly_Private_Paid--></T>
+    <T>272039<!--inviteToJoin_YogaClass_PlayerLed_ChildFriendly_Public_Free--></T>
+    <T>272040<!--inviteToJoin_YogaClass_PlayerLed_ChildFriendly_Public_Paid--></T>
+    <T>272089<!--inviteToJoin_YogaClass_PlayerLed_EnergyCentering_Private_Free--></T>
+    <T>272090<!--inviteToJoin_YogaClass_PlayerLed_EnergyCentering_Private_Paid--></T>
+    <T>272091<!--inviteToJoin_YogaClass_PlayerLed_EnergyCentering_Public_Free--></T>
+    <T>272092<!--inviteToJoin_YogaClass_PlayerLed_EnergyCentering_Public_Paid--></T>
+    <T>272085<!--inviteToJoin_YogaClass_PlayerLed_MindConcentrating_Private_Free--></T>
+    <T>272086<!--inviteToJoin_YogaClass_PlayerLed_MindConcentrating_Private_Paid--></T>
+    <T>272088<!--inviteToJoin_YogaClass_PlayerLed_MindConcentrating_Public_Free--></T>
+    <T>272087<!--inviteToJoin_YogaClass_PlayerLed_MindConcentrating_Public_Paid--></T>
+    <T>272083<!--simPicker_YogaClass_PlayerLed_Private_Free_MindConcentrating--></T>
+    <T>272050<!--simPicker_YogaClass_PlayerLed_Private_Free_ChildFriendly--></T>
+    <T>272084<!--simPicker_YogaClass_PlayerLed_Private_Free_EnergyCentering--></T>
+    <T>272043<!--simPicker_YogaClass_PlayerLed_Private_Paid_ChildFriendly--></T>
+    <T>272077<!--simPicker_YogaClass_PlayerLed_Private_Paid_EnergyCentering--></T>
+    <T>272078<!--simPicker_YogaClass_PlayerLed_Private_Paid_MindConcentrating--></T>
+    <T>271663<!--simPicker_YogaClass_PlayerLed_Private_Free_BrainBoosting--></T>
+    <T>271667<!--simPicker_YogaClass_PlayerLed_Private_Paid_BrainBoosting--></T>
+  </L>
+  <E n="category">HOBBIES</E>
+  <T n="category_icon" p="InGame\UI\Icons\Clubs\Rules\clubs_rules_Yoga.png">2f7d0004:00000000:4a48fffd29ab16df</T>
+  <T n="club_bucks_reward">2</T>
+  <T n="is_targeted">False</T>
+  <T n="name">0x9287F485<!--Do Yoga--></T>
+  <T n="tooltip_template">0x945D4E6E<!--Do Yoga--></T>
+  <T n="tooltip_template_negative">0xE7B101D8<!--Don't Do Yoga--></T>
+</I>

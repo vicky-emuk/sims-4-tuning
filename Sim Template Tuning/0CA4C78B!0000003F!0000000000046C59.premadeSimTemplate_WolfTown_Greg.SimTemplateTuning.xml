@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="PremadeSimTemplate" i="sim_template" m="world.premade_sim_template" n="premadeSimTemplate_WolfTown_Greg" s="289881">
+  <L n="_fixups">
+    <T>297275<!--simInfoFixup_WolfTown_KnowGrilledLunaFish--></T>
+  </L>
+  <U n="_perks">
+    <L n="explicit">
+      <T>284795<!--werewolfPerks_Dormant_LunarEpiphany--></T>
+      <T>284796<!--werewolfPerks_Dormant_TransformationMastery--></T>
+      <T>284791<!--werewolfPerks_Dormant_WerewolfMenace--></T>
+      <T>284776<!--werewolfPerks_CurseBearer--></T>
+      <T>284785<!--werewolfPerks_ImmortalWolf--></T>
+      <T>284777<!--werewolfPerks_NaturalHealing--></T>
+      <T>284765<!--werewolfPerks_WolfNap--></T>
+      <T>284770<!--werewolfPerks_EatEverything--></T>
+      <T>284764<!--werewolfPerks_EnhancedSenses--></T>
+      <T>284768<!--werewolfPerks_Ferocity--></T>
+      <T>284779<!--werewolfPerks_Nightvision--></T>
+      <T>284769<!--werewolfPerks_PersonalGrooming--></T>
+      <T>284773<!--werewolfPerks_Scavenger--></T>
+    </L>
+  </U>
+  <L n="_ranks">
+    <U>
+      <T n="rank">5</T>
+      <T n="ranked_statistic">276388<!--rankedStatistic_Werewolf_Progression--></T>
+    </U>
+    <U>
+      <T n="rank">0</T>
+      <T n="ranked_statistic">192283<!--rankedStatistic_Reputation--></T>
+    </U>
+  </L>
+  <U n="_sim_creation_info">
+    <T n="first_name">0xE4A1F9E7<!--Greg--></T>
+    <V n="last_name" t="no_last_name" />
+    <T n="resource_key" p="InGP12\Sims\SimInfos\PremadeSims\amGreg.siminfo">025ed6f4:00000000:fd924f5a543104ac</T>
+  </U>
+  <U n="_skills">
+    <L n="explicit">
+      <U>
+        <U n="range">
+          <T n="ideal_value">10</T>
+          <T n="min_value">10</T>
+        </U>
+        <T n="skill">16659<!--skill_Fitness--></T>
+      </U>
+    </L>
+  </U>
+  <U n="_traits">
+    <L n="explicit">
+      <T>288294<!--trait_WolfTown_Greg--></T>
+      <T>288566<!--trait_OccultWerewolf_HadFirstTransformation--></T>
+      <T>16843<!--trait_Glutton--></T>
+      <T>9602<!--trait_Loner--></T>
+      <T>16857<!--trait_Mean--></T>
+      <T>285385<!--trait_OccultWerewolf_Temperaments_RestlessAnimal--></T>
+      <T>285366<!--trait_OccultWerewolf_Temperaments_Territorial--></T>
+      <T>285390<!--trait_OccultWerewolf_Temperaments_WolfBrain--></T>
+      <T>285368<!--trait_OccultWerewolf_Temperaments_Prideful--></T>
+      <T>258276<!--trait_SimPreference_Likes_Music_Pop--></T>
+    </L>
+    <V n="num_random" t="disabled" />
+  </U>
+  <V n="occult" t="enabled">
+    <U n="enabled">
+      <T n="occult_sim_info" p="InGP12\Sims\SimInfos\PremadeSims\amGreg_occult.siminfo">025ed6f4:00000000:a2a29bee35eda015</T>
+      <E n="occult_type">WEREWOLF</E>
+    </U>
+  </V>
+  <V n="primary_aspiration" t="enabled">
+    <T n="enabled">25440<!--Track_Knowledge_A--></T>
+  </V>
+</I>

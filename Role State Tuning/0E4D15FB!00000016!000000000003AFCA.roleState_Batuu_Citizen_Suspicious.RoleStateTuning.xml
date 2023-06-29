@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RoleState" i="role_state" m="role.role_state" n="roleState_Batuu_Citizen_Suspicious" s="241610">
+  <L n="_buffs">
+    <U>
+      <T n="buff_type">142027<!--buff_Role_Appropriateness_NoPhone--></T>
+    </U>
+    <U>
+      <T n="buff_type">101052<!--Buff_Role_Appropriateness_NoCallToMeal--></T>
+    </U>
+    <U>
+      <T n="buff_type">240036<!--buff_AutonomyMod_SocialNone--></T>
+    </U>
+    <U>
+      <T n="buff_type">74343<!--buff_PreventRunning--></T>
+    </U>
+    <U>
+      <T n="buff_type">27833<!--buff_Suppress_Visible_Motives--></T>
+    </U>
+    <U>
+      <T n="buff_type">241612<!--buff_Batuu_NPC_Walkby_Citizen_Suspicious--></T>
+    </U>
+  </L>
+  <U n="_off_lot_autonomy_buff">
+    <T n="buff_type">40411<!--buff_offLotAutonomyMod_All--></T>
+  </U>
+  <V n="_on_activate" t="parameterized_autonomy_ping">
+    <U n="parameterized_autonomy_ping">
+      <L n="commodities">
+        <T>250230<!--commodity_Batuu_NPC_LookBusy--></T>
+      </L>
+      <T n="consider_scores_of_zero">True</T>
+      <V n="off_lot_rule" t="enabled">
+        <V n="enabled" t="unlimited" />
+      </V>
+    </U>
+  </V>
+  <L n="preroll_affordances">
+    <T>233352<!--waypoint_Batuu_Wander_AroundNeighborhood--></T>
+  </L>
+  <L n="role_affordances">
+    <T>241611<!--batuu_Mission_SuperInteraction_Check_Surroundings_Suspicious--></T>
+  </L>
+</I>

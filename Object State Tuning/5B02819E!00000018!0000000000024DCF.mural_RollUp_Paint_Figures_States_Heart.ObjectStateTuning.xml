@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="mural_RollUp_Paint_Figures_States_Heart" s="150991">
+  <L n="_values">
+    <T>150912<!--mural_RollUp_Fig_Heart_Complete--></T>
+    <T>150913<!--mural_RollUp_Fig_Heart_Defaced--></T>
+    <T>150914<!--mural_RollUp_Fig_Heart_NotStarted--></T>
+    <T>150953<!--mural_RollUp_Fig_Heart_AToBase_0--></T>
+    <T>150955<!--mural_RollUp_Fig_Heart_AToBase_1--></T>
+    <T>150956<!--mural_RollUp_Fig_Heart_AToBase_2--></T>
+    <T>150957<!--mural_RollUp_Fig_Heart_AToBase_3--></T>
+    <T>150958<!--mural_RollUp_Fig_Heart_AToBase_4--></T>
+    <T>150960<!--mural_RollUp_Fig_Heart_BaseToLines_0--></T>
+    <T>150959<!--mural_RollUp_Fig_Heart_BaseToLines_1--></T>
+    <T>150961<!--mural_RollUp_Fig_Heart_BaseToLines_2--></T>
+    <T>150962<!--mural_RollUp_Fig_Heart_BaseToLines_3--></T>
+    <T>150963<!--mural_RollUp_Fig_Heart_BaseToLines_4--></T>
+    <T>150964<!--mural_RollUp_Fig_Heart_LinesToFinal_0--></T>
+    <T>150965<!--mural_RollUp_Fig_Heart_LinesToFinal_1--></T>
+    <T>150966<!--mural_RollUp_Fig_Heart_LinesToFinal_2--></T>
+    <T>150967<!--mural_RollUp_Fig_Heart_LinesToFinal_3--></T>
+    <T>150968<!--mural_RollUp_Fig_Heart_LinesToFinal_4--></T>
+  </L>
+  <T n="linked_stat">150993<!--commodity_Mural_Fig_Heart--></T>
+  <T n="persists_across_gallery">True</T>
+</I>

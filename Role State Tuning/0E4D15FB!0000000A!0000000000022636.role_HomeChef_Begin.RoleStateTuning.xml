@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RoleState" i="role_state" m="role.role_state" n="role_HomeChef_Begin" s="140854">
+  <L n="_buffs">
+    <U>
+      <T n="buff_type">101052<!--Buff_Role_Appropriateness_NoCallToMeal--></T>
+    </U>
+    <U>
+      <T n="buff_type">133051<!--buff_Role_Appropriateness_NoWorkout_BG--></T>
+    </U>
+    <U>
+      <T n="buff_type">131282<!--buff_Hidden_Chef_Cooking--></T>
+    </U>
+    <U>
+      <T n="buff_type">134458<!--buff_Role_Appropriateness_NoGrabSnack--></T>
+    </U>
+    <U>
+      <T n="buff_type">121942<!--buff_SuppressFrontPagePieMenu--></T>
+    </U>
+    <U>
+      <T n="buff_type">35391<!--Buff_Role_Appropriateness_NoStereo--></T>
+    </U>
+    <U>
+      <T n="buff_type">121359<!--buff_NPC_Suppress_All_Motive_Decay--></T>
+    </U>
+    <U>
+      <T n="buff_type">129759<!--Buff_Role_Appropriateness_NoDancing--></T>
+    </U>
+    <U>
+      <T n="buff_type">138206<!--buff_Role_Restaurant_Staff_SuppressSocializeAutonomously--></T>
+    </U>
+    <U>
+      <T n="buff_type">121359<!--buff_NPC_Suppress_All_Motive_Decay--></T>
+    </U>
+    <U>
+      <T n="buff_type">143429<!--buff_OwnableRestaurant_Employee_SkillGain_High_Gourmet--></T>
+    </U>
+    <U>
+      <T n="buff_type">143648<!--buff_Role_Restaurant_SuppressTraining--></T>
+    </U>
+    <U>
+      <T n="buff_type">143428<!--buff_OwnableRestaurant_Employee_SkillGain_High_Bartending--></T>
+    </U>
+    <U>
+      <T n="buff_type">143440<!--buff_OwnableRestaurant_Employee_SkillGain_Low_Gourmet--></T>
+    </U>
+    <U>
+      <T n="buff_type">143441<!--buff_OwnableRestaurant_Employee_SkillGain_Low_Bartending--></T>
+    </U>
+    <U>
+      <T n="buff_type">144763<!--buff_Restaurants_RestaurantAtWork--></T>
+    </U>
+    <U>
+      <T n="buff_type">185065<!--buff_Temperature_Immune_To_Temperature--></T>
+    </U>
+    <U>
+      <T n="buff_type">133753<!--buff_Chef_BeginState--></T>
+    </U>
+  </L>
+  <U n="_off_lot_autonomy_buff">
+    <T n="buff_type">38292<!--buff_offLotAutonomyMod_OnLotOnly--></T>
+  </U>
+  <V n="_on_activate" t="push_affordance">
+    <U n="push_affordance">
+      <T n="affordance">140476<!--chefStation_Begin_HomeChef--></T>
+      <T n="leave_situation_on_failure">True</T>
+      <E n="priority">High</E>
+      <E n="run_priority">High</E>
+      <E n="source">SCRIPT</E>
+      <E n="target">CRAFTED_OBJECT</E>
+    </U>
+  </V>
+  <L n="role_affordances">
+    <T>131062<!--chefStation_Compliment--></T>
+    <T>141301<!--chefStation_GetOut--></T>
+    <T>131067<!--chefStation_Insult--></T>
+    <T>137591<!--ownableBusiness_Employee_Socials_CheckUpOn--></T>
+    <T>137823<!--ownableRestaurant_Employee_Chef_CheckUpOn--></T>
+    <T>137819<!--ownableRestaurant_Employee_Chef_Criticize--></T>
+    <T>137818<!--ownableRestaurant_Employee_Chef_Inspire--></T>
+    <T>137817<!--ownableRestaurant_Employee_Chef_Praise--></T>
+    <T>137885<!--ownableRestaurant_Employee_Chef_AskToCook_Carefully--></T>
+    <T>137883<!--ownableRestaurant_Employee_Chef_AskToCook_Normally--></T>
+    <T>137884<!--ownableRestaurant_Employee_Chef_AskToCook_Quickly--></T>
+    <T>138186<!--ownableRestaurant_Employee_Chef_Career_Demote--></T>
+    <T>138185<!--ownableRestaurant_Employee_Chef_Career_Promote--></T>
+    <T>138032<!--ownableRestaurant_Employee_Chef_Training_Brief--></T>
+    <T>138034<!--ownableRestaurant_Employee_Chef_Training_Extensive--></T>
+    <T>138033<!--ownableRestaurant_Employee_Chef_Training_Standard--></T>
+    <T>142601<!--ownableRestaurant_Employee_Chef_Career_Fire--></T>
+    <T>137221<!--ownableBusiness_Employee_QuitAutonomous--></T>
+  </L>
+  <L n="tags">
+    <E>Role_RestaurantStaff</E>
+    <E>Role_VIPRope_Allowed</E>
+    <E>Role_ExcludeFromYogaAndMeditationClass</E>
+  </L>
+</I>

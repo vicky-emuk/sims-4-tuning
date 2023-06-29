@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="PopcornPopper_Serving_States" s="128949">
+  <L n="_values">
+    <T>128948<!--popcornPopper_ServingValues_Empty--></T>
+    <T>128947<!--popcornPopper_ServingValues_HalfWay--></T>
+    <T>128946<!--popcornPopper_ServingValues_Full--></T>
+    <T>130001<!--popcornPopper_ServingValues_Started--></T>
+  </L>
+  <T n="linked_stat">16672<!--statistic_Object_Consumable_Servings--></T>
+  <T n="persists_across_gallery">True</T>
+</I>

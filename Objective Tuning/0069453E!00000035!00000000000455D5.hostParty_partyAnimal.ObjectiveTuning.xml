@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Objective" i="objective" m="event_testing.objective_tuning" n="hostParty_partyAnimal" s="284117">
+  <L n="additional_tests">
+    <L>
+      <V t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>284112<!--trait_PartyAnimal--></T>
+          </L>
+        </U>
+      </V>
+      <V t="sim_info">
+        <U n="sim_info">
+          <V n="is_active_sim" t="enabled" />
+        </U>
+      </V>
+    </L>
+  </L>
+  <L n="completion_loot">
+    <T>292406<!--lootActions_Social_Media_Enable_HostingParty--></T>
+  </L>
+  <V n="objective_test" t="situation_running_test">
+    <U n="situation_running_test">
+      <T n="check_for_initiating_sim">True</T>
+      <V n="participant" t="enabled" />
+      <V n="situation_whitelist" t="enabled">
+        <L n="enabled">
+          <T>35077<!--Situation_BlackAndWhiteParty--></T>
+          <T>35078<!--Situation_CostumeParty--></T>
+          <T>16194<!--Situation_DinnerParty--></T>
+          <T>33294<!--Situation_HouseParty--></T>
+          <T>221796<!--Situation_KegParty--></T>
+          <T>31635<!--situation_birthday_party--></T>
+        </L>
+      </V>
+      <E n="test_event">SituationStarted</E>
+    </U>
+  </V>
+</I>

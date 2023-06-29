@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000036">
+  <Instances>
+    <I name="lifeMilestone_Retired" schema="DevelopmentalMilestone" type="Object">
+      <L name="ages">
+        <T type="Int64">64</T>
+      </L>
+      <T name="category">5</T>
+      <T name="icon">00B2D882-00000000-8EF3B288550D4E19</T>
+      <V name="is_primary_milestone" variant="0xB602B441" schema="DevelopmentalMilestoneIsPrimaryMilestone">
+        <T name="hint_text">0x2CBA2E4E</T>
+        <V name="revealable_name" variant="0xF8CBBF4C">
+          <T type="LocalizationKey">0x5264B00C</T>
+        </V>
+        <L name="tests">
+          <L type="Vector">
+            <V type="Variant" variant="0x8A63082E" schema="TunableTunableCareerTest">
+              <T name="negate">0</T>
+              <T name="subjects">1</T>
+              <V name="test_type" variant="0x85FC16E6" schema="TunableQuittableCareerTestFactory">
+                <T name="has_quittable_career">1</T>
+              </V>
+            </V>
+            <V type="Variant" variant="0xCB5FDDC7" schema="TunableTraitTest">
+              <T name="apply_thresholds_on_individual_basis">1</T>
+              <L name="blacklist_trait_types" />
+              <L name="blacklist_traits">
+                <T type="TableSetReference">245828</T>
+              </L>
+              <T name="num_blacklist_allowed">0</T>
+              <T name="num_whitelist_required">1</T>
+              <T name="subject">1</T>
+              <L name="whitelist_trait_types" />
+              <L name="whitelist_traits" />
+            </V>
+          </L>
+        </L>
+      </V>
+      <T name="name">0x49D1CA44</T>
+      <T name="ui_sort_order">125</T>
+      <T name="unlocked_text">0xEBFBD25E</T>
+      <T name="unlocked_text_no_context">0xEBFBD25E</T>
+      <T name="unlocked_text_target_sim_header">0x00000000</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="DevelopmentalMilestone" schema_hash="0x87ED1F96">
+      <Columns>
+        <Column name="ages" type="Vector" flags="0x00000000" />
+        <Column name="category" type="UInt32" flags="0x00000000" />
+        <Column name="icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="is_primary_milestone" type="Variant" flags="0x00000000" />
+        <Column name="name" type="LocalizationKey" flags="0x00000000" />
+        <Column name="ui_sort_order" type="Int32" flags="0x00000000" />
+        <Column name="unlocked_text" type="LocalizationKey" flags="0x00000000" />
+        <Column name="unlocked_text_no_context" type="LocalizationKey" flags="0x00000000" />
+        <Column name="unlocked_text_target_sim_header" type="LocalizationKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="DevelopmentalMilestoneIsPrimaryMilestone" schema_hash="0x14C33DFE">
+      <Columns>
+        <Column name="hint_text" type="LocalizationKey" flags="0x00000000" />
+        <Column name="revealable_name" type="Variant" flags="0x00000000" />
+        <Column name="tests" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableTunableCareerTest" schema_hash="0xE6AA1E55">
+      <Columns>
+        <Column name="negate" type="Boolean" flags="0x00000000" />
+        <Column name="subjects" type="Int64" flags="0x00000000" />
+        <Column name="test_type" type="Variant" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableQuittableCareerTestFactory" schema_hash="0xAE60688E">
+      <Columns>
+        <Column name="has_quittable_career" type="Boolean" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableTraitTest" schema_hash="0x7D5993BF">
+      <Columns>
+        <Column name="apply_thresholds_on_individual_basis" type="Boolean" flags="0x00000000" />
+        <Column name="blacklist_trait_types" type="Vector" flags="0x00000000" />
+        <Column name="blacklist_traits" type="Vector" flags="0x00000000" />
+        <Column name="num_blacklist_allowed" type="Int32" flags="0x00000000" />
+        <Column name="num_whitelist_required" type="Int32" flags="0x00000000" />
+        <Column name="subject" type="Int64" flags="0x00000000" />
+        <Column name="whitelist_trait_types" type="Vector" flags="0x00000000" />
+        <Column name="whitelist_traits" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

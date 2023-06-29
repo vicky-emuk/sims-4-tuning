@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x0000001E">
+  <Instances>
+    <I name="ecoFootprintStateIndustrial" schema="EcoFootprintState" type="Object">
+      <V name="_display_data" variant="0xC1A03855" />
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="EcoFootprintState" schema_hash="0x78720A2E">
+      <Columns>
+        <Column name="_display_data" type="Variant" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

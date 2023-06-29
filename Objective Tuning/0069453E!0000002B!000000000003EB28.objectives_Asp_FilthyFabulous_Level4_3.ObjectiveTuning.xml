@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Objective" i="objective" m="event_testing.objective_tuning" n="objectives_Asp_FilthyFabulous_Level4_3" s="256808">
+  <L n="completion_loot">
+    <T>273578<!--loot_Want_AspirationCompleted--></T>
+  </L>
+  <T n="display_text">0xC433B6D7<!--Appease a Filth Fiend with a Filth Tribute--></T>
+  <V n="objective_completion_type" t="iterations">
+    <U n="iterations">
+      <T n="iterations_required_to_pass">3</T>
+    </U>
+  </V>
+  <V n="objective_test" t="ran_interaction_test">
+    <U n="ran_interaction_test">
+      <L n="affordances">
+        <T>255211<!--dustFriends_Fiend_Appease--></T>
+      </L>
+    </U>
+  </V>
+  <T n="satisfaction_points">350</T>
+  <T n="tooltip">0x3C11FE18<!--Let your house get filthy enough for Filth Fiends to spawn and try to appease them with a filth tribute. Make them feel welcome in your filthy home!--></T>
+</I>

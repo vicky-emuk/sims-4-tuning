@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<M n="world.region" s="4821294259258492636">
+  <C n="Region">
+    <L n="REGION_DESCRIPTION_TUNING_MAP">
+      <U>
+        <T n="RegionDescription">117180</T>
+        <T n="Region">131195<!--region_BGDebug_MegaLotsTestWorld--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">117425<!--mixer_yogaMat_TreePose_Practice--></T>
+        <T n="Region">134252<!--region_Residential_CityLife--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">146196<!--situationJob_PenthouseNeighbors_Hangout_Munchies_KeyHolders_Glutton--></T>
+        <T n="Region">152175<!--region_Residential_VampireWorld--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">15740<!--recipe_Food_Gourmet_SandwichMonteCristo-Single--></T>
+        <T n="Region">104065<!--region_Residential_OasisSprings--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">160112</T>
+        <T n="Region">166547<!--region_Residential_PetWorld--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">176583</T>
+        <T n="Region">173593<!--region_Destination_Jungle--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">197663</T>
+        <T n="Region">195493<!--region_Residential_FameWorld--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">208768</T>
+        <T n="Region">201699<!--region_Residential_Strangetown--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">21141</T>
+        <T n="Region">104066<!--region_Debug_TestWorld--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">216823<!--situationJob_Object_Fashion_Studio_Tripod_Subject--></T>
+        <T n="Region">208308<!--region_Residential_IslandWorld--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">221598</T>
+        <T n="Region">208814<!--region_Residential_UniversityWorld--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">222656</T>
+        <T n="Region">216626<!--region_Residential_Magic--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">230656</T>
+        <T n="Region">219134<!--region_Hidden_Magic_Venue--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">235805<!--situation_Walkby_Batuu_Citizen--></T>
+        <T n="Region">228200<!--region_Residential_EcoWorld--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">239546<!--mixer_Starship_Motive_Energy--></T>
+        <T n="Region">231104<!--region_Destination_Batuu--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">246370<!--socials_Friendly_Skill_RockClimbing_OfferTips_Continuation--></T>
+        <T n="Region">238454<!--region_Residential_MountainWorld--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">263602<!--social_VillagerHelp_ScoldGroceryOwner--></T>
+        <T n="Region">257397<!--region_Residential_CottageWorld--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">287506</T>
+        <T n="Region">272129<!--region_Residential_WeddingWorld--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">290968<!--loot_Venue_ThriftStore_SetNeutralTrend_Rocker--></T>
+        <T n="Region">272365<!--region_Residential_HighSchoolWorld--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">310555<!--loot_SelfDiscovery_Reward_Skill_Perfectionist--></T>
+        <T n="Region">285909<!--region_Residential_WolfTown--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">31570<!--Whim_CookTroutMeuniere--></T>
+        <T n="Region">104068<!--region_Debug_PerfTest--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">326726</T>
+        <T n="Region">302872<!--region_Residential_BayArea--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">47880</T>
+        <T n="Region">104063<!--region_Hidden_SlyvanGlade--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">47902</T>
+        <T n="Region">104062<!--region_Hidden_ForgottenGrotto--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">62769</T>
+        <T n="Region">104067<!--region_Debug_Magalog--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">65983</T>
+        <T n="Region">104096<!--region_Destination_CampingForest--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">72179</T>
+        <T n="Region">108706<!--region_Career_PoliceStation--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">72479</T>
+        <T n="Region">108707<!--region_Career_ScienceLab--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">72480</T>
+        <T n="Region">108704<!--region_Career_Retail--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">72481</T>
+        <T n="Region">108705<!--region_Career_AlienWorld--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">8086</T>
+        <T n="Region">104064<!--region_Residential_WillowCreek--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">88224</T>
+        <T n="Region">109306<!--career_Career_DoctorClinic--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">92605</T>
+        <T n="Region">121398<!--region_Debug_TestWorld_GP02--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">93517</T>
+        <T n="Region">119917<!--region_Residential_Newcrest--></T>
+      </U>
+      <U>
+        <T n="RegionDescription">99995</T>
+        <T n="Region">123129<!--region_Residential_NorthEurope--></T>
+      </U>
+    </L>
+  </C>
+</M>

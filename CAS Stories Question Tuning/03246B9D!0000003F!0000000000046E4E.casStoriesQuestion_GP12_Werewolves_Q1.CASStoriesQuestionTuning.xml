@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CasStoriesQuestion" i="cas_stories_question" m="cas.cas_stories_question" n="casStoriesQuestion_GP12_Werewolves_Q1" s="290382">
+  <T n="icon" p="InGame\UI\Icons\Headlines\Final\headline_moonfull.png">2f7d0004:00000000:450291da50e9f540</T>
+  <E n="pack">GP12</E>
+  <L n="possible_answers">
+    <T>290648<!--casStoriesAnswer_GP12_Werewolves_Q1_Answer_A--></T>
+    <T>290649<!--casStoriesAnswer_GP12_Werewolves_Q1_Answer_B--></T>
+    <T>290650<!--casStoriesAnswer_GP12_Werewolves_Q1_Answer_C--></T>
+  </L>
+  <T n="text">0x9AF7A4<!--When the full moon rises...--></T>
+</I>

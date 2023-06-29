@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ClubInteractionGroup" i="club_interaction_group" m="clubs.club_tuning" n="clubInteractionGroup_FunAndGames_RecreationTable_Puzzles" s="317800">
+  <L n="affordances">
+    <T>307999<!--recreationTable_puzzles_craftingPhase_progress--></T>
+    <T>305428<!--recreationTable_puzzles_craftingProgress_joinNoCraft--></T>
+    <T>307421<!--recreationTable_puzzles_start_size01_animal--></T>
+    <T>317100<!--recreationTable_puzzles_start_size01_fntsy--></T>
+    <T>317098<!--recreationTable_puzzles_start_size01_landsc--></T>
+    <T>317099<!--recreationTable_puzzles_start_size01_scifi--></T>
+    <T>317262<!--recreationTable_puzzles_start_size02_animal--></T>
+    <T>317260<!--recreationTable_puzzles_start_size02_fntsy--></T>
+    <T>317261<!--recreationTable_puzzles_start_size02_landsc--></T>
+    <T>307594<!--recreationTable_puzzles_start_size02_scifi--></T>
+    <T>317264<!--recreationTable_puzzles_start_size03_animal--></T>
+    <T>317265<!--recreationTable_puzzles_start_size03_fntsy--></T>
+    <T>317266<!--recreationTable_puzzles_start_size03_landsc--></T>
+    <T>317267<!--recreationTable_puzzles_start_size03_scifi--></T>
+    <T>317342<!--recreationTable_puzzles_start_size04_animal--></T>
+    <T>317343<!--recreationTable_puzzles_start_size04_fntsy--></T>
+    <T>317344<!--recreationTable_puzzles_start_size04_landsc--></T>
+    <T>307606<!--recreationTable_puzzles_start_size04_puzzleByReference--></T>
+    <T>317345<!--recreationTable_puzzles_start_size04_scifi--></T>
+    <T>308432<!--craftingResume_recreationTable_puzzles--></T>
+  </L>
+  <E n="category">FUN_AND_GAMES</E>
+  <T n="category_icon" p="InEP13\UI\Icons\Headlines\headline_RecTableicon.png">2f7d0004:00000000:24b7a23609c8647d</T>
+  <T n="club_bucks_reward">2</T>
+  <T n="is_targeted">False</T>
+  <T n="name">0x37568D3C<!--Put Puzzles Together--></T>
+  <T n="tooltip_template">0x37568D3C<!--Put Puzzles Together--></T>
+  <T n="tooltip_template_negative">0x68607327<!--Don't Put Puzzles Together--></T>
+</I>

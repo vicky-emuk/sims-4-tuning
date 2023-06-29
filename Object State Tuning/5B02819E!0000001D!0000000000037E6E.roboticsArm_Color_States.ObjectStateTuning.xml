@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="roboticsArm_Color_States" s="228974">
+  <L n="_values">
+    <T>228960<!--roboticsArm_StateValues_Colors_BeigeWhite--></T>
+    <T>228961<!--roboticsArm_StateValues_Colors_BlackBlue--></T>
+    <T>228962<!--roboticsArm_StateValues_Colors_BlueRed--></T>
+    <T>228963<!--roboticsArm_StateValues_Colors_GrayBrown--></T>
+    <T>228964<!--roboticsArm_StateValues_Colors_GreenBrown--></T>
+    <T>228965<!--roboticsArm_StateValues_Colors_RedGreen--></T>
+    <T>228966<!--roboticsArm_StateValues_Colors_WhiteCopper--></T>
+  </L>
+</I>

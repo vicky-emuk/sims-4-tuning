@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x0000001D">
+  <Instances>
+    <I name="ArtsUniversity" schema="University" type="Object">
+      <V name="_display_data" variant="0x3BB04258" schema="OptionalDisplayMixinTunable">
+        <V name="instance_display_description" variant="0x60BA1D0C">
+          <T type="LocalizationKey">0x91D22A30</T>
+        </V>
+        <V name="instance_display_icon" variant="0x190202A5">
+          <T type="ResourceKey">00B2D882-00000000-CBD6500690A58EDA</T>
+        </V>
+        <V name="instance_display_name" variant="0x87E76EC3">
+          <T type="LocalizationKey">0xDD8A41D0</T>
+        </V>
+        <V name="instance_display_secondary_icon" variant="0xC1A03855" />
+        <V name="instance_display_tooltip" variant="0xC1A03855" />
+      </V>
+      <T name="mascot_label">Dragon</T>
+      <L name="organizations">
+        <T type="TableSetReference">219857</T>
+        <T type="TableSetReference">219854</T>
+        <T type="TableSetReference">219855</T>
+        <T type="TableSetReference">219859</T>
+      </L>
+      <L name="prestige_degrees">
+        <T type="TableSetReference">219552</T>
+        <T type="TableSetReference">219554</T>
+        <T type="TableSetReference">219556</T>
+        <T type="TableSetReference">219557</T>
+        <T type="TableSetReference">219559</T>
+        <T type="TableSetReference">219560</T>
+        <T type="TableSetReference">219561</T>
+      </L>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="University" schema_hash="0x17BBFFE4">
+      <Columns>
+        <Column name="_display_data" type="Variant" flags="0x00000000" />
+        <Column name="mascot_label" type="String" flags="0x00000000" />
+        <Column name="organizations" type="Vector" flags="0x00000000" />
+        <Column name="prestige_degrees" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="OptionalDisplayMixinTunable" schema_hash="0x2A90C3F5">
+      <Columns>
+        <Column name="instance_display_description" type="Variant" flags="0x00000000" />
+        <Column name="instance_display_icon" type="Variant" flags="0x00000000" />
+        <Column name="instance_display_name" type="Variant" flags="0x00000000" />
+        <Column name="instance_display_secondary_icon" type="Variant" flags="0x00000000" />
+        <Column name="instance_display_tooltip" type="Variant" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

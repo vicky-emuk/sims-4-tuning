@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CharacteristicPreferenceItem" i="cas_preference_item" m="cas.cas_preference_item" n="preferenceItem_Characteristic_Pessimist" s="308035">
+  <T n="cas_preference_category">307793<!--PreferenceCategory_Characteristic--></T>
+  <T n="dislike">306420<!--trait_SimPreference_Dislikes_Characteristic_Pessimist--></T>
+  <T n="like">305944<!--trait_SimPreference_Likes_Characteristic_Pessimist--></T>
+  <V n="tooltip" t="enabled">
+    <T n="enabled">0x11D260D8<!--Pessimistic Sims tend to have negative outlooks on life. Perhaps they feel sad often, or maybe they assume the worst about those closest to them.\n\nLiking Pessimistic Sims means other Sims with traits like <b>Gloomy</b>, <b>Jealous</b>, or <b>Hates Children</b> will gain some compatibility with your Sim. However, traits like <b>Cheerful</b> will lower their compatibility with your Sim.--></T>
+  </V>
+  <L n="trait_map">
+    <U>
+      <T n="key">124879<!--trait_Jealous--></T>
+      <T n="value">3</T>
+    </U>
+    <U>
+      <T n="key">16836<!--trait_Evil--></T>
+      <T n="value">3</T>
+    </U>
+    <U>
+      <T n="key">16844<!--trait_HatesChildren--></T>
+      <T n="value">3</T>
+    </U>
+    <U>
+      <T n="key">203542<!--trait_Paranoid--></T>
+      <T n="value">3</T>
+    </U>
+    <U>
+      <T n="key">27915<!--trait_Good--></T>
+      <T n="value">-1</T>
+    </U>
+    <U>
+      <T n="key">9322<!--trait_Cheerful--></T>
+      <T n="value">-1</T>
+    </U>
+    <U>
+      <T n="key">9332<!--trait_Gloomy--></T>
+      <T n="value">3</T>
+    </U>
+  </L>
+</I>

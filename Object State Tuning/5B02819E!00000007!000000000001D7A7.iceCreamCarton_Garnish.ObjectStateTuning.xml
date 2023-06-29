@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="iceCreamCarton_Garnish" s="120743">
+  <L n="_values">
+    <T>120727<!--iceCreamCarton_Garnish_BananaSlices--></T>
+    <T>120726<!--iceCreamCarton_Garnish_CinnamonStick--></T>
+    <T>120724<!--iceCreamCarton_Garnish_Flower--></T>
+    <T>120720<!--iceCreamCarton_Garnish_Leaves--></T>
+    <T>120718<!--iceCreamCarton_Garnish_None--></T>
+    <T>120728<!--iceCreamCarton_Garnish_Nuts--></T>
+    <T>120722<!--iceCreamCarton_Garnish_OrangeSlice--></T>
+    <T>120723<!--iceCreamCarton_Garnish_PeppermintStick--></T>
+    <T>120719<!--iceCreamCarton_Garnish_Sprinkles--></T>
+    <T>120721<!--iceCreamCarton_Garnish_Strawberry--></T>
+    <T>120725<!--iceCreamCarton_Garnish_Wafflepiece--></T>
+  </L>
+</I>

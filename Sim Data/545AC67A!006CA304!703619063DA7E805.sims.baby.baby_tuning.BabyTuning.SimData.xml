@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000000">
+  <Instances>
+    <I name="sims.baby.baby_tuning.BabyTuning" schema="sims.baby.baby_tuning.BabyTuning" type="Object">
+      <T name="BABY_THUMBNAIL_DEFINITION">62095</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="sims.baby.baby_tuning.BabyTuning" schema_hash="0x1BD7A8C9">
+      <Columns>
+        <Column name="BABY_THUMBNAIL_DEFINITION" type="UInt32" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

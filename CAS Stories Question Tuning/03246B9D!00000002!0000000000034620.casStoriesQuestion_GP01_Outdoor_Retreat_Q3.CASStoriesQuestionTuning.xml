@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CasStoriesQuestion" i="cas_stories_question" m="cas.cas_stories_question" n="casStoriesQuestion_GP01_Outdoor_Retreat_Q3" s="214560">
+  <T n="icon" p="InGP01\UI\Icons\Headlines\Headline_HermitHerbalistSpeechBalloon4.png">2f7d0004:00000000:68b812b37a2c5830</T>
+  <L n="possible_answers">
+    <T>214563<!--casStoriesAnswer_GP01_Outdoor_Retreat_Q3_Answer_A--></T>
+    <T>214564<!--casStoriesAnswer_GP01_Outdoor_Retreat_Q3_Answer_B--></T>
+    <T>214565<!--casStoriesAnswer_GP01_Outdoor_Retreat_Q3_Answer_C--></T>
+  </L>
+  <T n="text">0x63E404BF<!--I've found a strange plant outside. What do I do?--></T>
+</I>

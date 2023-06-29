@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SimReward" i="reward" m="rewards.reward" n="rewards_Career_Critic_Food_Level7" s="140961">
+  <T n="icon" p="InGame\UI\Icons\Headlines\Final\headline_careerpromotion.png">2f7d0004:00000000:a6ed756af9cb04a1</T>
+  <T n="name">0x7E9CB522<!--Painting--></T>
+  <V n="reward_description" t="enabled">
+    <T n="enabled">0x9A909927</T>
+  </V>
+  <L n="rewards">
+    <V t="specific_reward">
+      <V n="specific_reward" t="build_buy_object">
+        <U n="build_buy_object">
+          <T n="object_definition">129021<!--buff_Object_Movie_SilverScreenMasterpiece--></T>
+        </U>
+      </V>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">129021<!--paintWall1x1x3_EP03RWfoodCritic_set1 (This Cake is No Lie Wall Painting)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">137137<!--paintWall1x1x3_EP03RWfoodCritic_set2 (This Cake is No Lie Wall Painting)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">137138<!--paintWall1x1x3_EP03RWfoodCritic_set3 (This Cake is No Lie Wall Painting)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">137139<!--paintWall1x1x3_EP03RWfoodCritic_set4 (This Cake is No Lie Wall Painting)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">137140<!--paintWall1x1x3_EP03RWfoodCritic_set5 (This Cake is No Lie Wall Painting)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">137141<!--paintWall1x1x3_EP03RWfoodCritic_set6 (This Cake is No Lie Wall Painting)--></T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="money">
+        <U n="money">
+          <V n="money" t="literal">
+            <U n="literal">
+              <T n="value">986</T>
+            </U>
+          </V>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="bucks">
+        <U n="bucks">
+          <T n="amount">5</T>
+          <E n="bucks_type">InfluenceBuck</E>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

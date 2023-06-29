@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalRanInteractionOnTargetedSim" i="situation_goal" m="situations.situation_goal_targeted_sim" n="situationGoalInteractionSim_Career_Doctor_GreetPatients_3" s="112660">
+  <V n="_display_data" t="enabled">
+    <U n="enabled">
+      <V n="instance_display_icon" t="enabled">
+        <T n="enabled" p="InGame\UI\Icons\Events\EventGoal_Socialize.png">2f7d0004:00000000:21835a4b8238b2fa</T>
+      </V>
+      <V n="instance_display_name" t="enabled">
+        <T n="enabled">0x35879115<!--Greet 3 Patients--></T>
+      </V>
+      <V n="instance_display_tooltip" t="enabled">
+        <T n="enabled">0x85068376<!--A visit to the clinic can be scary for an ailing patient. Ease their nerves with a simple introduction.--></T>
+      </V>
+    </U>
+  </V>
+  <U n="_goal_test">
+    <L n="affordances">
+      <T>26177<!--mixer_social_FriendlyIntroduction_greetings--></T>
+      <T>26178<!--mixer_social_FunnyIntroduction_greetings--></T>
+      <T>26179<!--mixer_social_RudeIntroduction_greetings--></T>
+      <T>26181<!--mixer_social_CheerfulIntroduction_greetings_skills--></T>
+      <T>26182<!--mixer_social_EnchantingIntroduction_greetings_skills--></T>
+      <T>26180<!--mixer_social_FlirtyIntroduction_greetings_skills--></T>
+      <T>32047<!--mixer_social_HilariousIcebreaker_greetings--></T>
+      <T>178782<!--mixer_social_AirKissCheekIntroduction--></T>
+      <T>286301<!--mixer_social_FriendlyIntroduction_greetings_Werewolf--></T>
+      <T>251461<!--mixer_social_RespectfulIntroduction_greetings--></T>
+      <T>194021<!--mixer_social_FamePerk_InstantBesties_FriendlyIntroduction_greetings--></T>
+      <T>207456<!--mixer_social_MilitaryIntroduction_greetings--></T>
+      <T>160860<!--mixer_social_PoliteIntroduction_greetings_skills--></T>
+      <T>254626<!--socialMixer_Greetings_BowGreeting--></T>
+    </L>
+    <E n="test_event">InteractionComplete</E>
+  </U>
+  <T n="_iterations">3</T>
+  <T n="_score">6</T>
+  <T n="_select_all_instantiated_sims">True</T>
+  <E n="_target_option">PlayerChoice</E>
+  <L n="_target_tests">
+    <V t="buff">
+      <U n="buff">
+        <V n="whitelist" t="enabled">
+          <L n="enabled">
+            <T>113744<!--buff_Role_DoctorCareer_isPatient_lowLevel--></T>
+            <T>113779<!--buff_Role_DoctorCareer_isPatient_highLevel--></T>
+            <T>115284<!--buff_Role_DoctorCareer_isPatient_diagnosed_BloatyHead--></T>
+            <T>115282<!--buff_Role_DoctorCareer_isPatient_diagnosed_GasAndGiggles--></T>
+            <T>115281<!--buff_Role_DoctorCareer_isPatient_diagnosed_LlamaFlu--></T>
+            <T>115283<!--buff_Role_DoctorCareer_isPatient_diagnosed_StarryEyes--></T>
+            <T>115269<!--buff_Role_DoctorCareer_isPatient_lowLevel_Admitted--></T>
+            <T>114080<!--buff_Role_DoctorCareer_isPatient_Pregnant--></T>
+          </L>
+        </V>
+      </U>
+    </V>
+  </L>
+  <T n="audio_sting_on_complete" p="InGame\Audio\Bumper\bumper_event_goal_complete.propx">39b2aa4a:00000000:ed52c39bcc2a7111</T>
+</I>

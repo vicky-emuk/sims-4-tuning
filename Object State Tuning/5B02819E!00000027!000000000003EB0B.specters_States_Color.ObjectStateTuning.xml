@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="specters_States_Color" s="256779">
+  <L n="_values">
+    <T>256777<!--specters_Values_Color_Blue--></T>
+    <T>256778<!--specters_Values_Color_Green--></T>
+    <T>256775<!--specters_Values_Color_Red--></T>
+    <T>256776<!--specters_Values_Color_Yellow--></T>
+  </L>
+</I>

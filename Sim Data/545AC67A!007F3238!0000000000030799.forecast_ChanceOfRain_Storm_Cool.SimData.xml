@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x0000001A">
+  <Instances>
+    <I name="forecast_ChanceOfRain_Storm_Cool" schema="WeatherForecast" type="Object">
+      <T name="calendar_icon">00B2D882-00000000-2906DC330AEB02F2</T>
+      <T name="calendar_icon_large">00B2D882-00000000-1211FC39CCAF24D6</T>
+      <T name="calendar_icon_mascot">00B2D882-00000000-80C2D99A52AEA659</T>
+      <T name="forecast_description">0xE5E4C2CF</T>
+      <T name="forecast_name">0x8CE70096</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="WeatherForecast" schema_hash="0x86E8C335">
+      <Columns>
+        <Column name="calendar_icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="calendar_icon_large" type="ResourceKey" flags="0x00000000" />
+        <Column name="calendar_icon_mascot" type="ResourceKey" flags="0x00000000" />
+        <Column name="forecast_description" type="LocalizationKey" flags="0x00000000" />
+        <Column name="forecast_name" type="LocalizationKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

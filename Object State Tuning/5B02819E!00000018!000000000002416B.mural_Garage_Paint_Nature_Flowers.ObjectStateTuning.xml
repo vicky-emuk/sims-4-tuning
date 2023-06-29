@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="mural_Garage_Paint_Nature_Flowers" s="147819">
+  <L n="_values">
+    <T>147986<!--mural_Garage_Flowers_Complete--></T>
+    <T>147987<!--mural_Garage_Flowers_Defaced--></T>
+    <T>147988<!--mural_Garage_Flowers_NotStarted--></T>
+    <T>147990<!--mural_Garage_Flowers_AToBase_0--></T>
+    <T>147991<!--mural_Garage_Flowers_AToBase_1--></T>
+    <T>147992<!--mural_Garage_Flowers_AToBase_2--></T>
+    <T>147993<!--mural_Garage_Flowers_AToBase_3--></T>
+    <T>147994<!--mural_Garage_Flowers_AToBase_4--></T>
+    <T>147996<!--Mural_Garage_Flowers_BaseToLines_0--></T>
+    <T>147997<!--Mural_Garage_Flowers_BaseToLines_1--></T>
+    <T>147998<!--Mural_Garage_Flowers_BaseToLines_2--></T>
+    <T>147999<!--Mural_Garage_Flowers_BaseToLines_3--></T>
+    <T>148000<!--Mural_Garage_Flowers_BaseToLines_4--></T>
+    <T>148002<!--mural_Garage_Flowers_LinestoFinal_0--></T>
+    <T>148003<!--mural_Garage_Flowers_LinestoFinal_1--></T>
+    <T>148004<!--mural_Garage_Flowers_LinestoFinal_2--></T>
+    <T>148005<!--mural_Garage_Flowers_LinestoFinal_3--></T>
+    <T>148006<!--mural_Garage_Flowers_LinestoFinal_4--></T>
+  </L>
+  <T n="linked_stat">146762<!--commodity_Mural_Flowers--></T>
+  <T n="persists_across_gallery">True</T>
+</I>

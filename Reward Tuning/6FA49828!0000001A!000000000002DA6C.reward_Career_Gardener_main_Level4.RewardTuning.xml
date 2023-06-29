@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SimReward" i="reward" m="rewards.reward" n="reward_Career_Gardener_main_Level4" s="186988">
+  <T n="icon" p="InGame\UI\Icons\Headlines\Final\headline_careerpromotion.png">2f7d0004:00000000:a6ed756af9cb04a1</T>
+  <T n="name">0x9A909927</T>
+  <V n="reward_description" t="enabled">
+    <T n="enabled">0x9A909927</T>
+  </V>
+  <L n="rewards">
+    <V t="specific_reward">
+      <V n="specific_reward" t="money">
+        <U n="money">
+          <V n="money" t="literal">
+            <U n="literal">
+              <T n="value">500</T>
+            </U>
+          </V>
+        </U>
+      </V>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">62723<!--seedPacket_Garden_Starter_Deluxe_FlowersFruit (Farmer Flowers and Fruit)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">62724<!--seedPacket_Garden_Starter_Deluxe_VegetablesHerbs (Farmer Veggies and Herbs)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">188702<!--seedPacket_Garden_EP05_spring (Seasonal Spring Plants)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">188697<!--seedPacket_Garden_EP05_summer (Seasonal Summer Plants)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">188699<!--seedPacket_Garden_EP05_fall (Seasonal Fall Plants)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">188700<!--seedPacket_Garden_EP05_winter (Seasonal Winter Plants)--></T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">188618<!--sprinklerFloor3x3_EP05GEN_set1 (Sprinkle-O-Matic 2001)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">193188<!--sprinklerFloor3x3_EP05GEN_set2 (Sprinkle-O-Matic 2001)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">193189<!--sprinklerFloor3x3_EP05GEN_set3 (Sprinkle-O-Matic 2001)--></T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">38082<!--decalWallBBYTree2x1x2_01_set1 (#1 Mom Wall Decal)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">38083<!--decalWallBBYTree2x1x2_01_set2 (#1 Mom Wall Decal)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">38084<!--decalWallBBYTree2x1x2_01_set3 (#1 Mom Wall Decal)--></T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="bucks">
+        <U n="bucks">
+          <T n="amount">5</T>
+          <E n="bucks_type">InfluenceBuck</E>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

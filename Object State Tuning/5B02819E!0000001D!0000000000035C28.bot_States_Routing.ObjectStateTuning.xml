@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="bot_States_Routing" s="220200">
+  <L n="_values">
+    <T>220900<!--bot_StateValues_Routing_Follow--></T>
+    <T>220901<!--bot_StateValues_Routing_GetClose--></T>
+    <T>222290<!--bot_StateValues_Routing_RouteToTarget--></T>
+    <T>222291<!--bot_StateValues_Routing_Stop--></T>
+    <T>222292<!--bot_StateValues_Routing_Wander--></T>
+    <T>222441<!--bot_StateValues_Routing_Requeue--></T>
+    <T>226533<!--bot_StateValues_Routing_ExhibitionEvent--></T>
+    <T>222330<!--bot_StateValues_Routing_Land--></T>
+    <T>228262<!--bot_StateValues_Routing_Land_Charge--></T>
+    <T>228354<!--bot_StateValues_Routing_Sell--></T>
+    <T>229713<!--bot_StateValues_Routing_Land_Broken--></T>
+    <T>230045<!--bot_StateValues_Routing_Wander_LowBattery--></T>
+  </L>
+</I>

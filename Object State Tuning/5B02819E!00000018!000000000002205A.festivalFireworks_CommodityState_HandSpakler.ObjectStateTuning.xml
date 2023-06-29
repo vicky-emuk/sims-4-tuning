@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="festivalFireworks_CommodityState_HandSpakler" s="139354">
+  <L n="_values">
+    <T>139352<!--festivalFireworks_Values_HandSparkler_Unlit--></T>
+    <T>139351<!--festivalFireworks_Values_HandSparkler_Active--></T>
+    <T>139350<!--festivalFireworks_Values_HandSparkler_Spent--></T>
+  </L>
+  <T n="linked_stat">143690<!--commodity_FestivalFireworks_SparklerTimer--></T>
+</I>

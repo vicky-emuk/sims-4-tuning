@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="stereo_States_Bot" s="223536">
+  <L n="_values">
+    <T>223487<!--stereoChannel_Alt_Bot--></T>
+    <T>223488<!--stereoChannel_Blues_Blot--></T>
+    <T>223489<!--stereoChannel_Classical_Bot--></T>
+    <T>223490<!--stereoChannel_Electro_Bot--></T>
+    <T>223491<!--stereoChannel_KidsRadio_Bot--></T>
+    <T>223492<!--stereoChannel_Lullabies_Bot--></T>
+    <T>223493<!--stereoChannel_Pop_Bot--></T>
+    <T>223494<!--stereoChannel_Retro_Bot--></T>
+    <T>223511<!--stereoChannel_Romance_Bot--></T>
+    <T>223512<!--stereoChannel_Spooky_Bot--></T>
+    <T>223513<!--stereoChannel_WinterHoliday_Bot--></T>
+    <T>223514<!--stereoChannel_HospitalMusic_Bot--></T>
+    <T>223515<!--stereoChannel_Backyard_Bot--></T>
+    <T>223516<!--stereoChannel_NewAge_Bot--></T>
+    <T>223517<!--stereoChannel_DinnerJazz_Bot--></T>
+    <T>223518<!--stereoChannel_Baroque_Bot--></T>
+    <T>223519<!--stereoChannel_Tween_Bot--></T>
+    <T>223520<!--stereoChannel_Disco_Pop_Bot--></T>
+    <T>223521<!--stereoChannel_Latin_Bot--></T>
+    <T>223522<!--stereoChannel_LatinPop_Bot--></T>
+    <T>223523<!--stereoChannel_StrangeTunes_Bot--></T>
+    <T>238271<!--stereoChannel_Americana_Bot--></T>
+    <T>223525<!--stereoChannel_CulturalWorld_Bot--></T>
+    <T>223526<!--stereoChannel_SPop_Bot--></T>
+    <T>223527<!--stereoChannel_TalkRadio_Bot--></T>
+    <T>223528<!--stereoChannel_SingerSongWriter_Bot--></T>
+    <T>223529<!--stereoChannel_SummerStrut_Bot--></T>
+    <T>223530<!--stereoChannel_HipHop_Bot--></T>
+    <T>223531<!--stereoChannel_Island_Bot--></T>
+    <T>223655<!--stereoChannel_Off_Bot--></T>
+    <T>240056<!--stereoChannel_Focus_Bot--></T>
+    <T>240065<!--stereoChannel_Metal_Bot--></T>
+    <T>246206<!--stereoChannel_JFolk_Bot--></T>
+    <T>247519<!--stereoChannel_Batuu_Bot--></T>
+    <T>270461<!--stereoChannel_CottageCore_Bot--></T>
+    <T>282829<!--stereoChannel_MixedMusic_Bot--></T>
+    <T>312474<!--stereoChannel_Oldies_Bot--></T>
+    <T>282819<!--stereoChannel_Brazilian_Bot--></T>
+  </L>
+</I>

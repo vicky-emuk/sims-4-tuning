@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="upgrade_StreamingDrone_VideoQuality" s="194521">
+  <L n="_values">
+    <T>194535<!--upgrade_StreamingDrone_VideoQuality_Partial--></T>
+    <T>194534<!--upgrade_StreamingDrone_VideoQuality_NotStarted--></T>
+    <T>194533<!--upgrade_StreamingDrone_VideoQuality_Completed--></T>
+  </L>
+  <T n="linked_stat">194538<!--statistic_Object_Upgrade_StreamingDrone_VideoQuality--></T>
+  <T n="persists_across_gallery">True</T>
+</I>

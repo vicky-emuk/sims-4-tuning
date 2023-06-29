@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="GiantCrops_Plant_Growth" s="259270">
+  <L n="_values">
+    <T>259264<!--giantCrops_Plant_Growth_Planted--></T>
+    <T>259265<!--giantCrops_Plant_Growth_Sprout--></T>
+    <T>259266<!--giantCrops_Plant_Growth_Maturing1--></T>
+    <T>259267<!--giantCrops_Plant_Growth_Maturing2--></T>
+    <T>259268<!--giantCrops_Plant_Growth_Blossoming--></T>
+  </L>
+  <T n="linked_stat">16600<!--commodity_Gardening_Growth--></T>
+  <T n="persists_across_gallery">True</T>
+</I>

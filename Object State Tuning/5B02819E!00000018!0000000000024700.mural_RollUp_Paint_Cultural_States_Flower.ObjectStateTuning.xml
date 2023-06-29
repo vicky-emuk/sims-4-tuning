@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="mural_RollUp_Paint_Cultural_States_Flower" s="149248">
+  <L n="_values">
+    <T>149062<!--mural_RollUp_CulFlower_LinestoFinal_4--></T>
+    <T>149058<!--mural_RollUp_CulFlower_LinestoFinal_0--></T>
+    <T>149059<!--mural_RollUp_CulFlower_LinestoFinal_1--></T>
+    <T>149060<!--mural_RollUp_CulFlower_LinestoFinal_2--></T>
+    <T>149061<!--mural_RollUp_CulFlower_LinestoFinal_3--></T>
+    <T>149056<!--Mural_RollUp_CulFlower_BaseToLines_4--></T>
+    <T>149052<!--Mural_RollUp_CulFlower_BaseToLines_0--></T>
+    <T>149053<!--Mural_RollUp_CulFlower_BaseToLines_1--></T>
+    <T>149054<!--Mural_RollUp_CulFlower_BaseToLines_2--></T>
+    <T>149055<!--Mural_RollUp_CulFlower_BaseToLines_3--></T>
+    <T>149050<!--mural_RollUp_CulFlower_AToBase_4--></T>
+    <T>149046<!--mural_RollUp_CulFlower_AToBase_0--></T>
+    <T>149047<!--mural_RollUp_CulFlower_AToBase_1--></T>
+    <T>149048<!--mural_RollUp_CulFlower_AToBase_2--></T>
+    <T>149049<!--mural_RollUp_CulFlower_AToBase_3--></T>
+    <T>149044<!--mural_RollUp_CulFlower_NotStarted--></T>
+    <T>149042<!--mural_RollUp_CulFlower_Complete--></T>
+    <T>149043<!--mural_RollUp_CulFlower_Defaced--></T>
+  </L>
+  <T n="linked_stat">149262<!--commodity_RollUp_Cul_Flower--></T>
+  <T n="persists_across_gallery">True</T>
+</I>

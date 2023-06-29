@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x0000001D">
+  <Instances>
+    <I name="University_Organization_Art" schema="Organization" type="Object">
+      <V name="_display_data" variant="0x3BB04258" schema="OptionalDisplayMixinTunable">
+        <V name="instance_display_description" variant="0x60BA1D0C">
+          <T type="LocalizationKey">0xF4970219</T>
+        </V>
+        <V name="instance_display_icon" variant="0x190202A5">
+          <T type="ResourceKey">00B2D882-00000000-305241C21BB86EE3</T>
+        </V>
+        <V name="instance_display_name" variant="0x87E76EC3">
+          <T type="LocalizationKey">0x669845BA</T>
+        </V>
+        <V name="instance_display_secondary_icon" variant="0xC1A03855" />
+        <V name="instance_display_tooltip" variant="0xC1A03855" />
+      </V>
+      <T name="hidden">0</T>
+      <T name="progress_statistic">217889</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="Organization" schema_hash="0xEE881478">
+      <Columns>
+        <Column name="_display_data" type="Variant" flags="0x00000000" />
+        <Column name="hidden" type="Boolean" flags="0x00000000" />
+        <Column name="progress_statistic" type="TableSetReference" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="OptionalDisplayMixinTunable" schema_hash="0x2A90C3F5">
+      <Columns>
+        <Column name="instance_display_description" type="Variant" flags="0x00000000" />
+        <Column name="instance_display_icon" type="Variant" flags="0x00000000" />
+        <Column name="instance_display_name" type="Variant" flags="0x00000000" />
+        <Column name="instance_display_secondary_icon" type="Variant" flags="0x00000000" />
+        <Column name="instance_display_tooltip" type="Variant" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

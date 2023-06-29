@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000036">
+  <Instances>
+    <I name="lifeMilestone_FirstPromotion" schema="DevelopmentalMilestone" type="Object">
+      <L name="ages">
+        <T type="Int64">8</T>
+        <T type="Int64">16</T>
+        <T type="Int64">32</T>
+        <T type="Int64">64</T>
+      </L>
+      <T name="category">4</T>
+      <T name="icon">00B2D882-00000000-408082BF11618A7B</T>
+      <V name="is_primary_milestone" variant="0xB602B441" schema="DevelopmentalMilestoneIsPrimaryMilestone">
+        <T name="hint_text">0x83414D66</T>
+        <V name="revealable_name" variant="0xF8CBBF4C">
+          <T type="LocalizationKey">0x5D90AC54</T>
+        </V>
+        <L name="tests">
+          <L type="Vector">
+            <V type="Variant" variant="0x8A63082E" schema="TunableTunableCareerTest">
+              <T name="negate">0</T>
+              <T name="subjects">1</T>
+              <V name="test_type" variant="0x62DB6734" schema="TunableHasCareerTestFactory">
+                <T name="has_career">1</T>
+                <V name="story_progression_requirement" variant="0xC1A03855" />
+                <V name="tooltip" variant="0xC1A03855" />
+              </V>
+            </V>
+            <V type="Variant" variant="0xCB5FDDC7" schema="TunableTraitTest">
+              <T name="apply_thresholds_on_individual_basis">1</T>
+              <L name="blacklist_trait_types" />
+              <L name="blacklist_traits">
+                <T type="TableSetReference">9599</T>
+                <T type="TableSetReference">285387</T>
+              </L>
+              <T name="num_blacklist_allowed">0</T>
+              <T name="num_whitelist_required">1</T>
+              <T name="subject">1</T>
+              <L name="whitelist_trait_types" />
+              <L name="whitelist_traits" />
+            </V>
+            <V type="Variant" variant="0x8A63082E" schema="TunableTunableCareerTest">
+              <T name="negate">0</T>
+              <T name="subjects">1</T>
+              <V name="test_type" variant="0x45441CC5" schema="TunableCareerReferenceTestFactory">
+                <T name="allow_invisible_careers">0</T>
+                <L name="blacklist">
+                  <T type="TableSetReference">12895</T>
+                  <T type="TableSetReference">9541</T>
+                  <T type="TableSetReference">209979</T>
+                  <T type="TableSetReference">209984</T>
+                  <T type="TableSetReference">209988</T>
+                  <T type="TableSetReference">209989</T>
+                  <T type="TableSetReference">223698</T>
+                </L>
+                <V name="career" variant="0x042342F2" />
+                <L name="career_list" />
+                <V name="user_level" variant="0xC1A03855" />
+              </V>
+            </V>
+          </L>
+        </L>
+      </V>
+      <T name="name">0x0DAA4FAC</T>
+      <T name="ui_sort_order">110</T>
+      <T name="unlocked_text">0xE05583DC</T>
+      <T name="unlocked_text_no_context">0x8AC3D356</T>
+      <T name="unlocked_text_target_sim_header">0x00000000</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="DevelopmentalMilestone" schema_hash="0x87ED1F96">
+      <Columns>
+        <Column name="ages" type="Vector" flags="0x00000000" />
+        <Column name="category" type="UInt32" flags="0x00000000" />
+        <Column name="icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="is_primary_milestone" type="Variant" flags="0x00000000" />
+        <Column name="name" type="LocalizationKey" flags="0x00000000" />
+        <Column name="ui_sort_order" type="Int32" flags="0x00000000" />
+        <Column name="unlocked_text" type="LocalizationKey" flags="0x00000000" />
+        <Column name="unlocked_text_no_context" type="LocalizationKey" flags="0x00000000" />
+        <Column name="unlocked_text_target_sim_header" type="LocalizationKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="DevelopmentalMilestoneIsPrimaryMilestone" schema_hash="0x14C33DFE">
+      <Columns>
+        <Column name="hint_text" type="LocalizationKey" flags="0x00000000" />
+        <Column name="revealable_name" type="Variant" flags="0x00000000" />
+        <Column name="tests" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableTunableCareerTest" schema_hash="0xE6AA1E55">
+      <Columns>
+        <Column name="negate" type="Boolean" flags="0x00000000" />
+        <Column name="subjects" type="Int64" flags="0x00000000" />
+        <Column name="test_type" type="Variant" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableHasCareerTestFactory" schema_hash="0xC591D5A3">
+      <Columns>
+        <Column name="has_career" type="Boolean" flags="0x00000000" />
+        <Column name="story_progression_requirement" type="Variant" flags="0x00000000" />
+        <Column name="tooltip" type="Variant" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableTraitTest" schema_hash="0x7D5993BF">
+      <Columns>
+        <Column name="apply_thresholds_on_individual_basis" type="Boolean" flags="0x00000000" />
+        <Column name="blacklist_trait_types" type="Vector" flags="0x00000000" />
+        <Column name="blacklist_traits" type="Vector" flags="0x00000000" />
+        <Column name="num_blacklist_allowed" type="Int32" flags="0x00000000" />
+        <Column name="num_whitelist_required" type="Int32" flags="0x00000000" />
+        <Column name="subject" type="Int64" flags="0x00000000" />
+        <Column name="whitelist_trait_types" type="Vector" flags="0x00000000" />
+        <Column name="whitelist_traits" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableCareerReferenceTestFactory" schema_hash="0xE0D891BA">
+      <Columns>
+        <Column name="allow_invisible_careers" type="Boolean" flags="0x00000000" />
+        <Column name="blacklist" type="Vector" flags="0x00000000" />
+        <Column name="career" type="Variant" flags="0x00000000" />
+        <Column name="career_list" type="Vector" flags="0x00000000" />
+        <Column name="user_level" type="Variant" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

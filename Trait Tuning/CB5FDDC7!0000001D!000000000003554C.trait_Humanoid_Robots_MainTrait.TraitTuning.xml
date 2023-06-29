@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="trait_Humanoid_Robots_MainTrait" s="218444">
+  <L n="ages">
+    <E>YOUNGADULT</E>
+    <E>INFANT</E>
+  </L>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">219638<!--buff_Humanoid_Robots_MainBuff--></T>
+    </U>
+    <U>
+      <T n="buff_type">185065<!--buff_Temperature_Immune_To_Temperature--></T>
+    </U>
+  </L>
+  <T n="buffs_add_on_spawn_only">False</T>
+  <L n="conflicting_traits">
+    <T>102785<!--trait_OccultAlien--></T>
+    <T>149527<!--trait_OccultVampire--></T>
+    <T>213050<!--trait_Occult_WitchOccult--></T>
+    <T>199043<!--trait_OccultMermaid--></T>
+    <T>162668<!--trait_PlantSim--></T>
+    <T>27176<!--trait_Foodie--></T>
+    <T>16843<!--trait_Glutton--></T>
+    <T>102336<!--trait_Squeamish--></T>
+    <T>132627<!--trait_Vegetarian--></T>
+    <T>204493<!--trait_ChildoftheOcean--></T>
+    <T>26388<!--trait_Antiseptic--></T>
+    <T>26498<!--trait_Fertile--></T>
+    <T>183037<!--trait_ForeverFresh--></T>
+    <T>183035<!--trait_ForeverFull--></T>
+    <T>26427<!--trait_GymRat--></T>
+    <T>26389<!--trait_HardlyHungry--></T>
+    <T>26392<!--trait_NeverWeary--></T>
+    <T>26391<!--trait_SteelBladder--></T>
+    <T>183508<!--trait_Temperature_BurningMan--></T>
+    <T>183505<!--trait_Temperature_ColdAcclimation--></T>
+    <T>183506<!--trait_Temperature_HeatAcclimation--></T>
+    <T>183507<!--trait_Temperature_IceMan--></T>
+    <T>185794<!--trait_Waterproof--></T>
+    <T>204492<!--trait_IslandAncestors--></T>
+    <T>249731<!--trait_SurvivalInstinct--></T>
+  </L>
+  <V n="disable_aging" t="enabled" />
+  <T n="display_name">0x10A5C455<!--Servo--></T>
+  <T n="display_name_gender_neutral">0x1FCDFABD<!--The Loneliest Robot--></T>
+  <T n="icon" p="InGame\UI\Icons\Headlines\Final\headline_robot.png">2f7d0004:00000000:75a1aca2763417f0</T>
+  <L n="initial_commodities">
+    <T>218484<!--motive_Robots_Charge--></T>
+    <T>218485<!--motive_Robots_Durability--></T>
+    <T>222669<!--commodity_HumanoidRobot_DeathTimer--></T>
+    <T>227175<!--commodity_HumanoidRobot_EnhancementTracker--></T>
+  </L>
+  <L n="initial_commodities_blacklist">
+    <T>16656<!--motive_Hunger--></T>
+    <T>16652<!--motive_Bladder--></T>
+    <T>16657<!--motive_Hygiene--></T>
+    <T>16654<!--motive_Energy--></T>
+    <T>10020<!--commodity_Motive_Thirst--></T>
+    <T>16617<!--commodity_Motive_HygieneOral--></T>
+    <T>16616<!--commodity_Motive_HygieneHands--></T>
+    <T>304271<!--commodity_Burnout_CreativeTracker--></T>
+    <T>306749<!--commodity_Burnout_MentalTracker--></T>
+    <T>304314<!--commodity_Burnout_FogCreative--></T>
+    <T>306744<!--commodity_Burnout_FogMental--></T>
+    <T>304313<!--commodity_Burnout_BurnedOut--></T>
+    <T>306805<!--commodity_Burnout_MentalBlock--></T>
+  </L>
+  <E n="min_lod_value">MINIMUM</E>
+  <L n="outfit_replacements">
+    <U>
+      <E n="key">Invalid</E>
+    </U>
+  </L>
+  <V n="plumbbob_override" t="enabled">
+    <U n="enabled">
+      <T n="active_sim_club_leader_plumbbob">plumbob_EP02CliqueCrownRobot</T>
+      <T n="active_sim_plumbbob">plumbobRobot</T>
+      <E n="priority">OCCULT</E>
+    </U>
+  </V>
+  <L n="species">
+    <E />
+  </L>
+  <L n="super_affordances">
+    <T>220401<!--death_Solo_HumanoidRobot--></T>
+    <T>219251<!--humanoid_Robots_WorkOnRobot_ChangeName_Part2--></T>
+    <T>219287<!--humanoid_Robots_WorkOnRobot_ChangeTraits-Part1--></T>
+    <T>223737<!--humanoid_Robots_Immediate_ToggleWalkstyle--></T>
+    <T>229494<!--social_HumanoidRobot_Repair--></T>
+    <T>219966<!--humanoid_Robots_WorkOnRobot_Enhance_Level1--></T>
+    <T>221274<!--picker_HumanoidRobot_BehaviorModule_Add_Limited_3--></T>
+    <T>221273<!--picker_HumanoidRobot_BehaviorModule_Add_Limited_2--></T>
+    <T>223741<!--humanoid_Robots_Motive_Recharge--></T>
+    <T>227374<!--humanoid_Robots_WorkOnRobot_Enhance_Level1_RoboticsRank3--></T>
+    <T>227846<!--humanoid_Robots_ChangeAppearance_WhiteCopper--></T>
+    <T>227841<!--humanoid_Robots_ChangeAppearance_BeigeWhite--></T>
+    <T>227842<!--humanoid_Robots_ChangeAppearance_BlackBlue--></T>
+    <T>227847<!--humanoid_Robots_ChangeAppearance_BlueRed--></T>
+    <T>227843<!--humanoid_Robots_ChangeAppearance_GrayBrown--></T>
+    <T>227844<!--humanoid_Robots_ChangeAppearance_GreenBrown--></T>
+    <T>227845<!--humanoid_Robots_ChangeAppearance_RedGreen--></T>
+    <T>229177<!--humanoid_Robots_Immediate_CheckEnhancementProgress--></T>
+    <T>228196<!--humanoid_Robots_SelfInteraction_Enhance--></T>
+    <T>229646<!--humanoid_Robots_Immediate_UnlockNewModule_Security--></T>
+    <T>229511<!--picker_HumanoidRobot_BehaviorModule_Add_Limited_4--></T>
+    <T>229641<!--humanoid_Robots_Immediate_UnlockNewModule_Childcare--></T>
+    <T>229642<!--humanoid_Robots_Immediate_UnlockNewModule_Cleaning--></T>
+    <T>229643<!--humanoid_Robots_Immediate_UnlockNewModule_Gardening--></T>
+    <T>229644<!--humanoid_Robots_Immediate_UnlockNewModule_Party--></T>
+    <T>229645<!--humanoid_Robots_Immediate_UnlockNewModule_Repair--></T>
+    <T>219257<!--humanoid_Robots_WorkOnRobot_ChangeTraits-Part2--></T>
+    <T>230243<!--humanoid_Robots_WorkOnRobot_ChangeName_Part1--></T>
+  </L>
+  <L n="target_super_affordances">
+    <U>
+      <T n="affordance">222817<!--social_HumanoidRobot_ScanForMood--></T>
+    </U>
+    <U>
+      <T n="affordance">222819<!--social_HumanoidRobot_ScanForTraits--></T>
+    </U>
+  </L>
+  <T n="trait_description">0x1FCDFABD<!--The Loneliest Robot--></T>
+  <T n="trait_origin_description">0x1FCDFABD<!--The Loneliest Robot--></T>
+  <E n="trait_type">ROBOT</E>
+  <V n="voice_effect" t="enabled">
+    <U n="enabled">
+      <E n="priority">GRIM REAPER</E>
+      <T n="voice_effect">humanoid_robot</T>
+    </U>
+  </V>
+</I>

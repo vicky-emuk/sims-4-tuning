@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="upgrade_XrayMachine_NeverBreaks" s="109296">
+  <L n="_values">
+    <T>109292<!--upgrade_XrayMachine_NeverBreaks_NotStarted--></T>
+    <T>109288<!--upgrade_XrayMachine_NeverBreaks_Partial--></T>
+    <T>109294<!--upgrade_XrayMachine_NeverBreaks_Completed--></T>
+  </L>
+  <T n="linked_stat">109286<!--statistic_Object_Upgrade_XrayMachine_NeverBreaks--></T>
+</I>

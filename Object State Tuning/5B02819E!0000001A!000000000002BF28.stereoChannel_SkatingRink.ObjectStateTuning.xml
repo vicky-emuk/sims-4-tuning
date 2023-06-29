@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="stereoChannel_SkatingRink" s="180008">
+  <L n="_values">
+    <T>180052<!--stereoChannel_Off_SkatingRinks--></T>
+    <T>179981<!--stereoChannel_Alt_SkatingRink--></T>
+    <T>179982<!--stereoChannel_Blues_SkatingRink--></T>
+    <T>179983<!--stereoChannel_Classical_SkatingRink--></T>
+    <T>179984<!--stereoChannel_Electro_SkatingRink--></T>
+    <T>179985<!--stereoChannel_KidsRadio_SkatingRink--></T>
+    <T>179986<!--stereoChannel_Lullabies_SkatingRink--></T>
+    <T>179987<!--stereoChannel_Pop_SkatingRink--></T>
+    <T>179988<!--stereoChannel_Retro_SkatingRink--></T>
+    <T>179989<!--stereoChannel_Romance_SkatingRink--></T>
+    <T>179990<!--stereoChannel_Spooky_SkatingRink--></T>
+    <T>179991<!--stereoChannel_WinterHoliday_SkatingRink--></T>
+    <T>179992<!--stereoChannel_HospitalMusic_SkatingRink--></T>
+    <T>179993<!--stereoChannel_Backyard_SkatingRink--></T>
+    <T>179994<!--stereoChannel_NewAge_SkatingRink--></T>
+    <T>179995<!--stereoChannel_DinnerJazz_SkatingRink--></T>
+    <T>179996<!--stereoChannel_Baroque_SkatingRink--></T>
+    <T>179997<!--stereoChannel_Tween_SkatingRink--></T>
+    <T>179998<!--stereoChannel_Disco_Pop_SkatingRink--></T>
+    <T>179999<!--stereoChannel_CulturalWorld_SkatingRink--></T>
+    <T>180003<!--stereoChannel_SPop_SkatingRink--></T>
+    <T>180002<!--stereoChannel_TalkRadio_SkatingRink--></T>
+    <T>180001<!--stereoChannel_SingerSongWriter_SkatingRink--></T>
+    <T>180000<!--stereoChannel_SummerStrut_SkatingRink--></T>
+    <T>180009<!--stereoChannel_Latin_SkatingRink--></T>
+    <T>180010<!--stereoChannel_Reggaeton_SkatingRink--></T>
+    <T>197374<!--stereoChannel_HipHop_SkatingRink--></T>
+    <T>205233<!--stereoChannel_StrangeTunes_SkatingRink--></T>
+    <T>209340<!--stereoChannel_Island_SkatingRink--></T>
+    <T>240068<!--stereoChannel_Metal_SkatingRink--></T>
+    <T>238274<!--stereoChannel_Americana_SkatingRink--></T>
+    <T>240059<!--stereoChannel_Focus_SkatingRink--></T>
+    <T>246209<!--stereoChannel_JFolk_SkatingRink--></T>
+    <T>247521<!--stereoChannel_Batuu_SkatingRink--></T>
+    <T>270464<!--stereoChannel_CottageCore_SkatingRink--></T>
+    <T>282823<!--stereoChannel_Brazilian_SkatingRink--></T>
+    <T>282833<!--stereoChannel_MixedMusic_SkatingRink--></T>
+    <T>312477<!--stereoChannel_Oldies_SkatingRink--></T>
+  </L>
+</I>

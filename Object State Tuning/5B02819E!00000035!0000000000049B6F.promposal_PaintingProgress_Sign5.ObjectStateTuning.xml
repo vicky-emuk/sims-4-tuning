@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="promposal_PaintingProgress_Sign5" s="301935">
+  <L n="_values">
+    <T>301927<!--promposalSignProgress_Sign5_Blank--></T>
+    <T>301931<!--promposalSignProgress_Sign5_Small--></T>
+    <T>301930<!--promposalSignProgress_Sign5_Medium--></T>
+    <T>301929<!--promposalSignProgress_Sign5_Large--></T>
+    <T>301926<!--promposalSignProgress_Sign5_AlmostComplete--></T>
+    <T>301928<!--promposalSignProgress_Sign5_Complete--></T>
+  </L>
+  <T n="linked_stat">301940<!--commodity_Object_PromposalProgress_Sign5--></T>
+  <T n="persists_across_gallery">True</T>
+</I>

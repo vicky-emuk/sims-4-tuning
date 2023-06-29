@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AspirationCareer" i="aspiration" m="aspirations.aspiration_tuning" n="aspiration_Gardener_Botanist_Level4" s="186313">
+  <L n="objectives">
+    <T>186323<!--objective_Skill_Gardening_Level09--></T>
+    <T>26611<!--objective_Skill_Logic_Level08--></T>
+  </L>
+</I>

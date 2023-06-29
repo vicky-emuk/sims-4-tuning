@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="upgrade_BowlingLane_MoonLight" s="158114">
+  <L n="_values">
+    <T>158113<!--upgrade_BowlingLane_MoonLight_Completed--></T>
+    <T>158111<!--upgrade_BowlingLane_Moonlight_NotStarted--></T>
+    <T>158112<!--upgrade_BowlingLane_MoonLight_Partial--></T>
+  </L>
+  <T n="linked_stat">158115<!--statistic_Object_Upgrade_BowlingLane_MoonLight--></T>
+  <T n="persists_across_gallery">True</T>
+</I>

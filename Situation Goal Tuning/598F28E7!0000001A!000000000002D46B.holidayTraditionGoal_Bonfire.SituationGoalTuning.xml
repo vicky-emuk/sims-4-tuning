@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalObjectInteraction" i="situation_goal" m="situations.situation_goal_object_interaction" n="holidayTraditionGoal_Bonfire" s="185451">
+  <V n="_display_data" t="enabled">
+    <U n="enabled">
+      <V n="instance_display_icon" t="enabled">
+        <T n="enabled" p="InEP05\UI\Icons\Events\HolidayTraditions\HolidayTraditions_PlayWithFire.png">2f7d0004:00000000:7e2a19fe50e67a59</T>
+      </V>
+      <V n="instance_display_name" t="enabled">
+        <T n="enabled">0xBC3334E<!--Fire--></T>
+      </V>
+      <V n="instance_display_tooltip" t="enabled">
+        <T n="enabled">0x71836476<!--The crackling flames inspire primal celebration.\n\nTo participate, Light a Bonfire, Campfire, Fireplace, or Burn a Leaf Pile. Then interact with any of these sources of fire.--></T>
+      </V>
+    </U>
+  </V>
+  <L n="_goal_loot_list">
+    <T>190504<!--Loot_HolidayTraditions_HolidayGoalComplete--></T>
+  </L>
+  <U n="_goal_test">
+    <L n="affordances">
+      <T>121485<!--bonfire_add_fuel--></T>
+      <T>121610<!--bonfire_Dance--></T>
+      <T>121490<!--bonfire_extinguish--></T>
+      <T>127333<!--bonfire_FireDance_Chance--></T>
+      <T>121545<!--bonfire_hangOut--></T>
+      <T>121517<!--bonfire_Play--></T>
+      <T>125298<!--bonfire_ThrowVoodoo--></T>
+      <T>121613<!--bonfire_FireDance--></T>
+      <T>127322<!--bonfire_FireDance_Fail--></T>
+      <T>121477<!--bonfire_light--></T>
+      <T>121482<!--bonfire_light_succeed--></T>
+      <T>128330<!--bonfire_ThrowAway_Fail--></T>
+      <T>121658<!--bonfire_ThrowAway--></T>
+      <T>124583<!--bonfire_ThrowColorChanger_AngryColor--></T>
+      <T>124592<!--bonfire_ThrowColorChanger_BoredColor--></T>
+      <T>124591<!--bonfire_ThrowColorChanger_ConfidentColor--></T>
+      <T>124590<!--bonfire_ThrowColorChanger_DazedColor--></T>
+      <T>124589<!--bonfire_ThrowColorChanger_EmbarrassedColor--></T>
+      <T>121641<!--bonfire_ThrowColorChanger_EnergizedColor--></T>
+      <T>124588<!--bonfire_ThrowColorChanger_FlirtyColor--></T>
+      <T>124587<!--bonfire_ThrowColorChanger_FocusedColor--></T>
+      <T>124586<!--bonfire_ThrowColorChanger_HappyColor--></T>
+      <T>124585<!--bonfire_ThrowColorChanger_InspiredColor--></T>
+      <T>124595<!--bonfire_ThrowColorChanger_PlayfulColor--></T>
+      <T>124594<!--bonfire_ThrowColorChanger_SadColor--></T>
+      <T>124593<!--bonfire_ThrowColorChanger_TenseColor--></T>
+      <T>124584<!--bonfire_ThrowColorChanger_UncomfortableColor--></T>
+      <T>102352<!--campfire_AddLog--></T>
+      <T>102353<!--campfire_Extinguish--></T>
+      <T>102416<!--campfire_Play--></T>
+      <T>105231<!--campfire_RoastMarshmallows--></T>
+      <T>104950<!--campfire_GatherAround--></T>
+      <T>110289<!--campfire_Light_Succeed--></T>
+      <T>101940<!--campire_Light--></T>
+      <T>104865<!--campfire_PlayGuitar--></T>
+      <T>105668<!--campfire_SingSongGuitar--></T>
+      <T>105669<!--campfire_PlayViolin--></T>
+      <T>108850<!--campfire_PlayViolin_Child--></T>
+      <T>182902<!--LeafPile_Light--></T>
+      <T>74767<!--Fireplace_Light--></T>
+      <T>74768<!--Fireplace_WarmSelf--></T>
+      <T>74759<!--Fireplace_PutOut--></T>
+    </L>
+    <V n="interaction_outcome" t="disabled" />
+    <E n="test_event">InteractionStart</E>
+  </U>
+  <T n="_iterations">1</T>
+  <T n="_score">100</T>
+  <T n="audio_sting_on_complete" p="InGame\Audio\Bumper\bumper_event_goal_complete.propx">39b2aa4a:00000000:ed52c39bcc2a7111</T>
+  <E n="display_type">COMPLETION_ONLY</E>
+  <V n="score_on_iteration_complete" t="disabled" />
+</I>

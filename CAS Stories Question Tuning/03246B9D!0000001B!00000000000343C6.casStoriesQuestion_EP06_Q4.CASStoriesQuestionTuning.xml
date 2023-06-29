@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CasStoriesQuestion" i="cas_stories_question" m="cas.cas_stories_question" n="casStoriesQuestion_EP06_Q4" s="213958">
+  <T n="icon" p="InEP06\UI\Icons\Headlines\headline_Perk_CorporatePartnership.png">2f7d0004:00000000:a41d939850e36af0</T>
+  <E n="pack">EP06</E>
+  <L n="possible_answers">
+    <T>213960<!--casStoriesAnswer_EP06_Q4_Answer_A--></T>
+    <T>213961<!--casStoriesAnswer_EP06_Q4_Answer_B--></T>
+    <T>213962<!--casStoriesAnswer_EP06_Q4_Answer_C--></T>
+  </L>
+  <T n="text">0xD920C749<!--Surprise; the paparazzi are here!--></T>
+</I>

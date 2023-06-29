@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000025">
+  <Instances>
+    <I name="venue_residential_tinyhome" schema="Venue" type="Object">
+      <T name="allowed_for_clubs">1</T>
+      <L name="category_tags" />
+      <T name="display_name">0x2FD5D3AA</T>
+      <T name="display_name_incomplete">0x7CB3BA0D</T>
+      <T name="display_name_with_tier">0xEFC7B9F0</T>
+      <L name="display_venue_features" />
+      <T name="exclude_owned_objects_in_lot_value_calculation">0</T>
+      <L name="forbidden_objects" />
+      <T name="gallery_upload_venue_type">0</T>
+      <T name="hide_from_buildbuy_ui">0</T>
+      <T name="new_venue_type_button_headline_text">0x00000000</T>
+      <L name="new_venue_type_buttons" />
+      <T name="new_venue_type_dialog_description">0x84FF3EB5</T>
+      <T name="new_venue_type_dialog_example_item">2A8A5E22-00000002-05EB0A72AA8E042E</T>
+      <T name="new_venue_type_dialog_image">00B2D882-00000000-303D4BB848D2A677</T>
+      <T name="new_venue_type_headline_text">0x00000000</T>
+      <L name="required_objects" />
+      <T name="tier_banner_max_fail_text">0x35B4E039</T>
+      <T name="tier_banner_min_fail_text">0x5D9C7FFB</T>
+      <V name="variable_venues" variant="0xC1A03855" />
+      <T name="venue_description">0x5365B2CC</T>
+      <L name="venue_flags" />
+      <T name="venue_icon">00B2D882-00000000-1D704A2207493006</T>
+      <T name="venue_thumbnail">00000000-00000000-0000000000000000</T>
+      <L name="venue_tiers">
+        <U type="Object" schema="TunableVenueTier">
+          <T name="icon">00B2D882-00000000-1B0216BDA5F44799</T>
+          <U name="required_object" schema="TunableVenueObjectWithPair">
+            <T name="is_optional">0</T>
+            <T name="max_number">100</T>
+            <T name="min_number">4</T>
+            <U name="object" schema="TunableVenueObjectTags">
+              <L name="tag_set">
+                <T type="Int64">653</T>
+              </L>
+              <T name="test_type">1</T>
+            </U>
+            <T name="object_display_name">0xE737C8B9</T>
+            <L name="object_parent_pair_tests" />
+            <T name="object_test_type">3</T>
+            <T name="tooltip_override">0xA5870B37</T>
+          </U>
+          <T name="tier_banner_state">3</T>
+          <T name="tier_banner_text">0x33C6CB6C</T>
+          <T name="tier_name">0x49A4D987</T>
+          <T name="tier_name_two_lines">0xC61C6503</T>
+          <L name="zone_modifiers">
+            <T type="TableSetReference">229435</T>
+            <T type="TableSetReference">230476</T>
+          </L>
+        </U>
+        <U type="Object" schema="TunableVenueTier">
+          <T name="icon">00B2D882-00000000-DF8B4AC3CCE13FF4</T>
+          <U name="required_object" schema="TunableVenueObjectWithPair">
+            <T name="is_optional">0</T>
+            <T name="max_number">64</T>
+            <T name="min_number">4</T>
+            <U name="object" schema="TunableVenueObjectTags">
+              <L name="tag_set">
+                <T type="Int64">653</T>
+              </L>
+              <T name="test_type">1</T>
+            </U>
+            <T name="object_display_name">0xCC61B7CD</T>
+            <L name="object_parent_pair_tests" />
+            <T name="object_test_type">3</T>
+            <T name="tooltip_override">0xA5870B37</T>
+          </U>
+          <T name="tier_banner_state">2</T>
+          <T name="tier_banner_text">0x33C6CB6C</T>
+          <T name="tier_name">0x4CE3CFCB</T>
+          <T name="tier_name_two_lines">0xF3A10A24</T>
+          <L name="zone_modifiers">
+            <T type="TableSetReference">229434</T>
+            <T type="TableSetReference">230474</T>
+            <T type="TableSetReference">229435</T>
+            <T type="TableSetReference">230476</T>
+          </L>
+        </U>
+        <U type="Object" schema="TunableVenueTier">
+          <T name="icon">00B2D882-00000000-B0A02AABBF7D3113</T>
+          <U name="required_object" schema="TunableVenueObjectWithPair">
+            <T name="is_optional">0</T>
+            <T name="max_number">32</T>
+            <T name="min_number">4</T>
+            <U name="object" schema="TunableVenueObjectTags">
+              <L name="tag_set">
+                <T type="Int64">653</T>
+              </L>
+              <T name="test_type">1</T>
+            </U>
+            <T name="object_display_name">0xB9336AD6</T>
+            <L name="object_parent_pair_tests" />
+            <T name="object_test_type">3</T>
+            <T name="tooltip_override">0xA5870B37</T>
+          </U>
+          <T name="tier_banner_state">1</T>
+          <T name="tier_banner_text">0x33C6CB6C</T>
+          <T name="tier_name">0x4CDC730B</T>
+          <T name="tier_name_two_lines">0x4E5B10D4</T>
+          <L name="zone_modifiers">
+            <T type="TableSetReference">229435</T>
+            <T type="TableSetReference">230472</T>
+            <T type="TableSetReference">229433</T>
+            <T type="TableSetReference">230476</T>
+            <T type="TableSetReference">229434</T>
+            <T type="TableSetReference">230474</T>
+          </L>
+        </U>
+      </L>
+      <T name="venue_type">1</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="Venue" schema_hash="0xA8B70E9E">
+      <Columns>
+        <Column name="allowed_for_clubs" type="Boolean" flags="0x00000000" />
+        <Column name="category_tags" type="Vector" flags="0x00000000" />
+        <Column name="display_name" type="LocalizationKey" flags="0x00000000" />
+        <Column name="display_name_incomplete" type="LocalizationKey" flags="0x00000000" />
+        <Column name="display_name_with_tier" type="LocalizationKey" flags="0x00000000" />
+        <Column name="display_venue_features" type="Vector" flags="0x00000000" />
+        <Column name="exclude_owned_objects_in_lot_value_calculation" type="Boolean" flags="0x00000000" />
+        <Column name="forbidden_objects" type="Vector" flags="0x00000000" />
+        <Column name="gallery_upload_venue_type" type="TableSetReference" flags="0x00000000" />
+        <Column name="hide_from_buildbuy_ui" type="Boolean" flags="0x00000000" />
+        <Column name="new_venue_type_button_headline_text" type="LocalizationKey" flags="0x00000000" />
+        <Column name="new_venue_type_buttons" type="Vector" flags="0x00000000" />
+        <Column name="new_venue_type_dialog_description" type="LocalizationKey" flags="0x00000000" />
+        <Column name="new_venue_type_dialog_example_item" type="ResourceKey" flags="0x00000000" />
+        <Column name="new_venue_type_dialog_image" type="ResourceKey" flags="0x00000000" />
+        <Column name="new_venue_type_headline_text" type="LocalizationKey" flags="0x00000000" />
+        <Column name="required_objects" type="Vector" flags="0x00000000" />
+        <Column name="tier_banner_max_fail_text" type="LocalizationKey" flags="0x00000000" />
+        <Column name="tier_banner_min_fail_text" type="LocalizationKey" flags="0x00000000" />
+        <Column name="variable_venues" type="Variant" flags="0x00000000" />
+        <Column name="venue_description" type="LocalizationKey" flags="0x00000000" />
+        <Column name="venue_flags" type="Vector" flags="0x00000000" />
+        <Column name="venue_icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="venue_thumbnail" type="ResourceKey" flags="0x00000000" />
+        <Column name="venue_tiers" type="Vector" flags="0x00000000" />
+        <Column name="venue_type" type="Int64" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableVenueTier" schema_hash="0xE261EA3F">
+      <Columns>
+        <Column name="icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="required_object" type="Object" flags="0x00000000" />
+        <Column name="tier_banner_state" type="Int64" flags="0x00000000" />
+        <Column name="tier_banner_text" type="LocalizationKey" flags="0x00000000" />
+        <Column name="tier_name" type="LocalizationKey" flags="0x00000000" />
+        <Column name="tier_name_two_lines" type="LocalizationKey" flags="0x00000000" />
+        <Column name="zone_modifiers" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableVenueObjectWithPair" schema_hash="0xC00D7264">
+      <Columns>
+        <Column name="is_optional" type="Boolean" flags="0x00000000" />
+        <Column name="max_number" type="Int32" flags="0x00000000" />
+        <Column name="min_number" type="Int32" flags="0x00000000" />
+        <Column name="object" type="Object" flags="0x00000000" />
+        <Column name="object_display_name" type="LocalizationKey" flags="0x00000000" />
+        <Column name="object_parent_pair_tests" type="Vector" flags="0x00000000" />
+        <Column name="object_test_type" type="Int64" flags="0x00000000" />
+        <Column name="tooltip_override" type="LocalizationKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableVenueObjectTags" schema_hash="0xE45D38F5">
+      <Columns>
+        <Column name="tag_set" type="Vector" flags="0x00000000" />
+        <Column name="test_type" type="Int64" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

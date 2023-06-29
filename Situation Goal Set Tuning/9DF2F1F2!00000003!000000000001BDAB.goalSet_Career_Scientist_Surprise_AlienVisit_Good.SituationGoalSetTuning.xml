@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalSet" i="situation_goal_set" m="situations.situation_goal_set" n="goalSet_Career_Scientist_Surprise_AlienVisit_Good" s="114091">
+  <L n="chained_goal_sets">
+    <T>114091<!--goalSet_Career_Scientist_Surprise_AlienVisit_Good--></T>
+  </L>
+  <L n="goals">
+    <U>
+      <T n="goal">114063<!--situationGoalObjectInteraction_CareerScientist_Repair_ChemAnalyzer_AlienVisit--></T>
+    </U>
+    <U>
+      <T n="goal">114062<!--situationGoalObjectInteraction_CareerScientist_Repair_ChemLab_AlienVisit--></T>
+    </U>
+    <U>
+      <T n="goal">114066<!--situationGoalObjectInteraction_CareerScientist_Repair_CoffeeMaker_AlienVisit--></T>
+    </U>
+    <U>
+      <T n="goal">114059<!--situationGoalObjectInteraction_CareerScientist_Repair_InventorConstructor_AlienVisit--></T>
+    </U>
+    <U>
+      <T n="goal">114055<!--situationGoalObjectInteraction_CareerScientist_Repair_Microwave_AlienVisit--></T>
+    </U>
+    <U>
+      <T n="goal">113922<!--situationGoalRelationship_Career_Scientist_Greet_Targeted_Alien--></T>
+    </U>
+    <U>
+      <T n="goal">113918<!--situationGoalInteractionSim_Career_Scientist_Socials_Targeted_Alien_GetToKnow_AlienVisit--></T>
+    </U>
+    <U>
+      <T n="goal">113842<!--situationGoalInteractionSim_Career_Scientist_CrackOpen_AlienVisit--></T>
+    </U>
+    <U>
+      <T n="goal">114074<!--situationGoalInteractionSim_Career_Scientist_Civilian_GiveHug_AlienVisit--></T>
+    </U>
+    <U>
+      <T n="goal">114075<!--situationGoalInteractionSim_Career_Scientist_Civilian_FunnyStory_AlienVisit--></T>
+      <T n="weight">1</T>
+    </U>
+    <U>
+      <T n="goal">114076<!--situationGoalInteractionSim_Career_Scientist_Civilian_AskAboutDay_AlienVisit--></T>
+    </U>
+    <U>
+      <T n="goal">114085<!--situationGoalInteractionSim_Career_Scientist_GiveSerum_Targeted_AlienVisit--></T>
+    </U>
+    <U>
+      <T n="goal">114086<!--situationGoalInteractionSim_Career_Scientist_GiveSerum_SyntheticFood_Targeted_AlienVisit--></T>
+    </U>
+    <U>
+      <T n="goal">114083<!--situationGoalInteractionSim_Career_Scientist_Socials_Targeted_Alien_DeepConversation_AlienVisit--></T>
+    </U>
+    <U>
+      <T n="goal">114054<!--situationGoalObjectInteraction_CareerScientist_Repair_Computer_AlienVisit--></T>
+      <T n="weight">1</T>
+    </U>
+  </L>
+</I>

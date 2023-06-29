@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="festivalFireworks_CommodityState_SpentTimer" s="142175">
+  <L n="_values">
+    <T>142165<!--festivalFireworks_CommodityValues_SpentTimer_Off--></T>
+    <T>142166<!--festivalFireworks_CommodityValues_SpentTimer_On--></T>
+    <T>142167<!--festivalFireworks_CommodityValues_SpentTimer_End--></T>
+  </L>
+  <T n="linked_stat">142168<!--commodity_FestivalFireworks_SpentTimer--></T>
+</I>

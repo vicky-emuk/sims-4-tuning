@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalSet" i="situation_goal_set" m="situations.situation_goal_set" n="goalSet_Career_Scientist_Surprise_SimRay_Transform" s="113514">
+  <L n="chained_goal_sets">
+    <T>113514<!--goalSet_Career_Scientist_Surprise_SimRay_Transform--></T>
+  </L>
+  <L n="goals">
+    <U>
+      <T n="goal">113622<!--situationGoalObjectInteraction_CareerScientist_Transform_Shelves--></T>
+    </U>
+    <U>
+      <T n="goal">107375<!--situationGoalObjectInteraction_CareerScientist_Transform_Desk_Surprise--></T>
+    </U>
+    <U>
+      <T n="goal">113458<!--situationGoalObjectInteraction_CareerScientist_Transform_Serum_Surprise--></T>
+    </U>
+    <U>
+      <T n="goal">113457<!--situationGoalObjectInteraction_CareerScientist_Transform_Barrel--></T>
+    </U>
+    <U>
+      <T n="goal">113478<!--situationGoalObjectInteraction_CareerScientist_Transform_Light_Surprise--></T>
+    </U>
+    <U>
+      <T n="goal">113480<!--situationGoalObjectInteraction_CareerScientist_Transform_Chair_Surprise--></T>
+    </U>
+    <U>
+      <T n="goal">113483<!--situationGoalObjectInteraction_CareerScientist_Transform_Grass_Surprise--></T>
+    </U>
+    <U>
+      <T n="goal">113492<!--situationGoalObjectInteraction_CareerScientist_Transform_DeskLamp_Surprise--></T>
+    </U>
+    <U>
+      <T n="goal">113494<!--situationGoalObjectInteraction_CareerScientist_Transform_Crates--></T>
+    </U>
+    <U>
+      <T n="goal">113497<!--situationGoalObjectInteraction_CareerScientist_Transform_Towel_Surprise--></T>
+    </U>
+    <U>
+      <T n="goal">113515<!--situationGoalObjectInteraction_CareerScientist_Transform_Sink_Surprise--></T>
+    </U>
+    <U>
+      <T n="goal">113513<!--situationGoalInteractionSim_Career_Scientist_Transform_Sim_Surprise--></T>
+    </U>
+    <U>
+      <T n="goal">113512<!--situationGoalInteractionSim_Career_Scientist_Transform_Coworker_Surprise--></T>
+    </U>
+    <U>
+      <T n="goal">115137<!--situationGoalObjectInteraction_CareerScientist_Transform_Hood_Surprise--></T>
+    </U>
+  </L>
+</I>

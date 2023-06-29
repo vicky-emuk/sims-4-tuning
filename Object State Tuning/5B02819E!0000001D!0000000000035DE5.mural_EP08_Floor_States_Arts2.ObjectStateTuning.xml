@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="mural_EP08_Floor_States_Arts2" s="220645">
+  <L n="_values">
+    <T>220674<!--mural_EP08_Floor_Arts2_Complete--></T>
+    <T>220675<!--mural_EP08_Floor_Arts2_NotStarted--></T>
+    <T>220676<!--mural_EP08_Floor_Arts2_AToBase_0--></T>
+    <T>220677<!--mural_EP08_Floor_Arts2_AToBase_1--></T>
+    <T>220678<!--mural_EP08_Floor_Arts2_AToBase_2--></T>
+    <T>220679<!--mural_EP08_Floor_Arts2_AToBase_3--></T>
+    <T>220680<!--mural_EP08_Floor_Arts2_AToBase_4--></T>
+    <T>220681<!--mural_EP08_Floor_Arts2_BaseToLines_0--></T>
+    <T>220682<!--mural_EP08_Floor_Arts2_BaseToLines_1--></T>
+    <T>220683<!--mural_EP08_Floor_Arts2_BaseToLines_2--></T>
+    <T>220684<!--mural_EP08_Floor_Arts2_BaseToLines_3--></T>
+    <T>220685<!--mural_EP08_Floor_Arts2_BaseToLines_4--></T>
+    <T>220686<!--mural_EP08_Floor_Arts2_LinesToFinal_0--></T>
+    <T>220687<!--mural_EP08_Floor_Arts2_LinesToFinal_1--></T>
+    <T>220688<!--mural_EP08_Floor_Arts2_LinesToFinal_2--></T>
+    <T>220689<!--mural_EP08_Floor_Arts2_LinesToFinal_3--></T>
+    <T>220690<!--mural_EP08_Floor_Arts2_LinesToFinal_4--></T>
+  </L>
+  <T n="linked_stat">220735<!--commodity_Mural_EP08_Arts2--></T>
+  <T n="persists_across_gallery">True</T>
+</I>

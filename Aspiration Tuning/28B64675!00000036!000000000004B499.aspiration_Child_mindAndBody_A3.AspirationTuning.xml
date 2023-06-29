@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Aspiration" i="aspiration" m="aspirations.aspiration_tuning" n="aspiration_Child_mindAndBody_A3" s="308377">
+  <T n="display_name">0xAFE5A7D4<!--Master of Control--></T>
+  <T n="do_not_register_events_on_load">True</T>
+  <T n="is_child_aspiration">True</T>
+  <L n="objectives">
+    <T>308391<!--objectives_Asp_Child_multiskill_MindAndBody_A3_1--></T>
+    <T>308392<!--objectives_Asp_Child_multiskill_MindAndBody_A3_2--></T>
+    <T>308390<!--objectives_Asp_Child_multiskill_MindAndBody_A3_3--></T>
+  </L>
+  <L n="on_complete_loot_actions">
+    <T>328846<!--loot_Child_Confidence_Gain_VerySmall--></T>
+  </L>
+</I>

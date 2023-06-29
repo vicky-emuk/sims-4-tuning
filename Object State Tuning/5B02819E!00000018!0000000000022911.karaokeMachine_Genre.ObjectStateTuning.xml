@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="karaokeMachine_Genre" s="141585">
+  <L n="_values">
+    <T>141577<!--karaoke_Genre_Country--></T>
+    <T>141582<!--karaoke_Genre_Disco--></T>
+    <T>141580<!--karaoke_Genre_House--></T>
+    <T>141583<!--karaoke_Genre_Jazz--></T>
+    <T>141578<!--karaoke_Genre_Pop--></T>
+    <T>141579<!--karaoke_Genre_Rock--></T>
+    <T>141581<!--karaoke_Genre_Romance--></T>
+    <T>141667<!--karaoke_Genre_None--></T>
+    <T>151228<!--karaoke_Genre_Country2--></T>
+    <T>151229<!--karaoke_Genre_CountryDuet--></T>
+    <T>151230<!--karaoke_Genre_Disco2--></T>
+    <T>151231<!--karaoke_Genre_House2--></T>
+    <T>151232<!--karaoke_Genre_Jazz2--></T>
+    <T>151233<!--karaoke_Genre_JazzDuet--></T>
+    <T>151234<!--karaoke_Genre_Pop2--></T>
+    <T>151235<!--karaoke_Genre_PopDuet--></T>
+    <T>151236<!--karaoke_Genre_Rock2--></T>
+  </L>
+</I>

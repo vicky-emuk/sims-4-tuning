@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x0000000D">
+  <Instances>
+    <I name="subroot_BattleStation" schema="Subroot" type="Object">
+      <L name="bone_names">
+        <T type="String">b__subroot__0</T>
+      </L>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="Subroot" schema_hash="0xDDA88FD4">
+      <Columns>
+        <Column name="bone_names" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

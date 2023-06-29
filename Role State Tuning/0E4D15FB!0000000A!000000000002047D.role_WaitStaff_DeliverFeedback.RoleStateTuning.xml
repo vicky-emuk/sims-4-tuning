@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RoleState" i="role_state" m="role.role_state" n="role_WaitStaff_DeliverFeedback" s="132221">
+  <L n="_buffs">
+    <U>
+      <T n="buff_type">101052<!--Buff_Role_Appropriateness_NoCallToMeal--></T>
+    </U>
+    <U>
+      <T n="buff_type">133051<!--buff_Role_Appropriateness_NoWorkout_BG--></T>
+    </U>
+    <U>
+      <T n="buff_type">143413<!--buff_NPC_SuppressAllMotives_ExceptBladder--></T>
+    </U>
+    <U>
+      <T n="buff_type">134458<!--buff_Role_Appropriateness_NoGrabSnack--></T>
+    </U>
+    <U>
+      <T n="buff_type">121942<!--buff_SuppressFrontPagePieMenu--></T>
+    </U>
+    <U>
+      <T n="buff_type">35391<!--Buff_Role_Appropriateness_NoStereo--></T>
+    </U>
+    <U>
+      <T n="buff_type">136466<!--buff_NPC_DiscourageSit--></T>
+    </U>
+    <U>
+      <T n="buff_type">129759<!--Buff_Role_Appropriateness_NoDancing--></T>
+    </U>
+    <U>
+      <T n="buff_type">138206<!--buff_Role_Restaurant_Staff_SuppressSocializeAutonomously--></T>
+    </U>
+    <U>
+      <T n="buff_type">137592<!--buff_Role_Appropriateness_NoPlaying--></T>
+    </U>
+    <U>
+      <T n="buff_type">137593<!--buff_Role_Appropriateness_NoReading--></T>
+    </U>
+    <U>
+      <T n="buff_type">134457<!--buff_Role_Appropriateness_NoComputer--></T>
+    </U>
+    <U>
+      <T n="buff_type">143648<!--buff_Role_Restaurant_SuppressTraining--></T>
+    </U>
+    <U>
+      <T n="buff_type">35365<!--Buff_Role_Appropriateness_NoCooking--></T>
+    </U>
+    <U>
+      <T n="buff_type">35372<!--Buff_Role_Appropriateness_NoEating--></T>
+    </U>
+    <U>
+      <T n="buff_type">143432<!--buff_OwnableRestaurant_Employee_SkillGain_High_Charisma--></T>
+    </U>
+    <U>
+      <T n="buff_type">143431<!--buff_OwnableRestaurant_Employee_SkillGain_High_Fitness--></T>
+    </U>
+    <U>
+      <T n="buff_type">143437<!--buff_OwnableRestaurant_Employee_SkillGain_Low_Charisma--></T>
+    </U>
+    <U>
+      <T n="buff_type">143439<!--buff_OwnableRestaurant_Employee_SkillGain_Low_Fitness--></T>
+    </U>
+    <U>
+      <T n="buff_type">144763<!--buff_Restaurants_RestaurantAtWork--></T>
+    </U>
+    <U>
+      <T n="buff_type">185065<!--buff_Temperature_Immune_To_Temperature--></T>
+    </U>
+  </L>
+  <U n="_off_lot_autonomy_buff">
+    <T n="buff_type">38292<!--buff_offLotAutonomyMod_OnLotOnly--></T>
+  </U>
+  <V n="_on_activate" t="push_affordance">
+    <U n="push_affordance">
+      <T n="affordance">138537<!--chefStation_Feedback_Aggregate--></T>
+      <E n="target">CRAFTED_OBJECT</E>
+    </U>
+  </V>
+  <L n="role_affordances">
+    <T>132342<!--si_simPicker_ComplimentChef--></T>
+    <T>132343<!--si_simPicker_InsultChef--></T>
+    <T>132599<!--si_waitStaff_Customer_OrderForTable--></T>
+    <T>132600<!--si_waitStaff_Customer_OrderForTable_NPCOnly--></T>
+    <T>136620<!--si_waitStaff_Customer_PayBill_FromWaiter--></T>
+    <T>138625<!--si_waitStaff_CriticCareer_Review_OrderForTable--></T>
+    <T>137591<!--ownableBusiness_Employee_Socials_CheckUpOn--></T>
+    <T>137711<!--ownableBusiness_Employee_Socials_Criticize--></T>
+    <T>137708<!--ownableBusiness_Employee_Socials_Fire--></T>
+    <T>137714<!--ownableBusiness_Employee_Socials_Inspire--></T>
+    <T>137707<!--ownableBusiness_Employee_Socials_Praise--></T>
+    <T>138161<!--ownableBusiness_Employee_Socials_Career_Demote_Waiter--></T>
+    <T>138169<!--ownableBusiness_Employee_Socials_Career_Promote_Waiter--></T>
+    <T>138001<!--ownableBusiness_Employee_Socials_Training_Brief--></T>
+    <T>138002<!--ownableBusiness_Employee_Socials_Training_Extensive--></T>
+    <T>138000<!--ownableBusiness_Employee_Socials_Training_Standard--></T>
+  </L>
+  <L n="tags">
+    <E>Role_RestaurantStaff</E>
+    <E>Role_VIPRope_Allowed</E>
+    <E>Role_ExcludeFromYogaAndMeditationClass</E>
+  </L>
+</I>

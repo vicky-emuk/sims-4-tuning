@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AnimationElement" i="animation" m="animation.animation_element" n="anim_Treehouse_Enclosure_Relax_Chat" s="310439">
+  <T n="asm_key" p="InEP13\Sage\Treehouse_InteriorActions.interactionasm">02d5df13:00000000:814eec9e0e6e3c8f</T>
+  <L n="begin_states">
+    <T>Relax_Chat</T>
+  </L>
+  <L n="end_states">
+    <T>exit</T>
+  </L>
+  <T n="target_name">treehouse</T>
+</I>

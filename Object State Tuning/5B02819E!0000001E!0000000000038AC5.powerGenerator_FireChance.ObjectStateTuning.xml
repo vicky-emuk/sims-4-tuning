@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="powerGenerator_FireChance" s="232133">
+  <L n="_values">
+    <T>232130<!--powerGenerator_FireChance_Fire--></T>
+    <T>232131<!--powerGenerator_FireChance_Partial--></T>
+    <T>232129<!--powerGenerator_FireChance_Max--></T>
+  </L>
+  <T n="linked_stat">232124<!--commodity_PowerGenerator_FireChance--></T>
+</I>

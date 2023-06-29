@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalActor" i="situation_goal" m="situations.situation_goal_actor" n="scenarioGoal_Onboarding_ParentingPredicament_Phase4_NewTeenAspiration_Leonardo" s="298585">
+  <V n="_display_data" t="enabled">
+    <U n="enabled">
+      <V n="instance_display_icon" t="enabled">
+        <T n="enabled" p="InGame\UI\Icons\Headlines\Final\headline_Aspirational.png">2f7d0004:00000000:51b9f5a1618c2fc7</T>
+      </V>
+      <V n="instance_display_name" t="enabled">
+        <T n="enabled">0xB73B6F5D<!--Choose a Teenage Aspiration for Leonardo and Complete the First Level--></T>
+      </V>
+      <V n="instance_display_tooltip" t="enabled">
+        <T n="enabled">0x43E099FB<!--Click on the Aspiration Icon to choose a new Aspiration that feels right for Leonardo. Aspirations reveal a Sim's deep wishes and completing these desires helps Sims grow. --></T>
+      </V>
+    </U>
+  </V>
+  <V n="_goal_test" t="aspiration_track_completed">
+    <U n="aspiration_track_completed">
+      <L n="aspiration_tracks">
+        <T>25114<!--Track_Athletic_A--></T>
+        <T>250082<!--Track_Athetic_ExtremeSportsEnthusiast--></T>
+        <T>25547<!--Track_Creativity_A--></T>
+        <T>25548<!--Track_Creativity_B--></T>
+        <T>25549<!--Track_Creativity_C--></T>
+        <T>193521<!--Track_Creativity_MasterActor--></T>
+        <T>231598<!--Track_Creativity_Maker--></T>
+        <T>239956<!--Track_Creativity_LordoftheKnits--></T>
+        <T>25380<!--Track_Deviance_A--></T>
+        <T>25381<!--Track_Deviance_B--></T>
+        <T>275416<!--Track_Deviance_Heartbreaker--></T>
+        <T>25785<!--Track_Family_A--></T>
+        <T>25786<!--Track_Family_B--></T>
+        <T>155355<!--Track_Family_C--></T>
+        <T>165023<!--Track_Family_SuperParent--></T>
+        <T>9283<!--Track_Food_A--></T>
+        <T>9282<!--Track_Food_B--></T>
+        <T>132266<!--Track_Food_GrilledCheese--></T>
+        <T>25148<!--Track_Fortune_A--></T>
+        <T>25149<!--Track_Fortune_B--></T>
+        <T>25440<!--Track_Knowledge_A--></T>
+        <T>25441<!--Track_Knowledge_B--></T>
+        <T>25442<!--Track_Knowledge_C--></T>
+        <T>155320<!--Track_Knowledge_D--></T>
+        <T>179021<!--Track_Knowledge_ArchaeologyScholar--></T>
+        <T>217371<!--Track_Knowledge_Spellcraft--></T>
+        <T>227099<!--Track_Knowledge_Academic--></T>
+        <T>204020<!--Track_Location_Strangerville--></T>
+        <T>144947<!--Track_Location_A--></T>
+        <T>211968<!--Track_Location_BeachBum--></T>
+        <T>250083<!--Track_Location_MountainWorldSightseer--></T>
+        <T>256745<!--Track_Location_FilthyFabulous--></T>
+        <T>256746<!--Track_Location_PerfectlyPristine--></T>
+        <T>9469<!--Track_Love_A--></T>
+        <T>23824<!--Track_Love_B--></T>
+        <T>40647<!--Track_Nature_A--></T>
+        <T>40648<!--Track_Nature_B--></T>
+        <T>40649<!--Track_Nature_C--></T>
+        <T>108621<!--Track_Nature_Outdoors--></T>
+        <T>178992<!--Track_Nature_JungleExplorer--></T>
+        <T>217384<!--Track_Nature_Potions--></T>
+        <T>232039<!--Track_Nature_Eco-Industrialist--></T>
+        <T>260900<!--track_Nature_CountryCaretaker--></T>
+        <T>25275<!--Track_Popularity_A--></T>
+        <T>25277<!--Track_Popularity_C--></T>
+        <T>25276<!--Track_Popularity_B--></T>
+        <T>274010<!--Track_Popularity_FriendlyNeighbor--></T>
+        <T>122911<!--Track_Popularity_LeaderOfThePack--></T>
+        <T>154779<!--Track_Popularity_D--></T>
+        <T>192891<!--Track_Popularity_WorldFamousCelebrity--></T>
+        <T>270850<!--wellness_InnerPeace--></T>
+        <T>270853<!--wellness_SelfCareSpecialist--></T>
+        <T>270852<!--wellness_ZenGuru--></T>
+        <T>232890<!--Star_Wars_Track_FirstOrder--></T>
+        <T>242401<!--Star_Wars_Track_Prelude--></T>
+        <T>232889<!--Star_Wars_Track_Resistance--></T>
+        <T>232892<!--Star_Wars_Track_Scoundrel--></T>
+        <T>282914<!--Track_Teen_AdmiredIcon--></T>
+        <T>283111<!--Track_Teen_DramaLlama--></T>
+        <T>283112<!--Track_Teen_GoalOriented--></T>
+        <T>283113<!--Track_Teen_LiveFast--></T>
+        <T>290419<!--werewolf_BecomeHuman--></T>
+        <T>290415<!--werewolf_Initiation--></T>
+        <T>290416<!--werewolf_LoneWolf--></T>
+        <T>290417<!--werewolf_PackA--></T>
+        <T>290418<!--werewolf_PackB--></T>
+        <T>171763<!--Track_Animal_A--></T>
+      </L>
+      <V n="levels" t="enabled" />
+    </U>
+  </V>
+  <L n="_scenario_roles">
+    <T>294185<!--scenarioRole_Onboarding_ParentingPredicaments_Leonardo--></T>
+  </L>
+  <T n="audio_sting_on_complete" p="InGame\Audio\Bumper\bumper_event_goal_complete.propx">39b2aa4a:00000000:ed52c39bcc2a7111</T>
+  <T n="is_visible">True</T>
+  <T n="should_reevaluate_on_load">True</T>
+  <V n="tutorial_tip_group" t="enabled">
+    <T n="enabled">299261<!--tutorialTipGroup_Scenarios_Onboarding_ParentingPredicaments_Phase4_TeenAspiration_New--></T>
+  </V>
+</I>

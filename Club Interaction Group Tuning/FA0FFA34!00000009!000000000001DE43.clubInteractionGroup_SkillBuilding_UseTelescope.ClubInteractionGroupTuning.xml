@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ClubInteractionGroup" i="club_interaction_group" m="clubs.club_tuning" n="clubInteractionGroup_SkillBuilding_UseTelescope" s="122435">
+  <L n="affordances">
+    <T>14373<!--Telescope_SearchForTruth--></T>
+    <T>33796<!--Telescope_TrackSatellite--></T>
+    <T>14382<!--Telescope_WatchNeighborhood--></T>
+    <T>14369<!--Telescope_ObserveSkies--></T>
+    <T>14374<!--Telescope_StarGaze--></T>
+    <T>14387<!--telescope_WooHoo--></T>
+    <T>14378<!--telescope_TryForBaby--></T>
+    <T>144277<!--Telescope_SpyOnApartments--></T>
+    <T>286934<!--Telescope_Small_Moongaze--></T>
+    <T>290329<!--telescope_Lunarcycle_Moongaze--></T>
+    <T>286929<!--Telescope_Small_StarGaze--></T>
+    <T>286927<!--Telescope_Small_ObserveSkies--></T>
+    <T>286928<!--Telescope_Small_SearchForTruth--></T>
+    <T>286930<!--Telescope_Small_TrackSatellite--></T>
+    <T>286926<!--Telescope_Small_WatchNeighborhood--></T>
+  </L>
+  <E n="category">HOBBIES</E>
+  <T n="category_icon" p="InGame\UI\Icons\Clubs\Rules\clubs_rules_Telescope.png">2f7d0004:00000000:112ae4dd7026d835</T>
+  <T n="club_bucks_reward">2</T>
+  <T n="is_targeted">False</T>
+  <T n="name">0x7A570BE7<!--Use Telescope--></T>
+  <T n="tooltip_template">0xE1D7F148<!--Use the Telescope--></T>
+  <T n="tooltip_template_negative">0x7E4C57DE<!--Don't Use the Telescope--></T>
+</I>

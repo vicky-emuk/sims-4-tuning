@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="promposalSign_Sign_States" s="301942">
+  <L n="_values">
+    <T>301944<!--promposalSign_Sign1--></T>
+    <T>301945<!--promposalSign_Sign2--></T>
+    <T>301946<!--promposalSign_Sign3--></T>
+    <T>301947<!--promposalSign_Sign4--></T>
+    <T>301948<!--promposalSign_Sign5--></T>
+  </L>
+</I>

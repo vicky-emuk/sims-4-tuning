@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TunableSimFilter" i="sim_filter" m="filters.tunable" n="filter_HasMet_TYAE_MaleOnly_AllowGhosts_NotInHousehold_PreferFriends" s="127471">
+  <L n="_filter_terms">
+    <V t="trait_blacklist">
+      <U n="trait_blacklist">
+        <L n="traits">
+          <T>16851<!--trait_isGrimReaper--></T>
+          <T>133798<!--trait_Hidden_IsEventNPC_Challenge--></T>
+          <T>112688<!--trait_isAlienPollinator--></T>
+          <T>177810<!--trait_Hidden_Skeleton_ServiceSkeleton--></T>
+          <T>178437<!--trait_Hidden_Skeleton_TempleSkeleton--></T>
+          <T>187088<!--trait_Scarecrow--></T>
+          <T>186785<!--trait_FlowerBunny--></T>
+          <T>202424<!--trait_SpecialNPCs_BabyAriel--></T>
+          <T>216314<!--trait_Ghost_Curses_NightStalker_Stalker--></T>
+          <T>224965<!--trait_Hidden_ProfessorNPC_isArtsProfessorNPC--></T>
+          <T>224966<!--trait_Hidden_ProfessorNPC_isScienceProfessorNPC--></T>
+          <T>239021<!--trait_Batuu_FirstOrder_SNPC_Agnon_Identifier--></T>
+          <T>238970<!--trait_Batuu_FirstOrder_SNPC_Kylo_Identifier--></T>
+          <T>238708<!--trait_Batuu_Scoundrel_SNPC_Hondo_Identifier--></T>
+          <T>238969<!--trait_Batuu_Resistance_SNPC_Rey_Identifier--></T>
+          <T>239020<!--trait_Batuu_Resistance_SNPC_Vi_Identifier--></T>
+          <T>231263<!--trait_Batuu_NPC_Identifier--></T>
+          <T>249203<!--trait_TownMascot--></T>
+          <T>252849<!--trait_Guidry--></T>
+          <T>253237<!--trait_Bonehilda--></T>
+          <T>256353<!--trait_HauntedHouse_Temperance--></T>
+          <T>288294<!--trait_WolfTown_Greg--></T>
+        </L>
+      </U>
+    </V>
+    <V t="sim_info_lod" />
+    <V t="species" />
+    <V t="can_be_outside" />
+    <V t="is_hidden">
+      <U n="is_hidden">
+        <T n="invert_score">True</T>
+      </U>
+    </V>
+    <V t="relationship_bit">
+      <U n="relationship_bit">
+        <L n="white_list">
+          <T>15803<!--has_met--></T>
+        </L>
+      </U>
+    </V>
+    <V t="age">
+      <U n="age">
+        <E n="min_value">TEEN</E>
+      </U>
+    </V>
+    <V t="lives_together">
+      <U n="lives_together">
+        <T n="consider_travel_group">False</T>
+        <T n="invert_score">True</T>
+      </U>
+    </V>
+    <V t="relationship_track">
+      <U n="relationship_track">
+        <T n="ideal_value">100</T>
+        <T n="min_value">5</T>
+        <T n="relationship_track">16650<!--LTR_Friendship_Main--></T>
+      </U>
+    </V>
+    <V t="trait">
+      <U n="trait">
+        <T n="invert_score">True</T>
+        <T n="trait">16851<!--trait_isGrimReaper--></T>
+      </U>
+    </V>
+    <V t="relationship_bit_collection">
+      <U n="relationship_bit_collection">
+        <L n="black_list">
+          <T>162462<!--rbc_FamilyAcquired_Negative--></T>
+          <T>240110<!--rbc_Sentiment_Negative--></T>
+        </L>
+        <T n="reverse_bit_lookup">True</T>
+      </U>
+    </V>
+    <V t="relationship_bit_collection">
+      <U n="relationship_bit_collection">
+        <T n="minimum_filter_score">0.625</T>
+        <L n="white_list">
+          <T>164128<!--rbc_FamilyAcquired_Positive--></T>
+        </L>
+      </U>
+    </V>
+    <V t="gender" />
+    <V t="trait">
+      <U n="trait">
+        <T n="invert_score">True</T>
+        <T n="trait">186785<!--trait_FlowerBunny--></T>
+      </U>
+    </V>
+  </L>
+  <V n="_household_templates_override" t="enabled">
+    <L n="enabled">
+      <T>98542<!--HH_template_NPC_adult_single--></T>
+    </L>
+  </V>
+  <T n="use_weighted_random">True</T>
+</I>

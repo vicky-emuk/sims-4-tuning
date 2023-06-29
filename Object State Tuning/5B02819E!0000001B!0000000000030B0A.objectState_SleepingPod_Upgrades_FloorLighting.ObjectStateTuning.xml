@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="objectState_SleepingPod_Upgrades_FloorLighting" s="199434">
+  <L n="_values">
+    <T>199488<!--sleepingPod_StateValues_Upgrades_FloorLighting_Blue--></T>
+    <T>199491<!--sleepingPod_StateValues_Upgrades_FloorLighting_Gold--></T>
+    <T>199489<!--sleepingPod_StateValues_Upgrades_FloorLighting_Green--></T>
+    <T>199487<!--sleepingPod_StateValues_Upgrades_FloorLighting_Off--></T>
+    <T>199495<!--sleepingPod_StateValues_Upgrades_FloorLighting_Orange--></T>
+    <T>199494<!--sleepingPod_StateValues_Upgrades_FloorLighting_Pink--></T>
+    <T>199490<!--sleepingPod_StateValues_Upgrades_FloorLighting_Purple--></T>
+    <T>199493<!--sleepingPod_StateValues_Upgrades_FloorLighting_Red--></T>
+    <T>199492<!--sleepingPod_StateValues_Upgrades_FloorLighting_White--></T>
+    <T>200904<!--sleepingPod_StateValues_Upgrades_FloorLighting_Blue_Dark--></T>
+    <T>200905<!--sleepingPod_StateValues_Upgrades_FloorLighting_Gold_Dark--></T>
+    <T>200906<!--sleepingPod_StateValues_Upgrades_FloorLighting_Green_Dark--></T>
+    <T>200908<!--sleepingPod_StateValues_Upgrades_FloorLighting_Orange_Dark--></T>
+    <T>200909<!--sleepingPod_StateValues_Upgrades_FloorLighting_Pink_Dark--></T>
+    <T>200910<!--sleepingPod_StateValues_Upgrades_FloorLighting_Purple_Dark--></T>
+    <T>200911<!--sleepingPod_StateValues_Upgrades_FloorLighting_Red_Dark--></T>
+    <T>200912<!--sleepingPod_StateValues_Upgrades_FloorLighting_White_Dark--></T>
+  </L>
+</I>

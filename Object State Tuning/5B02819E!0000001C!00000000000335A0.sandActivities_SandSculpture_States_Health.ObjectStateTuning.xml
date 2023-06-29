@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="sandActivities_SandSculpture_States_Health" s="210336">
+  <L n="_values">
+    <T>210342<!--sandActivities_SandSculpture_Values_Finished--></T>
+    <T>210340<!--sandActivities_SandSculpture_Values_Intermediate1--></T>
+    <T>210341<!--sandActivities_SandSculpture_Values_Intermediate2--></T>
+    <T>210367<!--sandActivities_SandSculpture_Values_Intermediate3--></T>
+    <T>210339<!--sandActivities_SandSculpture_Values_Start--></T>
+    <T>212317<!--sandActivities_SandSculpture_Values_Delete--></T>
+  </L>
+  <T n="linked_stat">210337<!--commodity_Object_SandActivities_SandSculpture_Health--></T>
+  <T n="persists_across_gallery">True</T>
+</I>

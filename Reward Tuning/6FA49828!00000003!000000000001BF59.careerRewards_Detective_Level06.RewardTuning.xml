@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SimReward" i="reward" m="rewards.reward" n="careerRewards_Detective_Level06" s="114521">
+  <T n="icon" p="InGame\UI\Icons\Headlines\Final\headline_careerpromotion.png">2f7d0004:00000000:a6ed756af9cb04a1</T>
+  <T n="name">0x9A909927</T>
+  <V n="reward_description" t="enabled">
+    <T n="enabled">0x9A909927</T>
+  </V>
+  <L n="rewards">
+    <V t="specific_reward">
+      <V n="specific_reward" t="build_buy_object">
+        <U n="build_buy_object">
+          <T n="object_definition">80769</T>
+        </U>
+      </V>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80769<!--sculptFloor_EP01GENpolice4x1_set1 (To Serve And Protect Sign)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80771<!--sculptFloor_EP01GENpolice4x1_set2 (To Serve And Protect Sign)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80773<!--sculptFloor_EP01GENpolice4x1_set3 (To Serve And Protect Sign)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80775<!--sculptFloor_EP01GENpolice4x1_set4 (To Serve And Protect Sign)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80777<!--sculptFloor_EP01GENpolice4x1_set5 (To Serve And Protect Sign)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80779<!--sculptFloor_EP01GENpolice4x1_set6 (To Serve And Protect Sign)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80781<!--sculptFloor_EP01GENpolice4x1_set7 (To Serve And Protect Sign)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80783<!--sculptFloor_EP01GENpolice4x1_set8 (To Serve And Protect Sign)--></T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="build_buy_object">
+        <U n="build_buy_object">
+          <T n="object_definition">82175</T>
+        </U>
+      </V>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">82175<!--sculptWall_EP01POLICEoffice2x1x1_set1 (Have You Seen These Lawbreakers?)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">82179<!--sculptWall_EP01POLICEoffice2x1x1_set2 (Have You Seen These Lawbreakers?)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">82185<!--sculptWall_EP01POLICEoffice2x1x1_set3 (Have You Seen These Lawbreakers?)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">82189<!--sculptWall_EP01POLICEoffice2x1x1_set4 (Have You Seen These Lawbreakers?)--></T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="build_buy_object">
+        <U n="build_buy_object">
+          <T n="object_definition">81242</T>
+        </U>
+      </V>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">81242<!--sculptFloor_EP01GENsawhorse2x1_set1 (Don't Go There Caution Barrier)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">81244<!--sculptFloor_EP01GENsawhorse2x1_set2 (Don't Go There Caution Barrier)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">81246<!--sculptFloor_EP01GENsawhorse2x1_set3 (Don't Go There Caution Barrier)--></T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="build_buy_object">
+        <U n="build_buy_object">
+          <T n="object_definition">78994</T>
+        </U>
+      </V>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78994<!--sculptWall_EP01GENCamera_set1 (Nice Try Security Camera)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78996<!--sculptWall_EP01GENCamera_set2 (Nice Try Security Camera)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78998<!--sculptWall_EP01GENCamera_set3 (Nice Try Security Camera)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">79000<!--sculptWall_EP01GENCamera_set4 (Nice Try Security Camera)--></T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="build_buy_object">
+        <U n="build_buy_object">
+          <T n="object_definition">79008</T>
+        </U>
+      </V>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">79008<!--signWall_EP01GENbadge2x1x2_set1 (The Sim Seal of Solidarity and Strength)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">79010<!--signWall_EP01GENbadge2x1x2_set2 (The Sim Seal of Solidarity and Strength)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">79012<!--signWall_EP01GENbadge2x1x2_set3 (The Sim Seal of Solidarity and Strength)--></T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="build_buy_object">
+        <U n="build_buy_object">
+          <T n="object_definition">78944</T>
+        </U>
+      </V>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78944<!--sculptFloor_EP01GENflagpole8tile_set1 (Pole of Magnificence)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78946<!--sculptFloor_EP01GENflagpole8tile_set2 (Pole of Magnificence)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78948<!--sculptFloor_EP01GENflagpole8tile_set3 (Pole of Magnificence)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78950<!--sculptFloor_EP01GENflagpole8tile_set4 (Pole of Magnificence)--></T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="money">
+        <U n="money">
+          <V n="money" t="literal">
+            <U n="literal">
+              <T n="value">624</T>
+            </U>
+          </V>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="bucks">
+        <U n="bucks">
+          <T n="amount">5</T>
+          <E n="bucks_type">InfluenceBuck</E>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

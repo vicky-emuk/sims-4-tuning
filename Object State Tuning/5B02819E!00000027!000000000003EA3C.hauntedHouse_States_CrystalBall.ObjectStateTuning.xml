@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="hauntedHouse_States_CrystalBall" s="256572">
+  <L n="_values">
+    <T>256574<!--hauntedHouse_Commodity_Values_CrystalOff--></T>
+    <T>256573<!--hauntedHouse_Commodity_Values_CrystalOn--></T>
+  </L>
+</I>

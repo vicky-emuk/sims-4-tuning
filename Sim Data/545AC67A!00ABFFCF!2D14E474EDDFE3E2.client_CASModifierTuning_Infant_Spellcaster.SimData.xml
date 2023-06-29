@@ -1,0 +1,1415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000015">
+  <Instances>
+    <I name="client_CASModifierTuning_Infant_Spellcaster" schema="Client_CASModifierTuning" type="Object">
+      <L name="Modifiers">
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">2518876070966225928</T>
+          <T name="LimitDirectManip">0.75</T>
+          <T name="LimitRandomize">0.5</T>
+          <T name="Scale">2</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0.05</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">2514917829105423249</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">0</T>
+          <T name="Scale">0.45</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">11339885883419289604</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.5</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0.1</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">6277053923485787994</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.51</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">16661979810489569261</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.288</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0.1</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">6277058321532300696</T>
+          <T name="LimitDirectManip">0.7</T>
+          <T name="LimitRandomize">0.5</T>
+          <T name="Scale">0.6</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">6722080364807981279</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.5</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">16899603458290925605</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">0.1</T>
+          <T name="Scale">0.75</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">5269990009848931320</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.75</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">5065524604464261042</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.8</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">8960932612894073167</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">0</T>
+          <T name="Scale">0.6</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">10548928611375858496</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.23</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">6152691649245374442</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.145</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">7609465321661064375</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">0</T>
+          <T name="Scale">0.22</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">7945466317639692640</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">0</T>
+          <T name="Scale">0.9</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">6288100738683515829</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">8300792590294215524</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.11</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">15712249228812909126</T>
+          <T name="LimitDirectManip">0.75</T>
+          <T name="LimitRandomize">0.75</T>
+          <T name="Scale">0.75</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">16684278021047835339</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.35</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0.1</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">11148908180599898197</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">6481616008148072001</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.42</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">15767915341704621780</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.53</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">15059476885267958695</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.47</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">15710609215894789103</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">12392232433385030216</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1.9</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">6893226236973844165</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.28</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">5624829623002859668</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">4230508900868880253</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.8</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">224725609338211523</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.39</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">5396388520971153289</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.43</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">17136188309589063339</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.51</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">8293414440942052864</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">14383237618479619514</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.5</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">13865325860293988282</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.53</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">9286676933995244721</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.35</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">11978665386451156480</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.58</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">15336744872645288792</T>
+          <T name="LimitDirectManip">0.3</T>
+          <T name="LimitRandomize">0.3</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">12444302040314804306</T>
+          <T name="LimitDirectManip">0.8</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">12037777348902986162</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.81</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">6495670187480831189</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.48</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">13220098415865710562</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.49</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">2056333114624009260</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.44</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">2152014097077753905</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">7311843131422036064</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.76</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">15497301145584180953</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.8</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">5842096338773158927</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.71</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">15999226790859144604</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.69</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">8797958394554334563</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.6</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">16177029920835881645</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.39</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">2029470798813448709</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.75</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">15375130540824967132</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">16116017134151403705</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.42</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">13598397761502412321</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.4</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">1538168887658491575</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.66</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">9066949440057725586</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.4</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">1882508595563426841</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.85</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">9559607867988446611</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.76</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">17699168874838751041</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.375</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">3325412926807346556</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.27</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">10829894036210414597</T>
+          <T name="LimitDirectManip">0</T>
+          <T name="LimitRandomize">0</T>
+          <T name="Scale">0</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">15210821734355294953</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">7247158697868977599</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">0.75</T>
+          <T name="Scale">0.3</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">3298150878475877537</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">14588029321016878999</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">0</T>
+          <T name="Scale">0.29</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">7379383280994260777</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.35</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">2677878166046918643</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.719</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">17612527516958839362</T>
+          <T name="LimitDirectManip">0.6</T>
+          <T name="LimitRandomize">0.6</T>
+          <T name="Scale">0.6</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">7948200116582414134</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.37</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">5021857893434676063</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">0.5</T>
+          <T name="Scale">0.55</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">11754504981775996930</T>
+          <T name="LimitDirectManip">0.75</T>
+          <T name="LimitRandomize">0.6</T>
+          <T name="Scale">0.6</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">9243481830510061067</T>
+          <T name="LimitDirectManip">0.8</T>
+          <T name="LimitRandomize">0.7</T>
+          <T name="Scale">0.5</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">3421209422780684748</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">5591618709585015391</T>
+          <T name="LimitDirectManip">0</T>
+          <T name="LimitRandomize">0</T>
+          <T name="Scale">0.195</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">9254208742299273386</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.68</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">6411306200752028276</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">0.5</T>
+          <T name="Scale">0.5</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">2758957239736373885</T>
+          <T name="LimitDirectManip">0.6</T>
+          <T name="LimitRandomize">0.3</T>
+          <T name="Scale">0.3</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">3429019020513973165</T>
+          <T name="LimitDirectManip">0.6</T>
+          <T name="LimitRandomize">0.5</T>
+          <T name="Scale">0.35</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">3407731861624549384</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">11076654318087736425</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.6</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">15899038299193570009</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">0</T>
+          <T name="Scale">0.5</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">18201116475055268423</T>
+          <T name="LimitDirectManip">0.25</T>
+          <T name="LimitRandomize">0.25</T>
+          <T name="Scale">0.98</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">759709637969654198</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">0.25</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">5397203096517482472</T>
+          <T name="LimitDirectManip">0.6</T>
+          <T name="LimitRandomize">0.6</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">772509647999345926</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">0.8</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">799048036029559752</T>
+          <T name="LimitDirectManip">0.6</T>
+          <T name="LimitRandomize">0</T>
+          <T name="Scale">0.75</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0.2</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">2631462370917084708</T>
+          <T name="LimitDirectManip">0.8</T>
+          <T name="LimitRandomize">0.8</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">17309084494538958193</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">0.4</T>
+          <T name="Scale">0.38</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">5381256899405593192</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.141</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">7681794354821667260</T>
+          <T name="LimitDirectManip">0.5</T>
+          <T name="LimitRandomize">0.5</T>
+          <T name="Scale">0.5</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">9069814601255297751</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.4</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">16962862473095780241</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.75</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">6615461009808620272</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">0</T>
+          <T name="Scale">0.25</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0.1</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">9200860513009761126</T>
+          <T name="LimitDirectManip">0.6</T>
+          <T name="LimitRandomize">0</T>
+          <T name="Scale">0.3</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">4992848815819541560</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.735</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">7196720929074154672</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.76</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">1817466709737941308</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.97</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0.45</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">9085846367618778896</T>
+          <T name="LimitDirectManip">0.4</T>
+          <T name="LimitRandomize">0.4</T>
+          <T name="Scale">0.8</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">1285925385091778647</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.49</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">2384857483003586325</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.42</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">1918764166068502773</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">0</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">1572799301003002873</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.41</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">13776432813566811204</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.29</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">14121462713909914773</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">0</T>
+          <T name="Scale">0.59</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">16495366905752026761</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">0.2</T>
+          <T name="Scale">0.87</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">18401089142741555576</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">15965362394743581868</T>
+          <T name="LimitDirectManip">0.8</T>
+          <T name="LimitRandomize">0.8</T>
+          <T name="Scale">0.5</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">14421484428479407246</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.298</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">11720846350893878295</T>
+          <T name="LimitDirectManip">0.2</T>
+          <T name="LimitRandomize">0.1</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">17891808527909549484</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.79</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">14829932752929146283</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.63</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">16773947738268716899</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.5</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">17655985211257275867</T>
+          <T name="LimitDirectManip">0.5</T>
+          <T name="LimitRandomize">0.5</T>
+          <T name="Scale">0.4</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">6250905293564701532</T>
+          <T name="LimitDirectManip">0.5</T>
+          <T name="LimitRandomize">0.25</T>
+          <T name="Scale">0.47</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">1969464574955210667</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">0.3</T>
+          <T name="Scale">0.365</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0.1</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">13030314792515685708</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.42</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">4977698316221240159</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">0.6</T>
+          <T name="Scale">0.23</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">7857564997894908553</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.53</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">5936528560008277070</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">17932350846658661088</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">7043780889548428606</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.75</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">112334529104649957</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.88</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">1570452707779461840</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.496</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">10622541605730466896</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">2366521508647868797</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.32</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">6081758640583440499</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.49</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0.1</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">7257715004735249799</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">0</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0.1</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">3975002819834123202</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.75</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0.75</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">2631462370917084708</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">12431270294246191375</T>
+          <T name="LimitDirectManip">0.6</T>
+          <T name="LimitRandomize">0.6</T>
+          <T name="Scale">0.6</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">3015763427292553898</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">0.8</T>
+          <T name="Scale">0.32</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">16866368892117289899</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">0.8</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">11617998607619509527</T>
+          <T name="LimitDirectManip">0.5</T>
+          <T name="LimitRandomize">0.5</T>
+          <T name="Scale">0.83</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0.1</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">14754516004697735664</T>
+          <T name="LimitDirectManip">0.5</T>
+          <T name="LimitRandomize">0</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">2320548833849502247</T>
+          <T name="LimitDirectManip">0.5</T>
+          <T name="LimitRandomize">0</T>
+          <T name="Scale">0.47</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">4794751771728301467</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.29</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">5801753279874941442</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.45</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">15994714121112611037</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">15470279040724770205</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">809623580526481970</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.7</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">6579994505436010608</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">0.4</T>
+          <T name="Scale">0.3</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">16706256035306990058</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">0.5</T>
+          <T name="Scale">0.52</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">9066949440057725586</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.86</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">13548498674247363447</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">3774519778492388168</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1.15</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">6893226236973844165</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.28</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">15819479733146171032</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.895</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">529230706123528662</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.56</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">7404396765711063067</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">2.8</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">16564904759445172799</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.51</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0.1</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">4008300378756532160</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">16237366669713957147</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">15210821734355294953</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">16365906081377987618</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.86</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">929582566165206373</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.22</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">14702084101685895047</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">4363368354483099723</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.8</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">8661823180548154997</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">0</T>
+          <T name="Scale">1.9</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0.2</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">10706399541563028978</T>
+          <T name="LimitDirectManip">0.6</T>
+          <T name="LimitRandomize">0.6</T>
+          <T name="Scale">0.7</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">16739008141209903807</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">17868078220999595663</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">3864925974255143921</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1.95</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">747007334383392029</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.62</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">7741549838260234498</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">1</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">4289964499705656924</T>
+          <T name="LimitDirectManip">0.8</T>
+          <T name="LimitRandomize">0.6</T>
+          <T name="Scale">0.8</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">13141353573119924155</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">0.5</T>
+          <T name="Scale">0.8</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">17930109287002657289</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">17930109287002657290</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">17930109287002657291</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">17930109287002657289</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">17930109287002657290</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">17930109287002657291</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+        <U type="Object" schema="Client_CASModifierTuning.ModifierData">
+          <T name="ModifierName">7306852712043517880</T>
+          <T name="LimitDirectManip">1</T>
+          <T name="LimitRandomize">1</T>
+          <T name="Scale">0.39</T>
+          <T name="Offset">0</T>
+          <T name="MinValue">0</T>
+        </U>
+      </L>
+      <L name="Ages">
+        <T type="Int64">128</T>
+      </L>
+      <L name="Genders">
+        <T type="Int64">8192</T>
+        <T type="Int64">4096</T>
+      </L>
+      <T name="OccultType">16</T>
+      <T name="Species">1</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="Client_CASModifierTuning" schema_hash="0xB50EE0D2">
+      <Columns>
+        <Column name="Modifiers" type="Vector" flags="0x00000000" />
+        <Column name="Ages" type="Vector" flags="0x00000000" />
+        <Column name="Genders" type="Vector" flags="0x00000000" />
+        <Column name="OccultType" type="Int64" flags="0x00000000" />
+        <Column name="Species" type="Int64" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="Client_CASModifierTuning.ModifierData" schema_hash="0x81371C36">
+      <Columns>
+        <Column name="ModifierName" type="UInt64" flags="0x00000000" />
+        <Column name="LimitDirectManip" type="Single" flags="0x00000000" />
+        <Column name="LimitRandomize" type="Single" flags="0x00000000" />
+        <Column name="Scale" type="Single" flags="0x00000000" />
+        <Column name="Offset" type="Single" flags="0x00000000" />
+        <Column name="MinValue" type="Single" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

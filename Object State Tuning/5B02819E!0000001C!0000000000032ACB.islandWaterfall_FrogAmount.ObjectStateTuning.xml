@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="islandWaterfall_FrogAmount" s="207563">
+  <L n="_values">
+    <T>207566<!--islandWaterfall_FrogAmount_Few--></T>
+    <T>207567<!--islandWaterfall_FrogAmount_Many--></T>
+    <T>207565<!--islandWaterfall_FrogAmount_None--></T>
+  </L>
+  <T n="linked_stat">207429<!--commodity_IslandWaterfall_FrogAmount--></T>
+</I>

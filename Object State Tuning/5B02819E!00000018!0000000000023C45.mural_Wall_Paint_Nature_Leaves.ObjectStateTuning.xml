@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="mural_Wall_Paint_Nature_Leaves" s="146501">
+  <L n="_values">
+    <T>147387<!--mural_Wall_Leaves_Complete--></T>
+    <T>146604<!--mural_Wall_Leaves_Defaced--></T>
+    <T>147388<!--mural_Wall_Leaves_NotStarted--></T>
+    <T>146603<!--mural_Wall_Leaves_BaseToLines_0--></T>
+    <T>147379<!--mural_Wall_Leaves_BaseToLines_1--></T>
+    <T>147380<!--mural_Wall_Leaves_BaseToLines_2--></T>
+    <T>147381<!--mural_Wall_Leaves_BaseToLines_3--></T>
+    <T>147382<!--mural_Wall_Leaves_BaseToLines_4--></T>
+    <T>146605<!--mural_Wall_Leaves_LinesToFinal_0--></T>
+    <T>147383<!--mural_Wall_Leaves_LinesToFinal_1--></T>
+    <T>147384<!--mural_Wall_Leaves_LinesToFinal_2--></T>
+    <T>147385<!--mural_Wall_Leaves_LinesToFinal_3--></T>
+    <T>147386<!--mural_Wall_Leaves_LinesToFinal_4--></T>
+    <T>147757<!--mural_Wall_Leaves_AToBase_0--></T>
+    <T>147758<!--mural_Wall_Leaves_AToBase_1--></T>
+    <T>147759<!--mural_Wall_Leaves_AToBase_2--></T>
+    <T>147760<!--mural_Wall_Leaves_AToBase_3--></T>
+    <T>147761<!--mural_Wall_Leaves_AToBase_4--></T>
+  </L>
+  <T n="linked_stat">147390<!--commodity_Mural_Leaves--></T>
+  <T n="persists_across_gallery">True</T>
+</I>

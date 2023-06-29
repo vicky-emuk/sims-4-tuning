@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="JuiceFizzer_Progress_States" s="236471">
+  <L n="_values">
+    <T>235269<!--juiceFizzer_ProgressValues_Off--></T>
+    <T>235270<!--juiceFizzer_ProgressValues_HasIngredients--></T>
+    <T>235271<!--juiceFizzer_ProgressValues_Running--></T>
+    <T>235272<!--juiceFizzer_ProgressValues_Finished--></T>
+  </L>
+  <T n="linked_stat">235305<!--commodity_JuiceFizzer_Progress--></T>
+</I>

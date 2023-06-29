@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="BubbleBlower_Cartridge_State" s="133037">
+  <L n="_values">
+    <T>133020<!--BubbleBlower_Cartridge_0_None--></T>
+    <T>133021<!--BubbleBlower_Cartridge_1_Default--></T>
+    <T>133022<!--BubbleBlower_Cartridge_2--></T>
+    <T>133023<!--BubbleBlower_Cartridge_3--></T>
+    <T>133024<!--BubbleBlower_Cartridge_4--></T>
+    <T>133025<!--BubbleBlower_Cartridge_5--></T>
+    <T>133026<!--BubbleBlower_Cartridge_6--></T>
+    <T>133027<!--BubbleBlower_Cartridge_7--></T>
+    <T>133038<!--BubbleBlower_Cartridge_8--></T>
+    <T>133029<!--BubbleBlower_Cartridge_9--></T>
+  </L>
+</I>

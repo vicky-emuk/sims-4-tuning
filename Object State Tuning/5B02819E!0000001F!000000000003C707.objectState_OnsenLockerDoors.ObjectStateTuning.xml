@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="objectState_OnsenLockerDoors" s="247559">
+  <L n="_values">
+    <T>247557<!--objectStateValue_OnsenLockerDoors_Closed--></T>
+    <T>247558<!--objectStateValue_OnsenLockerDoors_Open--></T>
+  </L>
+</I>

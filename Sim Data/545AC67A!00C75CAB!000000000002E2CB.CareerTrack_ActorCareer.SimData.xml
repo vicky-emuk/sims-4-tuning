@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x0000001B">
+  <Instances>
+    <I name="CareerTrack_ActorCareer" schema="TunableCareerTrack" type="Object">
+      <L name="branches" />
+      <T name="busy_time_situation_picker_tooltip">0x77D1D57E</T>
+      <T name="career_description">0xD3E6838A</T>
+      <L name="career_levels">
+        <T type="TableSetReference">189125</T>
+        <T type="TableSetReference">192919</T>
+        <T type="TableSetReference">192920</T>
+        <T type="TableSetReference">192921</T>
+        <T type="TableSetReference">192922</T>
+        <T type="TableSetReference">192923</T>
+        <T type="TableSetReference">192924</T>
+        <T type="TableSetReference">192925</T>
+        <T type="TableSetReference">192926</T>
+        <T type="TableSetReference">192927</T>
+      </L>
+      <T name="career_name">0x74B81395</T>
+      <T name="career_name_gender_neutral">0x695C2DBB</T>
+      <T name="icon">00B2D882-00000000-18684C80ED25B623</T>
+      <T name="icon_high_res">00B2D882-00000000-C9A8072F89F73B25</T>
+      <T name="image">00B2D882-00000000-4F3ACE6E6550CC19</T>
+      <T name="show_now_hiring_string">1</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="TunableCareerTrack" schema_hash="0x23557C02">
+      <Columns>
+        <Column name="branches" type="Vector" flags="0x00000000" />
+        <Column name="busy_time_situation_picker_tooltip" type="LocalizationKey" flags="0x00000000" />
+        <Column name="career_description" type="LocalizationKey" flags="0x00000000" />
+        <Column name="career_levels" type="Vector" flags="0x00000000" />
+        <Column name="career_name" type="LocalizationKey" flags="0x00000000" />
+        <Column name="career_name_gender_neutral" type="LocalizationKey" flags="0x00000000" />
+        <Column name="icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="icon_high_res" type="ResourceKey" flags="0x00000000" />
+        <Column name="image" type="ResourceKey" flags="0x00000000" />
+        <Column name="show_now_hiring_string" type="Boolean" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

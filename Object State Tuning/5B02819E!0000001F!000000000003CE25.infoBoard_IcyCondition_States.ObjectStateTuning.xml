@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="infoBoard_IcyCondition_States" s="249381">
+  <L n="_values">
+    <T>249380<!--infoBoard_NoIcyConditions--></T>
+    <T>249379<!--infoBoard_IcyConditions--></T>
+  </L>
+</I>

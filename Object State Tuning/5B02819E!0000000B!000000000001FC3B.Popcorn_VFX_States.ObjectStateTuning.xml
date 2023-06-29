@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="Popcorn_VFX_States" s="130107">
+  <L n="_values">
+    <T>130098<!--popcornPopper_VFX_Caramel_Burnt--></T>
+    <T>130097<!--popcornPopper_VFX_Caramel_Full--></T>
+    <T>130096<!--popcornPopper_VFX_Caramel_Half--></T>
+    <T>130106<!--popcornPopper_VFX_Caramel_Progress--></T>
+    <T>130101<!--popcornPopper_VFX_Cheddar_Burnt--></T>
+    <T>130095<!--popcornPopper_VFX_Cheddar_Full--></T>
+    <T>130094<!--popcornPopper_VFX_Cheddar_Half--></T>
+    <T>130105<!--popcornPopper_VFX_Cheddar_Progress--></T>
+    <T>130102<!--popcornPopper_VFX_Empty--></T>
+    <T>130099<!--popcornPopper_VFX_Kettle_Burnt--></T>
+    <T>130093<!--popcornPopper_VFX_Kettle_Full--></T>
+    <T>130092<!--popcornPopper_VFX_Kettle_Half--></T>
+    <T>130104<!--popcornPopper_VFX_Kettle_Progress--></T>
+    <T>130100<!--popcornPopper_VFX_Popcorn_Burnt--></T>
+    <T>130091<!--popcornPopper_VFX_Popcorn_Full--></T>
+    <T>130090<!--popcornPopper_VFX_Popcorn_Half--></T>
+    <T>130103<!--popcornPopper_VFX_Popcorn_Progress--></T>
+    <T>130610<!--popcornPopper_VFX_Half_Burnt--></T>
+  </L>
+</I>

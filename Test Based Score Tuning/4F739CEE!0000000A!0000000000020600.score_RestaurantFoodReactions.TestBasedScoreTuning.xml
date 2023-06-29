@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TestBasedScore" i="test_based_score" m="event_testing.test_based_score" n="score_RestaurantFoodReactions" s="132608">
+  <L n="_scores">
+    <U>
+      <T n="score">5</T>
+      <V n="test" t="state">
+        <U n="state">
+          <T n="value">15305<!--Quality_Outstanding--></T>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">5</T>
+      <V n="test" t="mood">
+        <U n="mood">
+          <T n="mood">14634<!--Mood_Confident--></T>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">5</T>
+      <V n="test" t="mood">
+        <U n="mood">
+          <T n="mood">14644<!--Mood_Dazed--></T>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">5</T>
+      <V n="test" t="mood">
+        <U n="mood">
+          <T n="mood">14636<!--Mood_Energized--></T>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">5</T>
+      <V n="test" t="mood">
+        <U n="mood">
+          <T n="mood">14640<!--Mood_Happy--></T>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">5</T>
+      <V n="test" t="mood">
+        <U n="mood">
+          <T n="mood">14641<!--Mood_Inspired--></T>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">5</T>
+      <V n="test" t="mood">
+        <U n="mood">
+          <T n="mood">14642<!--Mood_Playful--></T>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">5</T>
+      <V n="test" t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>26197<!--trait_EssenceOfFlavor--></T>
+          </L>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">5</T>
+      <V n="test" t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>26199<!--trait_FreshChef--></T>
+          </L>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">5</T>
+      <V n="test" t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>27176<!--trait_Foodie--></T>
+          </L>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">5</T>
+      <V n="test" t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>9322<!--trait_Cheerful--></T>
+          </L>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">5</T>
+      <V n="test" t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>16843<!--trait_Glutton--></T>
+          </L>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">5</T>
+      <V n="test" t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>26476<!--trait_Carefree--></T>
+          </L>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">5</T>
+      <V n="test" t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>104472<!--trait_isBear--></T>
+          </L>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">-5</T>
+      <V n="test" t="state">
+        <U n="state">
+          <T n="value">15306<!--Quality_Poor--></T>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">-5</T>
+      <V n="test" t="mood">
+        <U n="mood">
+          <T n="mood">14632<!--Mood_Angry--></T>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">-5</T>
+      <V n="test" t="mood">
+        <U n="mood">
+          <T n="mood">14633<!--Mood_Bored--></T>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">-5</T>
+      <V n="test" t="mood">
+        <U n="mood">
+          <T n="mood">14635<!--Mood_Embarrassed--></T>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">-5</T>
+      <V n="test" t="mood">
+        <U n="mood">
+          <T n="mood">14643<!--Mood_Sad--></T>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">-5</T>
+      <V n="test" t="mood">
+        <U n="mood">
+          <T n="mood">14645<!--Mood_Stressed--></T>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">-5</T>
+      <V n="test" t="mood">
+        <U n="mood">
+          <T n="mood">14646<!--Mood_Uncomfortable--></T>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">-5</T>
+      <V n="test" t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>9332<!--trait_Gloomy--></T>
+          </L>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">-5</T>
+      <V n="test" t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>9332<!--trait_Gloomy--></T>
+          </L>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">-5</T>
+      <V n="test" t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>16857<!--trait_Mean--></T>
+          </L>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">-5</T>
+      <V n="test" t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>9620<!--trait_Snob--></T>
+          </L>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">-5</T>
+      <V n="test" t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>26389<!--trait_HardlyHungry--></T>
+          </L>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="score">-5</T>
+      <V n="test" t="trait">
+        <U n="trait">
+          <L n="whitelist_traits">
+            <T>102785<!--trait_OccultAlien--></T>
+          </L>
+        </U>
+      </V>
+    </U>
+  </L>
+</I>

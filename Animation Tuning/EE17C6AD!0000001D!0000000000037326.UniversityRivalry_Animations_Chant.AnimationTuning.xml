@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AnimationElement" i="animation" m="animation.animation_element" n="UniversityRivalry_Animations_Chant" s="226086">
+  <T n="actor_name">x</T>
+  <T n="asm_key" p="InEP08\Sage\UniversityRivalry_SchoolCheer.interactionasm">02d5df13:00000000:15a137b86ed49e86</T>
+  <L n="begin_states">
+    <T>Chant</T>
+  </L>
+  <T n="target_name" o="true" />
+</I>

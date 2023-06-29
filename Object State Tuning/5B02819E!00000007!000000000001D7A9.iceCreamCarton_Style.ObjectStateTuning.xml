@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="iceCreamCarton_Style" s="120745">
+  <L n="_values">
+    <T>120704<!--iceCreamCarton_Style_Chipped--></T>
+    <T>120703<!--iceCreamCarton_Style_Plain--></T>
+    <T>120706<!--iceCreamCarton_Style_Swirl_ThreeColor--></T>
+    <T>120705<!--iceCreamCarton_Style_Swirl_TwoColor--></T>
+    <T>124697<!--iceCreamCarton_Style_Empty--></T>
+  </L>
+</I>

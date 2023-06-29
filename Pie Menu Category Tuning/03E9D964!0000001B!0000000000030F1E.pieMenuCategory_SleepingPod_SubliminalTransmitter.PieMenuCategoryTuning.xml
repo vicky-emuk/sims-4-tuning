@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="PieMenuCategory" i="pie_menu_category" m="interactions.pie_menu_category" n="pieMenuCategory_SleepingPod_SubliminalTransmitter" s="200478">
+  <T n="_display_name">0xBD6F536B<!--Subliminal Transmitter--></T>
+  <T n="_parent">200431<!--pieMenuCategory_SleepingPod_ControlPanel--></T>
+</I>

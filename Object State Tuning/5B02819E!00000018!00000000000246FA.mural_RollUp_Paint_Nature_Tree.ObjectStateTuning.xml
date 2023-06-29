@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="mural_RollUp_Paint_Nature_Tree" s="149242">
+  <L n="_values">
+    <T>149017<!--mural_RollUp_Tree_LinestoFinal_4--></T>
+    <T>149013<!--mural_RollUp_Tree_LinestoFinal_0--></T>
+    <T>149014<!--mural_RollUp_Tree_LinestoFinal_1--></T>
+    <T>149015<!--mural_RollUp_Tree_LinestoFinal_2--></T>
+    <T>149016<!--mural_RollUp_Tree_LinestoFinal_3--></T>
+    <T>149011<!--Mural_RollUp_Tree_BaseToLines_4--></T>
+    <T>149007<!--Mural_RollUp_Tree_BaseToLines_0--></T>
+    <T>149008<!--Mural_RollUp_Tree_BaseToLines_1--></T>
+    <T>149009<!--Mural_RollUp_Tree_BaseToLines_2--></T>
+    <T>149010<!--Mural_RollUp_Tree_BaseToLines_3--></T>
+    <T>149005<!--mural_RollUp_Tree_AToBase_4--></T>
+    <T>149001<!--mural_RollUp_Tree_AToBase_0--></T>
+    <T>149002<!--mural_RollUp_Tree_AToBase_1--></T>
+    <T>149003<!--mural_RollUp_Tree_AToBase_2--></T>
+    <T>149004<!--mural_RollUp_Tree_AToBase_3--></T>
+    <T>148999<!--mural_RollUp_Tree_NotStarted--></T>
+    <T>148997<!--mural_RollUp_Tree_Complete--></T>
+    <T>148998<!--mural_RollUp_Tree_Defaced--></T>
+  </L>
+  <T n="linked_stat">149259<!--commodity_RollUp_Trees--></T>
+  <T n="persists_across_gallery">True</T>
+</I>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectAnimationElement" i="animation" m="animation.object_animation" n="dustFriend_Idles_Bunny_Destroy" s="254841">
+  <T n="actor_name">dustCritter</T>
+  <T n="asm_key" p="InSP22\Sage\DustBunny_Actions.interactionasm">02d5df13:00000000:cb2139f776c09d3f</T>
+  <L n="begin_states">
+    <T>Disappear</T>
+  </L>
+  <T n="repeat">False</T>
+</I>

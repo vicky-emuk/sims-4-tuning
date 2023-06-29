@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalSet" i="situation_goal_set" m="situations.situation_goal_set" n="goalSet_Career_Scientist_Surprise_CollectOutside" s="112976">
+  <L n="chained_goal_sets">
+    <T>112976<!--goalSet_Career_Scientist_Surprise_CollectOutside--></T>
+  </L>
+  <L n="goals">
+    <U>
+      <T n="goal">112753<!--SituationGoalObjectInteraction_CareerScientist_DigUpSomething--></T>
+    </U>
+    <U>
+      <T n="goal">112831<!--situationGoalObjectInteraction_CareerScientist_DigUp_3--></T>
+    </U>
+    <U>
+      <T n="goal">112865<!--situationGoalObjectInteraction_CareerScientist_HarvestPlant--></T>
+    </U>
+    <U>
+      <T n="goal">112881<!--situationGoalObjectInteraction_CareerScientist_DigAlienCrater--></T>
+    </U>
+    <U>
+      <T n="goal">115996<!--situationGoalObjectInteraction_CareerScientist_CallGeoCouncil--></T>
+    </U>
+    <U>
+      <T n="goal">115992<!--situationGoalObjectInteraction_CareerScientist_WaterPlant--></T>
+    </U>
+    <U>
+      <T n="goal">115994<!--situationGoalObjectInteraction_CareerScientist_WeedPlant--></T>
+    </U>
+    <U>
+      <T n="goal">115995<!--situationGoalObjectInteraction_CareerScientist_GoFishing_Collect--></T>
+    </U>
+  </L>
+</I>

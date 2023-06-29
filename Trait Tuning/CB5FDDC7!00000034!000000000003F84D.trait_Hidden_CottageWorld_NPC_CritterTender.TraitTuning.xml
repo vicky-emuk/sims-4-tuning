@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="trait_Hidden_CottageWorld_NPC_CritterTender" s="260173">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>BABY</E>
+    <E>CHILD</E>
+    <E>TODDLER</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+    <E>INFANT</E>
+  </L>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">262915<!--buff_Trait_CottageWorld_NPC_Headline_CritterTender--></T>
+    </U>
+  </L>
+  <T n="buffs_add_on_spawn_only">False</T>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <T n="is_npc_only">True</T>
+  <L n="species">
+    <E />
+  </L>
+  <L n="super_affordances">
+    <T>260958<!--social_VillagerHelp_OfferHelp--></T>
+    <T>265002<!--sim_CottageWorld_NPC_OfferFavor_Picker--></T>
+    <T>265325<!--social_VillagerHelp_AnimalObject_BuyAnimalClothing--></T>
+    <T>265328<!--CottageWorld_NPC_Crafting_AnimalObject_AnimalClothing_Chickens--></T>
+    <T>265615<!--cottageWorld_NPC_Crafting_AnimalObject_AnimalClothing_Cow--></T>
+    <T>265614<!--cottageWorld_NPC_Crafting_AnimalObject_AnimalClothing_Llama--></T>
+    <T>265616<!--cottageWorld_NPC_Crafting_AnimalObject_AnimalClothing_Rabbits--></T>
+    <T>266807<!--social_CottageWorld_NPC_CritterTender_Sell--></T>
+    <T>269018<!--social_CottageWorld_NPC_CritterTender_TradeBerries_ChocolateBerryForBlueberry--></T>
+    <T>269019<!--social_CottageWorld_NPC_CritterTender_TradeBerries_RaspberryForBlueberry--></T>
+    <T>269020<!--social_CottageWorld_NPC_CritterTender_TradeBerries_BlueberryForChocolateBerry--></T>
+    <T>269021<!--social_CottageWorld_NPC_CritterTender_TradeBerries_RaspberryForChocolateBerry--></T>
+    <T>269022<!--social_CottageWorld_NPC_CritterTender_TradeBerries_BlueberryForRaspberry--></T>
+    <T>268558<!--cottageWorld_NPC_Crafting_AnimalObject_AnimalClothing_Fox--></T>
+    <T>269023<!--social_CottageWorld_NPC_CritterTender_TradeBerries_ChocolateBerryForRaspberry--></T>
+  </L>
+  <L n="target_super_affordances">
+    <U>
+      <T n="affordance">265076<!--social_CottageWorld_NPC_GiveFavor--></T>
+    </U>
+    <U>
+      <T n="affordance">265373<!--AnimalObjects_AnimalClothing_CraftClothes--></T>
+    </U>
+  </L>
+  <E n="trait_type">HIDDEN</E>
+</I>

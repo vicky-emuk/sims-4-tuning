@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="PremadeSimTemplate" i="sim_template" m="world.premade_sim_template" n="simTemplate_YukiBehr" s="126977">
+  <U n="_sim_creation_info">
+    <T n="first_name">0xD0E15FA1<!--Yuki--></T>
+    <V n="last_name" t="specify_last_name">
+      <T n="specify_last_name">0x640E16ED<!--Behr--></T>
+    </V>
+    <T n="resource_key" p="InEP02\Sims\SimInfos\PremadeSims\tfYukiBehr.siminfo">025ed6f4:00000000:a1e2d8a3cef5a3ec</T>
+  </U>
+  <U n="_skills">
+    <L n="explicit">
+      <U>
+        <U n="range">
+          <T n="ideal_value">3</T>
+          <T n="min_value">3</T>
+        </U>
+        <T n="skill">16712<!--statistic_Skill_AdultMajor_VideoGaming--></T>
+      </U>
+    </L>
+  </U>
+  <U n="_traits">
+    <L n="explicit">
+      <T>16841<!--trait_Geek--></T>
+      <T>9602<!--trait_Loner--></T>
+    </L>
+    <V n="num_random" t="disabled" />
+  </U>
+  <V n="career_level" t="enabled">
+    <T n="enabled">9550<!--career_HighSchool_LevelC--></T>
+  </V>
+  <L n="clubs">
+    <U>
+      <T n="seed">123888<!--clubSeed_InitialSeeds_MisfitClub--></T>
+    </U>
+    <U>
+      <T n="seed">128517<!--clubSeed_InitialSeeds_KnightClub--></T>
+    </U>
+  </L>
+</I>

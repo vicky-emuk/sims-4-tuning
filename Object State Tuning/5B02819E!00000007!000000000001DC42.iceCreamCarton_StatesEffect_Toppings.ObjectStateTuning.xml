@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="iceCreamCarton_StatesEffect_Toppings" s="121922">
+  <L n="_values">
+    <T>121864<!--iceCream_StateEffects_Toppings_HardServe_CaramelSyrup--></T>
+    <T>121867<!--iceCream_StateEffects_Toppings_HardServe_Cherry--></T>
+    <T>121870<!--iceCream_StateEffects_Toppings_HardServe_ChocolateSauce--></T>
+    <T>121855<!--iceCream_StateEffects_Toppings_HardServe_CoconutShavings--></T>
+    <T>121875<!--iceCream_StateEffects_Toppings_HardServe_Nuts--></T>
+    <T>121862<!--iceCream_StateEffects_Toppings_HardServe_RaspberrySauce--></T>
+    <T>121859<!--iceCream_StateEffects_Toppings_HardServe_Sprinkles--></T>
+    <T>121856<!--iceCream_StateEffects_Toppings_HardServe_WhippedCream--></T>
+    <T>121854<!--iceCream_StateEffects_Toppings_Melted_CaramelSyrup--></T>
+    <T>121865<!--iceCream_StateEffects_Toppings_Melted_Cherry--></T>
+    <T>121868<!--iceCream_StateEffects_Toppings_Melted_ChocolateSauce--></T>
+    <T>121871<!--iceCream_StateEffects_Toppings_Melted_CoconutShavings--></T>
+    <T>121873<!--iceCream_StateEffects_Toppings_Melted_Nuts--></T>
+    <T>121860<!--iceCream_StateEffects_Toppings_Melted_RaspberrySauce--></T>
+    <T>121857<!--iceCream_StateEffects_Toppings_Melted_Sprinkles--></T>
+    <T>121876<!--iceCream_StateEffects_Toppings_Melted_WhippedCream--></T>
+    <T>121853<!--iceCream_StateEffects_Toppings_None--></T>
+    <T>121863<!--iceCream_StateEffects_Toppings_SoftServe_CaramelSyrup--></T>
+    <T>121866<!--iceCream_StateEffects_Toppings_SoftServe_Cherry--></T>
+    <T>121869<!--iceCream_StateEffects_Toppings_SoftServe_ChocolateSauce--></T>
+    <T>121872<!--iceCream_StateEffects_Toppings_SoftServe_CoconutShavings--></T>
+    <T>121874<!--iceCream_StateEffects_Toppings_SoftServe_Nuts--></T>
+    <T>121861<!--iceCream_StateEffects_Toppings_SoftServe_RaspberrySauce--></T>
+    <T>121858<!--iceCream_StateEffects_Toppings_SoftServe_Sprinkles--></T>
+    <T>121877<!--iceCream_StateEffects_Toppings_SoftServe_WhippedCream--></T>
+  </L>
+</I>

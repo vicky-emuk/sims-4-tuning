@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RoleState" i="role_state" m="role.role_state" n="roleState_shoeRemovalSign_shoesOff" s="246483">
+  <L n="_buffs">
+    <U>
+      <T n="buff_type">246486<!--buff_shoeRemovalSign_shoesOff--></T>
+    </U>
+  </L>
+  <U n="_off_lot_autonomy_buff">
+    <T n="buff_type" o="true" />
+  </U>
+  <L n="loot_on_load">
+    <T>254280<!--lootActions_shoeRemovalSign_OnLoad_Barefoot--></T>
+  </L>
+</I>

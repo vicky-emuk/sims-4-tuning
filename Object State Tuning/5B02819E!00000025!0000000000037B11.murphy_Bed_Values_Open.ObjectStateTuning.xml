@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectStateValue" i="object_state" m="objects.components.state" n="murphy_Bed_Values_Open" s="228113">
+  <L n="super_affordances">
+    <T>228225<!--murphyBed_PutUp--></T>
+    <T>97514<!--bed_WooHoo_Picker--></T>
+    <T>97577<!--bed_TryForBaby_Picker_Female--></T>
+    <T>97582<!--bed_TryForBaby_Picker_Male--></T>
+    <T>219270<!--simPicker_DoubleBed_AssignSim--></T>
+    <T>33975<!--Bed_Undercovers_Cry--></T>
+    <T>34080<!--Bed_Undercovers_Hide--></T>
+    <T>13091<!--bed_Nap--></T>
+    <T>13094<!--bed_sleep--></T>
+    <T>99188<!--bed_MessAround_Picker--></T>
+    <T>162586<!--bed_SimPicker_PutToBed_C--></T>
+    <T>162630<!--bed_SimPicker_TuckIn_InBed_TYAE--></T>
+    <T>162491<!--Bed_SimPicker_PutToBed_TYAE--></T>
+    <T>288608<!--seating_Sit_Bed_CT--></T>
+    <T>252514<!--bed_Undercovers_ScaredHide--></T>
+    <T>288595<!--seating_sit_Bed_SitOnly_NotVisible--></T>
+    <T>288609<!--seating_Sit_Bed_YAE--></T>
+  </L>
+</I>

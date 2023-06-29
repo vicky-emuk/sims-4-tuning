@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000036">
+  <Instances>
+    <I name="lifeMilestone_HadAffair" schema="DevelopmentalMilestone" type="Object">
+      <L name="ages">
+        <T type="Int64">16</T>
+        <T type="Int64">32</T>
+        <T type="Int64">64</T>
+      </L>
+      <T name="category">6</T>
+      <T name="icon">00B2D882-00000000-2F2BD79266C50ADD</T>
+      <V name="is_primary_milestone" variant="0x9229B22A" />
+      <T name="name">0x2CED6FC3</T>
+      <T name="ui_sort_order">102</T>
+      <T name="unlocked_text">0x666CC56D</T>
+      <T name="unlocked_text_no_context">0xEF6DB709</T>
+      <T name="unlocked_text_target_sim_header">0x881E311A</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="DevelopmentalMilestone" schema_hash="0x87ED1F96">
+      <Columns>
+        <Column name="ages" type="Vector" flags="0x00000000" />
+        <Column name="category" type="UInt32" flags="0x00000000" />
+        <Column name="icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="is_primary_milestone" type="Variant" flags="0x00000000" />
+        <Column name="name" type="LocalizationKey" flags="0x00000000" />
+        <Column name="ui_sort_order" type="Int32" flags="0x00000000" />
+        <Column name="unlocked_text" type="LocalizationKey" flags="0x00000000" />
+        <Column name="unlocked_text_no_context" type="LocalizationKey" flags="0x00000000" />
+        <Column name="unlocked_text_target_sim_header" type="LocalizationKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

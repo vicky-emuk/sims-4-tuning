@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="XrayMachine_Video_States" s="112142">
+  <L n="_values">
+    <T>112141<!--XrayMachine_Off--></T>
+    <T>112140<!--XrayMachine_Scan--></T>
+    <T>112139<!--XrayMachine_Calibrate--></T>
+    <T>115398<!--xrayMachine_CalibrateFail--></T>
+    <T>115397<!--xrayMachine_CalibrateSuccess--></T>
+    <T>115396<!--xrayMachine_ScanAlien--></T>
+  </L>
+</I>

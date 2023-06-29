@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ClubInteractionGroup" i="club_interaction_group" m="clubs.club_tuning" n="clubInteractionGroup_SkillBuilding_Juicefizzing" s="239058">
+  <L n="affordance_lists">
+    <T>239059<!--affordanceList_Club_JuiceFizzing--></T>
+  </L>
+  <E n="category">HOBBIES</E>
+  <T n="category_icon" p="InEP09\UI\Icons\Skill\Skill_juiceFizzing.png">2f7d0004:00000000:483eabbf3a6de7ae</T>
+  <T n="club_bucks_reward">2</T>
+  <T n="is_targeted">False</T>
+  <T n="name">0xD6742E58<!--Make Juice Fizzing Products--></T>
+  <T n="tooltip_template">0xD6742E58<!--Make Juice Fizzing Products--></T>
+  <T n="tooltip_template_negative">0x177432DB<!--Don't Make Juice Fizzing Products--></T>
+</I>

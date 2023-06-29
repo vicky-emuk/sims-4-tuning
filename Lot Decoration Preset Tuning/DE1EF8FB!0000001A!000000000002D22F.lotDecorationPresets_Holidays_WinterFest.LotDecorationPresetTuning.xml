@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="LotDecorationPreset" i="lot_decoration_preset" m="lot_decoration.lot_decoration_preset" n="lotDecorationPresets_Holidays_WinterFest" s="184879">
+  <V n="_display_data" t="optional_display_mixin">
+    <U n="optional_display_mixin">
+      <V n="instance_display_description" t="disabled" />
+      <V n="instance_display_icon" t="disabled" />
+      <V n="instance_display_name" t="enabled_display_name">
+        <T n="enabled_display_name">0x3E52A2A2<!--Winterfest--></T>
+      </V>
+      <V n="instance_display_tooltip" t="disabled" />
+    </U>
+  </V>
+  <L n="location_content">
+    <U>
+      <E n="key">EAVES</E>
+      <L n="value">
+        <U>
+          <T n="key">191124<!--holidayTraditionGoal_TVPremiere_Buff--></T>
+        </U>
+        <U>
+          <T n="key">191125</T>
+        </U>
+        <U>
+          <T n="key">191126</T>
+        </U>
+        <U>
+          <T n="key">191127<!--lotDecorationPresets_Holidays_Spooky--></T>
+        </U>
+        <U>
+          <T n="key">191129</T>
+        </U>
+        <U>
+          <T n="key">194667<!--denizenPond_VFXStates_Idle--></T>
+        </U>
+        <U>
+          <T n="key">194673</T>
+        </U>
+        <U>
+          <T n="key">194796</T>
+        </U>
+        <U>
+          <T n="key">194798<!--actorCareer_Dance_SafeFail--></T>
+        </U>
+      </L>
+    </U>
+    <U>
+      <E n="key">FENCES</E>
+      <L n="value">
+        <U>
+          <T n="key">191117<!--snowEffects_FirstSnow_Start--></T>
+        </U>
+        <U>
+          <T n="key">191119<!--FishingHole_Foliage_1_Wilted--></T>
+        </U>
+        <U>
+          <T n="key">191123<!--lotDecorationPresets_Holidays_Spring--></T>
+        </U>
+        <U>
+          <T n="key">194560<!--streamingDrone_Upgrade_VideoQuality_Complete--></T>
+        </U>
+        <U>
+          <T n="key">194561<!--streamingDrone_Upgrade_Battery_Start--></T>
+        </U>
+        <U>
+          <T n="key">194673</T>
+        </U>
+        <U>
+          <T n="key">194747<!--screenSlam_Skill_Acting_LevelUp--></T>
+        </U>
+        <U>
+          <T n="key">194748</T>
+        </U>
+        <U>
+          <T n="key">194749</T>
+        </U>
+        <U>
+          <T n="key">194750</T>
+        </U>
+        <U>
+          <T n="key">194751</T>
+        </U>
+        <U>
+          <T n="key">194752<!--streamingDrone_Start_Stream--></T>
+        </U>
+        <U>
+          <T n="key">194753<!--streamingDrone_Start_Recording--></T>
+        </U>
+        <U>
+          <T n="key">194754<!--dramaNode_MusicProductionStation_SignWithDinkyBeats--></T>
+        </U>
+        <U>
+          <T n="key">194755<!--dramaNode_MusicProductionStation_SignWithNewTastemakers--></T>
+        </U>
+      </L>
+    </U>
+    <U>
+      <E n="key">FOUNDATIONS</E>
+      <L n="value">
+        <U>
+          <T n="key">191117<!--snowEffects_FirstSnow_Start--></T>
+        </U>
+        <U>
+          <T n="key">191118<!--FishingHole_Foliage_0_Normal--></T>
+        </U>
+        <U>
+          <T n="key">191119<!--FishingHole_Foliage_1_Wilted--></T>
+        </U>
+        <U>
+          <T n="key">191126</T>
+        </U>
+        <U>
+          <T n="key">191127<!--lotDecorationPresets_Holidays_Spooky--></T>
+        </U>
+        <U>
+          <T n="key">191129</T>
+        </U>
+        <U>
+          <T n="key">194590</T>
+        </U>
+        <U>
+          <T n="key">194599<!--buff_Celebrity_Socials_AutographFailure--></T>
+        </U>
+        <U>
+          <T n="key">194603<!--buff_Fame_Perk_CelebuSerum_MailboxTimer--></T>
+        </U>
+      </L>
+    </U>
+    <U>
+      <E n="key">FRIEZES</E>
+      <L n="value">
+        <U>
+          <T n="key">191124<!--holidayTraditionGoal_TVPremiere_Buff--></T>
+        </U>
+        <U>
+          <T n="key">191125</T>
+        </U>
+        <U>
+          <T n="key">191126</T>
+        </U>
+        <U>
+          <T n="key">191127<!--lotDecorationPresets_Holidays_Spooky--></T>
+        </U>
+        <U>
+          <T n="key">191129</T>
+        </U>
+        <U>
+          <T n="key">194796</T>
+        </U>
+        <U>
+          <T n="key">194798<!--actorCareer_Dance_SafeFail--></T>
+        </U>
+      </L>
+    </U>
+    <U>
+      <E n="key">SPANDRELS</E>
+      <L n="value">
+        <U>
+          <T n="key">191117<!--snowEffects_FirstSnow_Start--></T>
+        </U>
+        <U>
+          <T n="key">191119<!--FishingHole_Foliage_1_Wilted--></T>
+        </U>
+        <U>
+          <T n="key">191123<!--lotDecorationPresets_Holidays_Spring--></T>
+        </U>
+        <U>
+          <T n="key">191126</T>
+        </U>
+        <U>
+          <T n="key">191127<!--lotDecorationPresets_Holidays_Spooky--></T>
+        </U>
+        <U>
+          <T n="key">191129</T>
+        </U>
+        <U>
+          <T n="key">194560<!--streamingDrone_Upgrade_VideoQuality_Complete--></T>
+        </U>
+        <U>
+          <T n="key">194747<!--screenSlam_Skill_Acting_LevelUp--></T>
+        </U>
+        <U>
+          <T n="key">194748</T>
+        </U>
+        <U>
+          <T n="key">194749</T>
+        </U>
+        <U>
+          <T n="key">194750</T>
+        </U>
+        <U>
+          <T n="key">194751</T>
+        </U>
+        <U>
+          <T n="key">194752<!--streamingDrone_Start_Stream--></T>
+        </U>
+        <U>
+          <T n="key">194753<!--streamingDrone_Start_Recording--></T>
+        </U>
+        <U>
+          <T n="key">194754<!--dramaNode_MusicProductionStation_SignWithDinkyBeats--></T>
+        </U>
+        <U>
+          <T n="key">194755<!--dramaNode_MusicProductionStation_SignWithNewTastemakers--></T>
+        </U>
+      </L>
+    </U>
+  </L>
+</I>

@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SimReward" i="reward" m="rewards.reward" n="careerRewards_Detective_Level08" s="114523">
+  <T n="icon" p="InGame\UI\Icons\Headlines\Final\headline_careerpromotion.png">2f7d0004:00000000:a6ed756af9cb04a1</T>
+  <T n="name">0x9A909927</T>
+  <V n="reward_description" t="enabled">
+    <T n="enabled">0x9A909927</T>
+  </V>
+  <L n="rewards">
+    <V t="specific_reward">
+      <V n="specific_reward" t="build_buy_object">
+        <U n="build_buy_object">
+          <T n="object_definition">81170</T>
+        </U>
+      </V>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">81170<!--sculptWall_EP01GENplaqueBadge_set1 (Mighty Plaque of Honor)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">81172<!--sculptWall_EP01GENplaqueBadge_set2 (Mighty Plaque of Honor)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">81174<!--sculptWall_EP01GENplaqueBadge_set3 (Mighty Plaque of Honor)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">81176<!--sculptWall_EP01GENplaqueBadge_set4 (Mighty Plaque of Honor)--></T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="build_buy_object">
+        <U n="build_buy_object">
+          <T n="object_definition">80881</T>
+        </U>
+      </V>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80881<!--sculptWall_EP01GENpoliceBadge2x1x2_set1 (Star on The Wall Plaque)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80883<!--sculptWall_EP01GENpoliceBadge2x1x2_set2 (Star on The Wall Plaque)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80885<!--sculptWall_EP01GENpoliceBadge2x1x2_set3 (Star on The Wall Plaque)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80887<!--sculptWall_EP01GENpoliceBadge2x1x2_set4 (Star on The Wall Plaque)--></T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="build_buy_object">
+        <U n="build_buy_object">
+          <T n="object_definition">82199</T>
+        </U>
+      </V>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">82199<!--sculptWall_EP01GENportraits_set1 (Carol and Hubert)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">82205<!--sculptWall_EP01GENportraits_set2 (Carol and Hubert)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">82211<!--sculptWall_EP01GENportraits_set3 (Carol and Hubert)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">82217<!--sculptWall_EP01GENportraits_set4 (Carol and Hubert)--></T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="build_buy_object">
+        <U n="build_buy_object">
+          <T n="object_definition">78559</T>
+        </U>
+      </V>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78559<!--lightCeiling1x1_EP01POLICEoffice_set1 (Interrogation Illumination)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78561<!--lightCeiling1x1_EP01POLICEoffice_set2 (Interrogation Illumination)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78563<!--lightCeiling1x1_EP01POLICEoffice_set3 (Interrogation Illumination)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78565<!--lightCeiling1x1_EP01POLICEoffice_set4 (Interrogation Illumination)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78567<!--lightCeiling1x1_EP01POLICEoffice_set5 (Interrogation Illumination)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78569<!--lightCeiling1x1_EP01POLICEoffice_set6 (Interrogation Illumination)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78571<!--lightCeiling1x1_EP01POLICEoffice_set7 (Interrogation Illumination)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78573<!--lightCeiling1x1_EP01POLICEoffice_set8 (Interrogation Illumination)--></T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="build_buy_object">
+        <U n="build_buy_object">
+          <T n="object_definition">78575</T>
+        </U>
+      </V>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78575<!--lightCeiling2x1_EP01POLICEoffice_set1 (Retro, P.I. Lamp)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78577<!--lightCeiling2x1_EP01POLICEoffice_set2 (Retro, P.I. Lamp)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78579<!--lightCeiling2x1_EP01POLICEoffice_set3 (Retro, P.I. Lamp)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78581<!--lightCeiling2x1_EP01POLICEoffice_set4 (Retro, P.I. Lamp)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78583<!--lightCeiling2x1_EP01POLICEoffice_set5 (Retro, P.I. Lamp)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78585<!--lightCeiling2x1_EP01POLICEoffice_set6 (Retro, P.I. Lamp)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78587<!--lightCeiling2x1_EP01POLICEoffice_set7 (Retro, P.I. Lamp)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78589<!--lightCeiling2x1_EP01POLICEoffice_set8 (Retro, P.I. Lamp)--></T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="build_buy_object">
+        <U n="build_buy_object">
+          <T n="object_definition">80905</T>
+        </U>
+      </V>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80905<!--lightWall_EP01POLICEoffice_set1 (Up Against the Wall)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80907<!--lightWall_EP01POLICEoffice_set2 (Up Against the Wall)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80909<!--lightWall_EP01POLICEoffice_set3 (Up Against the Wall)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80911<!--lightWall_EP01POLICEoffice_set4 (Up Against the Wall)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80913<!--lightWall_EP01POLICEoffice_set5 (Up Against the Wall)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80915<!--lightWall_EP01POLICEoffice_set6 (Up Against the Wall)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80917<!--lightWall_EP01POLICEoffice_set7 (Up Against the Wall)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80919<!--lightWall_EP01POLICEoffice_set8 (Up Against the Wall)--></T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="build_buy_object">
+        <U n="build_buy_object">
+          <T n="object_definition">78932</T>
+        </U>
+      </V>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78932<!--lightWall_EP01GENalert_set1 (BluScreen 88D Alert Light)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78934<!--lightWall_EP01GENalert_set2 (BluScreen 88D Alert Light)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78936<!--lightWall_EP01GENalert_set3 (BluScreen 88D Alert Light)--></T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="build_buy_object">
+        <U n="build_buy_object">
+          <T n="object_definition">78938</T>
+        </U>
+      </V>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78938<!--lightWall_EP01GENoutdoor_set1 (Brightest Night Flood Light)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78940<!--lightWall_EP01GENoutdoor_set2 (Brightest Night Flood Light)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78942<!--lightWall_EP01GENoutdoor_set3 (Brightest Night Flood Light)--></T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="build_buy_object">
+        <U n="build_buy_object">
+          <T n="object_definition">80933</T>
+        </U>
+      </V>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80933<!--paintWall1x1x1_EP01GENcalendar_set1 (Sims In Uniform Calendar)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80935<!--paintWall1x1x1_EP01GENcalendar_set2 (Sims In Uniform Calendar)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80937<!--paintWall1x1x1_EP01GENcalendar_set3 (Sims In Uniform Calendar)--></T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="build_buy_object">
+        <U n="build_buy_object">
+          <T n="object_definition">81030</T>
+        </U>
+      </V>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">81030<!--sculptWall_EP01POLICEofficeFileHolder_set1 (Slots-a-Lot File-o-Facts)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">81032<!--sculptWall_EP01POLICEofficeFileHolder_set2 (Slots-a-Lot File-o-Facts)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">81034<!--sculptWall_EP01POLICEofficeFileHolder_set3 (Slots-a-Lot File-o-Facts)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">81036<!--sculptWall_EP01POLICEofficeFileHolder_set4 (Slots-a-Lot File-o-Facts)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">81038<!--sculptWall_EP01POLICEofficeFileHolder_set5 (Slots-a-Lot File-o-Facts)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">81040<!--sculptWall_EP01POLICEofficeFileHolder_set6 (Slots-a-Lot File-o-Facts)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">81042<!--sculptWall_EP01POLICEofficeFileHolder_set7 (Slots-a-Lot File-o-Facts)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">81044<!--sculptWall_EP01POLICEofficeFileHolder_set8 (Slots-a-Lot File-o-Facts)--></T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="money">
+        <U n="money">
+          <V n="money" t="literal">
+            <U n="literal">
+              <T n="value">984</T>
+            </U>
+          </V>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="bucks">
+        <U n="bucks">
+          <T n="amount">5</T>
+          <E n="bucks_type">InfluenceBuck</E>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

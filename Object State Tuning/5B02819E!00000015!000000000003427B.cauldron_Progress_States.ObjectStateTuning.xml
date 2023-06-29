@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="cauldron_Progress_States" s="213627">
+  <L n="_values">
+    <T>213632<!--cauldron_ProgressCommodity_NotStarted--></T>
+    <T>213633<!--cauldron_ProgressCommodity_InProgress--></T>
+    <T>213634<!--cauldron_ProgressCommodity_Done--></T>
+  </L>
+  <T n="linked_stat">214243<!--commodity_Cauldron_CraftingProgress--></T>
+</I>

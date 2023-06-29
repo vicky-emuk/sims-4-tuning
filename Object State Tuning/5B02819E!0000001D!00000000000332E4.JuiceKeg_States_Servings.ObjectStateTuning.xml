@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="JuiceKeg_States_Servings" s="209636">
+  <L n="_values">
+    <T>209628<!--juiceKeg_Servings_Empty--></T>
+    <T>209630<!--juiceKeg_Servings_Low--></T>
+    <T>209629<!--juiceKeg_Servings_Partial--></T>
+    <T>209637<!--juiceKeg_Servings_Tapped--></T>
+    <T>209638<!--juiceKeg_Servings_Sealed--></T>
+  </L>
+  <T n="linked_stat">209639<!--statistic_JuiceKeg_Servings--></T>
+  <T n="persists_across_gallery">True</T>
+</I>

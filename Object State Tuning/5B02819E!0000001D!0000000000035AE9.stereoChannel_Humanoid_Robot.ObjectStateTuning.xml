@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="stereoChannel_Humanoid_Robot" s="219881">
+  <L n="_values">
+    <T>219883<!--stereoChannel_Alt_HumanoidRobot--></T>
+    <T>220099<!--stereoChannel_Classical_HumanoidRobot--></T>
+    <T>220098<!--stereoChannel_Blues_HumanoidRobot--></T>
+    <T>220103<!--stereoChannel_Electro_HumanoidRobot--></T>
+    <T>220105<!--stereoChannel_KidsRadio_HumanoidRobot--></T>
+    <T>220106<!--stereoChannel_Lullabies_HumanoidRobot--></T>
+    <T>220107<!--stereoChannel_Pop_HumanoidRobot--></T>
+    <T>220108<!--stereoChannel_Retro_HumanoidRobot--></T>
+    <T>220109<!--stereoChannel_Romance_HumanoidRobot--></T>
+    <T>220110<!--stereoChannel_Spooky_HumanoidRobot--></T>
+    <T>220111<!--stereoChannel_WinterHoliday_HumanoidRobot--></T>
+    <T>219882<!--stereoChannel_Humanoid_Robot_Off--></T>
+  </L>
+</I>

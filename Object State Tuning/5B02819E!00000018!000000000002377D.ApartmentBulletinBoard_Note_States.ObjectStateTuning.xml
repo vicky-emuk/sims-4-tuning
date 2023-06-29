@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="ApartmentBulletinBoard_Note_States" s="145277">
+  <L n="_values">
+    <T>145597<!--apartmentBulletinBoard_Note_NoNote--></T>
+    <T>145599<!--apartmentBulletinBoard_Note_AffirmingNote--></T>
+    <T>145598<!--apartmentBulletinBoard_Note_PassiveAggressiveNote--></T>
+    <T>145923<!--apartmentBulletinBoard_Note_NeutralNote--></T>
+  </L>
+</I>

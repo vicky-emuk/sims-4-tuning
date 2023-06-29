@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="hauntedHouse_States_AccursedObjects" s="255079">
+  <L n="_values">
+    <T>255078<!--hauntedHouse_Values_AccursedObject_Despawn--></T>
+    <T>255075<!--hauntedHouse_Values_AccursedObject_Default--></T>
+    <T>255080<!--hauntedHouse_Values_AccursedObject_Delete--></T>
+  </L>
+</I>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="pumpkin_States_EmotionalAura" s="125029">
+  <L n="_values">
+    <T>125019<!--pumpkin_EmotionalAura_Angry_01--></T>
+    <T>125020<!--pumpkin_EmotionalAura_Bored_01--></T>
+    <T>125021<!--pumpkin_EmotionalAura_Confident_01--></T>
+    <T>125024<!--pumpkin_EmotionalAura_Flirty_01--></T>
+    <T>125023<!--pumpkin_EmotionalAura_Focused_01--></T>
+    <T>125022<!--pumpkin_EmotionalAura_Inspired_01--></T>
+    <T>125025<!--pumpkin_EmotionalAura_Playful_01--></T>
+    <T>125026<!--pumpkin_EmotionalAura_Sad_01--></T>
+    <T>125034<!--pumpkin_EmotionalAura_None--></T>
+    <T>126565<!--pumpkin_EmotionalAura_Angry_04--></T>
+    <T>126575<!--pumpkin_EmotionalAura_Bored_04--></T>
+    <T>126577<!--pumpkin_EmotionalAura_Confident_04--></T>
+    <T>126579<!--pumpkin_EmotionalAura_Flirty_04--></T>
+    <T>126567<!--pumpkin_EmotionalAura_Focused_04--></T>
+    <T>126569<!--pumpkin_EmotionalAura_Inspired_04--></T>
+    <T>126571<!--pumpkin_EmotionalAura_Playful_04--></T>
+    <T>126573<!--pumpkin_EmotionalAura_Sad_04--></T>
+    <T>126566<!--pumpkin_EmotionalAura_Angry_07--></T>
+    <T>126576<!--pumpkin_EmotionalAura_Bored_07--></T>
+    <T>126578<!--pumpkin_EmotionalAura_Confident_07--></T>
+    <T>126580<!--pumpkin_EmotionalAura_Flirty_07--></T>
+    <T>126568<!--pumpkin_EmotionalAura_Focused_07--></T>
+    <T>126570<!--pumpkin_EmotionalAura_Inspired_07--></T>
+    <T>126572<!--pumpkin_EmotionalAura_Playful_07--></T>
+    <T>126574<!--pumpkin_EmotionalAura_Sad_07--></T>
+  </L>
+  <T n="persists_across_gallery">True</T>
+</I>

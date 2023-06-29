@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Objective" i="objective" m="event_testing.objective_tuning" n="university_OrgTasks_Debate_Research" s="227783">
+  <T n="display_text">0xB6F658B6<!--Research Any Topic--></T>
+  <V n="objective_test" t="ran_interaction_test">
+    <U n="ran_interaction_test">
+      <L n="affordances">
+        <T>227029<!--computer_ResearchMachine_Research_Acting--></T>
+        <T>227031<!--computer_ResearchMachine_Research_Charisma--></T>
+        <T>227032<!--computer_ResearchMachine_Research_Comedy--></T>
+        <T>227034<!--computer_ResearchMachine_Research_Cooking--></T>
+        <T>227021<!--computer_ResearchMachine_Research_Fitness--></T>
+        <T>227035<!--computer_ResearchMachine_Research_Gardening--></T>
+        <T>227022<!--computer_ResearchMachine_Research_Handiness--></T>
+        <T>227036<!--computer_ResearchMachine_Research_Logic--></T>
+        <T>227033<!--computer_ResearchMachine_Research_Painting--></T>
+        <T>227037<!--computer_ResearchMachine_Research_Photography--></T>
+        <T>227026<!--computer_ResearchMachine_Research_Programming--></T>
+        <T>227023<!--computer_ResearchMachine_Research_ResearchDebate--></T>
+        <T>227028<!--computer_ResearchMachine_Research_Robotics--></T>
+        <T>227030<!--computer_ResearchMachine_Research_RocketScience--></T>
+        <T>227025<!--computer_ResearchMachine_Research_VideoGaming--></T>
+        <T>227024<!--computer_ResearchMachine_Research_Writing--></T>
+      </L>
+    </U>
+  </V>
+  <T n="resettable">True</T>
+  <T n="tooltip">0x8E80D34F<!--Research Any Topic on a Research Archive Machine. Purchase one in build buy or visit the Student Commons!--></T>
+</I>

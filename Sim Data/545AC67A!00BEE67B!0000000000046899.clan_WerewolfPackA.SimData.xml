@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x0000003F">
+  <Instances>
+    <I name="clan_WerewolfPackA" schema="Clan" type="Object">
+      <V name="_display_data" variant="0x3BB04258" schema="OptionalDisplayMixinTunable">
+        <V name="instance_display_description" variant="0x60BA1D0C">
+          <T type="LocalizationKey">0x9DFD5D3B</T>
+        </V>
+        <V name="instance_display_icon" variant="0x190202A5">
+          <T type="ResourceKey">00B2D882-00000000-E94C3F08A47B38BD</T>
+        </V>
+        <V name="instance_display_name" variant="0x87E76EC3">
+          <T type="LocalizationKey">0x4AC76057</T>
+        </V>
+        <V name="instance_display_secondary_icon" variant="0xC1A03855" />
+        <V name="instance_display_tooltip" variant="0xC1A03855" />
+      </V>
+      <T name="clan_hierarchy_ranked_stat">286792</T>
+      <L name="clan_values">
+        <T type="TableSetReference">288925</T>
+        <T type="TableSetReference">288923</T>
+        <T type="TableSetReference">288927</T>
+      </L>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="Clan" schema_hash="0xC0450F4D">
+      <Columns>
+        <Column name="_display_data" type="Variant" flags="0x00000000" />
+        <Column name="clan_hierarchy_ranked_stat" type="TableSetReference" flags="0x00000000" />
+        <Column name="clan_values" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="OptionalDisplayMixinTunable" schema_hash="0x2A90C3F5">
+      <Columns>
+        <Column name="instance_display_description" type="Variant" flags="0x00000000" />
+        <Column name="instance_display_icon" type="Variant" flags="0x00000000" />
+        <Column name="instance_display_name" type="Variant" flags="0x00000000" />
+        <Column name="instance_display_secondary_icon" type="Variant" flags="0x00000000" />
+        <Column name="instance_display_tooltip" type="Variant" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

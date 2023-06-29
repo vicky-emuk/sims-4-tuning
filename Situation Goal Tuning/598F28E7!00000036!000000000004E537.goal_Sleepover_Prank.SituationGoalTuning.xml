@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalObjectInteraction" i="situation_goal" m="situations.situation_goal_object_interaction" n="goal_Sleepover_Prank" s="320823">
+  <V n="_display_data" t="enabled">
+    <U n="enabled">
+      <V n="instance_display_icon" t="enabled">
+        <T n="enabled" p="InGame\UI\Icons\Events\EventGoal_Mischievous.png">2f7d0004:00000000:453c1b5f8e679ff4</T>
+      </V>
+      <V n="instance_display_name" t="enabled">
+        <T n="enabled">0x8E0993EF<!--Carry Out a Sleeping Bag Prank--></T>
+      </V>
+      <V n="instance_display_tooltip" t="enabled">
+        <T n="enabled">0x6C297EE1<!--Prank someone sleeping in a Sleeping Bag! They'll never expect it!--></T>
+      </V>
+    </U>
+  </V>
+  <U n="_goal_test">
+    <L n="affordances">
+      <T>320451<!--sleepingBag_BabyPowder--></T>
+      <T>320450<!--sleepingBag_Balloon--></T>
+      <T>319824<!--sleepingBag_Water--></T>
+    </L>
+    <E n="test_event">InteractionComplete</E>
+  </U>
+  <T n="_score">20</T>
+  <T n="audio_sting_on_complete" p="InGame\Audio\Bumper\bumper_event_goal_complete.propx">39b2aa4a:00000000:ed52c39bcc2a7111</T>
+</I>

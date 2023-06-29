@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="InfectedChemicalAnalyzer_ProgressState" s="204830">
+  <L n="_values">
+    <T>204825<!--infectedChemicalAnalyzer_Progress_Start--></T>
+    <T>204827<!--infectedChemicalAnalyzer_Progress_Crafting--></T>
+    <T>204828<!--infectedChemicalAnalyzer_Progress_Finished--></T>
+  </L>
+  <T n="linked_stat">204831<!--statistic_InfectedChemicalAnalyzer_Progress--></T>
+</I>

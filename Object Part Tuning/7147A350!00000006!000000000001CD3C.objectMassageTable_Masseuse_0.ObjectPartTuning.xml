@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectPart" i="object_part" m="objects.part" n="objectMassageTable_Masseuse_0" s="118076">
+  <U n="supported_affordance_data">
+    <V n="compatibility" t="literal">
+      <U n="literal">
+        <V n="default_inclusion" t="exclude_all">
+          <U n="exclude_all">
+            <L n="include_affordances">
+              <T>120215<!--generic_MassageTableTherapist--></T>
+              <T>119072<!--massageTable_WaitForWork--></T>
+              <T>117749<!--massageTable_Social_DeepTissue--></T>
+              <T>117753<!--massageTable_Social_FertilityMassage--></T>
+              <T>117750<!--massageTable_Social_SportsMassage--></T>
+              <T>117752<!--massageTable_Social_StoneMassage--></T>
+              <T>117748<!--massageTable_Social_SwedishMassage--></T>
+              <T>117759<!--massageTable_Social_Aroma_Lavender--></T>
+              <T>117758<!--massageTable_Social_Aroma_LotusBlossom--></T>
+              <T>117751<!--massageTable_Social_Aroma_Mint--></T>
+              <T>117757<!--massageTable_Social_Aroma_YlangYlang--></T>
+              <T>119375<!--massageTable_ReadMagazine--></T>
+              <T>117711<!--massageTable_Clean--></T>
+              <T>120275<!--massageTable_SI_Customer_Start--></T>
+              <T>120274<!--massageTable_SI_DeepTissue_Start--></T>
+              <T>120273<!--massageTable_SI_FertilityMassage_Start--></T>
+              <T>120271<!--massageTable_SI_SportsMassage_Start--></T>
+              <T>120272<!--massageTable_SI_StoneMassage_Start--></T>
+              <T>120270<!--massageTable_SI_SwedishMassage_Start--></T>
+              <T>120280<!--massageTable_SI_Aroma_Lavender_Start--></T>
+              <T>120281<!--massageTable_SI_Aroma_LotusBlossom_Start--></T>
+              <T>120282<!--massageTable_SI_Aroma_Mint_Start--></T>
+              <T>120283<!--massageTable_SI_Aroma_YlangYlang_Start--></T>
+              <T>13983<!--sim-stand--></T>
+              <T>112433<!--NPCLeaveLotNow_NPC_MustRun_WaveGoodBye--></T>
+              <T>112429<!--NPCLeaveLotNow_NPC_WaveGoodBye--></T>
+              <T>272382<!--massageTable_Tend--></T>
+              <T>273438<!--massageTable_ReadMagazine_PlayerIsTending--></T>
+              <T>273439<!--massageTable_WaitForWork_PlayerIsTending--></T>
+            </L>
+          </U>
+        </V>
+      </U>
+    </V>
+  </U>
+  <V n="supported_posture_types" t="literal">
+    <L n="literal">
+      <U>
+        <T n="posture_type">120212<!--posture_MassageTableTherapist--></T>
+      </U>
+      <U>
+        <T n="posture_type">15537<!--posture_Stand--></T>
+      </U>
+    </L>
+  </V>
+</I>

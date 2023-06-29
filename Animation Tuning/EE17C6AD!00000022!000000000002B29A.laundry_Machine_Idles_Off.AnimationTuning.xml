@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectAnimationElement" i="animation" m="animation.object_animation" n="laundry_Machine_Idles_Off" s="176794">
+  <T n="actor_name">laundryMachine</T>
+  <T n="asm_key" p="InSP13\Sage\WashingMachine_Vibrate.interactionasm">02d5df13:00000000:c893c152226f110b</T>
+  <L n="begin_states">
+    <T>Off</T>
+  </L>
+</I>

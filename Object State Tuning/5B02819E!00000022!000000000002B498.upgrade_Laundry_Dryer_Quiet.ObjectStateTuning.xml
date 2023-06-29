@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="upgrade_Laundry_Dryer_Quiet" s="177304">
+  <L n="_values">
+    <T>177320<!--upgrade_Laundry_Dryer_Quiet_Completed--></T>
+    <T>177319<!--upgrade_Laundry_Dryer_Quiet_NotStarted--></T>
+    <T>177318<!--upgrade_Laundry_Dryer_Quiet_Partial--></T>
+  </L>
+  <T n="linked_stat">177309<!--statistic_Object_Upgrade_Laundry_Dryer_Quiet--></T>
+</I>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalObjectInteraction" i="situation_goal" m="situations.situation_goal_object_interaction" n="holidayTraditionGoal_SpookySpirit" s="184646">
+  <V n="_display_data" t="enabled">
+    <U n="enabled">
+      <V n="instance_display_icon" t="enabled">
+        <T n="enabled" p="InEP05\UI\Icons\Events\HolidayTraditions\HolidayTraditions_Ghosts.png">2f7d0004:00000000:ddcee57798c6847f</T>
+      </V>
+      <V n="instance_display_name" t="enabled">
+        <T n="enabled">0x68A7F77A<!--Spooky Spirit--></T>
+      </V>
+      <V n="instance_display_tooltip" t="enabled">
+        <T n="enabled">0x5578B902<!--The midnight hours is close at hand. Ghosts, vampires and aliens are in the plan. Celebrate all that sends a shiver up the spine.\n\nTo participate, do spooky actions such as interacting with ghosts, vampires, or aliens. You can also carve pumpkins, or play spooky music on the Pipe Organ.--></T>
+      </V>
+    </U>
+  </V>
+  <L n="_goal_loot_list">
+    <T>190504<!--Loot_HolidayTraditions_HolidayGoalComplete--></T>
+  </L>
+  <U n="_goal_test">
+    <L n="affordances">
+      <T>125203<!--carving_MakeRecipe_Pumpkin_Start--></T>
+      <T>125181<!--carving_MakeRecipe_Pumpkin_Staging--></T>
+      <T>103701<!--stereoWall_listen_spooky--></T>
+      <T>25575<!--mixer_social_AttemptToScare_targeted_mischief_skills--></T>
+      <T>107840<!--mixer_social_ScareWithProbe_Targeted_Mischief_AlwaysOn_Alien--></T>
+      <T>115824<!--stereo_communityWallSpeaker_turnOn_Spooky--></T>
+      <T>103700<!--stereo_listen_spooky--></T>
+      <T>180036<!--stereo_listen_spooky_SkatingRink--></T>
+      <T>164857<!--stereo_earbuds_listen_spooky--></T>
+      <T>119123<!--stereo_listen_spooky_HotTub--></T>
+      <T>179354<!--stereo_listen_spooky_HotTub_NotInHotTub--></T>
+      <T>180456<!--si_Touching_GiveGift_Mean--></T>
+      <T>180465<!--si_Touching_GiveGift_Funny--></T>
+      <T>128147<!--craftable_Pumpkin_WearPumpkin_SpookyParty--></T>
+      <T>102702<!--mixer_social_Ghost_Invite_to_Household_targeted_Friendly_alwaysOn--></T>
+      <T>102552<!--mixer_social_Ghost_ConsoleAboutDeath_targeted_friendly_emotionSpecific--></T>
+      <T>184102<!--socials_GhostTemperature_WarmUp_targeted_Friendly_AlwaysOn--></T>
+      <T>184101<!--socials_GhostTemperature_CoolSim_targeted_Friendly_AlwaysOn--></T>
+      <T>151452<!--pipeOrgan_PlayHauntingMusic--></T>
+      <T>152882<!--pipeOrgan_PlayHauntingMusic_Vampire--></T>
+      <T>151552<!--pipeOrgan_Haunt--></T>
+      <T>103345<!--si_Occult_Alien_Analyze_SpaceRock--></T>
+      <T>103337<!--si_Occult_Alien_Disguise_Change--></T>
+      <T>157440<!--si_Occult_Alien_Disguise_Change_Toddler--></T>
+      <T>116078<!--si_Occult_Alien_Disguise_Change_Self--></T>
+      <T>157442<!--si_Occult_Alien_Disguise_Change_Self_Toddler--></T>
+      <T>103336<!--si_Occult_Alien_Disguise_Remove--></T>
+      <T>103335<!--si_Occult_Alien_Disguise_Self--></T>
+      <T>103343<!--si_Occult_Alien_ReviveDeadMiniAlien--></T>
+      <T>103346<!--si_Occult_Alien_Transmute--></T>
+      <T>130171<!--closet_Occult_Alien_Disguise_Change--></T>
+      <T>168502<!--Ghost_Pet_Possess--></T>
+      <T>102258<!--Ghost_Possess--></T>
+      <T>102433<!--Ghost_Possess_Break_Electrocution--></T>
+      <T>102774<!--Ghost_Possess_Break_Plumbing--></T>
+      <T>182291<!--Ghost_Possess_Fire--></T>
+      <T>102255<!--Ghost_Possess_Repair--></T>
+      <T>121648<!--Ghost_Possess_Bonfire--></T>
+      <T>143965<!--Ghost_Possess_BubbleBlower--></T>
+      <T>102207<!--Ghost_Resurrect--></T>
+      <T>165807<!--Ghost_Resurrect_Pet_si--></T>
+      <T>102814<!--Ghost_RestoreLife--></T>
+      <T>102633<!--Gardening_Ghost_Decay_Plants--></T>
+      <T>103370<!--book_Of_Life_Summon_Ghost--></T>
+      <T>105494<!--groupStory_PerformGhostStory_Campfire--></T>
+      <T>103163<!--GroupStory_PerformGhostStory--></T>
+      <T>108722<!--tent_TellGhostStory_SummonedGhost--></T>
+      <T>105326<!--tent_TellGhostStory_Listener--></T>
+      <T>105325<!--tent_TellGhostStory_Leader--></T>
+      <T>102275<!--Social_Ghost_To_Ghost_Reminisce--></T>
+      <T>102237<!--Social_Ghost_Talk_About_Death--></T>
+      <T>102197<!--Social_Ghost_Scare--></T>
+      <T>102228<!--Social_Ghost_PassThrough--></T>
+      <T>102551<!--mixer_Social_Sim_Ghost_Ask_About_Being_Dead--></T>
+      <T>184775<!--socials_Targeted_Friendly_HolidaySocials_AdmireGhosts--></T>
+    </L>
+    <V n="interaction_outcome" t="disabled" />
+    <E n="test_event">InteractionStart</E>
+  </U>
+  <T n="_iterations">2</T>
+  <T n="_score">50</T>
+  <T n="audio_sting_on_complete" p="InGame\Audio\Bumper\bumper_event_goal_complete.propx">39b2aa4a:00000000:ed52c39bcc2a7111</T>
+  <E n="display_type">COMPLETION_ONLY</E>
+  <V n="score_on_iteration_complete" t="enabled">
+    <T n="enabled">50</T>
+  </V>
+</I>

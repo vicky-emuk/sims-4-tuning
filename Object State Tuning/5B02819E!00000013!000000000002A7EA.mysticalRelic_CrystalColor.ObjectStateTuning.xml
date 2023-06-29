@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="mysticalRelic_CrystalColor" s="174058">
+  <L n="_values">
+    <T>174014<!--mysticalRelic_CrystalColor_Alabaster--></T>
+    <T>174015<!--mysticalRelic_CrystalColor_Alexandrite--></T>
+    <T>174024<!--mysticalRelic_CrystalColor_Amazonite--></T>
+    <T>174025<!--mysticalRelic_CrystalColor_Amethyst--></T>
+    <T>174026<!--mysticalRelic_CrystalColor_Citrine--></T>
+    <T>174027<!--mysticalRelic_CrystalColor_Crandestine--></T>
+    <T>174028<!--mysticalRelic_CrystalColor_Diamond--></T>
+    <T>174029<!--mysticalRelic_CrystalColor_Emerald--></T>
+    <T>174030<!--mysticalRelic_CrystalColor_FireOpal--></T>
+    <T>174031<!--mysticalRelic_CrystalColor_Hematite--></T>
+    <T>174032<!--mysticalRelic_CrystalColor_Jet--></T>
+    <T>174033<!--mysticalRelic_CrystalColor_Jonquilyst--></T>
+    <T>174016<!--mysticalRelic_CrystalColor_Nitelite--></T>
+    <T>174053<!--mysticalRelic_CrystalColor_None--></T>
+    <T>174034<!--mysticalRelic_CrystalColor_OrangeTopaz--></T>
+    <T>174035<!--mysticalRelic_CrystalColor_Peach--></T>
+    <T>174036<!--mysticalRelic_CrystalColor_Plumbite--></T>
+    <T>174037<!--mysticalRelic_CrystalColor_Quartz--></T>
+    <T>174017<!--mysticalRelic_CrystalColor_Rainborz--></T>
+    <T>174018<!--mysticalRelic_CrystalColor_Rose--></T>
+    <T>174019<!--mysticalRelic_CrystalColor_Ruby--></T>
+    <T>174020<!--mysticalRelic_CrystalColor_Sapphire--></T>
+    <T>174021<!--mysticalRelic_CrystalColor_Shinalite--></T>
+    <T>174022<!--mysticalRelic_CrystalColor_Simanite--></T>
+    <T>174023<!--mysticalRelic_CrystalColor_Turquoise--></T>
+  </L>
+</I>

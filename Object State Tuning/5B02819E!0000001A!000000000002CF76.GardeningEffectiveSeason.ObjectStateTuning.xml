@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="GardeningEffectiveSeason" s="184182">
+  <L n="_values">
+    <T>184159<!--Gardening_EffectiveSeason_Indoors--></T>
+    <T>184158<!--Gardening_EffectiveSeason_Dormant--></T>
+    <T>184160<!--Gardening_EffectiveSeason_InSeason--></T>
+    <T>184161<!--Gardening_EffectiveSeason_OutSeason--></T>
+  </L>
+</I>

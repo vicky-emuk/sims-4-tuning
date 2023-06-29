@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ClubInteractionGroup" i="club_interaction_group" m="clubs.club_tuning" n="clubInteractionGroup_ObjectBased_Grill" s="122477">
+  <L n="affordances">
+    <T>35026<!--grill_StartCrafting--></T>
+    <T>35027<!--grill_MakeRecipe_Staging--></T>
+    <T>102689<!--grill_MakeRecipe_Pot_Staging_Basic--></T>
+    <T>102688<!--grill_MakeRecipe_FryingPan_Staging_Basic--></T>
+    <T>35079<!--grill_CreateFood--></T>
+    <T>35024<!--grill_Clean--></T>
+    <T>36500<!--grillFood_ThrowAway--></T>
+    <T>35278<!--grill_CreateFinalFood--></T>
+    <T>38875<!--grill_StartCraftingAutonomously--></T>
+    <T>152492<!--grill_StartCraftingAutonomously_Vegetarian--></T>
+    <T>211912<!--pitBBQ_CloseCover--></T>
+    <T>204971<!--pitBBQ_StartCrafting--></T>
+    <T>210815<!--pitBBQ_StartCrafting_Grand--></T>
+    <T>261962<!--grill_StartCrafting_RequiredIngredients--></T>
+    <T>261966<!--pitBBQ_StartCrafting_RequiredIngredients--></T>
+    <T>261968<!--pitBBQ_StartCrafting_Grand_RequiredIngredients--></T>
+  </L>
+  <E n="category">FOOD_AND_DRINK</E>
+  <T n="category_icon" p="InGame\UI\Icons\Clubs\Rules\clubs_rules_Grill.png">2f7d0004:00000000:19deba20c8e65681</T>
+  <T n="club_bucks_reward">2</T>
+  <T n="is_targeted">False</T>
+  <T n="name">0xDA632155<!--Grill--></T>
+  <T n="tooltip_template">0xC883D45E<!--Grill--></T>
+  <T n="tooltip_template_negative">0x10DD3208<!--Don't Grill--></T>
+</I>

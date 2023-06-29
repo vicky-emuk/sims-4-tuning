@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalSet" i="situation_goal_set" m="situations.situation_goal_set" n="goalSet_Career_Scientist_Surprise_Good" s="112746">
+  <L n="chained_goal_sets">
+    <T>112746<!--goalSet_Career_Scientist_Surprise_Good--></T>
+  </L>
+  <L n="goals">
+    <U>
+      <T n="goal">111149<!--situationGoalInteractionSim_Career_Scientist_GiveSerum_Civilian--></T>
+    </U>
+    <U>
+      <T n="goal">112967<!--situationGoalInteractionSim_Career_Scientist_GiveSerum_SyntheticFood--></T>
+      <T n="weight">1</T>
+    </U>
+    <U>
+      <T n="goal">112968<!--situationGoalInteractionSim_Career_Scientist_GiveSerum_RosePerfume--></T>
+    </U>
+    <U>
+      <T n="goal">112969<!--situationGoalInteractionSim_Career_Scientist_GiveSerum_SnakeOil--></T>
+    </U>
+    <U>
+      <T n="goal">112970<!--situationGoalInteractionSim_Career_Scientist_GiveSerum_NeedFixer--></T>
+    </U>
+    <U>
+      <T n="goal">112971<!--situationGoalInteractionSim_Career_Scientist_GiveSerum_SparkDrive--></T>
+    </U>
+    <U>
+      <T n="goal">112973<!--situationGoalInteractionSim_Career_Scientist_GiveSerum_SmartSerum--></T>
+    </U>
+    <U>
+      <T n="goal">112463<!--situationGoalInteractionSim_Coworkers_AskForCrystal--></T>
+    </U>
+    <U>
+      <T n="goal">112464<!--situationGoalInteractionSim_Coworkers_AskForMetal--></T>
+    </U>
+    <U>
+      <T n="goal">112307<!--situationGoalInteractionSim_Coworkers_DeepConversation--></T>
+    </U>
+    <U>
+      <T n="goal">112974<!--situationGoalInteractionSim_Coworkers_GetToKnow--></T>
+    </U>
+    <U>
+      <T n="goal">112309<!--situationGoalInteractionSim_Coworkers_DiscussWork--></T>
+    </U>
+    <U>
+      <T n="goal">112979<!--situationGoalObjectInteraction_CareerScientist_WorkOnRocket_Timed_10Mins--></T>
+    </U>
+    <U>
+      <T n="goal">112982<!--situationGoalObjectInteraction_CareerScientist_WriteUpResearch--></T>
+    </U>
+    <U>
+      <T n="goal">112994<!--situationGoalObjectInteraction_CareerScientist_Satellite_PreventAbductions--></T>
+    </U>
+    <U>
+      <T n="goal">113002<!--situationGoalObjectInteraction_CareerScientist_AlienPortal_Calibrate--></T>
+    </U>
+    <U>
+      <T n="goal">113007<!--situationGoalInteractionSim_Coworkers_AskAboutDay--></T>
+    </U>
+  </L>
+</I>

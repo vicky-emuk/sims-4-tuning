@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ClubInteractionGroup" i="club_interaction_group" m="clubs.club_tuning" n="clubInteractionGroup_FunAndGames_SoccerBall" s="224632">
+  <L n="affordances">
+    <T>224548<!--objectInInventory_SoccerBall_Juggle--></T>
+    <T>224547<!--objectInInventory_SoccerBall_PlayWith--></T>
+    <T>220725<!--touching_SoccerBall_Play--></T>
+    <T>220776<!--touching_SoccerBall_Play_Listen--></T>
+    <T>224269<!--SimPicker_SoccerBall_PlayWith--></T>
+    <T>224545<!--AutonomousSimPicker_SoccerBall_PlayWith--></T>
+    <T>224549<!--autonomousObjectPicker_SoccerBall_PlayWith--></T>
+    <T>224551<!--autonomousObjectPicker_SoccerBall_Juggle--></T>
+    <T>224568<!--autonomousObjectInInventory_SoccerBall_PlayWith--></T>
+    <T>224569<!--autonomousObjectInInventory_SoccerBall_Juggle--></T>
+    <T>224308<!--SI_SoccerBall_Juggle_Solo--></T>
+    <T>224630<!--sI_SoccerBall_Watch--></T>
+    <T>224273<!--SI_SoccerBall_Pickup--></T>
+    <T>224333<!--sI_SoccerBall_Pickup_Juggle--></T>
+    <T>229557<!--sI_SoccerBall_PlayWithRally--></T>
+  </L>
+  <E n="category">FUN_AND_GAMES</E>
+  <T n="category_icon" p="InGame\UI\Icons\Headlines\Final\headline_soccerball.png">2f7d0004:00000000:924fc90e2b6fd1e6</T>
+  <T n="club_bucks_reward">2</T>
+  <T n="is_targeted">False</T>
+  <T n="name">0xE0BCC0E8<!--Play Soccer--></T>
+  <T n="tooltip_template">0xE0BCC0E8<!--Play Soccer--></T>
+  <T n="tooltip_template_negative">0x8958084B<!--Don't Play Soccer--></T>
+</I>

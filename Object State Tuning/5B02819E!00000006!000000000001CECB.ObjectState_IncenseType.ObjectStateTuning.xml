@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="ObjectState_IncenseType" s="118475">
+  <L n="_values">
+    <T>118470<!--IncenseType_Cinnamon--></T>
+    <T>118468<!--IncenseType_Lemon--></T>
+    <T>118472<!--IncenseType_None--></T>
+    <T>118471<!--IncenseType_Patchouli--></T>
+    <T>118467<!--IncenseType_Saffron--></T>
+    <T>118469<!--IncenseType_Sage--></T>
+    <T>118466<!--IncenseType_Sandalwood--></T>
+  </L>
+</I>

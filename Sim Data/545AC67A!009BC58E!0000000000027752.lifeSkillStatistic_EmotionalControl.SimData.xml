@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000012">
+  <Instances>
+    <I name="lifeSkillStatistic_EmotionalControl" schema="LifeSkillStatistic" type="Object">
+      <V name="_display_data" variant="0x3BB04258" schema="OptionalDisplayMixinTunable">
+        <V name="instance_display_description" variant="0x60BA1D0C">
+          <T type="LocalizationKey">0x62F4D25E</T>
+        </V>
+        <V name="instance_display_icon" variant="0x190202A5">
+          <T type="ResourceKey">00B2D882-00000000-20A4FCA5CBA73238</T>
+        </V>
+        <V name="instance_display_name" variant="0x87E76EC3">
+          <T type="LocalizationKey">0x6AF9F829</T>
+        </V>
+        <V name="instance_display_secondary_icon" variant="0xC1A03855" />
+        <V name="instance_display_tooltip" variant="0xC1A03855" />
+      </V>
+      <T name="max_value_tuning">100</T>
+      <T name="min_value_tuning">-100</T>
+      <L name="trait_on_age_up_list">
+        <U type="Object" schema="TunableTraitOnAgeUpTuple">
+          <V name="age_up_info" variant="0x150FFE17" schema="TunableAgeUpInfoTuple">
+            <T name="age_to_apply_trait">16</T>
+            <T name="life_skill_trait">160275</T>
+          </V>
+          <U name="life_skill_range" schema="TunableInterval">
+            <T name="lower_bound">90</T>
+            <T name="upper_bound">100</T>
+          </U>
+        </U>
+        <U type="Object" schema="TunableTraitOnAgeUpTuple">
+          <V name="age_up_info" variant="0x150FFE17" schema="TunableAgeUpInfoTuple">
+            <T name="age_to_apply_trait">16</T>
+            <T name="life_skill_trait">160265</T>
+          </V>
+          <U name="life_skill_range" schema="TunableInterval">
+            <T name="lower_bound">-100</T>
+            <T name="upper_bound">-90</T>
+          </U>
+        </U>
+        <U type="Object" schema="TunableTraitOnAgeUpTuple">
+          <V name="age_up_info" variant="0xC1A03855" />
+          <U name="life_skill_range" schema="TunableInterval">
+            <T name="lower_bound">35</T>
+            <T name="upper_bound">90</T>
+          </U>
+        </U>
+        <U type="Object" schema="TunableTraitOnAgeUpTuple">
+          <V name="age_up_info" variant="0xC1A03855" />
+          <U name="life_skill_range" schema="TunableInterval">
+            <T name="lower_bound">90</T>
+            <T name="upper_bound">100</T>
+          </U>
+        </U>
+        <U type="Object" schema="TunableTraitOnAgeUpTuple">
+          <V name="age_up_info" variant="0xC1A03855" />
+          <U name="life_skill_range" schema="TunableInterval">
+            <T name="lower_bound">-90</T>
+            <T name="upper_bound">-35</T>
+          </U>
+        </U>
+        <U type="Object" schema="TunableTraitOnAgeUpTuple">
+          <V name="age_up_info" variant="0xC1A03855" />
+          <U name="life_skill_range" schema="TunableInterval">
+            <T name="lower_bound">-100</T>
+            <T name="upper_bound">-90</T>
+          </U>
+        </U>
+      </L>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="LifeSkillStatistic" schema_hash="0x11663403">
+      <Columns>
+        <Column name="_display_data" type="Variant" flags="0x00000000" />
+        <Column name="max_value_tuning" type="Single" flags="0x00000000" />
+        <Column name="min_value_tuning" type="Single" flags="0x00000000" />
+        <Column name="trait_on_age_up_list" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="OptionalDisplayMixinTunable" schema_hash="0x2A90C3F5">
+      <Columns>
+        <Column name="instance_display_description" type="Variant" flags="0x00000000" />
+        <Column name="instance_display_icon" type="Variant" flags="0x00000000" />
+        <Column name="instance_display_name" type="Variant" flags="0x00000000" />
+        <Column name="instance_display_secondary_icon" type="Variant" flags="0x00000000" />
+        <Column name="instance_display_tooltip" type="Variant" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableTraitOnAgeUpTuple" schema_hash="0x5F89E197">
+      <Columns>
+        <Column name="age_up_info" type="Variant" flags="0x00000000" />
+        <Column name="life_skill_range" type="Object" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableAgeUpInfoTuple" schema_hash="0x1A41E062">
+      <Columns>
+        <Column name="age_to_apply_trait" type="Int64" flags="0x00000000" />
+        <Column name="life_skill_trait" type="TableSetReference" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableInterval" schema_hash="0xBC2D3BF2">
+      <Columns>
+        <Column name="lower_bound" type="Single" flags="0x00000000" />
+        <Column name="upper_bound" type="Single" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

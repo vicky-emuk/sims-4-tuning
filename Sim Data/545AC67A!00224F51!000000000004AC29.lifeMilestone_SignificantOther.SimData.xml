@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000036">
+  <Instances>
+    <I name="lifeMilestone_SignificantOther" schema="DevelopmentalMilestone" type="Object">
+      <L name="ages">
+        <T type="Int64">8</T>
+        <T type="Int64">16</T>
+        <T type="Int64">32</T>
+        <T type="Int64">64</T>
+      </L>
+      <T name="category">6</T>
+      <T name="icon">00B2D882-00000000-EB2EAB5F7AC07A3F</T>
+      <V name="is_primary_milestone" variant="0xB602B441" schema="DevelopmentalMilestoneIsPrimaryMilestone">
+        <T name="hint_text">0x2E4B20EA</T>
+        <V name="revealable_name" variant="0xF8CBBF4C">
+          <T type="LocalizationKey">0x071AF638</T>
+        </V>
+        <L name="tests">
+          <L type="Vector">
+            <V type="Variant" variant="0x5DCC1FA3" schema="TunableRelationshipBitCountTest">
+              <T name="comparison_operator">3</T>
+              <T name="rel_bit">15825</T>
+              <T name="relationship_count">0</T>
+              <L name="subject">
+                <T type="Int64">1</T>
+              </L>
+            </V>
+            <V type="Variant" variant="0x5DCC1FA3" schema="TunableRelationshipBitCountTest">
+              <T name="comparison_operator">3</T>
+              <T name="rel_bit">15822</T>
+              <T name="relationship_count">0</T>
+              <L name="subject">
+                <T type="Int64">1</T>
+              </L>
+            </V>
+            <V type="Variant" variant="0x5DCC1FA3" schema="TunableRelationshipBitCountTest">
+              <T name="comparison_operator">3</T>
+              <T name="rel_bit">15816</T>
+              <T name="relationship_count">0</T>
+              <L name="subject">
+                <T type="Int64">1</T>
+              </L>
+            </V>
+            <V type="Variant" variant="0xDDEBDE47" schema="TunableRelationshipTest">
+              <T name="invert_num_relations">0</T>
+              <T name="num_relations">0</T>
+              <U name="prohibited_relationship_bits" schema="TunableTuple">
+                <L name="match_all" />
+                <L name="match_any" />
+              </U>
+              <U name="relationship_score_interval" schema="TunableInterval">
+                <T name="lower_bound">-100</T>
+                <T name="upper_bound">100</T>
+              </U>
+              <U name="required_relationship_bits" schema="TunableTuple">
+                <L name="match_all" />
+                <L name="match_any">
+                  <T type="TableSetReference">15829</T>
+                  <T type="TableSetReference">15837</T>
+                  <T type="TableSetReference">15838</T>
+                  <T type="TableSetReference">15839</T>
+                  <T type="TableSetReference">15840</T>
+                </L>
+              </U>
+              <L name="subject">
+                <T type="Int64">1</T>
+              </L>
+              <L name="target_sim">
+                <T type="Int64">14</T>
+              </L>
+              <T name="test_event">0</T>
+              <V name="test_incest" variant="0xC1A03855" />
+              <T name="track">0</T>
+            </V>
+          </L>
+        </L>
+      </V>
+      <T name="name">0xD42A1168</T>
+      <T name="ui_sort_order">1</T>
+      <T name="unlocked_text">0x6519F018</T>
+      <T name="unlocked_text_no_context">0x50DD5CF2</T>
+      <T name="unlocked_text_target_sim_header">0x881E311A</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="DevelopmentalMilestone" schema_hash="0x87ED1F96">
+      <Columns>
+        <Column name="ages" type="Vector" flags="0x00000000" />
+        <Column name="category" type="UInt32" flags="0x00000000" />
+        <Column name="icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="is_primary_milestone" type="Variant" flags="0x00000000" />
+        <Column name="name" type="LocalizationKey" flags="0x00000000" />
+        <Column name="ui_sort_order" type="Int32" flags="0x00000000" />
+        <Column name="unlocked_text" type="LocalizationKey" flags="0x00000000" />
+        <Column name="unlocked_text_no_context" type="LocalizationKey" flags="0x00000000" />
+        <Column name="unlocked_text_target_sim_header" type="LocalizationKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="DevelopmentalMilestoneIsPrimaryMilestone" schema_hash="0x14C33DFE">
+      <Columns>
+        <Column name="hint_text" type="LocalizationKey" flags="0x00000000" />
+        <Column name="revealable_name" type="Variant" flags="0x00000000" />
+        <Column name="tests" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableRelationshipBitCountTest" schema_hash="0x47858B2B">
+      <Columns>
+        <Column name="comparison_operator" type="Int64" flags="0x00000000" />
+        <Column name="rel_bit" type="TableSetReference" flags="0x00000000" />
+        <Column name="relationship_count" type="Int32" flags="0x00000000" />
+        <Column name="subject" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableRelationshipTest" schema_hash="0x34E7EB71">
+      <Columns>
+        <Column name="invert_num_relations" type="Boolean" flags="0x00000000" />
+        <Column name="num_relations" type="Int32" flags="0x00000000" />
+        <Column name="prohibited_relationship_bits" type="Object" flags="0x00000000" />
+        <Column name="relationship_score_interval" type="Object" flags="0x00000000" />
+        <Column name="required_relationship_bits" type="Object" flags="0x00000000" />
+        <Column name="subject" type="Vector" flags="0x00000000" />
+        <Column name="target_sim" type="Vector" flags="0x00000000" />
+        <Column name="test_event" type="Int64" flags="0x00000000" />
+        <Column name="test_incest" type="Variant" flags="0x00000000" />
+        <Column name="track" type="TableSetReference" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableTuple" schema_hash="0x1637E611">
+      <Columns>
+        <Column name="match_all" type="Vector" flags="0x00000000" />
+        <Column name="match_any" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableInterval" schema_hash="0xBC2D3BF2">
+      <Columns>
+        <Column name="lower_bound" type="Single" flags="0x00000000" />
+        <Column name="upper_bound" type="Single" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

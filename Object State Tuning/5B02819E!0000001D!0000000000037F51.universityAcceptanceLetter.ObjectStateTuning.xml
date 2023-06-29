@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="universityAcceptanceLetter" s="229201">
+  <L n="_values">
+    <T>229200<!--universityAcceptanceLetter_Nostalgia--></T>
+    <T>229199<!--universityAcceptanceLetter_Read--></T>
+    <T>229198<!--universityAcceptanceLetter_Unread--></T>
+  </L>
+  <T n="linked_stat">229202<!--commodity_UniversityAcceptanceLetter--></T>
+</I>

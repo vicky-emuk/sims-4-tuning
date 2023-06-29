@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CasStoriesQuestion" i="cas_stories_question" m="cas.cas_stories_question" n="casStoriesQuestion_EP08_University_Q2" s="227123">
+  <T n="icon" p="InGame\UI\Icons\Headlines\Final\headline_partyballoons.png">2f7d0004:00000000:109533159b175d00</T>
+  <E n="pack">EP08</E>
+  <L n="possible_answers">
+    <T>227140<!--casStoriesAnswer_EP08_University_Q2_Answer_A--></T>
+    <T>227142<!--casStoriesAnswer_EP08_University_Q2_Answer_B--></T>
+    <T>227143<!--casStoriesAnswer_EP08_University_Q2_Answer_C--></T>
+  </L>
+  <T n="text">0xF1865F8<!--The Annual Summer Party is tonight, but exams are in the morning; what do I do?--></T>
+</I>

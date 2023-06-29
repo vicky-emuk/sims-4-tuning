@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Aspiration" i="aspiration" m="aspirations.aspiration_tuning" n="aspiration_Nature_JungleExplorer_Level2" s="178997">
+  <T n="display_name">0x56893C0A<!--Expedition Rookie--></T>
+  <T n="do_not_register_events_on_load">True</T>
+  <L n="objectives">
+    <T>179004<!--objective_Aspiration_JungleExplorer_Skill_Med--></T>
+    <T>179018<!--objective_Aspiration_JungleExplorer_FindPath--></T>
+    <T>179008<!--objective_Aspiration_JungleExplorer_ExamineTraps--></T>
+  </L>
+  <V n="screen_slam" t="enabled">
+    <V n="enabled" t="reference">
+      <T n="reference">183753<!--nature_JungleExplorer_MilestoneComplete--></T>
+    </V>
+  </V>
+</I>

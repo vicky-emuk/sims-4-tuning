@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000000">
+  <Instances>
+    <I name="relationships.global_relationship_tuning.TropeGlobalTuning" schema="relationships.global_relationship_tuning.TropeGlobalTuning" type="Object">
+      <L name="RECIPROCAL_TROPES">
+        <U type="Object" schema="ReciprocalTropes">
+          <T name="authority_trope">306291</T>
+          <T name="subordinate_trope">306294</T>
+        </U>
+        <U type="Object" schema="ReciprocalTropes">
+          <T name="authority_trope">306356</T>
+          <T name="subordinate_trope">306357</T>
+        </U>
+        <U type="Object" schema="ReciprocalTropes">
+          <T name="authority_trope">306289</T>
+          <T name="subordinate_trope">306296</T>
+        </U>
+      </L>
+      <L name="RELATIONSHIP_TYPE_TO_AVAILABLE_TROPES">
+        <U type="Object" schema="RelationshipTypeToAvailableTropes">
+          <T name="RelationshipType">23</T>
+          <L name="AvailableTropes">
+            <T type="TableSetReference">306293</T>
+            <T type="TableSetReference">306282</T>
+          </L>
+        </U>
+        <U type="Object" schema="RelationshipTypeToAvailableTropes">
+          <T name="RelationshipType">17</T>
+          <L name="AvailableTropes">
+            <T type="TableSetReference">306293</T>
+            <T type="TableSetReference">306282</T>
+            <T type="TableSetReference">306279</T>
+          </L>
+        </U>
+        <U type="Object" schema="RelationshipTypeToAvailableTropes">
+          <T name="RelationshipType">12</T>
+          <L name="AvailableTropes">
+            <T type="TableSetReference">306293</T>
+            <T type="TableSetReference">306282</T>
+            <T type="TableSetReference">306357</T>
+            <T type="TableSetReference">306296</T>
+            <T type="TableSetReference">310888</T>
+            <T type="TableSetReference">306294</T>
+            <T type="TableSetReference">306279</T>
+          </L>
+        </U>
+        <U type="Object" schema="RelationshipTypeToAvailableTropes">
+          <T name="RelationshipType">14</T>
+          <L name="AvailableTropes">
+            <T type="TableSetReference">306293</T>
+            <T type="TableSetReference">306282</T>
+            <T type="TableSetReference">306357</T>
+            <T type="TableSetReference">306296</T>
+            <T type="TableSetReference">310888</T>
+            <T type="TableSetReference">306294</T>
+            <T type="TableSetReference">306279</T>
+          </L>
+        </U>
+        <U type="Object" schema="RelationshipTypeToAvailableTropes">
+          <T name="RelationshipType">13</T>
+          <L name="AvailableTropes">
+            <T type="TableSetReference">306293</T>
+            <T type="TableSetReference">306282</T>
+            <T type="TableSetReference">306356</T>
+            <T type="TableSetReference">306289</T>
+            <T type="TableSetReference">310888</T>
+            <T type="TableSetReference">306291</T>
+            <T type="TableSetReference">306279</T>
+          </L>
+        </U>
+        <U type="Object" schema="RelationshipTypeToAvailableTropes">
+          <T name="RelationshipType">7</T>
+          <L name="AvailableTropes">
+            <T type="TableSetReference">306293</T>
+            <T type="TableSetReference">306282</T>
+            <T type="TableSetReference">306356</T>
+            <T type="TableSetReference">306289</T>
+            <T type="TableSetReference">310888</T>
+            <T type="TableSetReference">306291</T>
+            <T type="TableSetReference">306279</T>
+          </L>
+        </U>
+        <U type="Object" schema="RelationshipTypeToAvailableTropes">
+          <T name="RelationshipType">16</T>
+          <L name="AvailableTropes">
+            <T type="TableSetReference">306293</T>
+            <T type="TableSetReference">306282</T>
+            <T type="TableSetReference">306356</T>
+            <T type="TableSetReference">306279</T>
+          </L>
+        </U>
+        <U type="Object" schema="RelationshipTypeToAvailableTropes">
+          <T name="RelationshipType">22</T>
+          <L name="AvailableTropes">
+            <T type="TableSetReference">306293</T>
+            <T type="TableSetReference">306282</T>
+            <T type="TableSetReference">310888</T>
+          </L>
+        </U>
+        <U type="Object" schema="RelationshipTypeToAvailableTropes">
+          <T name="RelationshipType">8</T>
+          <L name="AvailableTropes">
+            <T type="TableSetReference">306293</T>
+            <T type="TableSetReference">306282</T>
+            <T type="TableSetReference">310888</T>
+            <T type="TableSetReference">306279</T>
+          </L>
+        </U>
+        <U type="Object" schema="RelationshipTypeToAvailableTropes">
+          <T name="RelationshipType">15</T>
+          <L name="AvailableTropes">
+            <T type="TableSetReference">306293</T>
+            <T type="TableSetReference">306282</T>
+            <T type="TableSetReference">306357</T>
+            <T type="TableSetReference">306279</T>
+          </L>
+        </U>
+        <U type="Object" schema="RelationshipTypeToAvailableTropes">
+          <T name="RelationshipType">24</T>
+          <L name="AvailableTropes">
+            <T type="TableSetReference">306293</T>
+            <T type="TableSetReference">306282</T>
+            <T type="TableSetReference">306279</T>
+          </L>
+        </U>
+        <U type="Object" schema="RelationshipTypeToAvailableTropes">
+          <T name="RelationshipType">9</T>
+          <L name="AvailableTropes">
+            <T type="TableSetReference">306293</T>
+            <T type="TableSetReference">306282</T>
+            <T type="TableSetReference">306279</T>
+            <T type="TableSetReference">310888</T>
+          </L>
+        </U>
+        <U type="Object" schema="RelationshipTypeToAvailableTropes">
+          <T name="RelationshipType">21</T>
+          <L name="AvailableTropes">
+            <T type="TableSetReference">306293</T>
+            <T type="TableSetReference">306282</T>
+            <T type="TableSetReference">306357</T>
+            <T type="TableSetReference">306296</T>
+            <T type="TableSetReference">310888</T>
+            <T type="TableSetReference">306294</T>
+          </L>
+        </U>
+        <U type="Object" schema="RelationshipTypeToAvailableTropes">
+          <T name="RelationshipType">18</T>
+          <L name="AvailableTropes">
+            <T type="TableSetReference">306293</T>
+            <T type="TableSetReference">306282</T>
+            <T type="TableSetReference">306356</T>
+            <T type="TableSetReference">306289</T>
+            <T type="TableSetReference">310888</T>
+            <T type="TableSetReference">306291</T>
+          </L>
+        </U>
+        <U type="Object" schema="RelationshipTypeToAvailableTropes">
+          <T name="RelationshipType">19</T>
+          <L name="AvailableTropes">
+            <T type="TableSetReference">306293</T>
+            <T type="TableSetReference">306282</T>
+            <T type="TableSetReference">306356</T>
+            <T type="TableSetReference">306357</T>
+            <T type="TableSetReference">310888</T>
+            <T type="TableSetReference">306279</T>
+          </L>
+        </U>
+      </L>
+      <L name="RELATIONSHIP_TYPE_TO_BIT">
+        <U type="Object" schema="RelationshipTypeToBit">
+          <T name="RelationshipType">17</T>
+          <T name="RelationshipBit">8826</T>
+        </U>
+        <U type="Object" schema="RelationshipTypeToBit">
+          <T name="RelationshipType">12</T>
+          <T name="RelationshipBit">8805</T>
+        </U>
+        <U type="Object" schema="RelationshipTypeToBit">
+          <T name="RelationshipType">14</T>
+          <T name="RelationshipBit">8807</T>
+        </U>
+        <U type="Object" schema="RelationshipTypeToBit">
+          <T name="RelationshipType">13</T>
+          <T name="RelationshipBit">8808</T>
+        </U>
+        <U type="Object" schema="RelationshipTypeToBit">
+          <T name="RelationshipType">7</T>
+          <T name="RelationshipBit">8809</T>
+        </U>
+        <U type="Object" schema="RelationshipTypeToBit">
+          <T name="RelationshipType">16</T>
+          <T name="RelationshipBit">8829</T>
+        </U>
+        <U type="Object" schema="RelationshipTypeToBit">
+          <T name="RelationshipType">8</T>
+          <T name="RelationshipBit">8802</T>
+        </U>
+        <U type="Object" schema="RelationshipTypeToBit">
+          <T name="RelationshipType">15</T>
+          <T name="RelationshipBit">9989</T>
+        </U>
+        <U type="Object" schema="RelationshipTypeToBit">
+          <T name="RelationshipType">9</T>
+          <T name="RelationshipBit">15822</T>
+        </U>
+        <U type="Object" schema="RelationshipTypeToBit">
+          <T name="RelationshipType">19</T>
+          <T name="RelationshipBit">8824</T>
+        </U>
+      </L>
+      <L name="TROPES">
+        <T type="TableSetReference">306293</T>
+        <T type="TableSetReference">306291</T>
+        <T type="TableSetReference">306294</T>
+        <T type="TableSetReference">310888</T>
+        <T type="TableSetReference">306282</T>
+        <T type="TableSetReference">306279</T>
+        <T type="TableSetReference">306356</T>
+        <T type="TableSetReference">306357</T>
+        <T type="TableSetReference">306289</T>
+        <T type="TableSetReference">306296</T>
+      </L>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="relationships.global_relationship_tuning.TropeGlobalTuning" schema_hash="0x1E140D33">
+      <Columns>
+        <Column name="RECIPROCAL_TROPES" type="Vector" flags="0x00000000" />
+        <Column name="RELATIONSHIP_TYPE_TO_AVAILABLE_TROPES" type="Vector" flags="0x00000000" />
+        <Column name="RELATIONSHIP_TYPE_TO_BIT" type="Vector" flags="0x00000000" />
+        <Column name="TROPES" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="ReciprocalTropes" schema_hash="0xE49C423D">
+      <Columns>
+        <Column name="authority_trope" type="TableSetReference" flags="0x00000000" />
+        <Column name="subordinate_trope" type="TableSetReference" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="RelationshipTypeToAvailableTropes" schema_hash="0x220CA83C">
+      <Columns>
+        <Column name="RelationshipType" type="UInt32" flags="0x00000000" />
+        <Column name="AvailableTropes" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="RelationshipTypeToBit" schema_hash="0x8A96A24E">
+      <Columns>
+        <Column name="RelationshipType" type="UInt32" flags="0x00000000" />
+        <Column name="RelationshipBit" type="TableSetReference" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

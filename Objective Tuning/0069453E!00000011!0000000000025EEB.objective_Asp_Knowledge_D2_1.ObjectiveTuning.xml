@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Objective" i="objective" m="event_testing.objective_tuning" n="objective_Asp_Knowledge_D2_1" s="155371">
+  <L n="completion_loot">
+    <T>273578<!--loot_Want_AspirationCompleted--></T>
+  </L>
+  <T n="display_text">0xAF4A6875<!--Read Encyclopedia Vampirica Vol 1--></T>
+  <V n="objective_completion_type" t="iterations" />
+  <V n="objective_test" t="ran_interaction_test">
+    <U n="ran_interaction_test">
+      <L n="affordances">
+        <T>28625<!--book_analyze--></T>
+        <T>30933<!--book_Of_Life_Bind--></T>
+        <T>13118<!--book_readTooEasy--></T>
+        <T>13119<!--book_readTooHard--></T>
+        <T>76988<!--book_read_browse--></T>
+        <T>34322<!--book_read_ReadForReference--></T>
+        <T>75798<!--book_study--></T>
+        <T>13117<!--book_read--></T>
+      </L>
+      <T n="consider_user_cancelled_as_failure">True</T>
+      <U n="target_filters">
+        <V n="object_tags" t="enabled">
+          <U n="enabled">
+            <L n="tag_set">
+              <E>Func_VampireTome_Set1</E>
+            </L>
+          </U>
+        </V>
+      </U>
+    </U>
+  </V>
+  <T n="satisfaction_points">300</T>
+  <T n="tooltip">0x39C0C76A<!--Sims who have done their research can use the computer to purchase this tome.--></T>
+</I>

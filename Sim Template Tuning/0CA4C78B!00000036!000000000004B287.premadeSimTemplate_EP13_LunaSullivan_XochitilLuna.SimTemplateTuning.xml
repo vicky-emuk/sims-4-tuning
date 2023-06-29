@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="PremadeSimTemplate" i="sim_template" m="world.premade_sim_template" n="premadeSimTemplate_EP13_LunaSullivan_XochitilLuna" s="307847">
+  <L n="_fixups">
+    <T>321675<!--simInfoFixup_EP13_XochitlLuna--></T>
+  </L>
+  <U n="_sim_creation_info">
+    <T n="first_name">0x24E8D57D<!--Xochitl--></T>
+    <V n="last_name" t="specify_last_name">
+      <T n="specify_last_name">0xA6A21763<!--Luna--></T>
+    </V>
+    <T n="resource_key" p="InEP13\Sims\SimInfos\PremadeSims\yfXochitilLunaV2.siminfo">025ed6f4:00000000:f4a26c3858bed470</T>
+  </U>
+  <U n="_skills">
+    <L n="explicit">
+      <U>
+        <U n="range">
+          <T n="min_value">3</T>
+        </U>
+        <T n="skill">16704<!--statistic_Skill_AdultMajor_Handiness--></T>
+      </U>
+      <U>
+        <U n="range">
+          <T n="min_value">5</T>
+        </U>
+        <T n="skill">16659<!--skill_Fitness--></T>
+      </U>
+    </L>
+  </U>
+  <U n="_traits">
+    <L n="explicit">
+      <T>302883<!--trait_Hidden_BayArea_NPC_XochitilLuna--></T>
+      <T>269262<!--Trait_SimPreference_Likes_Activities_Wellness--></T>
+      <T>258765<!--trait_SimPreference_Likes_Activities_Fitness--></T>
+      <T>264197<!--trait_SimPreference_Likes_Activities_Guitar--></T>
+      <T>258758<!--trait_SimPreference_Dislikes_Activities_Cooking--></T>
+      <T>27419<!--trait_active--></T>
+      <T>29571<!--trait_Outgoing--></T>
+      <T>311267<!--trait_Loyal--></T>
+      <T>305946<!--trait_SimPreference_Likes_Characteristic_Idealist--></T>
+      <T>306410<!--trait_SimPreference_Dislikes_Characteristic_Egotistical--></T>
+    </L>
+    <V n="num_random" t="disabled" />
+  </U>
+  <V n="career_level" t="enabled">
+    <T n="enabled">106606<!--careerLevels_Athletic_Professional_Level4--></T>
+  </V>
+  <V n="primary_aspiration" t="enabled">
+    <T n="enabled">9469<!--Track_Love_A--></T>
+  </V>
+</I>

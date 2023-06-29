@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="trait_infant" s="266297">
+  <L n="ages">
+    <E>INFANT</E>
+  </L>
+  <L n="buff_replacements">
+    <U>
+      <T n="key">12816<!--Buff_Motives_Energy_Tired--></T>
+      <U n="value">
+        <V n="buff_reason" t="enabled">
+          <T n="enabled">0x1B2DE657<!--(From Low Energy)--></T>
+        </V>
+        <T n="buff_type">279868<!--buff_Infant_MotiveOverride_Energy_Angry--></T>
+      </U>
+    </U>
+    <U>
+      <T n="key">12818<!--Buff_Motives_Energy_Exhausted--></T>
+      <U n="value">
+        <V n="buff_reason" t="enabled">
+          <T n="enabled">0x46701DA0<!--(From Critically Low Energy)--></T>
+        </V>
+        <T n="buff_type">279869<!--buff_Infant_MotiveOverride_Energy_VeryAngry--></T>
+      </U>
+    </U>
+    <U>
+      <T n="key">12819<!--Buff_Motives_Fun_DesperateForFun--></T>
+      <U n="value">
+        <V n="buff_reason" t="enabled">
+          <T n="enabled">0xED5C85CF<!--(From Low Fun)--></T>
+        </V>
+        <T n="buff_type">279866<!--buff_Infant_MotiveOverride_Fun_VerySad--></T>
+      </U>
+    </U>
+    <U>
+      <T n="key">12820<!--Buff_Motives_Hunger_Hungry--></T>
+      <U n="value">
+        <V n="buff_reason" t="enabled">
+          <T n="enabled">0xA28E64A5<!--(From Low Hunger)--></T>
+        </V>
+        <T n="buff_type">279863<!--buff_Infant_MotiveOverride_Hunger_Sad--></T>
+      </U>
+    </U>
+    <U>
+      <T n="key">12821<!--Buff_Motives_Hunger_Starving--></T>
+      <U n="value">
+        <V n="buff_reason" t="enabled">
+          <T n="enabled">0x20AD66D7<!--(From Critically Low Hunger)--></T>
+        </V>
+        <T n="buff_type">279864<!--buff_Infant_MotiveOverride_Hunger_VerySad--></T>
+      </U>
+    </U>
+    <U>
+      <T n="key">12823<!--Buff_Motives_Hygiene_Filthy--></T>
+      <U n="value">
+        <V n="buff_reason" t="enabled">
+          <T n="enabled">0xFC50F058<!--(From Low Hygiene)--></T>
+        </V>
+        <T n="buff_type">279862<!--buff_Infant_MotiveOverride_Hygiene_VerySad--></T>
+      </U>
+    </U>
+    <U>
+      <T n="key">142133<!--buff_Motives_Toddler_Attention_Sad--></T>
+      <U n="value">
+        <V n="buff_reason" t="enabled">
+          <T n="enabled">0x7E25480C<!--(From Low Attention)--></T>
+        </V>
+        <T n="buff_type">290177<!--buff_Motives_Infant_Attention_Sad--></T>
+      </U>
+    </U>
+    <U>
+      <T n="key">142134<!--buff_Motives_Toddler_Attention_Sad_Very--></T>
+      <U n="value">
+        <V n="buff_reason" t="enabled">
+          <T n="enabled">0x25B6EEF2<!--(From Low Attention)--></T>
+        </V>
+        <T n="buff_type">290178<!--buff_Motives_Infant_Attention_Sad_Very--></T>
+      </U>
+    </U>
+    <U>
+      <T n="key">27113<!--Buff_Motives_Fun_NeedsAmusement--></T>
+      <U n="value">
+        <V n="buff_reason" t="enabled">
+          <T n="enabled">0xED5C85CF<!--(From Low Fun)--></T>
+        </V>
+        <T n="buff_type">279865<!--buff_Infant_MotiveOverride_Fun_Sad--></T>
+      </U>
+    </U>
+    <U>
+      <T n="key">27114<!--Buff_Motives_Hygiene_Grungy--></T>
+      <U n="value">
+        <T n="buff_type">279861<!--buff_Infant_MotiveOverride_Hygiene_Sad--></T>
+      </U>
+    </U>
+  </L>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">271169<!--buff_Trait_Infant--></T>
+    </U>
+    <U>
+      <T n="buff_type">287573<!--buff_InfantMilestone_Main--></T>
+    </U>
+    <U>
+      <T n="buff_type">39303<!--Privacy_Immune--></T>
+    </U>
+  </L>
+  <T n="buffs_add_on_spawn_only">False</T>
+  <T n="can_die">False</T>
+  <L n="conflicting_traits">
+    <T>34319<!--trait_adult--></T>
+    <T>34314<!--trait_baby--></T>
+    <T>34316<!--trait_child--></T>
+    <T>34317<!--trait_teen--></T>
+    <T>34320<!--trait_elder--></T>
+    <T>34318<!--trait_youngAdult--></T>
+  </L>
+  <T n="display_name">0x7CEE80E2<!--Infant --></T>
+  <T n="display_name_gender_neutral">0xDD336172<!--Infant--></T>
+  <L n="excluded_mood_types">
+    <T>14646<!--Mood_Uncomfortable--></T>
+    <T>14645<!--Mood_Stressed--></T>
+    <T>14644<!--Mood_Dazed--></T>
+    <T>14635<!--Mood_Embarrassed--></T>
+    <T>14634<!--Mood_Confident--></T>
+    <T>14638<!--Mood_Flirty--></T>
+    <T>14639<!--Mood_Focused--></T>
+    <T>14641<!--Mood_Inspired--></T>
+  </L>
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <L n="initial_commodities">
+    <T>142037<!--motive_Toddler_Attention--></T>
+    <T>325710<!--commodity_Infant_AwakeTime--></T>
+  </L>
+  <L n="initial_commodities_blacklist">
+    <T>16658<!--motive_Social--></T>
+  </L>
+  <V n="loot_on_trait_add" t="enabled">
+    <L n="enabled">
+      <T>289380<!--loot_InfantMilestone_Infant_SetImmobile_Autonomy--></T>
+    </L>
+  </V>
+  <E n="min_lod_value">MINIMUM</E>
+  <V n="npc_leave_lot_interactions" t="enabled">
+    <U n="enabled">
+      <L n="leave_lot_now_interactions">
+        <T>156096<!--toddler_NPCLeaveLot--></T>
+      </L>
+      <L n="leave_lot_now_must_run_interactions">
+        <T>156096<!--toddler_NPCLeaveLot--></T>
+      </L>
+    </U>
+  </V>
+  <L n="species">
+    <E />
+  </L>
+  <L n="super_affordances">
+    <T>331305<!--cheats_InfantElement_Quirks_Add_FrequentlyHiccups--></T>
+    <T>331306<!--cheats_InfantElement_Quirks_Add_FrequentlySneezes--></T>
+    <T>287559<!--social_InfantMilestones_TummyTimeTogether--></T>
+    <T>335080<!--socialSuperInteraction_CarryPickUp_Infant_To_Paired_AgeUp--></T>
+    <T>331314<!--cheats_InfantElement_Quirks_Add_Gassy--></T>
+    <T>282876<!--socialSuperInteraction_CarryPickUp_Infant_CradleHold--></T>
+    <T>303415<!--sim_Carry_Social_Infant_BlowRaspberry_AtInfant--></T>
+    <T>322464<!--social_Infant_Interim_Bottle_Feed--></T>
+    <T>310390<!--infant_PostureChange_LieDown--></T>
+    <T>313761<!--sim_Carry_Social_Infant_CrossAge_Interactions_YouAreMyFavorite--></T>
+    <T>314986<!--infant_Picker_Greetings_AskToBeIntroducedTo_InfantTarget--></T>
+    <T>285494<!--infant_Picker_Greetings_IntroduceTo--></T>
+    <T>286179<!--sim_Carry_Social_Infant_Kiss--></T>
+    <T>287555<!--social_InfantMilestones_PracticeCrawling--></T>
+    <T>305159<!--babyFeed_Preference_Body--></T>
+    <T>305160<!--babyFeed_Preference_Bottle--></T>
+    <T>305161<!--babyFeed_Preference_None--></T>
+    <T>306387<!--babyDiaper_Preference_Swap--></T>
+    <T>307872<!--carryableInfant_SetPreferredCarrier--></T>
+    <T>315150<!--sim_Carry_Social_Infant_Greeting_Child--></T>
+    <T>316019<!--sim_Carry_Social_Infant_Greeting_Todder--></T>
+    <T>319645<!--changeInfantOutfit_Self_AdultPicker--></T>
+    <T>320291<!--changeOutfitPicker_TargetSim_Infant--></T>
+    <T>320552<!--autonomousSimPicker_Infant_Hygiene--></T>
+    <T>171421<!--baby_PetToSim_Investigate_Sniff--></T>
+    <T>321312<!--si_Occult_Alien_Disguise_Remove_Infant--></T>
+    <T>321313<!--si_Occult_Alien_Disguise_Self_Infant--></T>
+    <T>319885<!--objectpicker_CTYAEtoInfant_FindToy--></T>
+    <T>331313<!--cheats_InfantElement_Quirks_Add_GoodAppetite--></T>
+    <T>322576<!--social_Infant_Interim_Body_Feed--></T>
+    <T>322578<!--social_Infant_Interim_ChangeDiaper--></T>
+    <T>322698<!--social_Infant_Interim_GiveNap--></T>
+    <T>322699<!--social_Infant_Interim_CleanUp--></T>
+    <T>322798<!--petSocials_PetToInfant_Cuddle--></T>
+    <T>322799<!--sim_GiveGift_Infant_Picker--></T>
+    <T>322898<!--social_Infant_BlowRaspberry_FromChild--></T>
+    <T>323115<!--social_Infant_BlowRaspberry_FromToddler--></T>
+    <T>322689<!--social_Infant_KissKneel_FromChild--></T>
+    <T>323109<!--social_Infant_KissStand_FromChild--></T>
+    <T>331312<!--cheats_InfantElement_Quirks_Add_HappySpitter--></T>
+    <T>331311<!--cheats_InfantElement_Quirks_Add_HatesBeingHeld--></T>
+    <T>331309<!--cheats_InfantElement_Quirks_Add_HatesWakingUp--></T>
+    <T>331310<!--cheats_InfantElement_Quirks_Add_LovesBeingHeld--></T>
+    <T>331308<!--cheats_InfantElement_Quirks_Add_LovesWakingUp--></T>
+    <T>331307<!--cheats_InfantElement_Quirks_Add_MessyEater--></T>
+    <T>331315<!--cheats_InfantElement_Quirks_Add_ObsessedWithSound--></T>
+    <T>331316<!--cheats_InfantElement_Quirks_Add_OnlySleepsWhenHeld--></T>
+    <T>331317<!--cheats_InfantElement_Quirks_Add_PeesDuringChanges--></T>
+    <T>331318<!--cheats_InfantElement_Quirks_Add_PeesDuringFeeding--></T>
+    <T>331319<!--cheats_InfantElement_Quirks_Add_PickyEater--></T>
+    <T>331320<!--cheats_InfantElement_Quirks_Add_RisesWithTheSun--></T>
+    <T>331321<!--cheats_InfantElement_Quirks_Add_SelfSoother--></T>
+    <T>331322<!--cheats_InfantElement_Quirks_Add_Talker--></T>
+    <T>331371<!--cheats_InfantElement_Quirks_Remove_All--></T>
+    <T>331343<!--cheats_InfantElement_Quirks_Remove_FrequentlyHiccups--></T>
+    <T>331344<!--cheats_InfantElement_Quirks_Remove_FrequentlySneezes--></T>
+    <T>331353<!--cheats_InfantElement_Quirks_Remove_Gassy--></T>
+    <T>331354<!--cheats_InfantElement_Quirks_Remove_GoodAppetite--></T>
+    <T>331355<!--cheats_InfantElement_Quirks_Remove_HappySpitter--></T>
+    <T>331356<!--cheats_InfantElement_Quirks_Remove_HatesBeingHeld--></T>
+    <T>331359<!--cheats_InfantElement_Quirks_Remove_HatesWakingUp--></T>
+    <T>331358<!--cheats_InfantElement_Quirks_Remove_LovesWakingUp--></T>
+    <T>331357<!--cheats_InfantElement_Quirks_Remove_LovesBeingHeld--></T>
+    <T>331345<!--cheats_InfantElement_Quirks_Remove_ObsessedWithSound--></T>
+    <T>331360<!--cheats_InfantElement_Quirks_Remove_MessyEater--></T>
+    <T>331347<!--cheats_InfantElement_Quirks_Remove_PeesDuringChanges--></T>
+    <T>331346<!--cheats_InfantElement_Quirks_Remove_OnlySleepsWhenHeld--></T>
+    <T>331348<!--cheats_InfantElement_Quirks_Remove_PeesDuringFeeding--></T>
+    <T>331349<!--cheats_InfantElement_Quirks_Remove_PickyEater--></T>
+    <T>331351<!--cheats_InfantElement_Quirks_Remove_SelfSoother--></T>
+    <T>331350<!--cheats_InfantElement_Quirks_Remove_RisesWithTheSun--></T>
+    <T>331352<!--cheats_InfantElement_Quirks_Remove_Talker--></T>
+    <T>333142<!--simPicker_Infant_GetFedBy--></T>
+    <T>333951<!--super_ReadToInfant_AdultToInfant_Start--></T>
+    <T>330078<!--super_Infant_WakeUp_TakeToCrib--></T>
+    <T>331069<!--super_Infant_WakeUp_GiveNap--></T>
+  </L>
+  <L n="tags">
+    <E>TraitAge</E>
+  </L>
+  <L n="target_super_affordances">
+    <U>
+      <T n="affordance">319762<!--Infant_WatchObject_PuppetTheater--></T>
+      <V n="object_filter" t="filter_by_tags">
+        <U n="filter_by_tags">
+          <L n="tags">
+            <E>Func_PuppetTheater</E>
+          </L>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="affordance">322491<!--si_SwipeIntoSimInventory_Infant--></T>
+      <V n="object_filter" t="filter_by_tags">
+        <U n="filter_by_tags">
+          <L n="tags">
+            <E>Func_ToyBox_ToysToCleanUp</E>
+          </L>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="affordance">322492<!--si_SwipeAddToWorld_Infant--></T>
+      <V n="object_filter" t="filter_by_tags">
+        <U n="filter_by_tags">
+          <L n="tags">
+            <E>Func_Toy</E>
+          </L>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="affordance">274415<!--infant_Cry--></T>
+      <T n="allow_self">True</T>
+    </U>
+    <U>
+      <T n="affordance">274416<!--infant_Fuss--></T>
+      <T n="allow_self">True</T>
+    </U>
+    <U>
+      <T n="affordance">283139<!--infant_Chomp_Dummy--></T>
+    </U>
+    <U>
+      <T n="affordance">284529<!--dollHouse_Play_Infant--></T>
+      <V n="object_filter" t="filter_by_tags">
+        <U n="filter_by_tags">
+          <L n="tags">
+            <E>Func_Dollhouse</E>
+          </L>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="affordance">287342<!--infant_Cry_CalmTrait--></T>
+      <T n="allow_self">True</T>
+    </U>
+    <U>
+      <T n="affordance">315903<!--nestingBlocks_Play_Infant--></T>
+      <V n="object_filter" t="filter_by_tags">
+        <U n="filter_by_tags">
+          <L n="tags">
+            <E>Func_NestingBlocks</E>
+          </L>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="affordance">332432<!--infant_HelpMe--></T>
+    </U>
+    <U>
+      <T n="affordance">333176<!--immediate_Infant_GetFedBy--></T>
+    </U>
+    <U>
+      <T n="affordance">334117<!--bookshelf_ReadTo_Picker_ChildBooks_Ask_Infant--></T>
+      <V n="object_filter" t="filter_by_tags">
+        <U n="filter_by_tags">
+          <L n="tags">
+            <E>Func_Bookcase</E>
+          </L>
+        </U>
+      </V>
+    </U>
+    <U>
+      <T n="affordance">322847<!--picker_PictureBook_AskToRead_Infant--></T>
+      <V n="object_filter" t="filter_by_tags">
+        <U n="filter_by_tags">
+          <L n="tags">
+            <E>Genre_Book_Toddler_PictureBook</E>
+          </L>
+        </U>
+      </V>
+    </U>
+  </L>
+  <E n="trait_type">HIDDEN</E>
+</I>

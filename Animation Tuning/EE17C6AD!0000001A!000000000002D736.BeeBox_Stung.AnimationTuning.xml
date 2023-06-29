@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AnimationElement" i="animation" m="animation.animation_element" n="BeeBox_Stung" s="186166">
+  <T n="asm_key" p="InEP05\Sage\BeeBox_BeeAttack_GetStung.interactionasm">02d5df13:00000000:6b0034462cc1ae15</T>
+  <L n="begin_states">
+    <T>StungSuitOff</T>
+  </L>
+  <T n="target_name" o="true" />
+</I>

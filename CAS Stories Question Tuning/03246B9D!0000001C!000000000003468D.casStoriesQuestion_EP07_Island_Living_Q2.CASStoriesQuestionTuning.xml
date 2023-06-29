@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CasStoriesQuestion" i="cas_stories_question" m="cas.cas_stories_question" n="casStoriesQuestion_EP07_Island_Living_Q2" s="214669">
+  <T n="icon" p="InEP07\UI\Icons\Headlines\headline_SomethingGross.png">2f7d0004:00000000:9bbffa39fbe54280</T>
+  <L n="possible_answers">
+    <T>214671<!--casStoriesAnswer_EP07_Island_Living_Q2_Answer_A--></T>
+    <T>214672<!--casStoriesAnswer_EP07_Island_Living_Q2_Answer_B--></T>
+    <T>214673<!--casStoriesAnswer_EP07_Island_Living_Q2_Answer_C--></T>
+  </L>
+  <T n="text">0xAEEB9FFD<!--I see trash all over the beach. What do I do?--></T>
+</I>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="highSchool_Active_Whiteboard_ClassType" s="276283">
+  <L n="_values">
+    <T>276262<!--state_HighSchool_Active_Whiteboard_ClassType_Art--></T>
+    <T>276263<!--state_HighSchool_Active_Whiteboard_ClassType_Business--></T>
+    <T>276264<!--state_HighSchool_Active_Whiteboard_ClassType_ComSci--></T>
+    <T>276265<!--state_HighSchool_Active_Whiteboard_ClassType_ForeignLanguage--></T>
+    <T>276266<!--state_HighSchool_Active_Whiteboard_ClassType_LanguageArts--></T>
+    <T>276261<!--state_HighSchool_Active_Whiteboard_ClassType_Math--></T>
+    <T>276267<!--state_HighSchool_Active_Whiteboard_ClassType_Science--></T>
+    <T>276268<!--state_HighSchool_Active_Whiteboard_ClassType_SocialStudies--></T>
+    <T>283755<!--state_HighSchool_Active_Whiteboard_ClassType_Exam--></T>
+  </L>
+</I>

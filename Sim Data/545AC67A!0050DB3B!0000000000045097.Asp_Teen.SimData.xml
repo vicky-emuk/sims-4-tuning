@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000035">
+  <Instances>
+    <I name="Asp_Teen" schema="AspirationCategory" type="Object">
+      <T name="display_text">0x1CA8769B</T>
+      <T name="icon">00B2D882-00000000-9DF936A6C43089C4</T>
+      <T name="is_sim_info_panel">0</T>
+      <T name="ui_sort_order">14</T>
+      <L name="used_by_packs">
+        <T type="Int64">53</T>
+      </L>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="AspirationCategory" schema_hash="0x833AEB40">
+      <Columns>
+        <Column name="display_text" type="LocalizationKey" flags="0x00000000" />
+        <Column name="icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="is_sim_info_panel" type="Boolean" flags="0x00000000" />
+        <Column name="ui_sort_order" type="Int32" flags="0x00000000" />
+        <Column name="used_by_packs" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

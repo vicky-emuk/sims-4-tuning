@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SimReward" i="reward" m="rewards.reward" n="reward_gardenplant_MoneyTree" s="187554">
+  <T n="icon" p="InGame\UI\Icons\Headlines\Final\headline_tree.png">2f7d0004:00000000:15a147d8fc13ca70</T>
+  <T n="name">0x421DEC92<!--Money Tree--></T>
+  <V n="reward_description" t="enabled">
+    <T n="enabled">0x5461A491<!--A Money Tree for your Sims to grow their riches.--></T>
+  </V>
+  <V n="reward_unavailable_tooltip" t="enabled">
+    <T n="enabled">0x709B9CC<!--This Reward is not available to your Sim, or it is already owned by your Sim.--></T>
+  </V>
+  <L n="rewards">
+    <V t="specific_reward">
+      <V n="specific_reward" t="object_definition">
+        <U n="object_definition">
+          <T n="definition">188693<!--gardenFruit_EP05GENmoney ({S.Money Fruit}{P.Money Fruit})--></T>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

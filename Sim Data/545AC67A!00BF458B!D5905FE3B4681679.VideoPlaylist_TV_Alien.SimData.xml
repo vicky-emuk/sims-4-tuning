@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000003">
+  <Instances>
+    <I name="VideoPlaylist_TV_Alien" schema="Video.Playlist" type="Object">
+      <L name="Keys">
+        <T type="ResourceKey">376840D7-00000000-667E689F74F6CE23</T>
+        <T type="ResourceKey">376840D7-00000000-35E955DE7D2C9EDE</T>
+        <T type="ResourceKey">376840D7-00000000-F922B28744BC7370</T>
+        <T type="ResourceKey">376840D7-00000000-49345A0F313BA02A</T>
+      </L>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="Video.Playlist" schema_hash="0xA73FB934">
+      <Columns>
+        <Column name="Keys" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

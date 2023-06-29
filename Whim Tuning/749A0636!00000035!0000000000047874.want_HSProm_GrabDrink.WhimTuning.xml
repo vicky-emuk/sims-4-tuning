@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Whim" i="whim" m="whims.whim" n="want_HSProm_GrabDrink" s="292980">
+  <V n="chaining_whimset_chance_multiplier" t="enabled">
+    <T n="enabled">1.5</T>
+  </V>
+  <T n="fluff_description">0xB586B21F<!--After all that dancing, a cup of punch is exactly what's needed. --></T>
+  <T n="goal">292984<!--whimGoal_IntObject_HSProm_DrinkSomething--></T>
+  <E n="type">REACTIONARY</E>
+</I>

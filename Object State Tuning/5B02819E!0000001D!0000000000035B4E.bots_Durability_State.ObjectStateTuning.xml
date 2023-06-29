@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="bots_Durability_State" s="219982">
+  <L n="_values">
+    <T>220829<!--bot_Durability_Values_Broken--></T>
+    <T>220830<!--bot_Durability_Values_NotBroken--></T>
+    <T>230099<!--bot_Durability_Values_Full--></T>
+  </L>
+  <T n="linked_stat">229420<!--commodity_Object_Bot_Brokenness--></T>
+</I>

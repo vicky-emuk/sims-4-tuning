@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="mural_Wall_Paint_Activist_Trees" s="148592">
+  <L n="_values">
+    <T>148619<!--mural_Wall_ActTrees_Complete--></T>
+    <T>148620<!--mural_Wall_ActTrees_Defaced--></T>
+    <T>148621<!--mural_Wall_ActTrees_NotStarted--></T>
+    <T>148623<!--mural_Wall_ActTrees_AToBase_0--></T>
+    <T>148624<!--mural_Wall_ActTrees_AToBase_1--></T>
+    <T>148625<!--mural_Wall_ActTrees_AToBase_2--></T>
+    <T>148626<!--mural_Wall_ActTrees_AToBase_3--></T>
+    <T>148627<!--mural_Wall_ActTrees_AToBase_4--></T>
+    <T>148629<!--mural_Wall_ActTrees_BaseToLines_0--></T>
+    <T>148630<!--mural_Wall_ActTrees_BaseToLines_1--></T>
+    <T>148631<!--mural_Wall_ActTrees_BaseToLines_2--></T>
+    <T>148632<!--mural_Wall_ActTrees_BaseToLines_3--></T>
+    <T>148633<!--mural_Wall_ActTrees_BaseToLines_4--></T>
+    <T>148635<!--mural_Wall_ActTrees_LinesToFinal_0--></T>
+    <T>148636<!--mural_Wall_ActTrees_LinesToFinal_1--></T>
+    <T>148637<!--mural_Wall_ActTrees_LinesToFinal_2--></T>
+    <T>148638<!--mural_Wall_ActTrees_LinesToFinal_3--></T>
+    <T>148639<!--mural_Wall_ActTrees_LinesToFinal_4--></T>
+  </L>
+  <T n="linked_stat">148594<!--commodity_Mural_ActivistTrees--></T>
+  <T n="persists_across_gallery">True</T>
+</I>

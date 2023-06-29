@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="objectState_Upgrade_SimRay_MindControl_Clean" s="114372">
+  <L n="_values">
+    <T>114388<!--osv_Upgrade_SimRay_MindControl_Clean_NotStarted--></T>
+    <T>114397<!--osv_Upgrade_SimRay_MindControl_Clean_Partial--></T>
+    <T>114380<!--osv_Upgrade_SimRay_MindControl_Clean_Completed--></T>
+  </L>
+  <T n="linked_stat">114364<!--statistic_Object_Upgrade_SimRay_MindControl_Clean--></T>
+</I>

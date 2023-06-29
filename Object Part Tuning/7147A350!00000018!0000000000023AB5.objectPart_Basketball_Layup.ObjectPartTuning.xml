@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectPart" i="object_part" m="objects.part" n="objectPart_Basketball_Layup" s="146101">
+  <U n="supported_affordance_data">
+    <V n="compatibility" t="literal">
+      <U n="literal">
+        <V n="default_inclusion" t="exclude_all">
+          <U n="exclude_all">
+            <L n="include_affordances">
+              <T>13983<!--sim-stand--></T>
+              <T>152365<!--basketball_Dunks_Layup--></T>
+              <T>153389<!--si_Basketball_Dunks_Layup_OnFire--></T>
+              <T>146778<!--si_Basketball_Dunks_AlleyOop--></T>
+            </L>
+          </U>
+        </V>
+      </U>
+    </V>
+  </U>
+</I>

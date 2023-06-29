@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="chefStation_Location" s="135928">
+  <L n="_values">
+    <T>135828<!--ChefStation_home--></T>
+    <T>135915<!--ChefStation_restaurant--></T>
+  </L>
+</I>

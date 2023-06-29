@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RelationshipBit" i="relbit" m="relationships.relationship_bit" n="relationshipBit_SummonGhost_Fail" s="215677">
+  <T n="icon" p="InGame\UI\Icons\Debug\missing_image.png">2f7d0004:00000000:30f0846c783606f9</T>
+  <L n="super_affordances">
+    <T>215675<!--ghost_Spell_SummonGhost_Fail_PushFight--></T>
+  </L>
+  <T n="timeout">20</T>
+</I>

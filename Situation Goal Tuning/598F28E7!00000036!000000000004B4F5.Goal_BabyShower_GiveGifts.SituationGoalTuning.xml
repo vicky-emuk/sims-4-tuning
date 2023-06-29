@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalRanInteractionOnTargetedSim" i="situation_goal" m="situations.situation_goal_targeted_sim" n="Goal_BabyShower_GiveGifts" s="308469">
+  <V n="_display_data" t="enabled">
+    <U n="enabled">
+      <V n="instance_display_icon" t="enabled">
+        <T n="enabled" p="InGame\UI\Icons\Events\EventGoal_Gift.png">2f7d0004:00000000:d55077422577d0cf</T>
+      </V>
+      <V n="instance_display_name" t="enabled">
+        <T n="enabled">0x9E98AFB0<!--Share Baby Gifts--></T>
+      </V>
+      <V n="instance_display_tooltip" t="enabled">
+        <T n="enabled">0xFE1A5678<!--Click on the Expecting Parent and select Give a Baby Shower Gift or Buy a Baby Shower Gift from the PIE menu--></T>
+      </V>
+    </U>
+  </V>
+  <U n="_goal_test">
+    <L n="affordances">
+      <T>307476<!--si_Touching_GiveGift_BabyShower_NPC--></T>
+      <T>309654<!--si_Touching_GivePurchase_BabyShower--></T>
+      <T>301107<!--si_Touching_GiveGift_BabyShower--></T>
+    </L>
+    <E n="test_event">InteractionComplete</E>
+  </U>
+  <T n="_score">10</T>
+  <T n="audio_sting_on_complete" p="InGame\Audio\Bumper\bumper_event_goal_complete.propx">39b2aa4a:00000000:ed52c39bcc2a7111</T>
+  <L n="role_tags">
+    <E>Role_Guest</E>
+  </L>
+</I>

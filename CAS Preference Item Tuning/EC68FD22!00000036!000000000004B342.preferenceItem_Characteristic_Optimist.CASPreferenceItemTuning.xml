@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CharacteristicPreferenceItem" i="cas_preference_item" m="cas.cas_preference_item" n="preferenceItem_Characteristic_Optimist" s="308034">
+  <T n="cas_preference_category">307793<!--PreferenceCategory_Characteristic--></T>
+  <T n="dislike">306419<!--trait_SimPreference_Dislikes_Characteristic_Optimist--></T>
+  <T n="like">305971<!--trait_SimPreference_Likes_Characteristic_Optimist--></T>
+  <V n="tooltip" t="enabled">
+    <T n="enabled">0x3E39AB0A<!--Optimistic Sims always try to look on the bright side of life! They seek to radiate light and positivity, and brighten the days of other Sims around them.\n\nLiking Optimistic Sims means other Sims with traits like <b>Cheerful</b> or <b>Good</b> will gain some compatibility with your Sim. However, traits like <b>Gloomy</b> will lower their compatibility with your Sim.--></T>
+  </V>
+  <L n="trait_map">
+    <U>
+      <T n="key">16823<!--trait_Ambitious--></T>
+      <T n="value">3</T>
+    </U>
+    <U>
+      <T n="key">203542<!--trait_Paranoid--></T>
+      <T n="value">-1</T>
+    </U>
+    <U>
+      <T n="key">27915<!--trait_Good--></T>
+      <T n="value">3</T>
+    </U>
+    <U>
+      <T n="key">9322<!--trait_Cheerful--></T>
+      <T n="value">3</T>
+    </U>
+    <U>
+      <T n="key">9332<!--trait_Gloomy--></T>
+      <T n="value">-1</T>
+    </U>
+  </L>
+</I>

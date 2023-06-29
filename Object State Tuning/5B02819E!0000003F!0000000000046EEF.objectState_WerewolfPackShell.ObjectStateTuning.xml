@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="objectState_WerewolfPackShell" s="290543">
+  <L n="_values">
+    <T>290546<!--werewolfPackShell_Friendly--></T>
+    <T>290545<!--werewolfPackShell_Neutral--></T>
+    <T>290547<!--werewolfPackShell_Threatening--></T>
+  </L>
+</I>

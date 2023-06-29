@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectPart" i="object_part" m="objects.part" n="objectPart_Basketball_Dunk" s="146102">
+  <U n="supported_affordance_data">
+    <V n="compatibility" t="literal">
+      <U n="literal">
+        <V n="default_inclusion" t="exclude_all">
+          <U n="exclude_all">
+            <L n="include_affordances">
+              <T>13983<!--sim-stand--></T>
+              <T>146776<!--si_Basketball_Dunks_DoubleClutch--></T>
+              <T>146777<!--si_Basketball_Dunks_Flying--></T>
+              <T>147446<!--si_Basketball_Dunks_DoubleClutch_Competition--></T>
+              <T>147447<!--si_Basketball_Dunks_Flying_Competition--></T>
+              <T>152366<!--basketball_Dunks_DoubleClutch--></T>
+              <T>152367<!--basketball_Dunks_Flying--></T>
+              <T>152363<!--si_Basketball_Dunks_Fail--></T>
+              <T>152364<!--si_Basketball_Dunks_Fail_Competition--></T>
+              <T>153379<!--si_Basketball_DreamBig_DunkDoubleClutch--></T>
+              <T>153386<!--si_Basketball_Dunks_DoubleClutch_OnFire--></T>
+              <T>153387<!--si_Basketball_Dunks_Fail_OnFire--></T>
+              <T>153388<!--si_Basketball_Dunks_Flying_OnFire--></T>
+              <T>153390<!--basketball_Dunks_Flying_Competition_OnFire--></T>
+              <T>153392<!--basketball_Dunks_Fail_Competition_OnFire--></T>
+              <T>153391<!--basketball_Dunks_DoubleClutch_Competition_OnFire--></T>
+              <T>153380<!--si_Basketball_DreamBig_DunkFlying--></T>
+              <T>153381<!--si_Basketball_DreamBig_DunkMiss--></T>
+              <T>154261<!--si_Basketball_DreamBig_DunkDoubleClutch_OnFire--></T>
+              <T>154262<!--si_Basketball_DreamBig_DunkFlying_OnFire--></T>
+              <T>154263<!--si_Basketball_DreamBig_DunkMiss_OnFire--></T>
+            </L>
+          </U>
+        </V>
+      </U>
+    </V>
+  </U>
+</I>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectPart" i="object_part" m="objects.part" n="part_Dumpster" s="235029">
+  <U n="supported_affordance_data">
+    <V n="compatibility" t="literal">
+      <U n="literal">
+        <V n="default_inclusion" t="exclude_all">
+          <U n="exclude_all">
+            <L n="include_affordances">
+              <T>233082<!--dumpster_DiveForDeals--></T>
+              <T>13983<!--sim-stand--></T>
+              <T>233084<!--dumpster_DiveForMeals--></T>
+              <T>234507<!--dumpster_HideIn--></T>
+              <T>234504<!--dumpster_Throw_Away--></T>
+              <T>234506<!--dumpster_Throw_Away_DumpInto--></T>
+              <T>241622<!--dumpster_Throw_Away_Pans_DumpInto--></T>
+              <T>241607<!--dumpster_Throw_Away_Pots_DumpInto--></T>
+              <T>239639<!--civilDesigner_SmogVacuum_Dumpster--></T>
+              <T>234503<!--Empty_Dumpster_TrashUpdate_Continuation--></T>
+              <T>234502<!--Empty_Dumpster_TrashUpdate--></T>
+              <T>234501<!--trashUpdate_Dumpster_SortRecyclables--></T>
+              <T>234500<!--trashUpdate_Dumpster_SortCompostables--></T>
+              <T>235452<!--dumpster_Dive_CommunityNPC--></T>
+              <T>13135<!--carry_holdobject--></T>
+              <T>237004<!--dumpster_DiveForDeals_Freegan--></T>
+              <T>237820<!--dumpster_Nap--></T>
+              <T>234587<!--career_CivilDesigner_SmogVacuum_CleanOutSmog_Dumpster--></T>
+              <T>239033<!--generic_Dumpster_Nap--></T>
+              <T>239654<!--trashUpdate_Dumpster_ClearRoaches--></T>
+              <T>239647<!--trashUpdate_Dumpster_ClearFlies--></T>
+              <T>239936<!--trashUpdate_Dumpster_BondWithFlies--></T>
+              <T>238031<!--empty_Dumpster_TrashUpdate_LeftHand--></T>
+              <T>238032<!--empty_Dumpster_TrashUpdate_LeftHand_Continuation--></T>
+              <T>241755<!--trashUpdate_Dumpster_SortCompostables_Left--></T>
+              <T>241756<!--trashUpdate_Dumpster_SortRecyclables_Left--></T>
+            </L>
+          </U>
+        </V>
+      </U>
+    </V>
+  </U>
+  <V n="supported_posture_types" t="literal">
+    <L n="literal">
+      <U>
+        <T n="posture_type">15537<!--posture_Stand--></T>
+      </U>
+      <U>
+        <T n="posture_type">15522<!--posture_CarryObject--></T>
+      </U>
+      <U>
+        <T n="posture_type">239034<!--posture_Dumpster_Nap--></T>
+      </U>
+    </L>
+  </V>
+</I>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000013">
+  <Instances>
+    <I name="tutorial_JungleAdventure_Archaeology_Skill" schema="Tutorial" type="Object">
+      <T name="category">181477</T>
+      <T name="name">0xFBC04CD2</T>
+      <L name="slides">
+        <U type="Object" schema="TunableTutorialSlideTuple">
+          <T name="image">00B2D882-00000000-D3278C4773EAE4CB</T>
+          <T name="image_console">00000000-00000000-0000000000000000</T>
+          <T name="image_console_jp">00000000-00000000-0000000000000000</T>
+          <T name="platform_filter">0</T>
+          <T name="text">0x1C906EA0</T>
+        </U>
+        <U type="Object" schema="TunableTutorialSlideTuple">
+          <T name="image">00B2D882-00000000-D3278C4773EAE4C8</T>
+          <T name="image_console">00000000-00000000-0000000000000000</T>
+          <T name="image_console_jp">00000000-00000000-0000000000000000</T>
+          <T name="platform_filter">0</T>
+          <T name="text">0x5A9AD23D</T>
+        </U>
+        <U type="Object" schema="TunableTutorialSlideTuple">
+          <T name="image">00B2D882-00000000-D3278C4773EAE4C9</T>
+          <T name="image_console">00000000-00000000-0000000000000000</T>
+          <T name="image_console_jp">00000000-00000000-0000000000000000</T>
+          <T name="platform_filter">0</T>
+          <T name="text">0xEEC6C634</T>
+        </U>
+        <U type="Object" schema="TunableTutorialSlideTuple">
+          <T name="image">00B2D882-00000000-D3278C4773EAE4CE</T>
+          <T name="image_console">00000000-00000000-0000000000000000</T>
+          <T name="image_console_jp">00000000-00000000-0000000000000000</T>
+          <T name="platform_filter">0</T>
+          <T name="text">0x73F8E137</T>
+        </U>
+        <U type="Object" schema="TunableTutorialSlideTuple">
+          <T name="image">00B2D882-00000000-D3278C4773EAE4CF</T>
+          <T name="image_console">00000000-00000000-0000000000000000</T>
+          <T name="image_console_jp">00000000-00000000-0000000000000000</T>
+          <T name="platform_filter">0</T>
+          <T name="text">0x8167A614</T>
+        </U>
+      </L>
+      <L name="tags">
+        <T type="Int64">2896</T>
+      </L>
+      <T name="ui_sort_order">6</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="Tutorial" schema_hash="0x6EA3D75D">
+      <Columns>
+        <Column name="category" type="TableSetReference" flags="0x00000000" />
+        <Column name="name" type="LocalizationKey" flags="0x00000000" />
+        <Column name="slides" type="Vector" flags="0x00000000" />
+        <Column name="tags" type="Vector" flags="0x00000000" />
+        <Column name="ui_sort_order" type="Int32" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableTutorialSlideTuple" schema_hash="0x33C0549A">
+      <Columns>
+        <Column name="image" type="ResourceKey" flags="0x00000000" />
+        <Column name="image_console" type="ResourceKey" flags="0x00000000" />
+        <Column name="image_console_jp" type="ResourceKey" flags="0x00000000" />
+        <Column name="platform_filter" type="Int64" flags="0x00000000" />
+        <Column name="text" type="LocalizationKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

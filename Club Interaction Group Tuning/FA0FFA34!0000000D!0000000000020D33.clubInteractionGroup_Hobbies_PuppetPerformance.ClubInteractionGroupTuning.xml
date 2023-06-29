@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ClubInteractionGroup" i="club_interaction_group" m="clubs.club_tuning" n="clubInteractionGroup_Hobbies_PuppetPerformance" s="134451">
+  <L n="affordance_lists">
+    <T>134454<!--affordanceList_PuppetTheater--></T>
+  </L>
+  <E n="category">KID_ACTIVITIES</E>
+  <T n="category_icon" p="InSP07\UI\Icons\Headlines\headline_puppettheater.png">2f7d0004:00000000:2ccb07a9055bc675</T>
+  <T n="club_bucks_reward">2</T>
+  <T n="is_targeted">False</T>
+  <T n="name">0x8D0F8348<!--Perform Puppet Shows--></T>
+  <T n="tooltip_template">0xBEF19F47<!--Perform Puppet Shows--></T>
+  <T n="tooltip_template_negative">0x8084C12B<!--Don't Perform Puppet Shows--></T>
+</I>

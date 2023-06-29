@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectPart" i="object_part" m="objects.part" n="part_SteamRoom_Bench" s="118723">
+  <U n="supported_affordance_data">
+    <V n="compatibility" t="literal">
+      <U n="literal">
+        <V n="default_inclusion" t="include_all">
+          <U n="include_all">
+            <L n="exclude_affordances">
+              <T>119151<!--object_Repair_SteamRoom--></T>
+              <T>119196<!--steamRoom_Upgrade_NeverBreak--></T>
+              <T>119302<!--steamRoom_Upgrade_NeverBreak_Resume--></T>
+              <T>13343<!--Drink_Active--></T>
+              <T>100227<!--Drink_ActivePotion--></T>
+              <T>119337<!--steamRoom_Upgrade_PrecisionTemperature--></T>
+              <T>119338<!--steamRoom_Upgrade_PrecisionTemperature_Resume--></T>
+              <T>119321<!--steamRoom_Upgrade_SelfCleaning--></T>
+              <T>119322<!--steamRoom_Upgrade_SelfCleaning_Resume--></T>
+              <T>119473<!--SteamRoom_Sabotage_Sulfur--></T>
+              <T>119642<!--object_Bane_Sabotage_SteamRoom--></T>
+              <T>119920<!--steamRoom_Sabotage_FireleafExtract--></T>
+              <T>120034<!--herbalism_ElixirOfBurning_picker_steamroom--></T>
+              <T>13353<!--Drink_Passive--></T>
+              <T>100291<!--generic_consume_drink_nonbar_potion--></T>
+              <T>13432<!--generic_consume_drink_nonbar--></T>
+              <T>13431<!--generic_consume_drink_bar--></T>
+              <T>99593<!--art_View_Sculpture--></T>
+              <T>156414<!--generic_consume_VampireDrink--></T>
+            </L>
+            <L n="exclude_lists">
+              <T>120309<!--affordanceList_BlackList_HotTubAndSteamRoom--></T>
+            </L>
+          </U>
+        </V>
+      </U>
+    </V>
+  </U>
+  <V n="supported_posture_types" t="literal">
+    <L n="literal">
+      <U>
+        <T n="posture_type">15537<!--posture_Stand--></T>
+      </U>
+      <U>
+        <T n="posture_type">120222<!--posture_SteamRoomSit--></T>
+      </U>
+      <U>
+        <T n="posture_type">15536<!--posture_SitIntimate--></T>
+      </U>
+      <U>
+        <T n="posture_type">119528<!--posture_SteamRoomWooHoo--></T>
+      </U>
+    </L>
+  </V>
+</I>

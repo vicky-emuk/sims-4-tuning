@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="mural_Floor_City_Mosaic" s="147822">
+  <L n="_values">
+    <T>147884<!--mural_Floor_Mosaic_BaseToLines_0--></T>
+    <T>147885<!--mural_Floor_Mosaic_BaseToLines_1--></T>
+    <T>147886<!--mural_Floor_Mosaic_BaseToLines_2--></T>
+    <T>147887<!--mural_Floor_Mosaic_BaseToLines_3--></T>
+    <T>147888<!--mural_Floor_Mosaic_BaseToLines_4--></T>
+    <T>147889<!--mural_Floor_Mosaic_LinesToFinal_0--></T>
+    <T>147890<!--mural_Floor_Mosaic_LinesToFinal_1--></T>
+    <T>147891<!--mural_Floor_Mosaic_LinesToFinal_2--></T>
+    <T>147892<!--mural_Floor_Mosaic_LinesToFinal_3--></T>
+    <T>147893<!--mural_Floor_Mosaic_LinesToFinal_4--></T>
+    <T>147846<!--mural_Floor_Mosaic_AToBase_0--></T>
+    <T>147880<!--mural_Floor_Mosaic_AToBase_1--></T>
+    <T>147881<!--mural_Floor_Mosaic_AToBase_2--></T>
+    <T>147882<!--mural_Floor_Mosaic_AToBase_3--></T>
+    <T>147883<!--mural_Floor_Mosaic_AToBase_4--></T>
+    <T>147842<!--mural_Floor_Mosaic_Complete--></T>
+    <T>147843<!--mural_Floor_Mosaic_Defaced--></T>
+    <T>147844<!--mural_Floor_Mosaic_NotStarted--></T>
+  </L>
+  <T n="linked_stat">147838<!--commodity_Mural_MosaicCity--></T>
+  <T n="persists_across_gallery">True</T>
+</I>

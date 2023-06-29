@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="mural_Wall_Paint_City_Orange" s="148488">
+  <L n="_values">
+    <T>148344<!--mural_Wall_OrangeCity_Complete--></T>
+    <T>148345<!--mural_Wall_OrangeCity_Defaced--></T>
+    <T>148346<!--mural_Wall_OrangeCity_NotStarted--></T>
+    <T>148348<!--mural_Wall_OrangeCity_AToBase_0--></T>
+    <T>148349<!--mural_Wall_OrangeCity_AToBase_1--></T>
+    <T>148350<!--mural_Wall_OrangeCity_AToBase_2--></T>
+    <T>148351<!--mural_Wall_OrangeCity_AToBase_3--></T>
+    <T>148352<!--mural_Wall_OrangeCity_AToBase_4--></T>
+    <T>148354<!--mural_Wall_OrangeCity_BaseToLines_0--></T>
+    <T>148355<!--mural_Wall_OrangeCity_BaseToLines_1--></T>
+    <T>148356<!--mural_Wall_OrangeCity_BaseToLines_2--></T>
+    <T>148357<!--mural_Wall_OrangeCity_BaseToLines_3--></T>
+    <T>148358<!--mural_Wall_OrangeCity_BaseToLines_4--></T>
+    <T>148360<!--mural_Wall_OrangeCity_LinesToFinal_0--></T>
+    <T>148361<!--mural_Wall_OrangeCity_LinesToFinal_1--></T>
+    <T>148362<!--mural_Wall_OrangeCity_LinesToFinal_2--></T>
+    <T>148363<!--mural_Wall_OrangeCity_LinesToFinal_3--></T>
+    <T>148364<!--mural_Wall_OrangeCity_LinesToFinal_4--></T>
+  </L>
+  <T n="linked_stat">148485<!--commodity_Mural_OrangeCity--></T>
+  <T n="persists_across_gallery">True</T>
+</I>

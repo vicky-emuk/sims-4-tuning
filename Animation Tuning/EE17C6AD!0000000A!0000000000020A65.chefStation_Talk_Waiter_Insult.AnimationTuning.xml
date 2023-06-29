@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AnimationElement" i="animation" m="animation.animation_element" n="chefStation_Talk_Waiter_Insult" s="133733">
+  <T n="actor_name">x</T>
+  <T n="asm_key" p="InGP03\Sage\ChefStation_InsultComplimentCooking.interactionasm">02d5df13:00000000:6bc82cddb239b77d</T>
+  <L n="begin_states">
+    <T>Deliver_Insult</T>
+  </L>
+  <T n="carry_target_name" o="true" />
+  <L n="end_states">
+    <T>exit</T>
+  </L>
+  <T n="target_name" o="true" />
+</I>

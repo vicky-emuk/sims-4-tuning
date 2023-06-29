@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="candleMakingStation_WaxColorStates" s="231756">
+  <L n="_values">
+    <T>231760<!--CandleMakingStation_Wax_Blue--></T>
+    <T>231761<!--CandleMakingStation_Wax_Red--></T>
+    <T>231762<!--CandleMakingStation_Wax_Green--></T>
+    <T>231763<!--CandleMakingStation_Wax_Yellow--></T>
+    <T>231764<!--CandleMakingStation_Wax_Black--></T>
+    <T>231765<!--CandleMakingStation_Wax_Orange--></T>
+    <T>231766<!--CandleMakingStation_Wax_Houndstooth--></T>
+    <T>231758<!--CandleMakingStation_Wax_Empty--></T>
+    <T>231759<!--CandleMakingStation_Wax_White--></T>
+    <T>233509<!--candleMakingStation_Wax_Grim--></T>
+    <T>237292<!--CandleMakingStation_Wax_Standard--></T>
+  </L>
+</I>

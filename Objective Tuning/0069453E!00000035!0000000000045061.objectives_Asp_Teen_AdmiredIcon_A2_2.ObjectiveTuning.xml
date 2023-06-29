@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Objective" i="objective" m="event_testing.objective_tuning" n="objectives_Asp_Teen_AdmiredIcon_A2_2" s="282721">
+  <L n="completion_loot">
+    <T>273578<!--loot_Want_AspirationCompleted--></T>
+  </L>
+  <T n="display_text">0x25B03B7F<!--Earn Gold on any Hosted Party--></T>
+  <V n="objective_test" t="situation_running_test">
+    <U n="situation_running_test">
+      <T n="check_for_initiating_sim">True</T>
+      <V n="level" t="enabled">
+        <U n="enabled">
+          <T n="value">3</T>
+        </U>
+      </V>
+      <V n="participant" t="enabled" />
+      <V n="situation_whitelist" t="enabled">
+        <L n="enabled">
+          <T>31635<!--situation_birthday_party--></T>
+          <T>35077<!--Situation_BlackAndWhiteParty--></T>
+          <T>35078<!--Situation_CostumeParty--></T>
+          <T>16194<!--Situation_DinnerParty--></T>
+          <T>33294<!--Situation_HouseParty--></T>
+          <T>221796<!--Situation_KegParty--></T>
+          <T>125869<!--spookyPartySituation_SP04--></T>
+          <T>206333<!--kavaPartySituation--></T>
+          <T>103691<!--Situation_WeenieRoast--></T>
+        </L>
+      </V>
+    </U>
+  </V>
+  <T n="satisfaction_points">500</T>
+  <T n="tooltip">0xB5370D20<!--Click on the Phone to Plan a Party Event. Once the Event starts, complete the Goals that pop-up to earn the highest score.--></T>
+</I>

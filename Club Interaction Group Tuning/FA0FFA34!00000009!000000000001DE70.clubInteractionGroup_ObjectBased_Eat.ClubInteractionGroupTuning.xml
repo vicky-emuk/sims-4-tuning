@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ClubInteractionGroup" i="club_interaction_group" m="clubs.club_tuning" n="clubInteractionGroup_ObjectBased_Eat" s="122480">
+  <L n="affordance_lists">
+    <T>131780<!--affordanceList_Club_EatRule--></T>
+  </L>
+  <L n="affordances">
+    <T>13433<!--generic_consume_food--></T>
+    <T>75561<!--generic_consume_foodBall--></T>
+    <T>103025<!--generic_consume_food_ambrosia--></T>
+    <T>37313<!--rummaged_consume_food--></T>
+    <T>14585<!--cake_Grab--></T>
+    <T>31814<!--cupcake_Grab--></T>
+    <T>24153<!--pizza_Grab--></T>
+    <T>13435<!--generic_food_Grab--></T>
+    <T>13396<!--fridge_GrabSnack--></T>
+    <T>111967<!--fridge_GrabSnack_Autotest--></T>
+    <T>77672<!--fridge_GrabSnack_PieMenu--></T>
+    <T>146214<!--food_Consume_CurryContest--></T>
+    <T>146143<!--FoodFestival_SpicyCurry_StartContest--></T>
+    <T>136365<!--generic_food_GrabSample--></T>
+    <T>153148<!--generic_food_GrabSample_Vegetarian--></T>
+    <T>215883<!--cauldron_GrabServing--></T>
+  </L>
+  <E n="category">FOOD_AND_DRINK</E>
+  <T n="category_icon" p="InGame\UI\Icons\Clubs\Rules\clubs_rules_Eat.png">2f7d0004:00000000:125a4b6955f9b84b</T>
+  <T n="club_bucks_reward">2</T>
+  <T n="is_targeted">False</T>
+  <T n="name">0x4438A153<!--Eat--></T>
+  <T n="tooltip_template">0xD8C9055C<!--Eat--></T>
+  <T n="tooltip_template_negative">0xBCD62332<!--Don't Eat--></T>
+</I>

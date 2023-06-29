@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Objective" i="objective" m="event_testing.objective_tuning" n="objective_GiveMassage" s="118615">
+  <V n="objective_test" t="ran_interaction_test">
+    <U n="ran_interaction_test">
+      <L n="affordances">
+        <T>118174<!--massageTable_SimPicker_GiveDeepTissueMassage--></T>
+        <T>118177<!--massageTable_SimPicker_GiveFertilityMassage--></T>
+        <T>118175<!--massageTable_SimPicker_GiveSportsMassage--></T>
+        <T>118176<!--massageTable_SimPicker_GiveStoneMassage--></T>
+        <T>117761<!--massageTable_SimPicker_GiveSwedishMassage--></T>
+        <T>118184<!--massageTable_SimPicker_GiveMassage_Aromatherapy_Lavender--></T>
+        <T>118183<!--massageTable_SimPicker_GiveMassage_Aromatherapy_LotusBlossom--></T>
+        <T>118182<!--massageTable_SimPicker_GiveMassage_Aromatherapy_Mint--></T>
+        <T>118181<!--massageTable_SimPicker_GiveMassage_Aromatherapy_Ylang--></T>
+      </L>
+    </U>
+  </V>
+  <T n="resettable">True</T>
+</I>

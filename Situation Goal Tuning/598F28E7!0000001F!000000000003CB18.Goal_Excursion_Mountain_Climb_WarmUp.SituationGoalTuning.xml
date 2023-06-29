@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalObjectInteraction" i="situation_goal" m="situations.situation_goal_object_interaction" n="Goal_Excursion_Mountain_Climb_WarmUp" s="248600">
+  <V n="_display_data" t="enabled">
+    <U n="enabled">
+      <V n="instance_display_icon" t="enabled">
+        <T n="enabled" p="InEP10\UI\Icons\Headlines\headline_lifeStyleEnergetic.png">2f7d0004:00000000:b4e1e1a32106a04b</T>
+      </V>
+      <V n="instance_display_name" t="enabled">
+        <T n="enabled">0xC093E37<!--Have a Sim perform any exercise to warm up.--></T>
+      </V>
+      <V n="instance_display_tooltip" t="disabled" />
+    </U>
+  </V>
+  <U n="_goal_test">
+    <L n="affordance_lists">
+      <T>109068<!--affordanceList_Workout--></T>
+    </L>
+    <L n="affordances">
+      <T>245373<!--climbingRoute_Novice_Practice--></T>
+      <T>245374<!--climbingRoute_Novice_MeticulousSession--></T>
+      <T>245275<!--climbingRoute_Novice_HitBreakingPoint--></T>
+      <T>245431<!--climbingRoute_Master_Practice--></T>
+      <T>245430<!--climbingRoute_Master_MeticulousSession--></T>
+      <T>245429<!--climbingRoute_Master_HitBreakingPoint--></T>
+      <T>245428<!--climbingRoute_Average_MeticulousSession--></T>
+      <T>245427<!--climbingRoute_Average_Practice--></T>
+      <T>245425<!--climbingRoute_Average_HitBreakingPoint--></T>
+      <T>245296<!--climbingRoute_Novice_ClimbNormally--></T>
+      <T>245299<!--climbingRoute_Novice_ClimbCourageously--></T>
+      <T>245295<!--climbingRoute_Novice_ClimbCautiously--></T>
+      <T>245293<!--climbingRoute_Master_ClimbNormally--></T>
+      <T>245292<!--climbingRoute_Master_ClimbCourageously--></T>
+      <T>245291<!--climbingRoute_Master_ClimbCautiously--></T>
+      <T>245294<!--climbingRoute_Master_ClimbAttempt--></T>
+      <T>245288<!--climbingRoute_Average_ClimbNormally--></T>
+      <T>245289<!--climbingRoute_Average_ClimbCourageously--></T>
+      <T>245273<!--climbingRoute_Average_ClimbCautiously--></T>
+      <T>245290<!--climbingRoute_Average_ClimbAttempt--></T>
+    </L>
+    <E n="test_event">InteractionComplete</E>
+  </U>
+  <T n="_score">5</T>
+  <T n="audio_sting_on_complete" p="" />
+</I>

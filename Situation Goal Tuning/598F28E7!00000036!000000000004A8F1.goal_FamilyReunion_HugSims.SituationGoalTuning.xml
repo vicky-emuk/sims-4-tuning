@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalRanInteractionOnTargetedSim" i="situation_goal" m="situations.situation_goal_targeted_sim" n="goal_FamilyReunion_HugSims" s="305393">
+  <V n="_display_data" t="enabled">
+    <U n="enabled">
+      <V n="instance_display_icon" t="enabled">
+        <T n="enabled" p="InGame\UI\Icons\Events\EventGoal_Hug.png">2f7d0004:00000000:18dc18f625d4b90b</T>
+      </V>
+      <V n="instance_display_name" t="enabled">
+        <T n="enabled">0x603FD7F0<!--Hug Sims--></T>
+      </V>
+      <V n="instance_display_tooltip" t="disabled" />
+    </U>
+  </V>
+  <U n="_goal_test">
+    <L n="affordances">
+      <T>27921<!--mixer_social_BroHug_targeted_Friendly_alwaysOn--></T>
+      <T>162655<!--mixer_social_LovingHug--></T>
+      <T>165707<!--mixer_social_LovingHug_ChildhoodPhase_Clingy--></T>
+      <T>26914<!--mixer_social_Hug_targeted_Friendly_MiddleScore--></T>
+      <T>165709<!--mixer_social_Hug_targeted_Friendly_MiddleScore_ChildhoodPhase_Clingy--></T>
+      <T>182705<!--mixer_social_WeatherTemperatureSocials_HugOutCold--></T>
+      <T>121385<!--si_touching_Greetings_Hug--></T>
+      <T>123719<!--si_touching_Greeting_Hug_Bro--></T>
+      <T>123646<!--si_touching_Greeting_Hug_Friendly--></T>
+      <T>123320<!--si_touching_Greeting_Hug_PinchCheek--></T>
+      <T>123325<!--si_touching_Greeting_Hug_Romantic--></T>
+      <T>222927<!--touching_Greetings_Curses_TouchyFeel_Hug--></T>
+      <T>39825<!--sim_Hug_QuickSocial--></T>
+      <T>139139<!--sim_Hug_QuickSocial_MonsterUnderBed--></T>
+      <T>214276<!--sim_Hug_QuickSocial_NoTests--></T>
+      <T>228603<!--sim_BroHug_QuickSocial--></T>
+      <T>157210<!--si_touching_Toddler_Apologize--></T>
+      <T>146681<!--si_touching_Toddler_Hug--></T>
+      <T>154999<!--si_touching_Toddler_Hug_RecentlyReturned_Caregiver--></T>
+      <T>157556<!--si_touching_Toddler_Hug_Target--></T>
+      <T>154697<!--si_touching_Toddler_ShareTheLove--></T>
+      <T>192612<!--celebrity_Socials_Celebrity_Hug--></T>
+      <T>294880<!--social_Werewolf_RampageHug--></T>
+      <T>208964<!--social_IslanderCulture_ComfortingHug--></T>
+      <T>238689<!--mixer_social_Targeted_Romance_CivicPolicy_FreeLove_T_Embrace--></T>
+      <T>26161<!--mixer_social_Embrace_targeted_romance_middleScore_STC--></T>
+      <T>278486<!--mixers_Custom_State_Wedding_VowCeremony_Kiss_Embrace--></T>
+      <T>332287<!--mixer_social_Hug_Friendly_Middlescore_BestHugEver--></T>
+    </L>
+    <E n="test_event">InteractionComplete</E>
+  </U>
+  <T n="_iterations">2</T>
+  <T n="_score">25</T>
+  <T n="audio_sting_on_complete" p="InGame\Audio\Bumper\bumper_event_goal_complete.propx">39b2aa4a:00000000:ed52c39bcc2a7111</T>
+</I>

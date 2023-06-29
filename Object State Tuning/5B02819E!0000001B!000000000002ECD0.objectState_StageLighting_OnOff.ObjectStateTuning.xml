@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="objectState_StageLighting_OnOff" s="191696">
+  <L n="_values">
+    <T>191694<!--state_StageLighting_On--></T>
+    <T>191695<!--state_StageLighting_Off--></T>
+    <T>197903<!--state_StageLighting_Default--></T>
+  </L>
+</I>

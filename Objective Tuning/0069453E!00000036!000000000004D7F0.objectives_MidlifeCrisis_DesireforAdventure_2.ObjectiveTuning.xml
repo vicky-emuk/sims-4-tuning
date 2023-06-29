@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Objective" i="objective" m="event_testing.objective_tuning" n="objectives_MidlifeCrisis_DesireforAdventure_2" s="317424">
+  <L n="completion_loot">
+    <T>314282<!--loot_MidlifeCrisis_ObjectiveComplete--></T>
+  </L>
+  <T n="display_text">0xCFE7E746<!--Explore the Outdoors --></T>
+  <L n="loot_on_completion_ui_update">
+    <T>320211<!--loot_MidlifeCrisis_AddObjective_Adventure--></T>
+  </L>
+  <V n="objective_completion_type" t="iterations">
+    <U n="iterations">
+      <T n="iterations_required_to_pass">2</T>
+    </U>
+  </V>
+  <V n="objective_test" t="ran_interaction_test">
+    <U n="ran_interaction_test">
+      <L n="affordances">
+        <T>178570<!--superInteraction_TravelThrough_JungleAdventure_NaturalPools--></T>
+        <T>75759<!--RabbitHole_Cave_BreakOpen--></T>
+        <T>75562<!--RabbitHole_Cave_Explore--></T>
+        <T>210421<!--generic_BeachCave--></T>
+        <T>209126<!--beachCave_Content_Explore--></T>
+        <T>209073<!--beachCave_Content_SearchForWildlife--></T>
+        <T>209077<!--beachCave_Content_DiscoverNaturalWonder--></T>
+        <T>209081<!--beachCave_Content_TravelCaveWaters--></T>
+        <T>249224<!--interactableCave_Explore_Side--></T>
+        <T>249223<!--interactableCave_Explore_Main--></T>
+        <T>249222<!--interactableCave_Explore_Climbers--></T>
+        <T>249226<!--interactableCave_Peak_Entrance--></T>
+        <T>249227<!--interactableCave_Peak_Shoeprints--></T>
+        <T>249225<!--interactableCave_Peak_Smell--></T>
+        <T>75370<!--RabbitHole_Tree_Explore--></T>
+        <T>114744<!--rocketShip_TravelToAlienPlanet--></T>
+        <T>103038<!--RabbitHole_Bramble_Explore--></T>
+        <T>128485<!--si_RabbitHole_OrnateGate_TravelTo_AncientRuins--></T>
+        <T>127261<!--si_RabbitHole_OrnateGate_TravelTo_ChaletGardens--></T>
+        <T>103003<!--RabbitHole_Bramble_Travel_DeepWoods--></T>
+        <T>108166<!--RabbitHole_Bramble_Travel_Forest--></T>
+        <T>105599<!--rabbitHole_Bramble_Explore_Herbicide--></T>
+        <T>178165<!--rabbitHole_BeachBoat_TravelTo_Beach--></T>
+        <T>178164<!--rabbitHole_HarborBoat_TravelTo_Harbor--></T>
+        <T>167790<!--rabbitHole_HarborBoat_TravelTo_Lighthouse--></T>
+        <T>180178<!--treasureChest_Open_Rare--></T>
+        <T>175755<!--superInteraction_TravelThrough_JungleAdventure--></T>
+      </L>
+    </U>
+  </V>
+  <T n="relative_to_unlock_moment">True</T>
+  <T n="satisfaction_points">10</T>
+  <T n="tooltip">0x8C35D5BF<!--{0.SimFirstName} wants to explore caves and other special areas around the worlds. Try walking around and exploring the various areas around a world. But be careful, it's dangerous out there!--></T>
+</I>

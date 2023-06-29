@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000034">
+  <Instances>
+    <I name="breed_WildFox" schema="Breed" type="Object">
+      <T name="breed_description">0xFE983BAD</T>
+      <T name="breed_display_name">0xB933D44A</T>
+      <T name="breed_species">5</T>
+      <T name="breed_tag">112662</T>
+      <L name="breed_traits" />
+      <L name="breed_voices" />
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="Breed" schema_hash="0x2FF8CDBB">
+      <Columns>
+        <Column name="breed_description" type="LocalizationKey" flags="0x00000000" />
+        <Column name="breed_display_name" type="LocalizationKey" flags="0x00000000" />
+        <Column name="breed_species" type="UInt32" flags="0x00000000" />
+        <Column name="breed_tag" type="Int64" flags="0x00000000" />
+        <Column name="breed_traits" type="Vector" flags="0x00000000" />
+        <Column name="breed_voices" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

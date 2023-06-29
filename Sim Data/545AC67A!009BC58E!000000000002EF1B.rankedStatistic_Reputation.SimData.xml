@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x0000001B">
+  <Instances>
+    <I name="rankedStatistic_Reputation" schema="RankedStatistic" type="Object">
+      <L name="associated_bucks_types" />
+      <U name="bar_color_override" schema="TunableColorRGBA">
+        <T name="a">255</T>
+        <T name="b">255</T>
+        <T name="g">255</T>
+        <T name="r">255</T>
+      </U>
+      <T name="center_bar_tooltip">0</T>
+      <L name="event_data">
+        <U type="Object" schema="TunableEventData">
+          <T name="key">1</T>
+          <U name="value" schema="EventDataTuple">
+            <L name="level_down_loot">
+              <T type="TableSetReference">193719</T>
+              <T type="TableSetReference">202630</T>
+            </L>
+            <L name="loot" />
+            <L name="loot_always">
+              <T type="TableSetReference">193713</T>
+            </L>
+            <L name="loot_always_on_load" />
+            <T name="rank_up">1</T>
+            <T name="tooltip">0x7AF41559</T>
+          </U>
+        </U>
+        <U type="Object" schema="TunableEventData">
+          <T name="key">2</T>
+          <U name="value" schema="EventDataTuple">
+            <L name="level_down_loot">
+              <T type="TableSetReference">193720</T>
+              <T type="TableSetReference">202674</T>
+            </L>
+            <L name="loot" />
+            <L name="loot_always">
+              <T type="TableSetReference">193714</T>
+            </L>
+            <L name="loot_always_on_load" />
+            <T name="rank_up">1</T>
+            <T name="tooltip">0xEBD18AE2</T>
+          </U>
+        </U>
+        <U type="Object" schema="TunableEventData">
+          <T name="key">3</T>
+          <U name="value" schema="EventDataTuple">
+            <L name="level_down_loot">
+              <T type="TableSetReference">193722</T>
+              <T type="TableSetReference">202675</T>
+            </L>
+            <L name="loot" />
+            <L name="loot_always">
+              <T type="TableSetReference">193715</T>
+            </L>
+            <L name="loot_always_on_load" />
+            <T name="rank_up">1</T>
+            <T name="tooltip">0x3B9982A0</T>
+          </U>
+        </U>
+        <U type="Object" schema="TunableEventData">
+          <T name="key">4</T>
+          <U name="value" schema="EventDataTuple">
+            <L name="level_down_loot">
+              <T type="TableSetReference">193723</T>
+              <T type="TableSetReference">202676</T>
+            </L>
+            <L name="loot" />
+            <L name="loot_always">
+              <T type="TableSetReference">193716</T>
+            </L>
+            <L name="loot_always_on_load" />
+            <T name="rank_up">1</T>
+            <T name="tooltip">0x95D281FB</T>
+          </U>
+        </U>
+        <U type="Object" schema="TunableEventData">
+          <T name="key">5</T>
+          <U name="value" schema="EventDataTuple">
+            <L name="level_down_loot">
+              <T type="TableSetReference">193726</T>
+              <T type="TableSetReference">202677</T>
+            </L>
+            <L name="loot">
+              <T type="TableSetReference">231313</T>
+            </L>
+            <L name="loot_always">
+              <T type="TableSetReference">193717</T>
+            </L>
+            <L name="loot_always_on_load" />
+            <T name="rank_up">1</T>
+            <T name="tooltip">0x9439112A</T>
+          </U>
+        </U>
+        <U type="Object" schema="TunableEventData">
+          <T name="key">6</T>
+          <U name="value" schema="EventDataTuple">
+            <L name="level_down_loot">
+              <T type="TableSetReference">193727</T>
+              <T type="TableSetReference">202678</T>
+            </L>
+            <L name="loot">
+              <T type="TableSetReference">231314</T>
+            </L>
+            <L name="loot_always">
+              <T type="TableSetReference">193728</T>
+            </L>
+            <L name="loot_always_on_load" />
+            <T name="rank_up">1</T>
+            <T name="tooltip">0xCC9AE2FD</T>
+          </U>
+        </U>
+        <U type="Object" schema="TunableEventData">
+          <T name="key">7</T>
+          <U name="value" schema="EventDataTuple">
+            <L name="level_down_loot" />
+            <L name="loot">
+              <T type="TableSetReference">231315</T>
+            </L>
+            <L name="loot_always">
+              <T type="TableSetReference">193718</T>
+            </L>
+            <L name="loot_always_on_load" />
+            <T name="rank_up">0</T>
+            <T name="tooltip">0xDA8B8C73</T>
+          </U>
+        </U>
+      </L>
+      <L name="event_intervals">
+        <T type="Int32">21</T>
+        <T type="Int32">80</T>
+        <T type="Int32">60</T>
+        <T type="Int32">79</T>
+        <T type="Int32">60</T>
+        <T type="Int32">80</T>
+        <T type="Int32">20</T>
+      </L>
+      <T name="icon">00000000-00000000-0000000000000000</T>
+      <T name="initial_rank">0</T>
+      <L name="rank_tuning">
+        <U type="Object" schema="TunableRankData">
+          <T name="key">0</T>
+          <U name="value" schema="RankDataTuple">
+            <T name="hide_in_ui">0</T>
+            <V name="icon" variant="0xF8CBBF4C">
+              <T type="ResourceKey">00B2D882-00000000-7E192C03A4019E7D</T>
+            </V>
+            <U name="rank_color" schema="TunableColorRGBA">
+              <T name="a">255</T>
+              <T name="b">255</T>
+              <T name="g">255</T>
+              <T name="r">255</T>
+            </U>
+            <V name="rank_description" variant="0xF8CBBF4C">
+              <T type="LocalizationKey">0x05D7A76E</T>
+            </V>
+            <T name="rank_name">0x9E334D13</T>
+            <V name="rank_short_name" variant="0xF8CBBF4C">
+              <T type="LocalizationKey">0xC221BD62</T>
+            </V>
+          </U>
+        </U>
+        <U type="Object" schema="TunableRankData">
+          <T name="key">1</T>
+          <U name="value" schema="RankDataTuple">
+            <T name="hide_in_ui">0</T>
+            <V name="icon" variant="0xF8CBBF4C">
+              <T type="ResourceKey">00B2D882-00000000-7E192C03A4019E7D</T>
+            </V>
+            <U name="rank_color" schema="TunableColorRGBA">
+              <T name="a">255</T>
+              <T name="b">255</T>
+              <T name="g">255</T>
+              <T name="r">255</T>
+            </U>
+            <V name="rank_description" variant="0xF8CBBF4C">
+              <T type="LocalizationKey">0x8CECB2AA</T>
+            </V>
+            <T name="rank_name">0xF044DC79</T>
+            <V name="rank_short_name" variant="0xF8CBBF4C">
+              <T type="LocalizationKey">0x211FE9AE</T>
+            </V>
+          </U>
+        </U>
+        <U type="Object" schema="TunableRankData">
+          <T name="key">2</T>
+          <U name="value" schema="RankDataTuple">
+            <T name="hide_in_ui">0</T>
+            <V name="icon" variant="0xF8CBBF4C">
+              <T type="ResourceKey">00B2D882-00000000-7E192C03A4019E7D</T>
+            </V>
+            <U name="rank_color" schema="TunableColorRGBA">
+              <T name="a">255</T>
+              <T name="b">255</T>
+              <T name="g">255</T>
+              <T name="r">255</T>
+            </U>
+            <V name="rank_description" variant="0xF8CBBF4C">
+              <T type="LocalizationKey">0x61216172</T>
+            </V>
+            <T name="rank_name">0xF6BF055D</T>
+            <V name="rank_short_name" variant="0xF8CBBF4C">
+              <T type="LocalizationKey">0x961ECFD6</T>
+            </V>
+          </U>
+        </U>
+        <U type="Object" schema="TunableRankData">
+          <T name="key">3</T>
+          <U name="value" schema="RankDataTuple">
+            <T name="hide_in_ui">0</T>
+            <V name="icon" variant="0xF8CBBF4C">
+              <T type="ResourceKey">00B2D882-00000000-2CDE218E89FF1611</T>
+            </V>
+            <U name="rank_color" schema="TunableColorRGBA">
+              <T name="a">255</T>
+              <T name="b">255</T>
+              <T name="g">255</T>
+              <T name="r">255</T>
+            </U>
+            <V name="rank_description" variant="0xF8CBBF4C">
+              <T type="LocalizationKey">0x385D6DA9</T>
+            </V>
+            <T name="rank_name">0xDAE0CAE5</T>
+            <V name="rank_short_name" variant="0xF8CBBF4C">
+              <T type="LocalizationKey">0x2CCD8997</T>
+            </V>
+          </U>
+        </U>
+        <U type="Object" schema="TunableRankData">
+          <T name="key">4</T>
+          <U name="value" schema="RankDataTuple">
+            <T name="hide_in_ui">0</T>
+            <V name="icon" variant="0xF8CBBF4C">
+              <T type="ResourceKey">00B2D882-00000000-2D33C52FA0B59B83</T>
+            </V>
+            <U name="rank_color" schema="TunableColorRGBA">
+              <T name="a">255</T>
+              <T name="b">255</T>
+              <T name="g">255</T>
+              <T name="r">255</T>
+            </U>
+            <V name="rank_description" variant="0xF8CBBF4C">
+              <T type="LocalizationKey">0x5F375DF0</T>
+            </V>
+            <T name="rank_name">0x55BD23C0</T>
+            <V name="rank_short_name" variant="0xF8CBBF4C">
+              <T type="LocalizationKey">0xF311FC98</T>
+            </V>
+          </U>
+        </U>
+        <U type="Object" schema="TunableRankData">
+          <T name="key">5</T>
+          <U name="value" schema="RankDataTuple">
+            <T name="hide_in_ui">0</T>
+            <V name="icon" variant="0xF8CBBF4C">
+              <T type="ResourceKey">00B2D882-00000000-2D33C52FA0B59B83</T>
+            </V>
+            <U name="rank_color" schema="TunableColorRGBA">
+              <T name="a">255</T>
+              <T name="b">255</T>
+              <T name="g">255</T>
+              <T name="r">255</T>
+            </U>
+            <V name="rank_description" variant="0xF8CBBF4C">
+              <T type="LocalizationKey">0xB694F6EC</T>
+            </V>
+            <T name="rank_name">0x84F8019B</T>
+            <V name="rank_short_name" variant="0xF8CBBF4C">
+              <T type="LocalizationKey">0xFE627D14</T>
+            </V>
+          </U>
+        </U>
+        <U type="Object" schema="TunableRankData">
+          <T name="key">6</T>
+          <U name="value" schema="RankDataTuple">
+            <T name="hide_in_ui">0</T>
+            <V name="icon" variant="0xF8CBBF4C">
+              <T type="ResourceKey">00B2D882-00000000-2D33C52FA0B59B83</T>
+            </V>
+            <U name="rank_color" schema="TunableColorRGBA">
+              <T name="a">255</T>
+              <T name="b">255</T>
+              <T name="g">255</T>
+              <T name="r">255</T>
+            </U>
+            <V name="rank_description" variant="0xF8CBBF4C">
+              <T type="LocalizationKey">0xF0F4D877</T>
+            </V>
+            <T name="rank_name">0xE4B8EC6F</T>
+            <V name="rank_short_name" variant="0xF8CBBF4C">
+              <T type="LocalizationKey">0xB9A9A2D9</T>
+            </V>
+          </U>
+        </U>
+      </L>
+      <T name="starting_rank_display_value">4</T>
+      <T name="visible">1</T>
+      <T name="zero_point">1</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="RankedStatistic" schema_hash="0x76168569">
+      <Columns>
+        <Column name="associated_bucks_types" type="Vector" flags="0x00000000" />
+        <Column name="bar_color_override" type="Object" flags="0x00000000" />
+        <Column name="center_bar_tooltip" type="Boolean" flags="0x00000000" />
+        <Column name="event_data" type="Vector" flags="0x00000000" />
+        <Column name="event_intervals" type="Vector" flags="0x00000000" />
+        <Column name="icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="initial_rank" type="Int32" flags="0x00000000" />
+        <Column name="rank_tuning" type="Vector" flags="0x00000000" />
+        <Column name="starting_rank_display_value" type="Int32" flags="0x00000000" />
+        <Column name="visible" type="Boolean" flags="0x00000000" />
+        <Column name="zero_point" type="Int32" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableColorRGBA" schema_hash="0x4A938D09">
+      <Columns>
+        <Column name="a" type="Int32" flags="0x00000000" />
+        <Column name="b" type="Int32" flags="0x00000000" />
+        <Column name="g" type="Int32" flags="0x00000000" />
+        <Column name="r" type="Int32" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableEventData" schema_hash="0xB922F2C2">
+      <Columns>
+        <Column name="key" type="Int32" flags="0x00000000" />
+        <Column name="value" type="Object" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="EventDataTuple" schema_hash="0x9F8A670B">
+      <Columns>
+        <Column name="level_down_loot" type="Vector" flags="0x00000000" />
+        <Column name="loot" type="Vector" flags="0x00000000" />
+        <Column name="loot_always" type="Vector" flags="0x00000000" />
+        <Column name="loot_always_on_load" type="Vector" flags="0x00000000" />
+        <Column name="rank_up" type="Boolean" flags="0x00000000" />
+        <Column name="tooltip" type="LocalizationKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableRankData" schema_hash="0x88D45A2C">
+      <Columns>
+        <Column name="key" type="Int32" flags="0x00000000" />
+        <Column name="value" type="Object" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="RankDataTuple" schema_hash="0x94022135">
+      <Columns>
+        <Column name="hide_in_ui" type="Boolean" flags="0x00000000" />
+        <Column name="icon" type="Variant" flags="0x00000000" />
+        <Column name="rank_color" type="Object" flags="0x00000000" />
+        <Column name="rank_description" type="Variant" flags="0x00000000" />
+        <Column name="rank_name" type="LocalizationKey" flags="0x00000000" />
+        <Column name="rank_short_name" type="Variant" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

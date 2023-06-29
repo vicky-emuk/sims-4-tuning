@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="ExcavationPile_States" s="177104">
+  <L n="_values">
+    <T>177048<!--excavationPile_DigSite--></T>
+    <T>177052<!--excavationPile_Established_Full--></T>
+    <T>177049<!--excavationPile_Established_Half--></T>
+    <T>177107<!--excavationPile_Empty--></T>
+  </L>
+  <T n="linked_stat">177105<!--statistic_ExcavationPile_Progress--></T>
+</I>

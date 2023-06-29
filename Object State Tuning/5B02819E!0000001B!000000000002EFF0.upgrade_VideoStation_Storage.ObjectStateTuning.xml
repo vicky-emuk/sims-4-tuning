@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="upgrade_VideoStation_Storage" s="192496">
+  <L n="_values">
+    <T>192485<!--upgrade_VideoStation_Storage_NotStarted--></T>
+    <T>192489<!--upgrade_VideoStation_Storage_Partial--></T>
+    <T>192493<!--upgrade_VideoStation_Storage_Completed--></T>
+  </L>
+  <T n="linked_stat">192500<!--statistic_Object_Upgrade_VideoStation_Storage--></T>
+</I>

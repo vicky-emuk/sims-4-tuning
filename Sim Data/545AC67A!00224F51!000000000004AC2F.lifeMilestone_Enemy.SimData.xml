@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000036">
+  <Instances>
+    <I name="lifeMilestone_Enemy" schema="DevelopmentalMilestone" type="Object">
+      <L name="ages">
+        <T type="Int64">4</T>
+        <T type="Int64">8</T>
+        <T type="Int64">16</T>
+        <T type="Int64">32</T>
+        <T type="Int64">64</T>
+      </L>
+      <T name="category">6</T>
+      <T name="icon">00B2D882-00000000-E8F60725ED3D69B9</T>
+      <V name="is_primary_milestone" variant="0xB602B441" schema="DevelopmentalMilestoneIsPrimaryMilestone">
+        <T name="hint_text">0xA5CF7C2F</T>
+        <V name="revealable_name" variant="0xF8CBBF4C">
+          <T type="LocalizationKey">0xD5E6C245</T>
+        </V>
+        <L name="tests">
+          <L type="Vector">
+            <V type="Variant" variant="0xCB5FDDC7" schema="TunableTraitTest">
+              <T name="apply_thresholds_on_individual_basis">1</T>
+              <L name="blacklist_trait_types" />
+              <L name="blacklist_traits">
+                <T type="TableSetReference">27915</T>
+              </L>
+              <T name="num_blacklist_allowed">0</T>
+              <T name="num_whitelist_required">1</T>
+              <T name="subject">1</T>
+              <L name="whitelist_trait_types" />
+              <L name="whitelist_traits">
+                <T type="TableSetReference">16857</T>
+              </L>
+            </V>
+            <V type="Variant" variant="0x33B08231" schema="TunableDevelopmentalMilestoneCompletionTest">
+              <U name="developmental_milestones" schema="TunableWhiteBlackList">
+                <V name="blacklist" variant="0xB9AFD0F6" schema="TunableBlacklist">
+                  <L name="blacklist">
+                    <T type="TableSetReference">306223</T>
+                  </L>
+                  <V name="threshold" variant="0x20B0733E" schema="TunableThreshold">
+                    <T name="comparison">2</T>
+                    <T name="value">1</T>
+                  </V>
+                </V>
+                <V name="whitelist" variant="0x39FD5036" />
+              </U>
+              <T name="fallback_result">0</T>
+              <T name="invert">0</T>
+              <T name="subject">1</T>
+            </V>
+          </L>
+          <L type="Vector">
+            <V type="Variant" variant="0xCB5FDDC7" schema="TunableTraitTest">
+              <T name="apply_thresholds_on_individual_basis">1</T>
+              <L name="blacklist_trait_types" />
+              <L name="blacklist_traits">
+                <T type="TableSetReference">27915</T>
+              </L>
+              <T name="num_blacklist_allowed">0</T>
+              <T name="num_whitelist_required">1</T>
+              <T name="subject">1</T>
+              <L name="whitelist_trait_types" />
+              <L name="whitelist_traits" />
+            </V>
+            <V type="Variant" variant="0xBD858EE0" schema="TunableSelectedAspirationTrackTest">
+              <T name="aspiration_track">25380</T>
+              <T name="who">1</T>
+            </V>
+            <V type="Variant" variant="0x33B08231" schema="TunableDevelopmentalMilestoneCompletionTest">
+              <U name="developmental_milestones" schema="TunableWhiteBlackList">
+                <V name="blacklist" variant="0xB9AFD0F6" schema="TunableBlacklist">
+                  <L name="blacklist">
+                    <T type="TableSetReference">306223</T>
+                  </L>
+                  <V name="threshold" variant="0x20B0733E" schema="TunableThreshold">
+                    <T name="comparison">2</T>
+                    <T name="value">1</T>
+                  </V>
+                </V>
+                <V name="whitelist" variant="0x39FD5036" />
+              </U>
+              <T name="fallback_result">0</T>
+              <T name="invert">0</T>
+              <T name="subject">1</T>
+            </V>
+          </L>
+        </L>
+      </V>
+      <T name="name">0xD180CB53</T>
+      <T name="ui_sort_order">201</T>
+      <T name="unlocked_text">0xAB44B97D</T>
+      <T name="unlocked_text_no_context">0x60F5D999</T>
+      <T name="unlocked_text_target_sim_header">0x881E311A</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="DevelopmentalMilestone" schema_hash="0x87ED1F96">
+      <Columns>
+        <Column name="ages" type="Vector" flags="0x00000000" />
+        <Column name="category" type="UInt32" flags="0x00000000" />
+        <Column name="icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="is_primary_milestone" type="Variant" flags="0x00000000" />
+        <Column name="name" type="LocalizationKey" flags="0x00000000" />
+        <Column name="ui_sort_order" type="Int32" flags="0x00000000" />
+        <Column name="unlocked_text" type="LocalizationKey" flags="0x00000000" />
+        <Column name="unlocked_text_no_context" type="LocalizationKey" flags="0x00000000" />
+        <Column name="unlocked_text_target_sim_header" type="LocalizationKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="DevelopmentalMilestoneIsPrimaryMilestone" schema_hash="0x14C33DFE">
+      <Columns>
+        <Column name="hint_text" type="LocalizationKey" flags="0x00000000" />
+        <Column name="revealable_name" type="Variant" flags="0x00000000" />
+        <Column name="tests" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableTraitTest" schema_hash="0x7D5993BF">
+      <Columns>
+        <Column name="apply_thresholds_on_individual_basis" type="Boolean" flags="0x00000000" />
+        <Column name="blacklist_trait_types" type="Vector" flags="0x00000000" />
+        <Column name="blacklist_traits" type="Vector" flags="0x00000000" />
+        <Column name="num_blacklist_allowed" type="Int32" flags="0x00000000" />
+        <Column name="num_whitelist_required" type="Int32" flags="0x00000000" />
+        <Column name="subject" type="Int64" flags="0x00000000" />
+        <Column name="whitelist_trait_types" type="Vector" flags="0x00000000" />
+        <Column name="whitelist_traits" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableDevelopmentalMilestoneCompletionTest" schema_hash="0x54AC8206">
+      <Columns>
+        <Column name="developmental_milestones" type="Object" flags="0x00000000" />
+        <Column name="fallback_result" type="Int64" flags="0x00000000" />
+        <Column name="invert" type="Boolean" flags="0x00000000" />
+        <Column name="subject" type="Int64" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableWhiteBlackList" schema_hash="0x5B1537E6">
+      <Columns>
+        <Column name="blacklist" type="Variant" flags="0x00000000" />
+        <Column name="whitelist" type="Variant" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableBlacklist" schema_hash="0x9EE34961">
+      <Columns>
+        <Column name="blacklist" type="Vector" flags="0x00000000" />
+        <Column name="threshold" type="Variant" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableThreshold" schema_hash="0x2A672DFF">
+      <Columns>
+        <Column name="comparison" type="Int64" flags="0x00000000" />
+        <Column name="value" type="Int32" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableSelectedAspirationTrackTest" schema_hash="0x26B9527C">
+      <Columns>
+        <Column name="aspiration_track" type="TableSetReference" flags="0x00000000" />
+        <Column name="who" type="Int64" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

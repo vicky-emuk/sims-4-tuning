@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="sabaccTable_CommodityState_PlayerCount" s="234166">
+  <L n="_values">
+    <T>234168<!--sabaccTable_CommodityStateValue_PlayerCount_Empty--></T>
+    <T>234170<!--sabaccTable_CommodityStateValue_PlayerCount_Growing--></T>
+    <T>234169<!--sabaccTable_CommodityStateValue_PlayerCount_Max--></T>
+  </L>
+  <T n="linked_stat">234172<!--commodity_SabaccTable_PlayerCount--></T>
+</I>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000018">
+  <Instances>
+    <I name="zoneDirectorEventListener_NeighborsReactToYou_Intrigued_Noise" schema="ZoneDirectorEventListener" type="Object">
+      <L name="objectives">
+        <T type="TableSetReference">146829</T>
+        <T type="TableSetReference">146811</T>
+        <T type="TableSetReference">146828</T>
+        <T type="TableSetReference">146867</T>
+        <T type="TableSetReference">146831</T>
+        <T type="TableSetReference">146868</T>
+        <T type="TableSetReference">147339</T>
+      </L>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="ZoneDirectorEventListener" schema_hash="0x80C54883">
+      <Columns>
+        <Column name="objectives" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

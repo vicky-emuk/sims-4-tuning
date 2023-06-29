@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ClubInteractionGroup" i="club_interaction_group" m="clubs.club_tuning" n="clubInteractionGroup_SkillBuilding_Write" s="122440">
+  <L n="affordances">
+    <T>13248<!--computer_WriteBook_Staging--></T>
+    <T>33877<!--computer_PracticeWritingSkill--></T>
+    <T>14628<!--writebook_resume--></T>
+    <T>14629<!--writebook_resume_scrap--></T>
+    <T>34208<!--computer_Picker_WriteExcuseNote--></T>
+    <T>34333<!--computer_Picker_WriteLoveEmail--></T>
+    <T>33730<!--computer_Write_WritingJournalism_ArticleNegative--></T>
+    <T>33729<!--computer_Write_WritingJournalism_ArticlePositive--></T>
+    <T>33726<!--computer_Picker_WritingJournalism_ArticleNegative--></T>
+    <T>33724<!--computer_Picker_WritingJournalism_ArticlePositive--></T>
+    <T>13233<!--computer_ResumeWriting_Picker--></T>
+    <T>34215<!--computer_WritingSkill_ExcuseNote--></T>
+    <T>34332<!--computer_WritingSkill_LoveEmail--></T>
+    <T>13239<!--computer_StartWriting--></T>
+    <T>30926<!--computer_StartWriting_Dollhouse--></T>
+    <T>136856<!--computer_WriteColumn--></T>
+    <T>136961<!--computer_WriteColumnAboutFestival--></T>
+    <T>137543<!--tablet_CriticCareer_WriteColumn--></T>
+    <T>138310<!--tablet_CriticCareer_WriteColumnAboutFestival--></T>
+    <T>143567<!--Computer_Career_Activist_WriteLetter--></T>
+    <T>24334<!--computer_BlogAboutFeelings--></T>
+    <T>160098<!--book_Journal_Write--></T>
+  </L>
+  <E n="category">HOBBIES</E>
+  <T n="category_icon" p="InGame\UI\Icons\Clubs\Rules\clubs_rules_Write.png">2f7d0004:00000000:dad4a2a455fb0a90</T>
+  <T n="club_bucks_reward">2</T>
+  <T n="is_targeted">False</T>
+  <T n="name">0xAA779629<!--Write--></T>
+  <T n="tooltip_template">0x1F090D0A<!--Write--></T>
+  <T n="tooltip_template_negative">0x747F0694<!--Don't Write--></T>
+</I>

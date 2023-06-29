@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Aspiration" i="aspiration" m="aspirations.aspiration_tuning" n="aspiration_Child_mindAndBody_A1" s="308375">
+  <T n="display_name">0xF6469026<!--Confident Kiddo--></T>
+  <T n="do_not_register_events_on_load">True</T>
+  <T n="is_child_aspiration">True</T>
+  <L n="objectives">
+    <T>308387<!--objectives_Asp_Child_multiskill_MindAndBody_A1_1--></T>
+    <T>308386<!--objectives_Asp_Child_multiskill_MindAndBody_A1_2--></T>
+  </L>
+  <L n="on_complete_loot_actions">
+    <T>328846<!--loot_Child_Confidence_Gain_VerySmall--></T>
+  </L>
+</I>

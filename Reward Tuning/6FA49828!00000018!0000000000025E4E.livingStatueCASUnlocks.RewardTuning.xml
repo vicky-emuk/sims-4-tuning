@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SimReward" i="reward" m="rewards.reward" n="livingStatueCASUnlocks" s="155214">
+  <T n="icon" p="InGame\UI\Icons\Career\Career_Astronaut.png">2f7d0004:00000000:bf7d6b4d52ab54ff</T>
+  <T n="name">0xE795892B<!--Unlocked Living Statue Outfits--></T>
+  <V n="notification" t="enabled">
+    <V n="enabled" t="literal">
+      <U n="literal">
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="InGame\UI\Icons\Career\Career_Astronaut.png">2f7d0004:00000000:bf7d6b4d52ab54ff</T>
+            </U>
+          </V>
+        </V>
+        <V n="text" t="single">
+          <T n="single">0xD8E22DF9<!--As a reward for your generous tip, you have unlocked metallic face paint, a hat, and a full body outfit for both a cowboy and an astronaut. Wearing all three pieces for either costume will give your Sim the self-interaction to Busk for Tips!--></T>
+        </V>
+        <V n="timeout_duration" t="disabled" />
+        <V n="title" t="enabled">
+          <T n="enabled">0xE795892B<!--Unlocked Living Statue Outfits--></T>
+        </V>
+      </U>
+    </V>
+  </V>
+  <V n="reward_description" t="enabled">
+    <T n="enabled">0xD8E22DF9<!--As a reward for your generous tip, you have unlocked metallic face paint, a hat, and a full body outfit for both a cowboy and an astronaut. Wearing all three pieces for either costume will give your Sim the self-interaction to Busk for Tips!--></T>
+  </V>
+  <L n="rewards">
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">125143<!--recipe_Pumpkin_Child_Orange--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">125144<!--recipe_Pumpkin_Child_PaleOrange--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">150771</T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">150772</T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">125146<!--recipe_Pumpkin_Child_White--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">125147<!--recipe_Pumpkin_Wicked_Orange--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">150775<!--videoGameConsole_Power_Broken_NotBroken--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">150774<!--videoGameConsole_Broken_State--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">125160<!--recipe_Pumpkin_Owl_PaleOrange--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">125161<!--recipe_Pumpkin_Owl_Green--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">125225<!--staticCommodity_WooHooBush--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">125226<!--mixer_social_WooHooInBush_targeted_romance_transition--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">125228<!--bush_wooHoo--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">125229</T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">150696<!--occult_Vampire_Fighting_VampireToSim_WithoutGarlic_loop--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">150695<!--Occult_Vampire_Fighting_VampireToSim_WithGarlic_Succeed--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">150692</T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="cas_part">
+        <U n="cas_part">
+          <T n="cas_part">150693</T>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000015">
+  <Instances>
+    <I name="spells_Practical_5_ConvertToWitch" schema="Spell" type="Object">
+      <L name="tags">
+        <T type="UInt32">49170</T>
+      </L>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="Spell" schema_hash="0xD7691E60">
+      <Columns>
+        <Column name="tags" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

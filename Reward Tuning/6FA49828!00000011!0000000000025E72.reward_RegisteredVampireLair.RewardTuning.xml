@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="HouseholdReward" i="reward" m="rewards.reward" n="reward_RegisteredVampireLair" s="155250">
+  <T n="deliver_with_mail">True</T>
+  <T n="icon" p="InGP04\UI\Icons\Clubs\Rules\clubs_rules_Vampire.png">2f7d0004:00000000:bfa6b19a7785731b</T>
+  <T n="name">0xB933D44A<!--Player Feats--></T>
+  <V n="notification" t="disabled" />
+  <V n="reward_description" t="enabled">
+    <T n="enabled">0xFC79F488<!--Wealth & Collecting--></T>
+  </V>
+  <L n="rewards">
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">146062<!--garlicBraid_GP04GEN_set1 (Garlic Braid)--></T>
+            </U>
+          </V>
+          <T n="weight">0.5</T>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">145730<!--drinkPouch_GP04GENPlasmaPack_set1 (Plasma Pack)--></T>
+            </U>
+          </V>
+          <T n="weight">10</T>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">145810<!--drinkPouch_GP04GENPlasmaPack_set2 (Plasma Pack)--></T>
+            </U>
+          </V>
+          <T n="weight">10</T>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">145811<!--drinkPouch_GP04GENPlasmaPack_set3 (Plasma Pack)--></T>
+            </U>
+          </V>
+          <T n="weight">10</T>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">147521<!--gardenSeedPacket_GP04GEN_plasma (Plasma Fruit Seeds)--></T>
+            </U>
+          </V>
+          <T n="weight">5</T>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">144863<!--book_GP04GENtome_set1 (Encyclopedia Vampirica Volume 1)--></T>
+            </U>
+          </V>
+          <T n="weight">3</T>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">151130<!--garlicBraidWall_GP04GENwreath_set1 (Garlic Wreath)--></T>
+            </U>
+          </V>
+          <T n="weight">0.25</T>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">148779<!--stuffedAnimal_GP04GENbat_set3 (Bearcula)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">151354<!--garlicBraidWall_GP04GENgarland_set1 (Gourmet Garlic Garland)--></T>
+            </U>
+          </V>
+          <T n="weight">0.25</T>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">147522<!--gardenSeedPacket_GP04GEN_mosquito (Sixam Mosquito Trap Seeds)--></T>
+            </U>
+          </V>
+          <T n="weight">5</T>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">147520<!--gardenSeedPacket_GP04GEN_wolfsbane--></T>
+            </U>
+          </V>
+          <T n="weight">5</T>
+        </U>
+      </L>
+    </V>
+  </L>
+</I>

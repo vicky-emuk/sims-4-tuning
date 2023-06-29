@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000002">
+  <Instances>
+    <I name="objectSet_DrinkJar" schema="SlotTypeSet" type="Object">
+      <T name="search_radius">0.5</T>
+      <L name="slot_types">
+        <T type="TableSetReference">5924802465331291118</T>
+        <T type="TableSetReference">6676094811435920592</T>
+        <T type="TableSetReference">185312009791751708</T>
+        <T type="TableSetReference">4260155251899466207</T>
+      </L>
+      <T name="user_facing">1</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="SlotTypeSet" schema_hash="0x1179F440">
+      <Columns>
+        <Column name="search_radius" type="Single" flags="0x00000000" />
+        <Column name="slot_types" type="Vector" flags="0x00000000" />
+        <Column name="user_facing" type="Boolean" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

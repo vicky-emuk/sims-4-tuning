@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="streamingDrone_Battery_State" s="194497">
+  <L n="_values">
+    <T>194504<!--streamingDrone_Battery_Dead--></T>
+    <T>194507<!--streamingDrone_Battery_Full--></T>
+    <T>194506<!--streamingDrone_Battery_High--></T>
+    <T>194505<!--streamingDrone_Battery_Low--></T>
+  </L>
+  <T n="linked_stat">194617<!--commodity_Object_StreamingDrone_Battery--></T>
+</I>

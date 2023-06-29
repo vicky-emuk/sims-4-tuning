@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="dustFriend_State_Idle_Bunny" s="254808">
+  <L n="_values">
+    <T>254817<!--dustFriend_State_Values_Idles_Bunny_Burrow--></T>
+    <T>254816<!--dustFriend_State_Values_Idles_Bunny_Jump--></T>
+    <T>254814<!--dustFriend_State_Values_Idles_Bunny_Idle--></T>
+    <T>254815<!--dustFriend_State_Values_Idles_Bunny_Dance--></T>
+    <T>254843<!--dustFriend_State_Values_Idles_Bunny_Destroy--></T>
+    <T>256892<!--dustFriend_State_Values_Idles_Bunny_Requeue--></T>
+    <T>256904<!--dustFriend_State_Values_Idles_Bunny_Destroying--></T>
+    <T>258382<!--dustFriend_State_Values_Idles_Bunny_NoAnimation--></T>
+  </L>
+</I>

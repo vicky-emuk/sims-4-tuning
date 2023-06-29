@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x0000001C">
+  <Instances>
+    <I name="casStoriesQuestion_EP07_Island_Living_Q4" schema="CasStoriesQuestion" type="Object">
+      <T name="icon">00B2D882-00000000-342452565493DCEC</T>
+      <T name="pack">0</T>
+      <L name="possible_answers">
+        <T type="TableSetReference">214686</T>
+        <T type="TableSetReference">214687</T>
+        <T type="TableSetReference">214688</T>
+      </L>
+      <T name="text">0xFF15927F</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="CasStoriesQuestion" schema_hash="0x5ACAD7C3">
+      <Columns>
+        <Column name="icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="pack" type="Int64" flags="0x00000000" />
+        <Column name="possible_answers" type="Vector" flags="0x00000000" />
+        <Column name="text" type="LocalizationKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

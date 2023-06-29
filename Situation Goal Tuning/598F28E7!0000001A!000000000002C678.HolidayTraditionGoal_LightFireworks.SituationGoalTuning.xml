@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalObjectInteraction" i="situation_goal" m="situations.situation_goal_object_interaction" n="HolidayTraditionGoal_LightFireworks" s="181880">
+  <V n="_display_data" t="enabled">
+    <U n="enabled">
+      <V n="instance_display_icon" t="enabled">
+        <T n="enabled" p="InEP05\UI\Icons\Events\HolidayTraditions\HolidayTraditions_LightFireworks.png">2f7d0004:00000000:dd275afc4d5f8691</T>
+      </V>
+      <V n="instance_display_name" t="enabled">
+        <T n="enabled">0x1D761B76<!--Fireworks--></T>
+      </V>
+      <V n="instance_display_tooltip" t="enabled">
+        <T n="enabled">0x89ECF246<!--They are booming, fiery, colorful decorations for the sky.\n\nTo participate, buy some Fireworks from the San Myshuno festival stalls and Light them.--></T>
+      </V>
+    </U>
+  </V>
+  <L n="_goal_loot_list">
+    <T>190504<!--Loot_HolidayTraditions_HolidayGoalComplete--></T>
+  </L>
+  <U n="_goal_test">
+    <L n="affordances">
+      <T>152761<!--festivalFireworks_LightFuseOnGround_Normal--></T>
+      <T>152764<!--festivalFireworks_LightFuseOnGround_QuickFuse--></T>
+      <T>152763<!--festivalFireworks_LightFuseOnGround_QuickFuseFire--></T>
+      <T>152765<!--festivalFireworks_LightFuseOnGround_IndoorExplosion--></T>
+      <T>139342<!--festivalFireworks_HandSparkler_LightSparkler--></T>
+      <T>134975<!--festivalFireworks_LightFuseOnGround--></T>
+      <T>151848<!--festivalFireworks_QuickFuseExplosion--></T>
+      <T>134977<!--festivalFireworks_ExtinguishFirework--></T>
+      <T>134976<!--festivalFireworks_WatchFireworks--></T>
+      <T>150533<!--festivalFireworks_WatchFireworks_Bystander--></T>
+      <T>152758<!--festivalFireworks_LightFuseOnGround_Dud--></T>
+      <T>139907<!--festivalFireworks_HandSparkler_PlayWithSparkler--></T>
+      <T>143238<!--festivalFireworks_HandSparkler_HoldSparkler--></T>
+    </L>
+    <V n="interaction_outcome" t="enabled">
+      <E n="enabled">SUCCESS</E>
+    </V>
+    <E n="test_event">InteractionComplete</E>
+  </U>
+  <T n="_iterations">3</T>
+  <T n="_score">40</T>
+  <T n="audio_sting_on_complete" p="InGame\Audio\Bumper\bumper_event_goal_complete.propx">39b2aa4a:00000000:ed52c39bcc2a7111</T>
+  <E n="display_type">COMPLETION_ONLY</E>
+  <V n="score_on_iteration_complete" t="enabled">
+    <T n="enabled">30</T>
+  </V>
+</I>

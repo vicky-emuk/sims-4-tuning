@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ClubInteractionGroup" i="club_interaction_group" m="clubs.club_tuning" n="clubInteractionGroup_SkillBuilding_Fish" s="122444">
+  <L n="affordances">
+    <T>97299<!--fishingLocation_GoFishing_Spot_Child--></T>
+    <T>75490<!--fishingLocation_GoFishing_Spot--></T>
+    <T>97277<!--fishingLocation_GoFishing_Hole_Child--></T>
+    <T>74346<!--fishingLocation_GoFishing_Hole--></T>
+    <T>209269<!--fishing_ExamineWater--></T>
+    <T>97418<!--fishingLocation_GoFishingAggregate--></T>
+    <T>206090<!--oceanDiving_Freediving_SpearFish--></T>
+    <T>211301<!--fishTrap_SetWithBait--></T>
+    <T>207374<!--oceanDiving_ClothesSpin_ScubaDiving_Spearfish--></T>
+    <T>211300<!--fishTrap_Set--></T>
+    <T>208735<!--fishingLocation_GoFishing_Hole_AngleForBigCatch--></T>
+    <T>208736<!--fishingLocation_GoFishing_Spot_AngleForBigCatch--></T>
+    <T>214270<!--fishingLocation_GoFishing_Spot_AngleForBigCatch_Bay--></T>
+    <T>213519<!--fishingLocation_GoFishing_Spot_AngleForBigCatch_Ocean--></T>
+    <T>214269<!--fishingLocation_GoFishing_Spot_Child_Bay--></T>
+    <T>213460<!--fishingLocation_GoFishing_Spot_Child_Ocean--></T>
+    <T>214268<!--fishingLocation_GoFishing_Spot_Bay--></T>
+    <T>213462<!--fishingLocation_GoFishing_Spot_Ocean--></T>
+    <T>209680<!--fishingLocationGoFishing_IslandCanoe--></T>
+    <T>209682<!--fishingLocationGoFishing_IslandCanoe_AngleForBigCatch--></T>
+    <T>211303<!--fishTrap_EmptyTrap--></T>
+    <T>261806<!--super_Ponds_Fishing_GoFishing--></T>
+    <T>98638<!--mixer_social_DiscussLocalFishingSpots_targeted_friendly_alwaysOn_neighbor--></T>
+    <T>76163<!--mixer_social_ShareFishingTips_targeted_Friendly_alwaysOn_skills--></T>
+    <T>261808<!--super_Ponds_Fishing_GoFishing_AngleForBigCatch--></T>
+    <T>261807<!--super_Ponds_Fishing_GoFishing_Child--></T>
+  </L>
+  <E n="category">OUTDOOR</E>
+  <T n="category_icon" p="InGame\UI\Icons\Clubs\Rules\clubs_rules_Fish.png">2f7d0004:00000000:4300eafd25ef4fd5</T>
+  <T n="club_bucks_reward">2</T>
+  <T n="is_targeted">False</T>
+  <T n="name">0xF33F6D7E<!--Fish--></T>
+  <T n="tooltip_template">0x91716595<!--Fish--></T>
+  <T n="tooltip_template_negative">0x86708265<!--Don't Fish--></T>
+</I>

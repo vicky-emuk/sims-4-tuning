@@ -1,0 +1,1741 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Skill" i="statistic" m="statistics.skill" n="statistic_Skill_AdultMajor_RockClimbing" s="245639">
+  <L n="ages">
+    <E>ADULT</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+    <E>TEEN</E>
+  </L>
+  <T n="icon" p="InEP10\UI\Icons\Skills\Skill_rockClimbing.png">2f7d0004:00000000:ce2cbfcd45d84279</T>
+  <T n="initial_value">100</T>
+  <L n="level_data">
+    <U>
+      <T n="key">1</T>
+      <U n="value">
+        <U n="level_up_notification">
+          <E n="expand_behavior">FORCE_EXPAND</E>
+          <V n="text" t="single">
+            <T n="single">0xB31A2C4F<!--Rock walls are no longer obstacles, rather fun challenges to be conquered. {0.SimFirstName}’s new skill in Rock Climbing allows {M0.him}{F0.her} to climb up and down small climbing walls, as well as Equip and Remove Climbing Gear.--></T>
+          </V>
+          <V n="title" t="enabled">
+            <T n="enabled">0x58127C6D<!--Acquired the Rock Climbing Skill--></T>
+          </V>
+        </U>
+        <V n="level_up_screen_slam" t="enabled">
+          <V n="enabled" t="reference">
+            <T n="reference">252114<!--screenSlam_RockClimbing_Skill_LevelUp--></T>
+          </V>
+        </V>
+        <L n="loot">
+          <T>224724<!--loot_HumanoidRobots_GainEnhancementProgress_Level1--></T>
+        </L>
+      </U>
+    </U>
+    <U>
+      <T n="key">2</T>
+      <U n="value">
+        <U n="level_up_notification">
+          <V n="audio_sting" t="enabled">
+            <U n="enabled">
+              <T n="audio" p="InGame\Audio\Stings\sting_skill_progress.propx">39b2aa4a:00000000:54381264540dd53c</T>
+            </U>
+          </V>
+          <V n="text" t="single">
+            <T n="single">0xC7A4A975<!--{0.SimFirstName} is now skilled enough to climb the small Climbing Wall Courageously, as well as build skill by climbing up and down and trying a Breaking Point Climbing Session. {M0.He}{F0.She} has also unlocked new Snow Goggles to wear.--></T>
+          </V>
+          <V n="title" t="enabled">
+            <T n="enabled">0xC7847F7<!--Reached Rock Climbing Level 2--></T>
+          </V>
+        </U>
+        <V n="level_up_screen_slam" t="enabled">
+          <V n="enabled" t="reference">
+            <T n="reference">252114<!--screenSlam_RockClimbing_Skill_LevelUp--></T>
+          </V>
+        </V>
+        <L n="loot">
+          <T>182401<!--loot_SurpriseHoliday_SkillDay_SkillIUpCheck--></T>
+          <T>224725<!--loot_HumanoidRobots_GainEnhancementProgress_Level2--></T>
+          <T>307087<!--loot_Child_Confidence_Gain_Small--></T>
+        </L>
+        <L n="rewards">
+          <V t="cas_part">
+            <U n="cas_part">
+              <T n="cas_part">256424<!--recipe_Food_Homestyle_Pies_Chocolate_Single--></T>
+            </U>
+          </V>
+          <V t="cas_part">
+            <U n="cas_part">
+              <T n="cas_part">256425<!--recipe_Food_Homestyle_Pies_Chocolate_Large--></T>
+            </U>
+          </V>
+          <V t="cas_part">
+            <U n="cas_part">
+              <T n="cas_part">256426<!--recipe_Food_Homestyle_Pies_Meat_Single--></T>
+            </U>
+          </V>
+          <V t="cas_part">
+            <U n="cas_part">
+              <T n="cas_part">256427<!--recipe_Food_Homestyle_Pies_Meat_Large--></T>
+            </U>
+          </V>
+          <V t="cas_part">
+            <U n="cas_part">
+              <T n="cas_part">256428<!--recipe_Food_Homestyle_Pies_Pumpkin_Single--></T>
+            </U>
+          </V>
+          <V t="cas_part">
+            <U n="cas_part">
+              <T n="cas_part">256429<!--recipe_Food_Homestyle_Pies_Pumpkin_Large--></T>
+            </U>
+          </V>
+          <V t="cas_part">
+            <U n="cas_part">
+              <T n="cas_part">256433</T>
+            </U>
+          </V>
+          <V t="cas_part">
+            <U n="cas_part">
+              <T n="cas_part">256430<!--recipe_Food_Homestyle_Pies_Raspberry_Single--></T>
+            </U>
+          </V>
+          <V t="cas_part">
+            <U n="cas_part">
+              <T n="cas_part">256431<!--recipe_Food_Homestyle_Pies_Raspberry_Large--></T>
+            </U>
+          </V>
+          <V t="cas_part">
+            <U n="cas_part">
+              <T n="cas_part">256432</T>
+            </U>
+          </V>
+        </L>
+        <L n="target_super_affordances">
+          <U>
+            <T n="affordance">245374<!--climbingRoute_Novice_MeticulousSession--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Small</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245275<!--climbingRoute_Novice_HitBreakingPoint--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Small</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245299<!--climbingRoute_Novice_ClimbCourageously--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Small</E>
+                </L>
+              </U>
+            </V>
+          </U>
+        </L>
+      </U>
+    </U>
+    <U>
+      <T n="key">3</T>
+      <U n="value">
+        <U n="level_up_notification">
+          <V n="audio_sting" t="enabled">
+            <U n="enabled">
+              <T n="audio" p="InGame\Audio\Stings\sting_skill_progress.propx">39b2aa4a:00000000:54381264540dd53c</T>
+            </U>
+          </V>
+          <V n="text" t="single">
+            <T n="single">0x9AFDB0FC<!--{0.SimFirstName} can now do Pre-Climb Stretching in addition to Attempting Climb on medium height Climbing Routes.--></T>
+          </V>
+          <V n="title" t="enabled">
+            <T n="enabled">0xDCB7435A<!--Reached Rock Climbing Level 3--></T>
+          </V>
+        </U>
+        <V n="level_up_screen_slam" t="enabled">
+          <V n="enabled" t="reference">
+            <T n="reference">252114<!--screenSlam_RockClimbing_Skill_LevelUp--></T>
+          </V>
+        </V>
+        <L n="loot">
+          <T>182401<!--loot_SurpriseHoliday_SkillDay_SkillIUpCheck--></T>
+          <T>224726<!--loot_HumanoidRobots_GainEnhancementProgress_Level3--></T>
+          <T>307087<!--loot_Child_Confidence_Gain_Small--></T>
+        </L>
+        <L n="super_affordances">
+          <T>245987<!--skill_RockClimbing_DoPreClimbStretching--></T>
+        </L>
+        <L n="target_super_affordances">
+          <U>
+            <T n="affordance">245967<!--computer_RockClimbing_ResearchHandholdTechniques--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_Computer</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245374<!--climbingRoute_Novice_MeticulousSession--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Small</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245275<!--climbingRoute_Novice_HitBreakingPoint--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Small</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245299<!--climbingRoute_Novice_ClimbCourageously--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Small</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">246142<!--climbingRoute_ClimbDown_Medium--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245290<!--climbingRoute_Average_ClimbAttempt--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+        </L>
+      </U>
+    </U>
+    <U>
+      <T n="key">4</T>
+      <U n="value">
+        <L n="actor_mixers">
+          <U>
+            <T n="key">13998<!--sim_Chat--></T>
+            <L n="value">
+              <T>246323<!--socials_Friendly_Skill_RockClimbing_ChatAboutFavoriteHolds--></T>
+            </L>
+          </U>
+        </L>
+        <U n="level_up_notification">
+          <V n="audio_sting" t="enabled">
+            <U n="enabled">
+              <T n="audio" p="InGame\Audio\Stings\sting_skill_progress.propx">39b2aa4a:00000000:54381264540dd53c</T>
+            </U>
+          </V>
+          <V n="text" t="single">
+            <T n="single">0x2AA352C1<!--{0.SimFirstName} can Chalk Hands to improve their chance of success, as well as more ways to climb the medium height Climbing Routes.--></T>
+          </V>
+          <V n="title" t="enabled">
+            <T n="enabled">0xAD318BB3<!--Reached Rock Climbing Level 4--></T>
+          </V>
+        </U>
+        <V n="level_up_screen_slam" t="enabled">
+          <V n="enabled" t="reference">
+            <T n="reference">252114<!--screenSlam_RockClimbing_Skill_LevelUp--></T>
+          </V>
+        </V>
+        <L n="loot">
+          <T>182401<!--loot_SurpriseHoliday_SkillDay_SkillIUpCheck--></T>
+          <T>224727<!--loot_HumanoidRobots_GainEnhancementProgress_Level4--></T>
+          <T>307087<!--loot_Child_Confidence_Gain_Small--></T>
+        </L>
+        <L n="super_affordances">
+          <T>245987<!--skill_RockClimbing_DoPreClimbStretching--></T>
+          <T>245971<!--skill_RockClimbing_ChalkHands--></T>
+        </L>
+        <L n="target_super_affordances">
+          <U>
+            <T n="affordance">245967<!--computer_RockClimbing_ResearchHandholdTechniques--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_Computer</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245374<!--climbingRoute_Novice_MeticulousSession--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Small</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245275<!--climbingRoute_Novice_HitBreakingPoint--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Small</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245299<!--climbingRoute_Novice_ClimbCourageously--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Small</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">246142<!--climbingRoute_ClimbDown_Medium--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245290<!--climbingRoute_Average_ClimbAttempt--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245273<!--climbingRoute_Average_ClimbCautiously--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245288<!--climbingRoute_Average_ClimbNormally--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245428<!--climbingRoute_Average_MeticulousSession--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245427<!--climbingRoute_Average_Practice--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+        </L>
+      </U>
+    </U>
+    <U>
+      <T n="key">5</T>
+      <U n="value">
+        <L n="actor_mixers">
+          <U>
+            <T n="key">13998<!--sim_Chat--></T>
+            <L n="value">
+              <T>246323<!--socials_Friendly_Skill_RockClimbing_ChatAboutFavoriteHolds--></T>
+            </L>
+          </U>
+        </L>
+        <U n="level_up_notification">
+          <V n="audio_sting" t="enabled">
+            <U n="enabled">
+              <T n="audio" p="InGame\Audio\Stings\sting_skill_progress.propx">39b2aa4a:00000000:54381264540dd53c</T>
+            </U>
+          </V>
+          <V n="text" t="single">
+            <T n="single">0x2B20BB2B<!--{0.SimFirstName} has unlocked the Climbing Suit to wear, as well as the ability to try a Breaking Point Climbing Session on the medium height Climbing Routes.--></T>
+          </V>
+          <V n="title" t="enabled">
+            <T n="enabled">0xA35E3719<!--Reached Rock Climbing Level 5--></T>
+          </V>
+        </U>
+        <V n="level_up_screen_slam" t="enabled">
+          <V n="enabled" t="reference">
+            <T n="reference">252114<!--screenSlam_RockClimbing_Skill_LevelUp--></T>
+          </V>
+        </V>
+        <L n="loot">
+          <T>182401<!--loot_SurpriseHoliday_SkillDay_SkillIUpCheck--></T>
+          <T>224728<!--loot_HumanoidRobots_GainEnhancementProgress_Level5--></T>
+          <T>307087<!--loot_Child_Confidence_Gain_Small--></T>
+        </L>
+        <L n="rewards">
+          <V t="cas_part">
+            <U n="cas_part">
+              <T n="cas_part">254770</T>
+            </U>
+          </V>
+          <V t="cas_part">
+            <U n="cas_part">
+              <T n="cas_part">254771</T>
+            </U>
+          </V>
+          <V t="cas_part">
+            <U n="cas_part">
+              <T n="cas_part">254772<!--specters_Values_Yellow--></T>
+            </U>
+          </V>
+          <V t="cas_part">
+            <U n="cas_part">
+              <T n="cas_part">254773<!--specters_Values_NotYellow--></T>
+            </U>
+          </V>
+          <V t="cas_part">
+            <U n="cas_part">
+              <T n="cas_part">254778</T>
+            </U>
+          </V>
+          <V t="cas_part">
+            <U n="cas_part">
+              <T n="cas_part">254774<!--specters_States_Yellow--></T>
+            </U>
+          </V>
+          <V t="cas_part">
+            <U n="cas_part">
+              <T n="cas_part">254775<!--hauntedHouse_Specters_Yellow--></T>
+            </U>
+          </V>
+          <V t="cas_part">
+            <U n="cas_part">
+              <T n="cas_part">254776</T>
+            </U>
+          </V>
+          <V t="cas_part">
+            <U n="cas_part">
+              <T n="cas_part">254777<!--randomWeightedLoot_HauntedHouse_YellowSpecter--></T>
+            </U>
+          </V>
+        </L>
+        <L n="super_affordances">
+          <T>245987<!--skill_RockClimbing_DoPreClimbStretching--></T>
+          <T>245971<!--skill_RockClimbing_ChalkHands--></T>
+        </L>
+        <L n="target_super_affordances">
+          <U>
+            <T n="affordance">245967<!--computer_RockClimbing_ResearchHandholdTechniques--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_Computer</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245374<!--climbingRoute_Novice_MeticulousSession--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Small</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245275<!--climbingRoute_Novice_HitBreakingPoint--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Small</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245299<!--climbingRoute_Novice_ClimbCourageously--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Small</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">246142<!--climbingRoute_ClimbDown_Medium--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245290<!--climbingRoute_Average_ClimbAttempt--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245273<!--climbingRoute_Average_ClimbCautiously--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245288<!--climbingRoute_Average_ClimbNormally--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245428<!--climbingRoute_Average_MeticulousSession--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245427<!--climbingRoute_Average_Practice--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245289<!--climbingRoute_Average_ClimbCourageously--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245425<!--climbingRoute_Average_HitBreakingPoint--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+        </L>
+      </U>
+    </U>
+    <U>
+      <T n="key">6</T>
+      <U n="value">
+        <L n="actor_mixers">
+          <U>
+            <T n="key">13998<!--sim_Chat--></T>
+            <L n="value">
+              <T>246323<!--socials_Friendly_Skill_RockClimbing_ChatAboutFavoriteHolds--></T>
+              <T>246381<!--socials_Friendly_Skill_RockClimbing_AskAboutBetaOfRoute--></T>
+            </L>
+          </U>
+        </L>
+        <U n="level_up_notification">
+          <V n="audio_sting" t="enabled">
+            <U n="enabled">
+              <T n="audio" p="InGame\Audio\Stings\sting_skill_progress.propx">39b2aa4a:00000000:54381264540dd53c</T>
+            </U>
+          </V>
+          <V n="text" t="single">
+            <T n="single">0x85D48B41<!--{0.SimFirstName} can now push themselves by attempting a climb on the tallest Climbing Route, as well as chat to other Sims about the Beta of a Route.--></T>
+          </V>
+          <V n="title" t="enabled">
+            <T n="enabled">0xFA4EB833<!--Reached Rock Climbing Level 6--></T>
+          </V>
+        </U>
+        <V n="level_up_screen_slam" t="enabled">
+          <V n="enabled" t="reference">
+            <T n="reference">252114<!--screenSlam_RockClimbing_Skill_LevelUp--></T>
+          </V>
+        </V>
+        <L n="loot">
+          <T>224729<!--loot_HumanoidRobots_GainEnhancementProgress_Level6--></T>
+          <T>284486<!--loot_SkillIUpCheck_NonHoliday--></T>
+          <T>307087<!--loot_Child_Confidence_Gain_Small--></T>
+        </L>
+        <L n="super_affordances">
+          <T>245987<!--skill_RockClimbing_DoPreClimbStretching--></T>
+          <T>245971<!--skill_RockClimbing_ChalkHands--></T>
+        </L>
+        <L n="target_super_affordances">
+          <U>
+            <T n="affordance">245967<!--computer_RockClimbing_ResearchHandholdTechniques--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_Computer</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245374<!--climbingRoute_Novice_MeticulousSession--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Small</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245275<!--climbingRoute_Novice_HitBreakingPoint--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Small</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245299<!--climbingRoute_Novice_ClimbCourageously--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Small</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">246142<!--climbingRoute_ClimbDown_Medium--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245290<!--climbingRoute_Average_ClimbAttempt--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245273<!--climbingRoute_Average_ClimbCautiously--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245288<!--climbingRoute_Average_ClimbNormally--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245428<!--climbingRoute_Average_MeticulousSession--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245427<!--climbingRoute_Average_Practice--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245289<!--climbingRoute_Average_ClimbCourageously--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245425<!--climbingRoute_Average_HitBreakingPoint--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">246116<!--climbingRoute_ClimbDown_Large--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Large</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245294<!--climbingRoute_Master_ClimbAttempt--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Large</E>
+                </L>
+              </U>
+            </V>
+          </U>
+        </L>
+      </U>
+    </U>
+    <U>
+      <T n="key">7</T>
+      <U n="value">
+        <L n="actor_mixers">
+          <U>
+            <T n="key">13998<!--sim_Chat--></T>
+            <L n="value">
+              <T>246323<!--socials_Friendly_Skill_RockClimbing_ChatAboutFavoriteHolds--></T>
+              <T>246381<!--socials_Friendly_Skill_RockClimbing_AskAboutBetaOfRoute--></T>
+            </L>
+          </U>
+        </L>
+        <U n="level_up_notification">
+          <V n="audio_sting" t="enabled">
+            <U n="enabled">
+              <T n="audio" p="InGame\Audio\Stings\sting_skill_progress.propx">39b2aa4a:00000000:54381264540dd53c</T>
+            </U>
+          </V>
+          <V n="text" t="single">
+            <T n="single">0x7DD2B547<!--{0.SimFirstName} can self-craft Energy Bars to help them on long Mountain Excursions as well as Climb Cautiously on the tallest Climbing Route.--></T>
+          </V>
+          <V n="title" t="enabled">
+            <T n="enabled">0x5354DCC5<!--Reached Rock Climbing Level 7--></T>
+          </V>
+        </U>
+        <V n="level_up_screen_slam" t="enabled">
+          <V n="enabled" t="reference">
+            <T n="reference">252114<!--screenSlam_RockClimbing_Skill_LevelUp--></T>
+          </V>
+        </V>
+        <L n="loot">
+          <T>224730<!--loot_HumanoidRobots_GainEnhancementProgress_Level7--></T>
+          <T>284486<!--loot_SkillIUpCheck_NonHoliday--></T>
+          <T>307087<!--loot_Child_Confidence_Gain_Small--></T>
+        </L>
+        <L n="super_affordances">
+          <T>245987<!--skill_RockClimbing_DoPreClimbStretching--></T>
+          <T>245971<!--skill_RockClimbing_ChalkHands--></T>
+          <T>246308<!--skill_RockClimbing_CreateBar_Energy--></T>
+        </L>
+        <L n="target_super_affordances">
+          <U>
+            <T n="affordance">245967<!--computer_RockClimbing_ResearchHandholdTechniques--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_Computer</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">246333<!--socialSI_Skill_RockClimbing_ShowOffCalluses_Start--></T>
+          </U>
+          <U>
+            <T n="affordance">245374<!--climbingRoute_Novice_MeticulousSession--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Small</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245275<!--climbingRoute_Novice_HitBreakingPoint--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Small</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245299<!--climbingRoute_Novice_ClimbCourageously--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Small</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">246142<!--climbingRoute_ClimbDown_Medium--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245290<!--climbingRoute_Average_ClimbAttempt--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245273<!--climbingRoute_Average_ClimbCautiously--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245288<!--climbingRoute_Average_ClimbNormally--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245428<!--climbingRoute_Average_MeticulousSession--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245427<!--climbingRoute_Average_Practice--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245289<!--climbingRoute_Average_ClimbCourageously--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245425<!--climbingRoute_Average_HitBreakingPoint--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">246116<!--climbingRoute_ClimbDown_Large--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Large</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245294<!--climbingRoute_Master_ClimbAttempt--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Large</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245291<!--climbingRoute_Master_ClimbCautiously--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Large</E>
+                </L>
+              </U>
+            </V>
+          </U>
+        </L>
+      </U>
+    </U>
+    <U>
+      <T n="key">8</T>
+      <U n="value">
+        <L n="actor_mixers">
+          <U>
+            <T n="key">13998<!--sim_Chat--></T>
+            <L n="value">
+              <T>246323<!--socials_Friendly_Skill_RockClimbing_ChatAboutFavoriteHolds--></T>
+              <T>246381<!--socials_Friendly_Skill_RockClimbing_AskAboutBetaOfRoute--></T>
+            </L>
+          </U>
+        </L>
+        <U n="level_up_notification">
+          <V n="audio_sting" t="enabled">
+            <U n="enabled">
+              <T n="audio" p="InGame\Audio\Stings\sting_skill_progress.propx">39b2aa4a:00000000:54381264540dd53c</T>
+            </U>
+          </V>
+          <V n="text" t="single">
+            <T n="single">0xB19B20A<!--More tall Climbing Route actions like Practice are now available to {0.SimFirstName}.--></T>
+          </V>
+          <V n="title" t="enabled">
+            <T n="enabled">0xE638A44<!--Reached Rock Climbing Level 8--></T>
+          </V>
+        </U>
+        <V n="level_up_screen_slam" t="enabled">
+          <V n="enabled" t="reference">
+            <T n="reference">252114<!--screenSlam_RockClimbing_Skill_LevelUp--></T>
+          </V>
+        </V>
+        <L n="loot">
+          <T>224731<!--loot_HumanoidRobots_GainEnhancementProgress_Level8--></T>
+          <T>284486<!--loot_SkillIUpCheck_NonHoliday--></T>
+          <T>307087<!--loot_Child_Confidence_Gain_Small--></T>
+        </L>
+        <L n="super_affordances">
+          <T>245987<!--skill_RockClimbing_DoPreClimbStretching--></T>
+          <T>245971<!--skill_RockClimbing_ChalkHands--></T>
+          <T>246308<!--skill_RockClimbing_CreateBar_Energy--></T>
+        </L>
+        <L n="target_super_affordances">
+          <U>
+            <T n="affordance">245967<!--computer_RockClimbing_ResearchHandholdTechniques--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_Computer</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">246333<!--socialSI_Skill_RockClimbing_ShowOffCalluses_Start--></T>
+          </U>
+          <U>
+            <T n="affordance">245374<!--climbingRoute_Novice_MeticulousSession--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Small</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245275<!--climbingRoute_Novice_HitBreakingPoint--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Small</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245299<!--climbingRoute_Novice_ClimbCourageously--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Small</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">246142<!--climbingRoute_ClimbDown_Medium--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245290<!--climbingRoute_Average_ClimbAttempt--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245273<!--climbingRoute_Average_ClimbCautiously--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245288<!--climbingRoute_Average_ClimbNormally--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245428<!--climbingRoute_Average_MeticulousSession--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245427<!--climbingRoute_Average_Practice--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245289<!--climbingRoute_Average_ClimbCourageously--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245425<!--climbingRoute_Average_HitBreakingPoint--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">246116<!--climbingRoute_ClimbDown_Large--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Large</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245294<!--climbingRoute_Master_ClimbAttempt--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Large</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245291<!--climbingRoute_Master_ClimbCautiously--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Large</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245293<!--climbingRoute_Master_ClimbNormally--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Large</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245430<!--climbingRoute_Master_MeticulousSession--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Large</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245431<!--climbingRoute_Master_Practice--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Large</E>
+                </L>
+              </U>
+            </V>
+          </U>
+        </L>
+      </U>
+    </U>
+    <U>
+      <T n="key">9</T>
+      <U n="value">
+        <L n="actor_mixers">
+          <U>
+            <T n="key">13998<!--sim_Chat--></T>
+            <L n="value">
+              <T>246323<!--socials_Friendly_Skill_RockClimbing_ChatAboutFavoriteHolds--></T>
+              <T>246381<!--socials_Friendly_Skill_RockClimbing_AskAboutBetaOfRoute--></T>
+              <T>246471<!--socials_Friendly_Skill_RockClimbing_BragAboutHighAltitudeViews--></T>
+            </L>
+          </U>
+        </L>
+        <U n="level_up_notification">
+          <V n="audio_sting" t="enabled">
+            <U n="enabled">
+              <T n="audio" p="InGame\Audio\Stings\sting_skill_progress.propx">39b2aa4a:00000000:54381264540dd53c</T>
+            </U>
+          </V>
+          <V n="text" t="single">
+            <T n="single">0xD632F50B<!--{0.SimFirstName} is now able to tackle the most technical climbs by Climbing Courageously on the tallest Climbing Route as well as self-crafting useful Protein Bars.--></T>
+          </V>
+          <V n="title" t="enabled">
+            <T n="enabled">0xA4F90079<!--Reached Rock Climbing Level 9--></T>
+          </V>
+        </U>
+        <V n="level_up_screen_slam" t="enabled">
+          <V n="enabled" t="reference">
+            <T n="reference">252114<!--screenSlam_RockClimbing_Skill_LevelUp--></T>
+          </V>
+        </V>
+        <L n="loot">
+          <T>224732<!--loot_HumanoidRobots_GainEnhancementProgress_Level9--></T>
+          <T>284486<!--loot_SkillIUpCheck_NonHoliday--></T>
+          <T>307087<!--loot_Child_Confidence_Gain_Small--></T>
+        </L>
+        <L n="super_affordances">
+          <T>245987<!--skill_RockClimbing_DoPreClimbStretching--></T>
+          <T>245971<!--skill_RockClimbing_ChalkHands--></T>
+          <T>246308<!--skill_RockClimbing_CreateBar_Energy--></T>
+          <T>246309<!--skill_RockClimbing_CreateBar_Protein--></T>
+        </L>
+        <L n="target_super_affordances">
+          <U>
+            <T n="affordance">245967<!--computer_RockClimbing_ResearchHandholdTechniques--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_Computer</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">246333<!--socialSI_Skill_RockClimbing_ShowOffCalluses_Start--></T>
+          </U>
+          <U>
+            <T n="affordance">245374<!--climbingRoute_Novice_MeticulousSession--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Small</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245275<!--climbingRoute_Novice_HitBreakingPoint--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Small</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245299<!--climbingRoute_Novice_ClimbCourageously--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Small</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">246142<!--climbingRoute_ClimbDown_Medium--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245290<!--climbingRoute_Average_ClimbAttempt--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245273<!--climbingRoute_Average_ClimbCautiously--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245288<!--climbingRoute_Average_ClimbNormally--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245428<!--climbingRoute_Average_MeticulousSession--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245427<!--climbingRoute_Average_Practice--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245289<!--climbingRoute_Average_ClimbCourageously--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245425<!--climbingRoute_Average_HitBreakingPoint--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">246116<!--climbingRoute_ClimbDown_Large--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Large</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245294<!--climbingRoute_Master_ClimbAttempt--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Large</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245291<!--climbingRoute_Master_ClimbCautiously--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Large</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245293<!--climbingRoute_Master_ClimbNormally--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Large</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245430<!--climbingRoute_Master_MeticulousSession--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Large</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245431<!--climbingRoute_Master_Practice--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Large</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245292<!--climbingRoute_Master_ClimbCourageously--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Large</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245429<!--climbingRoute_Master_HitBreakingPoint--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Large</E>
+                </L>
+              </U>
+            </V>
+          </U>
+        </L>
+      </U>
+    </U>
+    <U>
+      <T n="key">10</T>
+      <U n="value">
+        <L n="actor_mixers">
+          <U>
+            <T n="key">13998<!--sim_Chat--></T>
+            <L n="value">
+              <T>246323<!--socials_Friendly_Skill_RockClimbing_ChatAboutFavoriteHolds--></T>
+              <T>246381<!--socials_Friendly_Skill_RockClimbing_AskAboutBetaOfRoute--></T>
+              <T>246471<!--socials_Friendly_Skill_RockClimbing_BragAboutHighAltitudeViews--></T>
+              <T>246368<!--socials_Friendly_Skill_RockClimbing_OfferTips_HH--></T>
+              <T>246367<!--socials_Friendly_Skill_RockClimbing_OfferTips_NPC--></T>
+              <T>246473<!--socials_Friendly_Skill_RockClimbing_Coach--></T>
+            </L>
+          </U>
+        </L>
+        <U n="level_up_notification">
+          <V n="audio_sting" t="enabled">
+            <U n="enabled">
+              <T n="audio" p="InGame\Audio\Stings\sting_skill_progress.propx">39b2aa4a:00000000:54381264540dd53c</T>
+            </U>
+          </V>
+          <V n="text" t="single">
+            <T n="single">0xD6DF81E<!--{0.SimFirstName} has reached the pinnacle of Rock Climbing and can Coach Rock Climbing to other Sims and offer Tips.--></T>
+          </V>
+          <V n="title" t="enabled">
+            <T n="enabled">0x5AF675F8<!--Reached Rock Climbing Level 10--></T>
+          </V>
+        </U>
+        <V n="level_up_screen_slam" t="enabled">
+          <V n="enabled" t="reference">
+            <T n="reference">252309<!--screenSlam_RockClimbing_Skill_MaxLevel--></T>
+          </V>
+        </V>
+        <L n="loot">
+          <T>224733<!--loot_HumanoidRobots_GainEnhancementProgress_Level10--></T>
+          <T>284486<!--loot_SkillIUpCheck_NonHoliday--></T>
+          <T>294361<!--loot_Trait_Overachiever_MaxedSkill--></T>
+          <T>306801<!--loot_Child_Confidence_Gain_Medium--></T>
+          <T>334198<!--loot_MidlifeCrisis_MaxASkill--></T>
+          <T>311355<!--loot_SelfDiscovery_Progress_Skill_Min_Large--></T>
+        </L>
+        <L n="super_affordances">
+          <T>245987<!--skill_RockClimbing_DoPreClimbStretching--></T>
+          <T>245971<!--skill_RockClimbing_ChalkHands--></T>
+          <T>246308<!--skill_RockClimbing_CreateBar_Energy--></T>
+          <T>246309<!--skill_RockClimbing_CreateBar_Protein--></T>
+        </L>
+        <L n="target_super_affordances">
+          <U>
+            <T n="affordance">245967<!--computer_RockClimbing_ResearchHandholdTechniques--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_Computer</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">246333<!--socialSI_Skill_RockClimbing_ShowOffCalluses_Start--></T>
+          </U>
+          <U>
+            <T n="affordance">245374<!--climbingRoute_Novice_MeticulousSession--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Small</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245275<!--climbingRoute_Novice_HitBreakingPoint--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Small</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245299<!--climbingRoute_Novice_ClimbCourageously--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Small</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">246142<!--climbingRoute_ClimbDown_Medium--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245290<!--climbingRoute_Average_ClimbAttempt--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245273<!--climbingRoute_Average_ClimbCautiously--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245288<!--climbingRoute_Average_ClimbNormally--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245428<!--climbingRoute_Average_MeticulousSession--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245427<!--climbingRoute_Average_Practice--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245289<!--climbingRoute_Average_ClimbCourageously--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245425<!--climbingRoute_Average_HitBreakingPoint--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Medium</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">246116<!--climbingRoute_ClimbDown_Large--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Large</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245294<!--climbingRoute_Master_ClimbAttempt--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Large</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245291<!--climbingRoute_Master_ClimbCautiously--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Large</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245293<!--climbingRoute_Master_ClimbNormally--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Large</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245430<!--climbingRoute_Master_MeticulousSession--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Large</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245431<!--climbingRoute_Master_Practice--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Large</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245292<!--climbingRoute_Master_ClimbCourageously--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Large</E>
+                </L>
+              </U>
+            </V>
+          </U>
+          <U>
+            <T n="affordance">245429<!--climbingRoute_Master_HitBreakingPoint--></T>
+            <V n="object_filter" t="filter_by_tags">
+              <U n="filter_by_tags">
+                <L n="tags">
+                  <E>Func_ClimbingRoute_Large</E>
+                </L>
+              </U>
+            </V>
+          </U>
+        </L>
+      </U>
+    </U>
+  </L>
+  <T n="mood_id">14639<!--Mood_Focused--></T>
+  <T n="skill_description">0x602375C4<!--Adventurous Sims love the challenge of scaling mountain cliffs, and getting better at this physical skill will unlock new ways to climb as well as allow access to new areas and vistas. Rock Climbing Skill is built up by tackling Climbing Routes as well as researching climbing techniques with Skill Books and the Computer.--></T>
+  <E n="skill_level_type">MAJOR</E>
+  <U n="stat_asm_param">
+    <T n="asm_param_name">statLevel</T>
+    <L n="level_ranges">
+      <U>
+        <T n="key">high</T>
+        <U n="value">
+          <T n="lower_bound">7</T>
+          <T n="upper_bound">100</T>
+        </U>
+      </U>
+      <U>
+        <T n="key">low</T>
+        <U n="value">
+          <T n="lower_bound">0</T>
+          <T n="upper_bound">3</T>
+        </U>
+      </U>
+      <U>
+        <T n="key">medium</T>
+        <U n="value">
+          <T n="lower_bound">4</T>
+          <T n="upper_bound">6</T>
+        </U>
+      </U>
+    </L>
+    <T n="use_effective_skill_level">False</T>
+  </U>
+  <T n="stat_name">0xBA155A48<!--Rock Climbing--></T>
+  <L n="tags">
+    <E>Skill_All</E>
+    <E>Skill_All_Visible</E>
+    <E>Skill_Adult</E>
+    <E>Skill_Athletic</E>
+    <E>Skill_RockClimbing</E>
+    <E>Skill_ClimbingSkiingSnowboarding</E>
+  </L>
+</I>

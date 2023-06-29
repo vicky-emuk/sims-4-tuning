@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RoleState" i="role_state" m="role.role_state" n="recCenter_Roles_Outside" s="313534">
+  <L n="_buffs">
+    <U>
+      <T n="buff_type">101052<!--Buff_Role_Appropriateness_NoCallToMeal--></T>
+    </U>
+    <U>
+      <T n="buff_type">35370<!--Buff_Role_Appropriateness_NoCleaning--></T>
+    </U>
+    <U>
+      <T n="buff_type">199880<!--buff_AutonomyMod_VIPRope_AttemptToEnter--></T>
+    </U>
+    <U>
+      <T n="buff_type">33931<!--buff_AutonomyMod_SocialMore--></T>
+    </U>
+    <U>
+      <T n="buff_type">26249<!--buff_AutonomyMod_GrabCoffeeTea--></T>
+    </U>
+    <U>
+      <T n="buff_type">34445<!--buff_AutonomyMod_ListenToMusic--></T>
+    </U>
+    <U>
+      <T n="buff_type">27509<!--buff_AutonomyMod_playChildrenOutdoorObjects--></T>
+    </U>
+    <U>
+      <T n="buff_type">27575<!--buff_AutonomyMod_ReadBooks--></T>
+    </U>
+    <U>
+      <T n="buff_type">38934<!--buff_AutonomyMod_Use_OutdoorObjects_garden--></T>
+    </U>
+    <U>
+      <T n="buff_type">76180<!--buff_AutonomyMod_Sit--></T>
+    </U>
+    <U>
+      <T n="buff_type">26286<!--buff_AutonomyMod_GrabFood--></T>
+    </U>
+    <U>
+      <T n="buff_type">126337<!--buff_AutonomyMod_Use_OutdoorObjects_bush--></T>
+    </U>
+    <U>
+      <T n="buff_type">105828<!--buff_AutonomyMod_GrillMeals--></T>
+    </U>
+    <U>
+      <T n="buff_type">40384<!--buff_AutonomyMod_OpenStreet_workout--></T>
+    </U>
+  </L>
+  <U n="_off_lot_autonomy_buff">
+    <T n="buff_type">38292<!--buff_offLotAutonomyMod_OnLotOnly--></T>
+  </U>
+</I>

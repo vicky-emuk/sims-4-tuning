@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="StereoChannel_dJBooth" s="179143">
+  <L n="_values">
+    <T>179194<!--stereoChannel_Off_dJBooth--></T>
+    <T>179165<!--stereoChannel_Electro_dJBooth--></T>
+    <T>179163<!--stereoChannel_Pop_dJBooth--></T>
+    <T>179164<!--stereoChannel_Retro_dJBooth--></T>
+    <T>179162<!--stereoChannel_Disco_Pop_dJBooth--></T>
+    <T>179166<!--stereoChannel_SPop_dJBooth--></T>
+    <T>201265<!--stereoChannel_HipHop_djBooth--></T>
+    <T>282820<!--stereoChannel_Brazilian_djBooth--></T>
+    <T>282830<!--stereoChannel_MixedMusic_djBooth--></T>
+  </L>
+</I>

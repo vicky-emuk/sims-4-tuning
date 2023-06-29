@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="Fire_Rain" s="190385">
+  <L n="_values">
+    <T>190383<!--rain_Fire_Extinguished--></T>
+    <T>190380<!--rain_Fire_NotRaining--></T>
+    <T>190382<!--rain_Fire_Raining--></T>
+  </L>
+  <T n="linked_stat">190384<!--commodity_Object_Fire_Rain--></T>
+</I>

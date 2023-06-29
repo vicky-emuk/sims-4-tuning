@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Objective" i="objective" m="event_testing.objective_tuning" n="objectives_MidlifeCrisis_DesireforRelationship_19" s="322353">
+  <L n="completion_loot">
+    <T>314282<!--loot_MidlifeCrisis_ObjectiveComplete--></T>
+  </L>
+  <T n="display_text">0x52FC8ABA<!--Throw a Party--></T>
+  <L n="loot_on_completion_ui_update">
+    <T>320213<!--loot_MidlifeCrisis_AddObjective_Relationship--></T>
+  </L>
+  <V n="objective_test" t="situation_running_test">
+    <U n="situation_running_test">
+      <T n="check_for_initiating_sim">True</T>
+      <V n="participant" t="enabled" />
+      <V n="situation_whitelist" t="enabled">
+        <L n="enabled">
+          <T>31635<!--situation_birthday_party--></T>
+          <T>16194<!--Situation_DinnerParty--></T>
+          <T>35078<!--Situation_CostumeParty--></T>
+          <T>33294<!--Situation_HouseParty--></T>
+          <T>35077<!--Situation_BlackAndWhiteParty--></T>
+          <T>103691<!--Situation_WeenieRoast--></T>
+          <T>125869<!--spookyPartySituation_SP04--></T>
+          <T>221796<!--Situation_KegParty--></T>
+          <T>275305<!--situation_CustomGoals_PrePostWeddingParties_BachParty--></T>
+          <T>197576<!--charityBenefitPartySituation--></T>
+          <T>206333<!--kavaPartySituation--></T>
+          <T>197831<!--lampoonPartySituation--></T>
+        </L>
+      </V>
+      <V n="tag_whitelist" t="enabled">
+        <L n="enabled">
+          <E>Situation_PlayerFacing_CanHost</E>
+        </L>
+      </V>
+    </U>
+  </V>
+  <T n="relative_to_unlock_moment">True</T>
+  <T n="satisfaction_points">10</T>
+  <T n="show_progress">False</T>
+  <T n="tooltip">0xE7BE4423<!--{0.SimFirstName} wants to get people together and throw a party! Click on the Calendar to schedule a party. --></T>
+</I>

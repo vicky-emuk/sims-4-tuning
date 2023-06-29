@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x0000001C">
+  <Instances>
+    <I name="Diver_Track1" schema="TunableCareerTrack" type="Object">
+      <L name="branches" />
+      <T name="busy_time_situation_picker_tooltip">0x77D1D57E</T>
+      <T name="career_description">0x3540FD2F</T>
+      <L name="career_levels">
+        <T type="TableSetReference">208420</T>
+        <T type="TableSetReference">208421</T>
+        <T type="TableSetReference">208422</T>
+      </L>
+      <T name="career_name">0xDDAE6C76</T>
+      <T name="career_name_gender_neutral">0xF1C0315E</T>
+      <T name="icon">00B2D882-00000000-CD42DEF803375A86</T>
+      <T name="icon_high_res">00B2D882-00000000-7E88A455CBFD6CE2</T>
+      <T name="image">00B2D882-00000000-68436E8AEE14A87A</T>
+      <T name="show_now_hiring_string">1</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="TunableCareerTrack" schema_hash="0x23557C02">
+      <Columns>
+        <Column name="branches" type="Vector" flags="0x00000000" />
+        <Column name="busy_time_situation_picker_tooltip" type="LocalizationKey" flags="0x00000000" />
+        <Column name="career_description" type="LocalizationKey" flags="0x00000000" />
+        <Column name="career_levels" type="Vector" flags="0x00000000" />
+        <Column name="career_name" type="LocalizationKey" flags="0x00000000" />
+        <Column name="career_name_gender_neutral" type="LocalizationKey" flags="0x00000000" />
+        <Column name="icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="icon_high_res" type="ResourceKey" flags="0x00000000" />
+        <Column name="image" type="ResourceKey" flags="0x00000000" />
+        <Column name="show_now_hiring_string" type="Boolean" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

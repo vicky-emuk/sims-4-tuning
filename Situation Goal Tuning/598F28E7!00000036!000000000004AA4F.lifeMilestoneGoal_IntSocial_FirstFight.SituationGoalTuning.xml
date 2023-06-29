@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalRanInteractionOnTargetedSim" i="situation_goal" m="situations.situation_goal_targeted_sim" n="lifeMilestoneGoal_IntSocial_FirstFight" s="305743">
+  <V n="_display_data" t="enabled">
+    <U n="enabled">
+      <V n="instance_display_icon" t="disabled" />
+      <V n="instance_display_name" t="disabled" />
+      <V n="instance_display_tooltip" t="disabled" />
+    </U>
+  </V>
+  <U n="_goal_test">
+    <L n="affordance_lists">
+      <T>300023<!--affordanceList_WerewolfFight--></T>
+    </L>
+    <L n="affordances">
+      <T>26138<!--mixer_social_Fight_targeted_mean--></T>
+      <T>277564<!--mixer_social_Fight_targeted_mean_Ghost--></T>
+      <T>108106<!--mixer_social_Fight_targeted_mean_bear--></T>
+      <T>203592<!--mixer_Social_Investigation_Act2_FightForScanner--></T>
+      <T>215293<!--mixer_social_Fight_targeted_mean_PunchableFace--></T>
+      <T>215676<!--mixer_social_Fight_targeted_SummonGhost_Fail--></T>
+      <T>243526<!--mixer_social_Batuu_Mission_RS7_Fight_For_FirstOrder_Uniform--></T>
+      <T>244147<!--mixer_social_Batuu_Mission_SS17_Fight_For_Valuable_Information--></T>
+      <T>242736<!--mixer_social_Fight_Batuu_Inspection_ActorIsFO--></T>
+      <T>241301<!--mixer_social_Fight_targeted_CheckID_CriminalFight--></T>
+      <T>240537<!--mixer_social_Fight_targeted_Intimidate_For_Info--></T>
+      <T>245756<!--mixer_social_Fight_targeted_mean_FS4_ThreatenArrest--></T>
+      <T>245586<!--mixer_social_Fight_targeted_mean_FS6_IntimidateFight--></T>
+      <T>245149<!--mixer_social_Fight_targeted_mean_RecruitToFO_ResistanceTarget_FR3--></T>
+      <T>241792<!--mixer_social_Fight_targeted_mean_SabaccCheater--></T>
+      <T>244194<!--mixer_social_Fight_targeted_Rich_Scoundrel_Valuable--></T>
+      <T>140820<!--mixer_social_Fight_targeted_ApartmentNeighborSituation_LoudNoises--></T>
+      <T>182764<!--mixer_social_Fight_targeted_SurpriseHoliday_BattleRoyale--></T>
+      <T>185215<!--mixer_social_Fight_targeted_SurpriseHoliday_BattleRoyale_Transition--></T>
+      <T>196391<!--mixer_social_Fight_targeted_mean_Paparazzi--></T>
+      <T>224783<!--mixer_social_Fight_targeted_mean_Mascot--></T>
+      <T>238466<!--mixer_social_Fight_targeted_CivicPolicy_Aggression--></T>
+      <T>238476<!--mixer_social_Fight_targeted_CivicPolicy_Aggression_Transition--></T>
+      <T>234558<!--mixer_social_Fight_targeted_mean_CommunityCloseness--></T>
+      <T>249578<!--mixer_social_Fight_targeted_mean_Lifestyles_AdrenalineSeeker--></T>
+      <T>282885<!--mixer_Social_Fight_HighSchool_Active_SchoolFight--></T>
+      <T>152682<!--mixer_social_Fight_targeted_mean_SimAndVampire_Duel_DarkForm_WithGarlic--></T>
+      <T>150766<!--mixer_social_Fight_targeted_mean_SimAndVampire_Duel_WithGarlic--></T>
+      <T>152684<!--mixer_social_Fight_targeted_mean_SimAndVampire_Slay_DarkForm_WithGarlic--></T>
+      <T>151141<!--mixer_social_Fight_targeted_mean_SimAndVampire_Slay_WithGarlic--></T>
+      <T>152688<!--mixer_social_Fight_targeted_mean_SimAndVampire_Duel_DarkForm_WithoutGarlic--></T>
+      <T>150767<!--mixer_social_Fight_targeted_mean_SimAndVampire_Duel_WithoutGarlic--></T>
+      <T>152691<!--mixer_social_Fight_targeted_mean_SimAndVampire_Slay_DarkForm_WithoutGarlic--></T>
+      <T>151143<!--mixer_social_Fight_targeted_mean_SimAndVampire_Slay_WithoutGarlic--></T>
+      <T>152676<!--mixer_social_Fight_targeted_mean_VampireAndSim_Duel_DarkForm_WithGarlic--></T>
+      <T>150768<!--mixer_social_Fight_targeted_mean_VampireAndSim_Duel_WithGarlic--></T>
+      <T>152678<!--mixer_social_Fight_targeted_mean_VampireAndSim_Duel_DarkForm_WithoutGarlic--></T>
+      <T>150769<!--mixer_social_Fight_targeted_mean_VampireAndSim_Duel_WithoutGarlic--></T>
+      <T>38775<!--mixer_social_FightSupervillain_targeted_mean_career--></T>
+      <T>187113<!--mixer_social_Fight_targeted_mean_FatherWinter--></T>
+      <T>190096<!--mixer_social_Fight_targeted_mean_FlowerBunny--></T>
+      <T>319892<!--mixer_social_Fight_targeted_TemporaryStay--></T>
+    </L>
+    <E n="test_event">InteractionComplete</E>
+  </U>
+  <T n="audio_sting_on_complete" p="InGame\Audio\Bumper\bumper_event_goal_complete.propx">39b2aa4a:00000000:ed52c39bcc2a7111</T>
+</I>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Objective" i="objective" m="event_testing.objective_tuning" n="objectives_MidlifeCrisis_DesiretoCreate_Initial" s="313975">
+  <L n="completion_loot">
+    <T>314282<!--loot_MidlifeCrisis_ObjectiveComplete--></T>
+  </L>
+  <T n="display_text">0x47C13290<!--View or Admire {1.Number} Artwork--></T>
+  <L n="loot_on_completion_ui_update">
+    <T>320212<!--loot_MidlifeCrisis_AddObjective_Create--></T>
+  </L>
+  <V n="objective_completion_type" t="unique_targets">
+    <U n="unique_targets">
+      <E n="id_to_check">INSTANCE</E>
+      <T n="unique_targets_required_to_pass">10</T>
+    </U>
+  </V>
+  <V n="objective_test" t="ran_interaction_test">
+    <U n="ran_interaction_test">
+      <L n="affordances">
+        <T>33623<!--art_View--></T>
+        <T>35953<!--art_Trait_Snob_SnobbilyAssess--></T>
+        <T>33626<!--art_CriticallyAssess--></T>
+        <T>33627<!--art_GatherInspiration--></T>
+        <T>14254<!--si_Decorative_ViewAngry--></T>
+        <T>14255<!--si_Decorative_ViewEnergized--></T>
+        <T>14256<!--si_Decorative_ViewFlirty--></T>
+        <T>14257<!--si_Decorative_ViewFocused--></T>
+        <T>14258<!--si_Decorative_ViewHappy--></T>
+        <T>14259<!--si_Decorative_ViewImaginative--></T>
+        <T>14260<!--si_Decorative_ViewSad--></T>
+        <T>40811<!--si_Decorative_ViewConfident--></T>
+        <T>100354<!--si_Decorative_ViewPlayful--></T>
+        <T>151940<!--art_Trait_Snob_SnobbilyAssess_NoReserve--></T>
+        <T>151939<!--art_GatherInspiration_NoReserve--></T>
+        <T>151938<!--art_CriticallyAssess_NoReserve--></T>
+        <T>109935<!--art_View_CampingSign--></T>
+        <T>198847<!--art_StyleInfluencer_AssessImpression--></T>
+        <T>125046<!--art_View_pumpkin--></T>
+        <T>179501<!--art_View_CollectionCase--></T>
+        <T>137713<!--art_View_Sculpture_CriticCareer_StudyArt--></T>
+        <T>215390<!--art_View_DigitalPhotoFrame--></T>
+        <T>245490<!--art_View_Yarny--></T>
+        <T>181410<!--art_View_FamilyPortrait--></T>
+        <T>99593<!--art_View_Sculpture--></T>
+        <T>221079<!--art_View_Sculpture_Autonomous--></T>
+        <T>139852<!--art_View_TragicClown--></T>
+        <T>140956<!--art_View_TragicClown_Autonomous--></T>
+        <T>137712<!--art_View_CriticCareer_StudyArt--></T>
+        <T>151951<!--art_View_CriticCareer_StudyArt_NoReserve--></T>
+        <T>99792<!--art_Trait_Snob_SnobbiltyAssess_Sculpture--></T>
+        <T>99767<!--art_GatherInspiration_Sculpture--></T>
+      </L>
+      <T n="consider_user_cancelled_as_failure">False</T>
+      <V n="interaction_outcome" t="enabled">
+        <E n="enabled">SUCCESS</E>
+      </V>
+      <U n="target_filters">
+        <V n="object_tags" t="enabled">
+          <U n="enabled">
+            <L n="tag_set">
+              <E>Func_Painting</E>
+              <E>Func_Art</E>
+              <E>Func_Art_Sculpture</E>
+              <E>BuyCat_Painting</E>
+            </L>
+            <E n="test_type">CONTAINS_ANY_TAG_IN_SET</E>
+          </U>
+        </V>
+      </U>
+      <E n="test_event">InteractionStart</E>
+    </U>
+  </V>
+  <T n="relative_to_unlock_moment">True</T>
+  <T n="satisfaction_points">10</T>
+  <T n="tooltip">0x520D5B0D<!--{0.SimFirstName} has the desire to spend time viewing artwork. Click on a painting or sculpture to <b>View</b> it.--></T>
+</I>

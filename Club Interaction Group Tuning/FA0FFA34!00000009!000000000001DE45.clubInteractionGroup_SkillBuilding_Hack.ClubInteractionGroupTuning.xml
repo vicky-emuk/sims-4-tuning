@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ClubInteractionGroup" i="club_interaction_group" m="clubs.club_tuning" n="clubInteractionGroup_SkillBuilding_Hack" s="122437">
+  <L n="affordances">
+    <T>36553<!--Computer_Programming_Hacking_SchoolGrades--></T>
+    <T>36706<!--Computer_Programming_Hacking_SuperComputer--></T>
+    <T>31985<!--Computer_Programming_Hacking_Target1--></T>
+    <T>32375<!--Computer_Programming_Hacking_Target2--></T>
+    <T>32376<!--Computer_Programming_Hacking_Target3--></T>
+    <T>32377<!--Computer_Programming_Hacking_Target4--></T>
+    <T>32378<!--Computer_Programming_Hacking_Target5--></T>
+    <T>32379<!--Computer_Programming_Hacking_Target6--></T>
+    <T>38553<!--Computer_Programming_Hacking_WorkPerformance--></T>
+    <T>141082<!--computer_Programming_Festival_LogicFair_HackthePlanet--></T>
+  </L>
+  <E n="category">MISCHIEF_AND_MAYHEM</E>
+  <T n="category_icon" p="InGame\UI\Icons\Clubs\Rules\clubs_rules_Hack.png">2f7d0004:00000000:c824acfcdfe56824</T>
+  <T n="club_bucks_reward">2</T>
+  <T n="is_targeted">False</T>
+  <T n="name">0x48665067<!--Hack--></T>
+  <T n="tooltip_template">0xF6BC0DC8<!--Hack--></T>
+  <T n="tooltip_template_negative">0xEC33655E<!--Don't Hack--></T>
+</I>

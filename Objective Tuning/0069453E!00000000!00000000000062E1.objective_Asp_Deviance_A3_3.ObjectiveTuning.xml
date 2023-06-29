@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Objective" i="objective" m="event_testing.objective_tuning" n="objective_Asp_Deviance_A3_3" s="25313">
+  <L n="completion_loot">
+    <T>273578<!--loot_Want_AspirationCompleted--></T>
+  </L>
+  <T n="display_text">0x65B0CE01<!--Get into {1.Number} Fights--></T>
+  <V n="objective_completion_type" t="iterations">
+    <U n="iterations">
+      <T n="iterations_required_to_pass">5</T>
+    </U>
+  </V>
+  <V n="objective_test" t="ran_interaction_test">
+    <U n="ran_interaction_test">
+      <L n="affordance_lists">
+        <T>300023<!--affordanceList_WerewolfFight--></T>
+      </L>
+      <L n="affordances">
+        <T>26138<!--mixer_social_Fight_targeted_mean--></T>
+        <T>152682<!--mixer_social_Fight_targeted_mean_SimAndVampire_Duel_DarkForm_WithGarlic--></T>
+        <T>150766<!--mixer_social_Fight_targeted_mean_SimAndVampire_Duel_WithGarlic--></T>
+        <T>152684<!--mixer_social_Fight_targeted_mean_SimAndVampire_Slay_DarkForm_WithGarlic--></T>
+        <T>151141<!--mixer_social_Fight_targeted_mean_SimAndVampire_Slay_WithGarlic--></T>
+        <T>152688<!--mixer_social_Fight_targeted_mean_SimAndVampire_Duel_DarkForm_WithoutGarlic--></T>
+        <T>150767<!--mixer_social_Fight_targeted_mean_SimAndVampire_Duel_WithoutGarlic--></T>
+        <T>152691<!--mixer_social_Fight_targeted_mean_SimAndVampire_Slay_DarkForm_WithoutGarlic--></T>
+        <T>151143<!--mixer_social_Fight_targeted_mean_SimAndVampire_Slay_WithoutGarlic--></T>
+        <T>152676<!--mixer_social_Fight_targeted_mean_VampireAndSim_Duel_DarkForm_WithGarlic--></T>
+        <T>150768<!--mixer_social_Fight_targeted_mean_VampireAndSim_Duel_WithGarlic--></T>
+        <T>152678<!--mixer_social_Fight_targeted_mean_VampireAndSim_Duel_DarkForm_WithoutGarlic--></T>
+        <T>150769<!--mixer_social_Fight_targeted_mean_VampireAndSim_Duel_WithoutGarlic--></T>
+        <T>150919<!--mixer_social_VampiricDuel_Targeted_Mean_VampireToVampire--></T>
+        <T>152650<!--mixer_social_VampiricDuel_Targeted_Mean_VampireToVampire_ActorTargetDarkForm--></T>
+        <T>152647<!--mixer_social_VampiricDuel_Targeted_Mean_VampireToVampire_ActorOnlyDarkForm--></T>
+        <T>152649<!--mixer_social_VampiricDuel_Targeted_Mean_VampireToVampire_TargetOnlyDarkForm--></T>
+        <T>152659<!--mixer_social_VampiricSlay_Targeted_Mean_VampireToVampire_ActorOnlyDarkForm--></T>
+        <T>152608<!--mixer_social_VampiricSlay_Targeted_Mean_VampireToVampire_NoDarkForms--></T>
+        <T>152660<!--mixer_social_VampiricSlay_Targeted_Mean_VampireToVampire_ActorTargetDarkForm--></T>
+        <T>152661<!--mixer_social_VampiricSlay_Targeted_Mean_VampireToVampire_TargetOnlyDarkForm--></T>
+      </L>
+      <E n="test_event">InteractionStart</E>
+    </U>
+  </V>
+  <T n="satisfaction_points">500</T>
+  <T n="tooltip">0x97A27D86<!--Click on a Sim and select Fight! Continuously performing Mean Socials will decrease relationship and provoke Anger.--></T>
+</I>

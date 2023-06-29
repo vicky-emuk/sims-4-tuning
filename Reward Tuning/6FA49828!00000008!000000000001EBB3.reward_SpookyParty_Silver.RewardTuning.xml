@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="HouseholdReward" i="reward" m="rewards.reward" n="reward_SpookyParty_Silver" s="125875">
+  <T n="icon" p="InGame\UI\Icons\Events\EventGoal_RewardSilver.png">2f7d0004:00000000:d194f1042cab4b2f</T>
+  <T n="name">0x9EE3B64F<!--Silver Level--></T>
+  <V n="notification" t="enabled">
+    <V n="enabled" t="literal">
+      <U n="literal">
+        <V n="icon" t="enabled">
+          <V n="enabled" t="resource_key">
+            <U n="resource_key">
+              <T n="key" p="InGame\UI\Icons\Events\EventGoal_RewardSilver.png">2f7d0004:00000000:d194f1042cab4b2f</T>
+            </U>
+          </V>
+        </V>
+        <V n="text" t="single">
+          <T n="single">0xFC82F3CE<!--Guests agree, this party was a treat! An eerie portrait has materialized in the household inventory... hang it with caution.--></T>
+        </V>
+        <V n="title" t="enabled">
+          <T n="enabled">0xF01CDC0E<!--Reward Earned--></T>
+        </V>
+      </U>
+    </V>
+  </V>
+  <V n="reward_description" t="enabled">
+    <T n="enabled">0x9046BDBA<!--Silver Level reward consists of an eerie portrait of unknown origins.--></T>
+  </V>
+  <L n="rewards">
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">108028<!--paintWall2x1x2_SP04PortraitScary_01_set1 (The Dashing Lord Lycan)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">108029<!--paintWall2x1x2_SP04PortraitScary_01_set2 (The Dashing Lord Lycan)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">108030<!--paintWall2x1x2_SP04PortraitScary_01_set3 (The Dashing Lord Lycan)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">108036<!--paintWall2x1x2_SP04PortraitScary_02_set1 (The Lovely Lady Sanguina)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">108035<!--paintWall2x1x2_SP04PortraitScary_02_set2 (The Lovely Lady Sanguina)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">108034<!--paintWall2x1x2_SP04PortraitScary_02_set3 (The Lovely Lady Sanguina)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">108038<!--paintWall2x1x2_SP04PortraitScary_03_set1 (The Lord and the Lady)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">108039<!--paintWall2x1x2_SP04PortraitScary_03_set2 (The Lord and the Lady)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">108040<!--paintWall2x1x2_SP04PortraitScary_03_set3 (The Lord and the Lady)--></T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="bucks">
+        <U n="bucks">
+          <T n="amount">5</T>
+          <E n="bucks_type">InfluenceBuck</E>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

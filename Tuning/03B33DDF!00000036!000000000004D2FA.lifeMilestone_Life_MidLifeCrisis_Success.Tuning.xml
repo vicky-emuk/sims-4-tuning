@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="DevelopmentalMilestone" i="developmental_milestone" m="developmental_milestones.developmental_milestone" n="lifeMilestone_Life_MidLifeCrisis_Success" s="316154">
+  <L n="ages">
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <E n="category">Life</E>
+  <T n="goal">316149<!--lifeMilestoneGoal_Actor_MidLifeCrisis_Success--></T>
+  <T n="icon" p="InEP13\UI\Icons\DevelopmentalMilestones\milestone_MidLifeCrisis.png">2f7d0004:00000000:31807b4d2f9cb93b</T>
+  <L n="loot">
+    <T>317834<!--loot_LifeMilestone_SFX_MidlifeCrisis--></T>
+  </L>
+  <T n="name">0xC3B09580<!--Had a Mid-Life Crisis--></T>
+  <T n="ui_sort_order">216</T>
+  <T n="unlocked_text">0x6E41E647<!--{0.SimFirstName}'s desire for greater success led {0.SimPronounObjective} through a life changing experience.--></T>
+  <T n="unlocked_text_no_context">0x6E41E647<!--{0.SimFirstName}'s desire for greater success led {0.SimPronounObjective} through a life changing experience.--></T>
+</I>

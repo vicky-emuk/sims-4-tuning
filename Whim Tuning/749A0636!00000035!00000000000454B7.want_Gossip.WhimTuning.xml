@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Whim" i="whim" m="whims.whim" n="want_Gossip" s="283831">
+  <V n="chaining_whimset_chance_multiplier" t="enabled">
+    <T n="enabled">1.5</T>
+  </V>
+  <T n="fluff_description">0x5A754E36<!--Juicy secrets need to be shared!--></T>
+  <T n="goal">283839<!--want_GossipSim--></T>
+  <E n="type">SHORT_TERM</E>
+</I>

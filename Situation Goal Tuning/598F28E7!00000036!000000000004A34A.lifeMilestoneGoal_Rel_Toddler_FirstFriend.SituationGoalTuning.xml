@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalRelationshipChangeTargetedSim" i="situation_goal" m="situations.situation_goal_targeted_sim" n="lifeMilestoneGoal_Rel_Toddler_FirstFriend" s="303946">
+  <U n="_goal_test">
+    <U n="required_relationship_bits">
+      <L n="match_all">
+        <T>15797<!--friendship-friend--></T>
+      </L>
+    </U>
+    <E n="test_event">AddRelationshipBit</E>
+    <V n="test_incest" t="is not incestuous" />
+  </U>
+  <L n="_post_tests">
+    <V t="relationship">
+      <U n="relationship">
+        <U n="prohibited_relationship_bits">
+          <L n="match_any">
+            <T>8829<!--family_aunt_uncle--></T>
+            <T>8802<!--family_brother_sister--></T>
+            <T>8826<!--family_cousin--></T>
+            <T>8807<!--family_grandchild--></T>
+            <T>8808<!--family_grandparent--></T>
+            <T>24490<!--family_husband_wife--></T>
+            <T>9989<!--family_niece_nephew--></T>
+            <T>8809<!--family_parent--></T>
+            <T>8805<!--family_son_daughter--></T>
+            <T>8824<!--family_stepsibling--></T>
+            <T>15806<!--rbc_Family--></T>
+          </L>
+        </U>
+      </U>
+    </V>
+  </L>
+  <T n="audio_sting_on_complete" p="InGame\Audio\Bumper\bumper_event_goal_complete.propx">39b2aa4a:00000000:ed52c39bcc2a7111</T>
+</I>

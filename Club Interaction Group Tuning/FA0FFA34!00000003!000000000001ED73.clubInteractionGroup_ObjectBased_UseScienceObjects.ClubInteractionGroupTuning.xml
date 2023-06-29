@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ClubInteractionGroup" i="club_interaction_group" m="clubs.club_tuning" n="clubInteractionGroup_ObjectBased_UseScienceObjects" s="126323">
+  <L n="affordances">
+    <T>111532<!--cpssi_MakeRecipe_ChemistryLab_CraftSerum_FinalPhase--></T>
+    <T>115950<!--cpssi_MakeRecipe_ChemistryLab_CraftSerum_FinalPhase_AlienAura--></T>
+    <T>115948<!--cpssi_MakeRecipe_ChemistryLab_CraftSerum_FinalPhase_FixersLuck--></T>
+    <T>115945<!--cpssi_MakeRecipe_ChemistryLab_CraftSerum_FinalPhase_GhostGoo--></T>
+    <T>115949<!--cpssi_MakeRecipe_ChemistryLab_CraftSerum_FinalPhase_ReapersFriend--></T>
+    <T>115943<!--cpssi_MakeRecipe_ChemistryLab_CraftSerum_FinalPhase_RedHot--></T>
+    <T>115944<!--cpssi_MakeRecipe_ChemistryLab_CraftSerum_FinalPhase_RosePerfume--></T>
+    <T>115947<!--cpssi_MakeRecipe_ChemistryLab_CraftSerum_FinalPhase_SmartSerum--></T>
+    <T>115946<!--cpssi_MakeRecipe_ChemistryLab_CraftSerum_FinalPhase_SparkDrive--></T>
+    <T>111026<!--cpssi_MakeRecipe_ChemistryLab_CraftSerum_AddFirstIngredient--></T>
+    <T>111016<!--cpssi_MakeRecipe_ChemistryLab_CraftSerum_ControlledExplosion--></T>
+    <T>111015<!--cpssi_MakeRecipe_ChemistryLab_CraftSerum_CriticalFail--></T>
+    <T>111014<!--cpssi_MakeRecipe_ChemistryLab_CraftSerum_FizzyExplosion--></T>
+    <T>105225<!--cpssi_MakeRecipe_ChemistryLab_Staging_Serum--></T>
+    <T>105226<!--cpssi_MakeRecipe_ChemistryLab_Staging_TaintedSerum--></T>
+    <T>105215<!--si_ChemistryLab_Experiment--></T>
+    <T>115420<!--social_SimRay_FreezeRay--></T>
+    <T>116074<!--social_SimRay_Transform_Sim--></T>
+    <T>115378<!--scientist_MindControl_Clean--></T>
+    <T>115379<!--scientist_MindControl_Eat--></T>
+    <T>115380<!--scientist_MindControl_Panic--></T>
+    <T>115381<!--scientist_MindControl_Sit--></T>
+    <T>115382<!--scientist_MindControl_Sleep--></T>
+    <T>115316<!--Scientist_MindControl_ChangeOutfit_Athletic--></T>
+    <T>115317<!--Scientist_MindControl_ChangeOutfit_Everyday--></T>
+    <T>115318<!--Scientist_MindControl_ChangeOutfit_Formal--></T>
+    <T>115319<!--Scientist_MindControl_ChangeOutfit_Party--></T>
+    <T>115320<!--Scientist_MindControl_ChangeOutfit_Sleep--></T>
+    <T>115321<!--Scientist_MindControl_ChangeOutfit_Swimwear--></T>
+    <T>106859<!--simRay_Transform_Object--></T>
+    <T>116720<!--simRay_Transform_Object_WallObject--></T>
+    <T>109721<!--si_InventionConstructor_Brainstorm--></T>
+    <T>109722<!--si_InventionConstructor_Chat--></T>
+    <T>109143<!--scsi_InventionConstructor_Device--></T>
+    <T>109953<!--cPSSI_MakeRecipe_InventionConstructor_Staging_Invent--></T>
+    <T>111288<!--chemicalAnalyzer_Analyze_PatientSample_X_display--></T>
+    <T>104725<!--chemicalAnalyzer_PracticeAnalysis--></T>
+    <T>115784<!--chemicalAnalyzer_PracticeAnalysis_doctor--></T>
+    <T>111681<!--chemicalAnalyzer_AnalyzeSample--></T>
+    <T>108325<!--chemicalAnalyzer_Analyze_Clue--></T>
+    <T>107906<!--chemicalAnalyzer_Analyze_Collectible--></T>
+    <T>112569<!--chemicalAnalyzer_Analyze_DetectiveTestAnalyzer--></T>
+    <T>104724<!--chemicalAnalyzer_Analyze_Flora--></T>
+    <T>111260<!--chemicalAnalyzer_Analyze_PatientSample--></T>
+    <T>110558<!--cloningMachine_CloneObject--></T>
+    <T>110505<!--si_Object_AlienPortal_Calibrate--></T>
+    <T>110653<!--si_Object_AlienPortal_ContactAliens--></T>
+    <T>116241<!--sI_Object_AlienPortal_GoHome--></T>
+    <T>110809<!--sI_Object_AlienPortal_Travel--></T>
+    <T>107157<!--si_Object_SatelliteDish_PreventAbduction--></T>
+    <T>107161<!--si_Object_SatelliteDish_ContactAliens--></T>
+    <T>108245<!--si_object_SatelliteDish_DetectAliens--></T>
+    <T>114862<!--object_SatelliteDish_Hivemind_Angrytown--></T>
+    <T>114864<!--object_SatelliteDish_Hivemind_BladderEpidemic--></T>
+    <T>114860<!--object_SatelliteDish_Hivemind_DanceParty--></T>
+    <T>114863<!--object_SatelliteDish_Hivemind_Happytown--></T>
+    <T>114865<!--object_SatelliteDish_Hivemind_Knockout--></T>
+    <T>105411<!--si_ChemistryLab_CreateSerum--></T>
+    <T>13592<!--Microscope_Research--></T>
+    <T>13585<!--Microscope_AnalyzeCrystal--></T>
+    <T>13586<!--Microscope_AnalyzeFossil--></T>
+    <T>13587<!--Microscope_AnalyzePlant--></T>
+    <T>110814<!--si_SimPicker_AlienPortal_TravelWith--></T>
+    <T>115131<!--si_SimPicker_AlienPortal_TravelWith_Return--></T>
+    <T>114975<!--gtslti_AlienPortal_ToScienceLab--></T>
+    <T>114974<!--gtslti_AlienPortal_ToCurrentResidence--></T>
+    <T>113770<!--sI_Object_AlienPortal_OrderedToVisitAliens--></T>
+    <T>110812<!--sI_Object_AlienPortal_TestEnvironment--></T>
+    <T>115371<!--si_Object_AlienPortal_Travel_Continuation--></T>
+    <T>113926<!--sI_Object_AlienPortal_Travel_Return--></T>
+    <T>113730<!--sI_Object_AlienPortal_Travel_WorldEvent--></T>
+    <T>111763<!--si_Object_AlienPortal_Upgrade--></T>
+    <T>115372<!--si_Object_AlienPortal_Travel_Return_Continuation--></T>
+    <T>116219<!--si_Object_AlienPortal_Travel_Return_ScienceLab_Continuation--></T>
+    <T>114985<!--sI_Object_AlienPortal_Travel_WorldEvent_Continuation--></T>
+    <T>116200<!--sI_Object_AlienPortal_Travel_WorldEvent_NoZoneDirector_Continuation--></T>
+    <T>107344<!--cloningMachine_CloneSim_Picked_continuation--></T>
+    <T>107351<!--cloningMachine_CloneSim_Actor_RemoteTurnOn--></T>
+    <T>109905<!--immediateSI_Orrery_TurnOff--></T>
+    <T>107341<!--CloningMachine_CloneSim_simPicker--></T>
+    <T>109904<!--immediateSI_Orrery_TurnOn--></T>
+    <T>109847<!--orrery_View--></T>
+    <T>109907<!--immediateSI_HoverLamp_TurnOff--></T>
+    <T>109906<!--immediateSI_HoverLamp_TurnOn--></T>
+    <T>109846<!--hoverLamp_View--></T>
+  </L>
+  <E n="category">HOBBIES</E>
+  <T n="category_icon" p="InGame\UI\Icons\Clubs\Rules\clubs_rules_UseScienceObjects.png">2f7d0004:00000000:244d7ba659e572c2</T>
+  <T n="club_bucks_reward">2</T>
+  <T n="is_targeted">False</T>
+  <T n="name">0xA95943C5<!--Use Science Objects--></T>
+  <T n="tooltip_template">0x902EDEAE<!--Use Science Objects--></T>
+  <T n="tooltip_template_negative">0xDC94918<!--Don't Use Science Objects--></T>
+</I>

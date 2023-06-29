@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<M n="relationships.compatibility_tuning" s="16336429127840756903">
+  <C n="CompatibilityTuning">
+    <L n="COMPATIBILITY_LEVEL_ICONS_MAP">
+      <U>
+        <E n="key">AMAZING</E>
+        <U n="value">
+          <T n="descriptive_text">0xDE8F7C75<!--Like two perfect pieces of a puzzle, these Sims just click! Based on their preferences, they have the <b>highest level of compatibility</b>. Building a strong relationship between these two Sims should take much less effort than usual.--></T>
+          <T n="icon" p="InGame\UI\Icons\Compatibility\Compatibility_Good.png">2f7d0004:00000000:1c251fd86a3726fd</T>
+          <T n="level_name">0x4477F45<!--Amazing Compatibility--></T>
+          <T n="small_icon" p="InGame\UI\Icons\Compatibility\Compatibility_Good_Small.png">2f7d0004:00000000:ddf16ba13a139665</T>
+        </U>
+      </U>
+      <U>
+        <E n="key">AWFUL</E>
+        <U n="value">
+          <T n="descriptive_text">0x8FD6C610<!--Oh no! Based on their preferences, these Sims <i>totally</i> clash. To grow this relationship, both Sims will need to put in more effort than usual as they seek to overcome their many differences. --></T>
+          <T n="icon" p="InGame\UI\Icons\Compatibility\Compatibility_Bad.png">2f7d0004:00000000:bc6eef2dd004e35b</T>
+          <T n="level_name">0x17172B28<!--Awful Compatibility--></T>
+          <T n="small_icon" p="InGame\UI\Icons\Compatibility\Compatibility_Bad_Small.png">2f7d0004:00000000:d9f296f291e14373</T>
+        </U>
+      </U>
+      <U>
+        <E n="key">BAD</E>
+        <U n="value">
+          <T n="descriptive_text">0xB12296E6<!--Based on their preferences, these Sims have <b>bad compatibility</b>. Their affinity from the start won't be great, but it could certainly be worse. While it'll be a challenge for them to grow close, that doesn't necessarily mean it's not worth trying!--></T>
+          <T n="icon" p="InGame\UI\Icons\Compatibility\Compatibility_Bad.png">2f7d0004:00000000:bc6eef2dd004e35b</T>
+          <T n="level_name">0x3BFACAD6<!--Bad Compatibility--></T>
+          <T n="small_icon" p="InGame\UI\Icons\Compatibility\Compatibility_Bad_Small.png">2f7d0004:00000000:d9f296f291e14373</T>
+        </U>
+      </U>
+      <U>
+        <E n="key">GOOD</E>
+        <U n="value">
+          <T n="descriptive_text">0xB155DE85<!--Hey, not bad! Based on their preferences, these Sims have pretty <b>good compatibility</b>. They might not become best friends instantly, but it certainly won't be a challenge for them to get along.--></T>
+          <T n="icon" p="InGame\UI\Icons\Compatibility\Compatibility_Good.png">2f7d0004:00000000:1c251fd86a3726fd</T>
+          <T n="level_name">0xD3239A75<!--Good Compatibility--></T>
+          <T n="small_icon" p="InGame\UI\Icons\Compatibility\Compatibility_Good_Small.png">2f7d0004:00000000:ddf16ba13a139665</T>
+        </U>
+      </U>
+    </L>
+    <L n="COMPATIBILITY_LEVEL_LOOT_MAP">
+      <U>
+        <E n="key">AMAZING</E>
+        <T n="value">308875<!--loot_SimPreference_CharacteristicCompatibility_Amazing--></T>
+      </U>
+      <U>
+        <E n="key">AWFUL</E>
+        <T n="value">308872<!--loot_SimPreference_CharacteristicCompatibility_Awful--></T>
+      </U>
+      <U>
+        <E n="key">BAD</E>
+        <T n="value">308873<!--loot_SimPreference_CharacteristicCompatibility_Bad--></T>
+      </U>
+      <U>
+        <E n="key">GOOD</E>
+        <T n="value">308874<!--loot_SimPreference_CharacteristicCompatibility_Good--></T>
+      </U>
+      <U>
+        <E n="key">NEUTRAL</E>
+        <T n="value">308871<!--loot_SimPreference_CharacteristicCompatibility_Neutral--></T>
+      </U>
+    </L>
+    <L n="COMPATIBILITY_LEVEL_THRESHOLDS">
+      <U>
+        <E n="key">AMAZING</E>
+        <U n="value">
+          <T n="lower_bound">6</T>
+          <T n="upper_bound">100</T>
+        </U>
+      </U>
+      <U>
+        <E n="key">AWFUL</E>
+        <U n="value">
+          <T n="lower_bound">-100</T>
+          <T n="upper_bound">-6</T>
+        </U>
+      </U>
+      <U>
+        <E n="key">BAD</E>
+        <U n="value">
+          <T n="lower_bound">-6</T>
+          <T n="upper_bound">-2</T>
+        </U>
+      </U>
+      <U>
+        <E n="key">GOOD</E>
+        <U n="value">
+          <T n="lower_bound">2</T>
+          <T n="upper_bound">6</T>
+        </U>
+      </U>
+      <U>
+        <E n="key">NEUTRAL</E>
+        <U n="value">
+          <T n="lower_bound">-2</T>
+          <T n="upper_bound">2</T>
+        </U>
+      </U>
+    </L>
+    <L n="NPC_PREFERENCE_LOOT">
+      <T>316304<!--randomWeightedLoot_SimPreference_Characteristic_NPC--></T>
+    </L>
+  </C>
+</M>

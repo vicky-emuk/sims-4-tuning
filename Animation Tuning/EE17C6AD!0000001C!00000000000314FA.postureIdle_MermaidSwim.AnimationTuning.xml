@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AnimationElement" i="animation" m="animation.animation_element" n="postureIdle_MermaidSwim" s="201978">
+  <T n="asm_key" p="InEP07\Sage\Mermaid_Swim_Idles.interactionasm">02d5df13:00000000:b1237862d143c511</T>
+  <L n="begin_states">
+    <T>Mermaid_Swim_Idle</T>
+  </L>
+</I>

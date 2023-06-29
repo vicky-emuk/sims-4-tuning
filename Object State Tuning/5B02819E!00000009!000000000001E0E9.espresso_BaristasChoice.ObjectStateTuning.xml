@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="espresso_BaristasChoice" s="123113">
+  <L n="_values">
+    <T>123115<!--espresso_BaristasChoice_Breve--></T>
+    <T>123118<!--espresso_BaristasChoice_CafeBombon--></T>
+    <T>123120<!--espresso_BaristasChoice_CafeMiel--></T>
+    <T>123124<!--espresso_BaristasChoice_CafeZorro--></T>
+    <T>123116<!--espresso_BaristasChoice_Cortado--></T>
+    <T>123123<!--espresso_BaristasChoice_EspressoConPanna--></T>
+    <T>123117<!--espresso_BaristasChoice_EspressoRomano--></T>
+    <T>123119<!--espresso_BaristasChoice_Galao--></T>
+    <T>123121<!--espresso_BaristasChoice_Lungo--></T>
+    <T>123122<!--espresso_BaristasChoice_Ristretto--></T>
+  </L>
+</I>

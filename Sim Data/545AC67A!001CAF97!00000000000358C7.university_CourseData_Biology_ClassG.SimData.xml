@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x0000001D">
+  <Instances>
+    <I name="university_CourseData_Biology_ClassG" schema="UniversityCourseData" type="Object">
+      <T name="cost">240</T>
+      <T name="icon">00B2D882-00000000-4BE67CD836A93FB3</T>
+      <L name="university_course_mapping">
+        <U type="Object" schema="UniversityCourseDataMapping">
+          <T name="key">219731</T>
+          <U name="value" schema="UniversityCourseDisplayData">
+            <T name="course_description">0x0B6BC248</T>
+            <T name="course_name">0x97677AE7</T>
+          </U>
+        </U>
+        <U type="Object" schema="UniversityCourseDataMapping">
+          <T name="key">219732</T>
+          <U name="value" schema="UniversityCourseDisplayData">
+            <T name="course_description">0xA4606010</T>
+            <T name="course_name">0xB5069B3F</T>
+          </U>
+        </U>
+      </L>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="UniversityCourseData" schema_hash="0x2835DF15">
+      <Columns>
+        <Column name="cost" type="Int32" flags="0x00000000" />
+        <Column name="icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="university_course_mapping" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="UniversityCourseDataMapping" schema_hash="0x827A3BD8">
+      <Columns>
+        <Column name="key" type="TableSetReference" flags="0x00000000" />
+        <Column name="value" type="Object" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="UniversityCourseDisplayData" schema_hash="0x8A2D8C3B">
+      <Columns>
+        <Column name="course_description" type="LocalizationKey" flags="0x00000000" />
+        <Column name="course_name" type="LocalizationKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

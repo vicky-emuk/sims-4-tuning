@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="upgrade_PowerGenerator_PowerProduction" s="231439">
+  <L n="_values">
+    <T>231434<!--upgrade_PowerGenerator_PowerProduction_NotStarted--></T>
+    <T>231436<!--upgrade_PowerGenerator_PowerProduction_Partial--></T>
+    <T>231431<!--upgrade_PowerGenerator_PowerProduction_Complete--></T>
+  </L>
+  <T n="linked_stat">231443<!--statistic_Object_Upgrade_PowerGenerator_PowerProduction--></T>
+</I>

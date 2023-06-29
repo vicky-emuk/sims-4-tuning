@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="puppetTheater_Performing" s="133781">
+  <L n="_values">
+    <T>133778<!--puppetTheater_Performing_Off--></T>
+    <T>133777<!--puppetTheater_Performing_On--></T>
+  </L>
+</I>

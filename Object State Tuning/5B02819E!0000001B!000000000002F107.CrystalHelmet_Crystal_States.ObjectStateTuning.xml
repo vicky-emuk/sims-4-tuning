@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="CrystalHelmet_Crystal_States" s="192775">
+  <L n="_values">
+    <T>192771<!--crystalHelmet_Crystal_NoCrystal--></T>
+    <T>193915<!--crystalHelmet_Crystal_Alabaster--></T>
+    <T>193927<!--crystalHelmet_Crystal_Alexandrite_EP--></T>
+    <T>193928<!--crystalHelmet_Crystal_Amazonite_EP--></T>
+    <T>192884<!--crystalHelmet_Crystal_Amethyst--></T>
+    <T>193916<!--crystalHelmet_Crystal_Citrine--></T>
+    <T>193925<!--crystalHelmet_Crystal_Crandestine_EP--></T>
+    <T>193904<!--crystalHelmet_Crystal_Diamond--></T>
+    <T>193905<!--crystalHelmet_Crystal_Emerald--></T>
+    <T>193917<!--crystalHelmet_Crystal_FireOpal--></T>
+    <T>193906<!--crystalHelmet_Crystal_Hematite--></T>
+    <T>193918<!--crystalHelmet_Crystal_Jet--></T>
+    <T>193907<!--crystalHelmet_Crystal_Jonquilyst--></T>
+    <T>193926<!--crystalHelmet_Crystal_Nitelite_EP--></T>
+    <T>193908<!--crystalHelmet_Crystal_OrangeTopaz--></T>
+    <T>193909<!--crystalHelmet_Crystal_Peach--></T>
+    <T>193919<!--crystalHelmet_Crystal_Plumbite--></T>
+    <T>193920<!--crystalHelmet_Crystal_Quartz--></T>
+    <T>193910<!--crystalHelmet_Crystal_Rainborz--></T>
+    <T>193921<!--crystalHelmet_Crystal_Rose--></T>
+    <T>193922<!--crystalHelmet_Crystal_Ruby--></T>
+    <T>193912<!--crystalHelmet_Crystal_Sapphire--></T>
+    <T>193923<!--crystalHelmet_Crystal_Shinalite--></T>
+    <T>193914<!--crystalHelmet_Crystal_Simanite--></T>
+    <T>193924<!--crystalHelmet_Crystal_Turquoise--></T>
+  </L>
+</I>

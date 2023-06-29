@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CareerEventZoneDirector" i="zone_director" m="careers.career_event_zone_director" n="careerEventZoneDirector_Alien_1" s="113869">
+  <L n="background_situations">
+    <T>114212<!--alienWorld_Bartender--></T>
+    <T>114215<!--alienWorld_Barfly--></T>
+  </L>
+  <V n="fan_situation_support" t="disabled" />
+  <L n="objects_to_spawn">
+    <U>
+      <T n="angle">90</T>
+      <T n="definition">8925<!--sitSofaQA3x1_02_set2 (Cuttlefish Sofa)--></T>
+      <U n="position">
+        <T n="x">1.5</T>
+        <T n="y">14.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">0</T>
+      <L n="children">
+        <U>
+          <T n="definition">25091<!--sculptTableSCBottleHolder_01_set1 (Honeycomb Bottle Holder)--></T>
+          <V n="parent_slot" t="bone_name">
+            <T n="bone_name">_deco_med</T>
+          </V>
+        </U>
+      </L>
+      <T n="definition">8992<!--pedestalGENButlerCardholder_01_set3 (Bob the Butler Fancy Sculpture)--></T>
+      <U n="position">
+        <T n="x">15.5</T>
+        <T n="y">11.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">0</T>
+      <L n="children">
+        <U>
+          <T n="definition">25073<!--sculptTableSCFruitBowl_01_set1 (Bowl of Fruit)--></T>
+          <V n="parent_slot" t="bone_name">
+            <T n="bone_name">_deco_med</T>
+          </V>
+        </U>
+      </L>
+      <T n="definition">8992<!--pedestalGENButlerCardholder_01_set3 (Bob the Butler Fancy Sculpture)--></T>
+      <U n="position">
+        <T n="x">12.5</T>
+        <T n="y">11.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">0</T>
+      <T n="definition">11279<!--sculptFloorTUDArmor_01_set2 (Knight of the Octagon Table Suit of Armor)--></T>
+      <U n="position">
+        <T n="x">12</T>
+        <T n="y">1.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">0</T>
+      <T n="definition">11279<!--sculptFloorTUDArmor_01_set2 (Knight of the Octagon Table Suit of Armor)--></T>
+      <U n="position">
+        <T n="x">14</T>
+        <T n="y">1.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">0</T>
+      <T n="definition">11279<!--sculptFloorTUDArmor_01_set2 (Knight of the Octagon Table Suit of Armor)--></T>
+      <U n="position">
+        <T n="x">16</T>
+        <T n="y">1.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">0</T>
+      <T n="definition">11280<!--sculptFloorTUDArmor_01_set3 (Knight of the Octagon Table Suit of Armor)--></T>
+      <U n="position">
+        <T n="x">13</T>
+        <T n="y">1.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">0</T>
+      <T n="definition">11280<!--sculptFloorTUDArmor_01_set3 (Knight of the Octagon Table Suit of Armor)--></T>
+      <U n="position">
+        <T n="x">15</T>
+        <T n="y">1.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">180</T>
+      <T n="definition">12064<!--lightFloorFC_02_set3 (Sunbather Lamp)--></T>
+      <U n="position">
+        <T n="x">15.5</T>
+        <T n="y">19.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">0</T>
+      <T n="definition">16454<!--mirrorFloorC_01_set2 (The Obverse)--></T>
+      <U n="position">
+        <T n="x">3.5</T>
+        <T n="y">1.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">0</T>
+      <T n="definition">16454<!--mirrorFloorC_01_set2 (The Obverse)--></T>
+      <U n="position">
+        <T n="x">5.5</T>
+        <T n="y">1.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">180</T>
+      <T n="definition">16454<!--mirrorFloorC_01_set2 (The Obverse)--></T>
+      <U n="position">
+        <T n="x">7.5</T>
+        <T n="y">5.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">0</T>
+      <T n="definition">16454<!--mirrorFloorC_01_set2 (The Obverse)--></T>
+      <U n="position">
+        <T n="x">7.5</T>
+        <T n="y">1.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">180</T>
+      <T n="definition">16454<!--mirrorFloorC_01_set2 (The Obverse)--></T>
+      <U n="position">
+        <T n="x">5.5</T>
+        <T n="y">5.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">180</T>
+      <T n="definition">16454<!--mirrorFloorC_01_set2 (The Obverse)--></T>
+      <U n="position">
+        <T n="x">3.5</T>
+        <T n="y">5.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">90</T>
+      <T n="definition">19454<!--gameMotionMatGEN_01_set1 (The MotionMonitor Gaming Mat)--></T>
+      <U n="position">
+        <T n="x">8</T>
+        <T n="y">3.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">180</T>
+      <T n="definition">23792<!--musicViolinGEN_01_set2 (Stringvarius Violin)--></T>
+      <U n="position">
+        <T n="x">3.5</T>
+        <T n="y">17.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">90</T>
+      <T n="definition">27169<!--lightFloorGEN_01_set3 (You've Got the Light)--></T>
+      <U n="position">
+        <T n="x">5.5</T>
+        <T n="y">12</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">90</T>
+      <T n="definition">27169<!--lightFloorGEN_01_set3 (You've Got the Light)--></T>
+      <U n="position">
+        <T n="x">5.5</T>
+        <T n="y">11</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">90</T>
+      <T n="definition">27169<!--lightFloorGEN_01_set3 (You've Got the Light)--></T>
+      <U n="position">
+        <T n="x">5.5</T>
+        <T n="y">14.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">90</T>
+      <T n="definition">27169<!--lightFloorGEN_01_set3 (You've Got the Light)--></T>
+      <U n="position">
+        <T n="x">5.5</T>
+        <T n="y">15.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">90</T>
+      <T n="definition">27169<!--lightFloorGEN_01_set3 (You've Got the Light)--></T>
+      <U n="position">
+        <T n="x">16.5</T>
+        <T n="y">8.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">90</T>
+      <T n="definition">27785<!--sculptFloorGENFlamingo_01_set1 (Pink Flamingo Lawn Decoration)--></T>
+      <U n="position">
+        <T n="x">12.5</T>
+        <T n="y">14.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">90</T>
+      <T n="definition">27785<!--sculptFloorGENFlamingo_01_set1 (Pink Flamingo Lawn Decoration)--></T>
+      <U n="position">
+        <T n="x">15.5</T>
+        <T n="y">14.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">90</T>
+      <T n="definition">27785<!--sculptFloorGENFlamingo_01_set1 (Pink Flamingo Lawn Decoration)--></T>
+      <U n="position">
+        <T n="x">12.5</T>
+        <T n="y">13.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">90</T>
+      <T n="definition">27785<!--sculptFloorGENFlamingo_01_set1 (Pink Flamingo Lawn Decoration)--></T>
+      <U n="position">
+        <T n="x">15.5</T>
+        <T n="y">13.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">45</T>
+      <T n="definition">35725<!--sculptTableGENGnome_01_set1 (There’s No Place like Gnome)--></T>
+      <U n="position">
+        <T n="x">2</T>
+        <T n="y">2</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">135</T>
+      <T n="definition">36414<!--sculptTableGENGnome_02_set1 (Happy Gnome Garden Pal)--></T>
+      <U n="position">
+        <T n="x">2</T>
+        <T n="y">5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">90</T>
+      <T n="definition">36990<!--sculptTableGENGnome_03_set1 (Gnome Matter What, I’m Still Your Baby)--></T>
+      <U n="position">
+        <T n="x">7.5</T>
+        <T n="y">13</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">0</T>
+      <T n="definition">37737<!--fountainGCW_01_set1 (Chievo Tiered Fountain)--></T>
+      <U n="position">
+        <T n="x">14</T>
+        <T n="y">5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">270</T>
+      <T n="definition">38198<!--stereoFloorGENJukebox_01_set1 (Jumpin’ Joe’s Jukebox)--></T>
+      <L n="init_state_values">
+        <T>15343<!--StereoChannel_Pop--></T>
+        <T>15022<!--AudioVolume_High--></T>
+      </L>
+      <U n="position">
+        <T n="x">5.5</T>
+        <T n="y">13</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">0</T>
+      <L n="children">
+        <U>
+          <T n="definition">14194<!--sitDiningC_02_set2 (The Commissioner)--></T>
+          <V n="parent_slot" t="bone_name">
+            <T n="bone_name">_ctnm_chr_3</T>
+          </V>
+        </U>
+        <U>
+          <T n="definition">52974<!--sitDiningQA_02_vibrant02 (Arrrmed Dining Chair)--></T>
+          <V n="parent_slot" t="bone_name">
+            <T n="bone_name">_ctnm_chr_2</T>
+          </V>
+        </U>
+        <U>
+          <T n="definition">52884<!--sitDiningIRN_01_set1 (Cavill Dining Chair)--></T>
+          <V n="parent_slot" t="bone_name">
+            <T n="bone_name">_ctnm_chr_0</T>
+          </V>
+        </U>
+      </L>
+      <T n="definition">42388<!--tableDiningUmbrellaAL1x1_01_set2 (My Yard or Yours Umbrella Table)--></T>
+      <U n="position">
+        <T n="x">11.5</T>
+        <T n="y">17</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">135</T>
+      <T n="definition">42446<!--musicGuitarGenWoodwork_01 (Crafted Guitar)--></T>
+      <U n="position">
+        <T n="x">2</T>
+        <T n="y">17</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">180</T>
+      <T n="definition">42706<!--tablePicnicGD2x2_01_set1 (Happy Camper Picnic Table)--></T>
+      <U n="position">
+        <T n="x">14</T>
+        <T n="y">17.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">180</T>
+      <T n="definition">47079<!--lightOutdoorFloorGENFlood_01_set2 (Terrestrial Saucers)--></T>
+      <U n="position">
+        <T n="x">12</T>
+        <T n="y">6.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">180</T>
+      <T n="definition">47079<!--lightOutdoorFloorGENFlood_01_set2 (Terrestrial Saucers)--></T>
+      <U n="position">
+        <T n="x">16</T>
+        <T n="y">6.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">90</T>
+      <T n="definition">48623<!--rugGENCircleSolid2x2_01_set8 (On the Spot 
+)--></T>
+      <U n="position">
+        <T n="x">3.5</T>
+        <T n="y">14.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">90</T>
+      <T n="definition">48625<!--rugGENCircleSolid2x2_01_set10 (On the Spot 
+)--></T>
+      <U n="position">
+        <T n="x">3.5</T>
+        <T n="y">11.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">90</T>
+      <T n="definition">49151<!--rugGENSilkTextural7x5_01_set10 (Textural Textiles Rug (Large))--></T>
+      <U n="position">
+        <T n="x">3.5</T>
+        <T n="y">13</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">180</T>
+      <T n="definition">52154<!--mirrorfloorC_01_jewel03 (The Obverse)--></T>
+      <U n="position">
+        <T n="x">8.5</T>
+        <T n="y">5.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">0</T>
+      <T n="definition">52154<!--mirrorfloorC_01_jewel03 (The Obverse)--></T>
+      <U n="position">
+        <T n="x">6.5</T>
+        <T n="y">1.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">0</T>
+      <T n="definition">52154<!--mirrorfloorC_01_jewel03 (The Obverse)--></T>
+      <U n="position">
+        <T n="x">8.5</T>
+        <T n="y">1.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">0</T>
+      <T n="definition">52154<!--mirrorfloorC_01_jewel03 (The Obverse)--></T>
+      <U n="position">
+        <T n="x">4.5</T>
+        <T n="y">1.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">180</T>
+      <T n="definition">52154<!--mirrorfloorC_01_jewel03 (The Obverse)--></T>
+      <U n="position">
+        <T n="x">6.5</T>
+        <T n="y">5.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">180</T>
+      <T n="definition">52154<!--mirrorfloorC_01_jewel03 (The Obverse)--></T>
+      <U n="position">
+        <T n="x">4.5</T>
+        <T n="y">5.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">90</T>
+      <T n="definition">53802<!--sitSofaQA3x1_01_jewel03 (Captain Rodrigo De Pablo Couch)--></T>
+      <U n="position">
+        <T n="x">1.5</T>
+        <T n="y">11.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">0</T>
+      <L n="children">
+        <U>
+          <T n="definition">10627<!--sitDiningQA_01_set2 (Arrrmless Dining Chair)--></T>
+          <V n="parent_slot" t="bone_name">
+            <T n="bone_name">_ctnm_chr_2</T>
+          </V>
+        </U>
+        <U>
+          <T n="definition">81790<!--sitDining_EP01POLICEinterrogation_set5 (The Attainder)--></T>
+          <V n="parent_slot" t="bone_name">
+            <T n="bone_name">_ctnm_chr_1</T>
+          </V>
+        </U>
+        <U>
+          <T n="definition">42572<!--sitDiningGFMetal_01_set1 (Termagant Dining Chair)--></T>
+          <V n="parent_slot" t="bone_name">
+            <T n="bone_name">_ctnm_chr_0</T>
+          </V>
+        </U>
+      </L>
+      <T n="definition">54305<!--tableDiningUmbrellaAL1x1_01_jewel03 (My Yard or Yours Umbrella Table)--></T>
+      <U n="position">
+        <T n="x">16.5</T>
+        <T n="y">17</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">0</T>
+      <T n="definition">57699<!--sculptFloorERFlamingoGnome_01_set1 (High-Rider Gnome)--></T>
+      <U n="position">
+        <T n="x">7.5</T>
+        <T n="y">11</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">180</T>
+      <T n="definition">57699<!--sculptFloorERFlamingoGnome_01_set1 (High-Rider Gnome)--></T>
+      <U n="position">
+        <T n="x">7.5</T>
+        <T n="y">15</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">0</T>
+      <L n="children">
+        <U>
+          <T n="definition">52558<!--sitBarstoolFC_01_jewel03 (Caress Barstool)--></T>
+          <V n="parent_slot" t="bone_name">
+            <T n="bone_name">_ctnm_chrTall_3</T>
+          </V>
+        </U>
+        <U>
+          <T n="definition">52558<!--sitBarstoolFC_01_jewel03 (Caress Barstool)--></T>
+          <V n="parent_slot" t="bone_name">
+            <T n="bone_name">_ctnm_chrTall_0</T>
+          </V>
+        </U>
+        <U>
+          <T n="definition">14769<!--sitBarstoolC_03_set2 (The Celestial)--></T>
+          <V n="parent_slot" t="bone_name">
+            <T n="bone_name">_ctnm_chrTall_1</T>
+          </V>
+        </U>
+      </L>
+      <T n="definition">60615<!--barProC4x1_01_vibrant02 (The Long Island)--></T>
+      <U n="position">
+        <T n="x">14</T>
+        <T n="y">8.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">90</T>
+      <T n="definition">61125<!--lightFloorGEN_01_jewel03 (You've Got the Light)--></T>
+      <U n="position">
+        <T n="x">5.5</T>
+        <T n="y">14</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">90</T>
+      <T n="definition">61125<!--lightFloorGEN_01_jewel03 (You've Got the Light)--></T>
+      <U n="position">
+        <T n="x">5.5</T>
+        <T n="y">15</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">90</T>
+      <T n="definition">61125<!--lightFloorGEN_01_jewel03 (You've Got the Light)--></T>
+      <U n="position">
+        <T n="x">5.5</T>
+        <T n="y">11.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">90</T>
+      <T n="definition">61125<!--lightFloorGEN_01_jewel03 (You've Got the Light)--></T>
+      <U n="position">
+        <T n="x">5.5</T>
+        <T n="y">10.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">180</T>
+      <T n="definition">61125<!--lightFloorGEN_01_jewel03 (You've Got the Light)--></T>
+      <U n="position">
+        <T n="x">11.5</T>
+        <T n="y">8.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">180</T>
+      <T n="definition">61135<!--lightFloorQA_03_regal01 (Long John Buttercups Floor Lamp)--></T>
+      <U n="position">
+        <T n="x">12.5</T>
+        <T n="y">19.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">225</T>
+      <T n="definition">63924<!--micFloorStandGENWithMic_set2 (The Royal We Microphone)--></T>
+      <U n="position">
+        <T n="x">5</T>
+        <T n="y">17</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">180</T>
+      <T n="definition">72939<!--plantEP01_AW_grass_01--></T>
+      <U n="position">
+        <T n="x">16.5</T>
+        <T n="y">4</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">90</T>
+      <T n="definition">72939<!--plantEP01_AW_grass_01--></T>
+      <U n="position">
+        <T n="x">16</T>
+        <T n="y">6</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">45</T>
+      <T n="definition">72939<!--plantEP01_AW_grass_01--></T>
+      <U n="position">
+        <T n="x">12</T>
+        <T n="y">6</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">0</T>
+      <T n="definition">72939<!--plantEP01_AW_grass_01--></T>
+      <U n="position">
+        <T n="x">12</T>
+        <T n="y">5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">0</T>
+      <T n="definition">72939<!--plantEP01_AW_grass_01--></T>
+      <U n="position">
+        <T n="x">12.5</T>
+        <T n="y">4</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">0</T>
+      <T n="definition">72939<!--plantEP01_AW_grass_01--></T>
+      <U n="position">
+        <T n="x">11.5</T>
+        <T n="y">4</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">90</T>
+      <T n="definition">72943<!--plantEP01_AW_mushroom_lg_01--></T>
+      <U n="position">
+        <T n="x">15.5</T>
+        <T n="y">5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">90</T>
+      <T n="definition">72943<!--plantEP01_AW_mushroom_lg_01--></T>
+      <U n="position">
+        <T n="x">12</T>
+        <T n="y">5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">0</T>
+      <L n="children">
+        <U>
+          <T n="definition">21501<!--futureCubeGEN_01_grey (Future Cube by Paltry Predictions, Inc.)--></T>
+          <V n="parent_slot" t="bone_name">
+            <T n="bone_name">_deco_lrg</T>
+          </V>
+        </U>
+      </L>
+      <T n="definition">75675<!--retailPedestal1x1_EP01RETAILblockTileableTall_set1 ("Totes Modern" Pedestal)--></T>
+      <U n="position">
+        <T n="x">6</T>
+        <T n="y">3.5</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">180</T>
+      <T n="definition">75761<!--plantEP01_AW_sapling_01--></T>
+      <U n="position">
+        <T n="x">19</T>
+        <T n="y">19</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">90</T>
+      <T n="definition">75761<!--plantEP01_AW_sapling_01--></T>
+      <U n="position">
+        <T n="x">8</T>
+        <T n="y">18</T>
+      </U>
+    </U>
+    <U>
+      <T n="angle">180</T>
+      <T n="definition">75761<!--plantEP01_AW_sapling_01--></T>
+      <U n="position">
+        <T n="x">18.5</T>
+        <T n="y">14</T>
+      </U>
+    </U>
+  </L>
+  <L n="situation_shifts" />
+</I>

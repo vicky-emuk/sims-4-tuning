@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="LeafPile_VFX_States" s="182985">
+  <L n="_values">
+    <T>182968<!--LeafPile_Off_VFX--></T>
+    <T>182967<!--LeafPile_Low_VFX_Normal--></T>
+    <T>182966<!--LeafPile_Med_VFX_Normal--></T>
+    <T>182965<!--LeafPile_High_VFX_Normal--></T>
+  </L>
+</I>

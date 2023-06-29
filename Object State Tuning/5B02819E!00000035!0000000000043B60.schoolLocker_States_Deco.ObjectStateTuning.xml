@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="schoolLocker_States_Deco" s="277344">
+  <L n="_values">
+    <T>282949<!--schoolLocker_Decoration_Anime--></T>
+    <T>277342<!--schoolLocker_Decoration_DarkAcademia--></T>
+    <T>282950<!--schoolLocker_Decoration_EcoEnthusiast--></T>
+    <T>277343<!--schoolLocker_Decoration_Gamer--></T>
+    <T>282951<!--schoolLocker_Decoration_Goth--></T>
+    <T>277341<!--schoolLocker_Decoration_Grunge--></T>
+    <T>277340<!--schoolLocker_Decoration_Kawaii--></T>
+    <T>277338<!--schoolLocker_Decoration_None--></T>
+    <T>282952<!--schoolLocker_Decoration_Prep--></T>
+    <T>277339<!--schoolLocker_Decoration_Sporty--></T>
+  </L>
+</I>

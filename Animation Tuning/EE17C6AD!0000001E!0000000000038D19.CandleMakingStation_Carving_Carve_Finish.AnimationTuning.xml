@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AnimationElement" i="animation" m="animation.animation_element" n="CandleMakingStation_Carving_Carve_Finish" s="232729">
+  <T n="asm_key" p="InEP09\Sage\CandleMaking_Actions_Carve.interactionasm">02d5df13:00000000:da7cc0765dfcb4f5</T>
+  <L n="begin_states">
+    <T>Carve_Finish</T>
+  </L>
+  <T n="target_name">candleMakingTable</T>
+</I>

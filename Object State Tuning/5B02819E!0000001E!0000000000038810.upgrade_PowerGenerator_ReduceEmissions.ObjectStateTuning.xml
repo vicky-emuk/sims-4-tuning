@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="upgrade_PowerGenerator_ReduceEmissions" s="231440">
+  <L n="_values">
+    <T>231435<!--upgrade_PowerGenerator_ReduceEmissions_NotStarted--></T>
+    <T>231437<!--upgrade_PowerGenerator_ReduceEmissions_Partial--></T>
+    <T>231430<!--upgrade_PowerGenerator_ReduceEmissions_Complete--></T>
+  </L>
+  <T n="linked_stat">231444<!--statistic_Object_Upgrade_PowerGenerator_ReduceEmissions--></T>
+</I>

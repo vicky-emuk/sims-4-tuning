@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="stereoChannel_EarBuds" s="166746">
+  <L n="_values">
+    <T>166751<!--stereoChannel_EarBuds_Off--></T>
+    <T>166592<!--stereoChannel_Alt_EarBuds--></T>
+    <T>166606<!--stereoChannel_Pop_EarBuds--></T>
+    <T>166610<!--stereoChannel_Romance_EarBuds--></T>
+    <T>166614<!--stereoChannel_Blues_EarBuds--></T>
+    <T>166597<!--stereoChannel_Classical_EarBuds--></T>
+    <T>166599<!--stereoChannel_Electro_EarBuds--></T>
+    <T>166602<!--stereoChannel_KidsRadio_EarBuds--></T>
+    <T>166608<!--stereoChannel_Retro_EarBuds--></T>
+    <T>166612<!--stereoChannel_Spooky_EarBuds--></T>
+    <T>166620<!--stereoChannel_WinterHoliday_EarBuds--></T>
+    <T>167558<!--stereoChannel_Backyard_EarBuds--></T>
+    <T>167563<!--stereoChannel_Baroque_EarBuds--></T>
+    <T>167574<!--stereoChannel_Tween_EarBuds--></T>
+    <T>167580<!--stereoChannel_CulturalWorld_EarBuds--></T>
+    <T>167577<!--stereoChannel_Disco_Pop_EarBuds--></T>
+    <T>167570<!--stereoChannel_NewAge_EarBuds--></T>
+    <T>167583<!--stereoChannel_SPop_EarBuds--></T>
+    <T>167586<!--stereoChannel_TalkRadio_EarBuds--></T>
+    <T>167565<!--stereoChannel_DinnerJazz_EarBuds--></T>
+    <T>166604<!--stereoChannel_Lullabies_EarBuds--></T>
+    <T>177006<!--stereoChannel_SingerSongWriter_EarBuds--></T>
+    <T>177382<!--stereoChannel_HospitalMusic_Earbuds--></T>
+    <T>175455<!--stereoChannel_Latin_EarBuds--></T>
+    <T>175729<!--stereoChannel_LatinPop_EarBuds--></T>
+    <T>179784<!--stereoChannel_SummerStrut_EarBuds--></T>
+    <T>197372<!--stereoChannel_HipHop_EarBuds--></T>
+    <T>205231<!--stereoChannel_StrangeTunes_EarBuds--></T>
+    <T>209338<!--stereoChannel_Island_EarBuds--></T>
+    <T>238272<!--stereoChannel_Americana_EarBuds--></T>
+    <T>240057<!--stereoChannel_Focus_EarBuds--></T>
+    <T>240066<!--stereoChannel_Metal_EarBuds--></T>
+    <T>246208<!--stereoChannel_JFolk_EarBuds--></T>
+    <T>247524<!--stereoChannel_Batuu_EarBuds--></T>
+    <T>270462<!--stereoChannel_CottageCore_EarBuds--></T>
+    <T>282821<!--stereoChannel_Brazilian_EarBuds--></T>
+    <T>282831<!--stereoChannel_MixedMusic_EarBuds--></T>
+    <T>312475<!--stereoChannel_Oldies_Earbuds--></T>
+  </L>
+</I>

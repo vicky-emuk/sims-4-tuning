@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="holidayTree_Garland_CommodityState" s="180417">
+  <L n="_values">
+    <T>180367<!--holidayTree_Garland_Start--></T>
+    <T>180366<!--holidayTree_Garland_Done--></T>
+    <T>180431<!--holidayTree_Garland_Decorating--></T>
+  </L>
+  <T n="linked_stat">180422<!--statistic_HolidayTree_Garland_Progress--></T>
+</I>

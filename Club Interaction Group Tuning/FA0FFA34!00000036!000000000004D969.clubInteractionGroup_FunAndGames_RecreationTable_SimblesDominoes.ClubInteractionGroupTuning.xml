@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ClubInteractionGroup" i="club_interaction_group" m="clubs.club_tuning" n="clubInteractionGroup_FunAndGames_RecreationTable_SimblesDominoes" s="317801">
+  <L n="affordances">
+    <T>309422<!--simPickerInteraction_recreationTable_simblesDominoes_playWith--></T>
+    <T>309209<!--recreationTable_simblesDominoes_playing--></T>
+    <T>310374<!--recreationTable_simblesDominoes_practice--></T>
+  </L>
+  <E n="category">FUN_AND_GAMES</E>
+  <T n="category_icon" p="InEP13\UI\Icons\Headlines\headline_RecTableicon.png">2f7d0004:00000000:24b7a23609c8647d</T>
+  <T n="club_bucks_reward">2</T>
+  <T n="is_targeted">False</T>
+  <T n="name">0xEE4E82B4<!--Play Simbles--></T>
+  <T n="tooltip_template">0xEE4E82B4<!--Play Simbles--></T>
+  <T n="tooltip_template_negative">0xDFA98ACF<!--Don't Play Simbles--></T>
+</I>

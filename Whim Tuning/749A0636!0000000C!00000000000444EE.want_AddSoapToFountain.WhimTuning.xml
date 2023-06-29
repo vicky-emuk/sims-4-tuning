@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Whim" i="whim" m="whims.whim" n="want_AddSoapToFountain" s="279790">
+  <V n="chaining_whimset_chance_multiplier" t="enabled">
+    <T n="enabled">1.5</T>
+  </V>
+  <T n="fluff_description">0xE9473375<!--When was the last time this fountain got a good cleaning?--></T>
+  <T n="goal">132261<!--Whim_AddSoapToFountain--></T>
+  <E n="type">SHORT_TERM</E>
+</I>

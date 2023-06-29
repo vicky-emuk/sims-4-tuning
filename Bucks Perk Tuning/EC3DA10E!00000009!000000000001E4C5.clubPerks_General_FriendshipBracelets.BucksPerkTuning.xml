@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="BucksPerk" i="bucks_perk" m="bucks.bucks_perk" n="clubPerks_General_FriendshipBracelets" s="124101">
+  <E n="associated_bucks_type">ClubBucks</E>
+  <T n="display_name">0xDE5F4A5B<!--Friendship Bracelets--></T>
+  <U n="icon">
+    <T n="key" p="InEP02\UI\Icons\ClubRewards\ClubReward_FriendshipBracelet.png">2f7d0004:00000000:63b71d43dad05369</T>
+  </U>
+  <T n="perk_description">0x3D6BE77C<!--Show who your true friends are. Once purchased don't forget to apply it to your Club's uniform from the Club Panel.--></T>
+  <L n="rewards">
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112611<!--socials_Targeted_Friendly_AlwaysOn_STC_Scientist_DiscussAliens--></T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112587</T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">111811</T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">111812</T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112588</T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112099</T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112589</T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112590</T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112591</T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112592<!--buff_SicknessSystem_Patient_Examined_TakeTemp--></T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112593<!--buff_SicknessSystem_Patient_Examined_CheckEyes--></T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112594<!--buff_SicknessSystem_Patient_Examined_CheckEars--></T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112595<!--buff_SicknessSystem_Patient_Examined_Probe--></T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112596<!--loot_Commodity_SicknessSystem_Patient_Examined_TakeTemp--></T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112597<!--loot_Commodity_SicknessSystem_Patient_Examined_Probe--></T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112598<!--loot_Commodity_SicknessSystem_Patient_Examined_CheckEyes--></T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112599<!--loot_Commodity_SicknessSystem_Patient_Examined_CheckEars--></T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112600<!--careerDoctor_Clean_MopPuddle--></T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112601<!--careerDoctor_XRayMachine_Repair--></T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112602</T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112100</T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112603<!--GoHomeFromVacationTravelInteraction--></T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112604<!--computer_WriteResearch--></T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112101</T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112605<!--careerEvent_Doctor_Rounds_High--></T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112102<!--phaseSimple_Food_Pot_Herbalism_Grill--></T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112103<!--phaseSimple_Food_Pot_Herbalism_Stove--></T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112606<!--careerEventSituations_DoctorCareer_RoundsHigh--></T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112104<!--career_Adult_NPC_Ranger--></T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112607<!--buff_Object_HoldingCell_FingerprintNext--></T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112608<!--buff_Object_HoldingCell_MugshotNext--></T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112609<!--buff_Object_HoldingCell_InterrogateNext--></T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112610<!--buff_Object_HoldingCell_SearchNext--></T>
+      </U>
+    </V>
+    <V t="cas_part">
+      <U n="cas_part">
+        <T n="cas_part">112105<!--careerTrack_NPC_Ranger--></T>
+      </U>
+    </V>
+  </L>
+</I>

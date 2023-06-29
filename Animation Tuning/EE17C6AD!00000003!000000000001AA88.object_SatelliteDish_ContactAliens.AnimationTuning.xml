@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AnimationElement" i="animation" m="animation.animation_element" n="object_SatelliteDish_ContactAliens" s="109192">
+  <U n="_overrides">
+    <L n="props">
+      <U>
+        <T n="key">remote</T>
+        <U n="value">
+          <T n="definition">76350<!--remoteTV_EP01GENsatellite (remoteTV_EP01GENsatellite placeholder name)--></T>
+        </U>
+      </U>
+    </L>
+  </U>
+  <T n="asm_key" p="InEP01\Sage\UseRemote_vertical.interactionasm">02d5df13:00000000:404d715550489fbd</T>
+  <L n="begin_states">
+    <T>Contact Aliens</T>
+  </L>
+  <T n="target_name">satelliteDish</T>
+</I>

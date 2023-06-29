@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ProtestSituation" i="situation" m="situations.complex.protest_situation" n="situation_protest" s="136560">
+  <T n="duration">240</T>
+  <E n="exclusivity">WALKBY</E>
+  <L n="protestables">
+    <U>
+      <T n="cause">135285<!--trait_Hidden_Career_Activist_Cause_Economy--></T>
+      <T n="sign_definition">131495<!--buff_Food_Experimental_Foodie_2--></T>
+    </U>
+    <U>
+      <T n="cause">135277<!--trait_Hidden_Career_Activist_Cause_Environment--></T>
+      <T n="sign_definition">131490</T>
+    </U>
+    <U>
+      <T n="cause">135288<!--trait_Hidden_Career_Activist_Cause_Justice--></T>
+      <T n="sign_definition">131499</T>
+    </U>
+    <U>
+      <T n="cause">135287<!--trait_Hidden_Career_Activist_Cause_Peace--></T>
+      <T n="sign_definition">131497<!--buff_Food_Experimental_Foodie_4--></T>
+    </U>
+    <U>
+      <T n="cause">135284<!--trait_Hidden_Career_Activist_Cause_Tax--></T>
+      <T n="sign_definition">131493<!--buff_Food_Experimental_Foodie_0--></T>
+    </U>
+    <U>
+      <T n="cause">135285<!--trait_Hidden_Career_Activist_Cause_Economy--></T>
+      <T n="sign_definition">131494</T>
+    </U>
+    <U>
+      <T n="cause">135277<!--trait_Hidden_Career_Activist_Cause_Environment--></T>
+      <T n="sign_definition">131489</T>
+    </U>
+    <U>
+      <T n="cause">135288<!--trait_Hidden_Career_Activist_Cause_Justice--></T>
+      <T n="sign_definition">131498<!--buff_Food_Experimental_Foodie_5--></T>
+    </U>
+    <U>
+      <T n="cause">135287<!--trait_Hidden_Career_Activist_Cause_Peace--></T>
+      <T n="sign_definition">131496<!--buff_Food_Experimental_Foodie_3--></T>
+    </U>
+    <U>
+      <T n="cause">135284<!--trait_Hidden_Career_Activist_Cause_Tax--></T>
+      <T n="sign_definition">131492</T>
+    </U>
+  </L>
+  <T n="protester_job">136556<!--job_Protester--></T>
+  <T n="protester_role">136559<!--role_Protester--></T>
+  <T n="protester_search_filter">136553<!--ProtesterCauseFilter--></T>
+  <U n="protesting_situation_state">
+    <E n="attractor_point_identifier">AtPo_Protester</E>
+    <T n="create_sign_interaction">139211<!--protester_CreateProtestSign_Situation--></T>
+    <L n="fallback_signs">
+      <T>131500</T>
+    </L>
+    <U n="interaction_of_interest">
+      <L n="affordances">
+        <T>137327<!--socials_Targeted_Friendly_AlwaysOn_Career_Activist_ConvincedToLeave--></T>
+      </L>
+    </U>
+  </U>
+  <V n="situation_end_time_string" t="show_end_time">
+    <T n="show_end_time">0xA3E17143<!--Work day ends at {0.TimeShort}--></T>
+  </V>
+  <L n="weighted_causes">
+    <U>
+      <T n="cause">135285<!--trait_Hidden_Career_Activist_Cause_Economy--></T>
+    </U>
+    <U>
+      <T n="cause">135277<!--trait_Hidden_Career_Activist_Cause_Environment--></T>
+    </U>
+    <U>
+      <T n="cause">135288<!--trait_Hidden_Career_Activist_Cause_Justice--></T>
+    </U>
+    <U>
+      <T n="cause">135287<!--trait_Hidden_Career_Activist_Cause_Peace--></T>
+    </U>
+    <U>
+      <T n="cause">135284<!--trait_Hidden_Career_Activist_Cause_Tax--></T>
+    </U>
+  </L>
+</I>

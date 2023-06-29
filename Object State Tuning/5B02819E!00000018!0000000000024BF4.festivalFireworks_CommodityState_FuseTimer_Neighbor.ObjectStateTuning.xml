@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="festivalFireworks_CommodityState_FuseTimer_Neighbor" s="150516">
+  <L n="_values">
+    <T>150518<!--festivalFireworks_CommodityValues_FuseOff_Neighbor--></T>
+    <T>150519<!--festivalFireworks_CommodityValues_FuseLit_Neighbor--></T>
+    <T>150517<!--festivalFireworks_CommodityValues_FuseEnd_Neighbor--></T>
+  </L>
+  <T n="linked_stat">150515<!--commodity_FestivalFireworks_FuseTimer_Neighbor--></T>
+</I>

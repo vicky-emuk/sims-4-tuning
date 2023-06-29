@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Objective" i="objective" m="event_testing.objective_tuning" n="objectives_Asp_FilthyFabulous_Level3_3" s="256802">
+  <L n="additional_tests">
+    <L>
+      <V t="object_criteria">
+        <U n="object_criteria">
+          <V n="desired_state_threshold" t="enabled">
+            <U n="enabled">
+              <E n="comparison">LESS_OR_EQUAL</E>
+              <T n="value">15133<!--Dirty_Dirty--></T>
+            </U>
+          </V>
+          <V n="subject_specific_tests" t="single_object" />
+        </U>
+      </V>
+    </L>
+  </L>
+  <L n="completion_loot">
+    <T>273578<!--loot_Want_AspirationCompleted--></T>
+  </L>
+  <T n="display_text">0x14016B60<!--Bathe or Shower 3 Times in a Dirty Shower or Tub--></T>
+  <V n="objective_completion_type" t="iterations">
+    <U n="iterations">
+      <T n="iterations_required_to_pass">3</T>
+    </U>
+  </V>
+  <V n="objective_test" t="ran_interaction_test">
+    <U n="ran_interaction_test">
+      <L n="affordances">
+        <T>13084<!--bathtub_TakeBath--></T>
+        <T>239038<!--bathtub_TakeBath_OfftheGrid--></T>
+        <T>213938<!--bathtub_TakeBath_Mermaid--></T>
+        <T>13087<!--bathtub_TakeBubbleBath--></T>
+        <T>145422<!--bathtub_TakeBubbleBath_Butler--></T>
+        <T>213939<!--bathtub_TakeBubbleBath_Mermaid--></T>
+        <T>120340<!--bathtub_TakeBathWithSoak_CitrusSoak--></T>
+        <T>120341<!--bathtub_TakeBathWithSoak_LavenderFoam--></T>
+        <T>120339<!--bathtub_TakeBathWithSoak_MuscleReleaseSoak--></T>
+        <T>120337<!--bathtub_TakeBathWithSoak_RosePetalSoak--></T>
+        <T>120342<!--bathtub_TakeBathWithSoak_MilkHoneySoak--></T>
+        <T>121575<!--bathtub_TakeBathWithSoak_MilkHoneySoak_DirtyBath--></T>
+        <T>120336<!--bathtub_TakeMudBath--></T>
+        <T>121573<!--bathtub_TakeMudBath_DirtyBath--></T>
+        <T>39965<!--shower_TakeShower_Brisk--></T>
+        <T>24332<!--shower_TakeShower_ColdShower--></T>
+        <T>23839<!--shower_TakeShower_Energized--></T>
+        <T>39860<!--shower_TakeShower_Steamy--></T>
+        <T>39845<!--shower_TakeShower_Thoughtful--></T>
+        <T>154397<!--shower_TakeShower_apartmentNeighbor_flirty--></T>
+        <T>141926<!--shower_TakeShower_SingInShower--></T>
+        <T>13950<!--shower_TakeShower--></T>
+        <T>212246<!--shower_TakeShower_OffTheGrid--></T>
+        <T>110818<!--shower_TakeShower_Brisk_NoPrivacy--></T>
+        <T>110819<!--shower_TakeShower_ColdShower_NoPrivacy--></T>
+        <T>110820<!--shower_TakeShower_Energized_NoPrivacy--></T>
+        <T>110817<!--shower_TakeShower_NoPrivacy--></T>
+        <T>110821<!--shower_TakeShower_Steamy_NoPrivacy--></T>
+        <T>110822<!--shower_TakeShower_Thoughtful_NoPrivacy--></T>
+        <T>224188<!--shower_takeshower_wall_noprivacy_YAE--></T>
+        <T>224264<!--shower_takeshower_wall_noprivacy_YAE_Brisk--></T>
+        <T>224481<!--shower_takeshower_wall_noprivacy_YAE_ColdShower--></T>
+        <T>224614<!--shower_takeshower_wall_noprivacy_YAE_Energized--></T>
+        <T>224621<!--shower_takeshower_wall_noprivacy_YAE_Steamy--></T>
+        <T>224971<!--shower_takeshower_wall_noprivacy_YAE_Thoughtful--></T>
+        <T>224187<!--shower_takeshower_wall_privacy_CT--></T>
+        <T>224472<!--shower_takeshower_wall_privacy_CT_Brisk--></T>
+        <T>224487<!--shower_takeshower_wall_privacy_CT_ColdShower--></T>
+        <T>224620<!--shower_takeshower_wall_privacy_CT_Energized--></T>
+        <T>224629<!--shower_takeshower_wall_privacy_CT_Steamy--></T>
+        <T>224989<!--shower_takeshower_wall_privacy_CT_Thoughtful--></T>
+      </L>
+    </U>
+  </V>
+  <T n="satisfaction_points">225</T>
+  <T n="tooltip">0x714A267D<!--Let your shower or tub get really grimey and nasty from use - and use it anyway. Cleaning yourself is already more cleaning than any filth lover wants to do.--></T>
+</I>

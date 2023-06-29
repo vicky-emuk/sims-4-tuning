@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="mural_Wall_Paint_Illusion_Universe" s="148587">
+  <L n="_values">
+    <T>148562<!--mural_Wall_OptUniverse_Complete--></T>
+    <T>148563<!--mural_Wall_OptUniverse_Defaced--></T>
+    <T>148564<!--mural_Wall_OptUniverse_NotStarted--></T>
+    <T>148566<!--mural_Wall_OptUniverse_AToBase_0--></T>
+    <T>148567<!--mural_Wall_OptUniverse_AToBase_1--></T>
+    <T>148568<!--mural_Wall_OptUniverse_AToBase_2--></T>
+    <T>148569<!--mural_Wall_OptUniverse_AToBase_3--></T>
+    <T>148570<!--mural_Wall_OptUniverse_AToBase_4--></T>
+    <T>148572<!--mural_Wall_OptUniverse_BaseToLines_0--></T>
+    <T>148573<!--mural_Wall_OptUniverse_BaseToLines_1--></T>
+    <T>148574<!--mural_Wall_OptUniverse_BaseToLines_2--></T>
+    <T>148575<!--mural_Wall_OptUniverse_BaseToLines_3--></T>
+    <T>148576<!--mural_Wall_OptUniverse_BaseToLines_4--></T>
+    <T>148578<!--mural_Wall_OptUniverse_LinesToFinal_0--></T>
+    <T>148579<!--mural_Wall_OptUniverse_LinesToFinal_1--></T>
+    <T>148580<!--mural_Wall_OptUniverse_LinesToFinal_2--></T>
+    <T>148581<!--mural_Wall_OptUniverse_LinesToFinal_3--></T>
+    <T>148582<!--mural_Wall_OptUniverse_LinesToFinal_4--></T>
+  </L>
+  <T n="linked_stat">148591<!--commodity_Mural_Universe--></T>
+  <T n="persists_across_gallery">True</T>
+</I>

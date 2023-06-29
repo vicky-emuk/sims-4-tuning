@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="droid_States_ChipDefinition" s="245499">
+  <L n="_values">
+    <T>245502<!--droid_Values_ChipDefinition_Default--></T>
+    <T>245503<!--droid_Values_ChipDefinition_FO1--></T>
+    <T>245504<!--droid_Values_ChipDefinition_FO2--></T>
+    <T>245505<!--droid_Values_ChipDefinition_R1--></T>
+    <T>245506<!--droid_Values_ChipDefinition_R2--></T>
+    <T>245507<!--droid_Values_ChipDefinition_S1--></T>
+    <T>245501<!--droid_Values_ChipDefinition_S2--></T>
+  </L>
+</I>

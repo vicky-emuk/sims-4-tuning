@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalSet" i="situation_goal_set" m="situations.situation_goal_set" n="goalSet_CareerScientist_EarlyDefault_BreakTasks_SimRay" s="113948">
+  <L n="chained_goal_sets">
+    <T>113948<!--goalSet_CareerScientist_EarlyDefault_BreakTasks_SimRay--></T>
+  </L>
+  <L n="goals">
+    <U>
+      <T n="goal">112463<!--situationGoalInteractionSim_Coworkers_AskForCrystal--></T>
+      <T n="weight">2</T>
+    </U>
+    <U>
+      <T n="goal">112464<!--situationGoalInteractionSim_Coworkers_AskForMetal--></T>
+      <T n="weight">2</T>
+    </U>
+    <U>
+      <T n="goal">113479<!--situationGoalObjectInteraction_CareerScientist_BrowseWeb--></T>
+    </U>
+    <U>
+      <T n="goal">113459<!--situationGoalObjectInteraction_CareerScientist_GoFishing--></T>
+    </U>
+    <U>
+      <T n="goal">113474<!--situationGoalObjectInteraction_CareerScientist_MaintainBonsai--></T>
+    </U>
+    <U>
+      <T n="goal">113476<!--situationGoalObjectInteraction_CareerScientist_ReadABook--></T>
+    </U>
+    <U>
+      <T n="goal">113477<!--situationGoalObjectInteraction_CareerScientist_Tinker--></T>
+    </U>
+    <U>
+      <T n="goal">113472<!--situationGoalObjectInteraction_CareerScientist_ViewArt--></T>
+    </U>
+    <U>
+      <T n="goal">113475<!--situationGoalObjectInteraction_CareerScientist_ViewBonsai--></T>
+    </U>
+    <U>
+      <T n="goal">113464<!--situationGoalObjectInteraction_CareerScientist_TakeThoughtfulShower--></T>
+    </U>
+    <U>
+      <T n="goal">112321<!--situationGoalInteractionSim_Coworkers_ShareCreativeIdeas--></T>
+    </U>
+    <U>
+      <T n="goal">113467<!--situationGoalObjectInteraction_CareerScientist_TreadmillWorkout--></T>
+    </U>
+    <U>
+      <T n="goal">112277<!--situationGoalRelationship_Career_Scientist_CoworkerMeet--></T>
+      <T n="weight">3</T>
+    </U>
+    <U>
+      <T n="goal">112307<!--situationGoalInteractionSim_Coworkers_DeepConversation--></T>
+    </U>
+    <U>
+      <T n="goal">112309<!--situationGoalInteractionSim_Coworkers_DiscussWork--></T>
+    </U>
+    <U>
+      <T n="goal">112310<!--situationGoalInteractionSim_Coworkers_ProposeCrazyScheme--></T>
+    </U>
+    <U>
+      <T n="goal">112308<!--situationGoalInteractionSim_Coworkers_ShareBrilliantIdeas--></T>
+    </U>
+    <U>
+      <T n="goal">112369<!--situationGoalInteractionSim_Coworkers_GossipAboutCoworkers--></T>
+    </U>
+    <U>
+      <T n="goal">112974<!--situationGoalInteractionSim_Coworkers_GetToKnow--></T>
+    </U>
+    <U>
+      <T n="goal">113610<!--situationGoalInteractionSim_Coworkers_Chat--></T>
+    </U>
+    <U>
+      <T n="goal">113618<!--situationGoalObjectInteraction_CareerScientist_ChatConstructionRobot_10--></T>
+    </U>
+    <U>
+      <T n="goal">115595<!--situationGoalObjectInteraction_CareerScientist_BrowseWeb_PostBreakthroughGoals--></T>
+    </U>
+    <U>
+      <T n="goal">115992<!--situationGoalObjectInteraction_CareerScientist_WaterPlant--></T>
+    </U>
+    <U>
+      <T n="goal">115608<!--situationGoalObjectInteraction_CareerScientist_MaintainBonsai_PostBreakthroughGoals--></T>
+    </U>
+    <U>
+      <T n="goal">115613<!--situationGoalObjectInteraction_CareerScientist_ReadABook_PostBreakthroughGoals--></T>
+    </U>
+    <U>
+      <T n="goal">115994<!--situationGoalObjectInteraction_CareerScientist_WeedPlant--></T>
+    </U>
+    <U>
+      <T n="goal">115593<!--situationGoalObjectInteraction_CareerScientist_Tinker_PostBreakthroughGoals--></T>
+    </U>
+    <U>
+      <T n="goal">115448<!--situationGoalObjectInteraction_CareerScientist_ViewMomentumConserver_Primary--></T>
+    </U>
+    <U>
+      <T n="goal">115460<!--situationGoalObjectInteraction_CareerScientist_ViewHoverLamp_Primary--></T>
+    </U>
+    <U>
+      <T n="goal">113707<!--situationGoalObjectInteraction_CareerScientist_DrinkSerum_Untested--></T>
+    </U>
+    <U>
+      <T n="goal">113732<!--situationGoalInteractionSim_Career_Scientist_GiveSerum_Coworker_Untested--></T>
+    </U>
+    <U>
+      <T n="goal">113737<!--situationGoalObjectInteraction_CareerScientist_MixSerum_Tainted--></T>
+    </U>
+    <U>
+      <T n="goal">113738<!--situationGoalObjectInteraction_CareerScientist_DrinkSerum_Tainted--></T>
+    </U>
+    <U>
+      <T n="goal">113756<!--situationGoalObjectInteraction_CareerScientist_Drink_SyntheticFoodSerum_notRequiredInventory--></T>
+    </U>
+    <U>
+      <T n="goal">113755<!--situationGoalObjectInteraction_CareerScientist_Drink_SyntheticFoodSerum_requiredInventory--></T>
+    </U>
+    <U>
+      <T n="goal">113762<!--situationGoalInteractionSim_Career_Scientist_GiveSerum_SyntheticFood_notRequiredInventory--></T>
+    </U>
+    <U>
+      <T n="goal">113764<!--situationGoalObjectInteraction_CareerScientist_Drink_SnakeOil_requiredSick--></T>
+    </U>
+    <U>
+      <T n="goal">113767<!--situationGoalObjectInteraction_CareerScientist_Drink_RedHot_requiredInventory--></T>
+    </U>
+    <U>
+      <T n="goal">113784<!--situationGoalInteractionSim_Career_Scientist_GiveSerum_RedHot_2--></T>
+    </U>
+    <U>
+      <T n="goal">113804<!--goal_Flirt_RosePerfumeSerum--></T>
+    </U>
+    <U>
+      <T n="goal">113807<!--situationGoalInteractionSim_Career_Scientist_GiveSerum_RosePerfume_notRequiredInventory--></T>
+    </U>
+    <U>
+      <T n="goal">113821<!--situationGoalObjectInteraction_CareerScientist_Drink_Slimify_requiredInventory--></T>
+    </U>
+    <U>
+      <T n="goal">113827<!--situationGoalObjectInteraction_CareerScientist_Drink_GhostGoo_requiredInventory--></T>
+    </U>
+    <U>
+      <T n="goal">112913<!--situationGoalObjectInteraction_CareerScientist_PossessAComputer--></T>
+    </U>
+    <U>
+      <T n="goal">113852<!--situationGoalObjectInteraction_CareerScientist_Drink_OxStrength_notRequiredInventory--></T>
+    </U>
+    <U>
+      <T n="goal">113859<!--situationGoalObjectInteraction_CareerScientist_Drink_SparkDrive_notRequiredInventory--></T>
+    </U>
+    <U>
+      <T n="goal">113861<!--situationGoalObjectInteraction_CareerScientist_DoSitUps_SparkDriveSerum--></T>
+    </U>
+    <U>
+      <T n="goal">113862<!--situationGoalInteractionSim_Career_Scientist_GiveSerum_Tainted_ReapersFriend--></T>
+    </U>
+    <U>
+      <T n="goal">113864<!--situationGoalInteractionSim_Coworkers_Empathize_AlienAura--></T>
+    </U>
+    <U>
+      <T n="goal">115620<!--situationGoalObjectInteraction_CareerScientist_TreadmillWorkout_PostBreakthroughGoals--></T>
+    </U>
+    <U>
+      <T n="goal">113867<!--situationGoalInteractionTime_ChemistryLab_Experiment_SmartSerum--></T>
+    </U>
+    <U>
+      <T n="goal">113875<!--situationGoalObjectInteraction_CareerScientist_Tinker_FixerLuck--></T>
+    </U>
+    <U>
+      <T n="goal">113877<!--situationGoalInteractionSim_Coworkers_ProposeCrazyScheme_FixerLuck--></T>
+    </U>
+    <U>
+      <T n="goal">113880<!--situationGoalObjectInteraction_CareerScientist_Drink_NeedFixer_noUncomfortable--></T>
+    </U>
+    <U>
+      <T n="goal">112839<!--situationGoalObjectInteraction_CareerScientist_Drink_AgeAway--></T>
+    </U>
+    <U>
+      <T n="goal">113919<!--situationGoalObjectInteraction_CareerScientist_Drink_SlimifyEmbiggen--></T>
+    </U>
+    <U>
+      <T n="goal">113920<!--situationGoalObjectInteraction_CareerScientist_Drink_NeedFixer_uncomfortable--></T>
+    </U>
+    <U>
+      <T n="goal">114047<!--situationGoalInteractionSim_Career_Scientist_ConverseAboutAliens--></T>
+    </U>
+    <U>
+      <T n="goal">115622<!--situationGoalObjectInteraction_CareerScientist_ViewArt_PostBreakthroughGoals--></T>
+    </U>
+    <U>
+      <T n="goal">115624<!--situationGoalObjectInteraction_CareerScientist_ViewBonsai_PostBreakthroughGoals--></T>
+    </U>
+  </L>
+</I>

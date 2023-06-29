@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CharacteristicPreferenceItem" i="cas_preference_item" m="cas.cas_preference_item" n="preferenceItem_Characteristic_Cerebral" s="308038">
+  <T n="cas_preference_category">307793<!--PreferenceCategory_Characteristic--></T>
+  <T n="dislike">306423<!--trait_SimPreference_Dislikes_Characteristic_Cerebral--></T>
+  <T n="like">305970<!--trait_SimPreference_Likes_Characteristic_Cerebral--></T>
+  <V n="tooltip" t="enabled">
+    <T n="enabled">0x28BD43BB<!--Cerebral Sims tend to favor logical, scientific, or technological pursuits. Perhaps they enjoy a competitive game of chess, diving into a new book, or achieving virtual greatness in video games!\n\nLiking Cerebral Sims means other Sims with traits like <b>Genius</b>, <b>Geek</b>, or <b>Bookworm</b> will gain some compatibility with your Sim. However, traits like <b>Creative</b> or <b>Goofball</b> will lower their compatibility with your Sim.--></T>
+  </V>
+  <L n="trait_map">
+    <U>
+      <T n="key">16841<!--trait_Geek--></T>
+      <T n="value">3</T>
+    </U>
+    <U>
+      <T n="key">16850<!--trait_Creative--></T>
+      <T n="value">-1</T>
+    </U>
+    <U>
+      <T n="key">246952<!--trait_Lifestyles_Technophobe--></T>
+      <T n="value">-1</T>
+    </U>
+    <U>
+      <T n="key">246953<!--trait_Lifestyles_Techie--></T>
+      <T n="value">2</T>
+    </U>
+    <U>
+      <T n="key">258767<!--trait_SimPreference_Likes_Activities_VideoGaming--></T>
+    </U>
+    <U>
+      <T n="key">264187<!--trait_SimPreference_Likes_Activities_Programming--></T>
+    </U>
+    <U>
+      <T n="key">264189<!--Trait_SimPreference_Likes_Activities_Robotics--></T>
+    </U>
+    <U>
+      <T n="key">264191<!--trait_SimPreference_Likes_Activities_RocketScience--></T>
+    </U>
+    <U>
+      <T n="key">27085<!--trait_Muser--></T>
+      <T n="value">-1</T>
+    </U>
+    <U>
+      <T n="key">27086<!--trait_Quick_Learner--></T>
+    </U>
+    <U>
+      <T n="key">27916<!--trait_Bookworm--></T>
+      <T n="value">3</T>
+    </U>
+    <U>
+      <T n="key">27917<!--trait_Genius--></T>
+      <T n="value">3</T>
+    </U>
+    <U>
+      <T n="key">9337<!--trait_Goofball--></T>
+      <T n="value">-1</T>
+    </U>
+  </L>
+</I>

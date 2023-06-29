@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="object_Rain_inRain_State" s="185114">
+  <L n="_values">
+    <T>185125<!--object_Rain_Inside--></T>
+    <T>185122<!--object_Rain_Outside--></T>
+  </L>
+</I>

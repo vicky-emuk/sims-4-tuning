@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ClubInteractionGroup" i="club_interaction_group" m="clubs.club_tuning" n="clubInteractionGroup_ObjectBased_PlayWithToys" s="122473">
+  <L n="affordances">
+    <T>14441<!--toy_Play--></T>
+    <T>13337<!--DollHouse_Play--></T>
+    <T>39755<!--DollHouse_Play_Join--></T>
+    <T>24620<!--dollhouse_Picker_PlayWith--></T>
+    <T>39738<!--dollhouse_Picker_PlayWith_NotChild--></T>
+    <T>100901<!--dollhouse_Picker_PlayWith_NotChild_Childish--></T>
+    <T>14264<!--si_StuffedAnimal_Play--></T>
+    <T>8265<!--si_Immediate_StuffedAnimal_PlayWith--></T>
+    <T>14263<!--si_StuffedAnimal_Hug--></T>
+    <T>33885<!--stuffedAnimal_Talk_AskAboutPast--></T>
+    <T>33890<!--stuffedAnimal_Talk_CheerUp--></T>
+    <T>33887<!--stuffedAnimal_Talk_TellSecret--></T>
+    <T>33884<!--stuffedAnimal_Talk_TellStory--></T>
+    <T>33886<!--stuffedAnimal_Talk_AskAbout--></T>
+    <T>33888<!--stuffedAnimal_Talk_ImaginationPlay--></T>
+    <T>33889<!--stuffedAnimal_Talk_JokeAbout--></T>
+    <T>33883<!--stuffedAnimal_Talk_CallNames--></T>
+    <T>161894<!--toy_PlayAwayFeelings--></T>
+    <T>165100<!--dollHouse_Play_Join_FromAutoPicker--></T>
+    <T>165775<!--blockConstructionTable_StartPlay--></T>
+    <T>165322<!--blockConstructionTable_Build--></T>
+  </L>
+  <E n="category">KID_ACTIVITIES</E>
+  <T n="category_icon" p="InGame\UI\Icons\Clubs\Rules\clubs_rules_PlayWithToys.png">2f7d0004:00000000:936ef5251ca13022</T>
+  <T n="club_bucks_reward">2</T>
+  <T n="is_targeted">False</T>
+  <T n="name">0xA5824426<!--Play With Toys--></T>
+  <T n="tooltip_template">0x682DFCED<!--Play with Toys--></T>
+  <T n="tooltip_template_negative">0x283764BD<!--Don't Play With Toys--></T>
+</I>

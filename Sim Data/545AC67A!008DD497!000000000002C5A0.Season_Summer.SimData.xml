@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x0000001A">
+  <Instances>
+    <I name="Season_Summer" schema="Season" type="Object">
+      <T name="season_icon">00B2D882-00000000-8875A5A466CA792C</T>
+      <T name="season_name">0xBAA524A4</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="Season" schema_hash="0xD596EB8E">
+      <Columns>
+        <Column name="season_icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="season_name" type="LocalizationKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

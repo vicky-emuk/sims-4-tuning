@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="objectState_Upgrade_SimRay_MindControl_Sleep" s="114376">
+  <L n="_values">
+    <T>114392<!--osv_Upgrade_SimRay_MindControl_Sleep_NotStarted--></T>
+    <T>114401<!--osv_Upgrade_SimRay_MindControl_Sleep_Partial--></T>
+    <T>114384<!--osv_Upgrade_SimRay_MindControl_Sleep_Completed--></T>
+  </L>
+  <T n="linked_stat">114368<!--statistic_Object_Upgrade_SimRay_MindControl_Sleep--></T>
+</I>

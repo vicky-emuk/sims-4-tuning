@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RoleState" i="role_state" m="role.role_state" n="roleState_Batuu_Mission_Rey_Mind_Erase" s="242122">
+  <L n="_buffs">
+    <U>
+      <T n="buff_type">142027<!--buff_Role_Appropriateness_NoPhone--></T>
+    </U>
+    <U>
+      <T n="buff_type">101052<!--Buff_Role_Appropriateness_NoCallToMeal--></T>
+    </U>
+    <U>
+      <T n="buff_type">240036<!--buff_AutonomyMod_SocialNone--></T>
+    </U>
+    <U>
+      <T n="buff_type">27833<!--buff_Suppress_Visible_Motives--></T>
+    </U>
+    <U>
+      <T n="buff_type">242128<!--buff_Batuu_Missions_Rey_EraseMind--></T>
+    </U>
+  </L>
+  <U n="_off_lot_autonomy_buff">
+    <T n="buff_type">40411<!--buff_offLotAutonomyMod_All--></T>
+  </U>
+  <V n="_on_activate" t="parameterized_autonomy_ping">
+    <U n="parameterized_autonomy_ping">
+      <E n="priority">Critical</E>
+      <V n="run_priority" t="enabled">
+        <E n="enabled">Critical</E>
+      </V>
+      <L n="static_commodities">
+        <T>242127<!--staticCommodity_Batuu_Erase_Mind--></T>
+      </L>
+    </U>
+  </V>
+  <L n="preroll_affordances">
+    <T>233352<!--waypoint_Batuu_Wander_AroundNeighborhood--></T>
+  </L>
+</I>

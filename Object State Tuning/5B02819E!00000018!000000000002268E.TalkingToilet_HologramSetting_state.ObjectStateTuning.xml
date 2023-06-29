@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="TalkingToilet_HologramSetting_state" s="140942">
+  <L n="_values">
+    <T>136672<!--TalkingToilet_Settings_VFX_Holo_1--></T>
+    <T>136671<!--TalkingToilet_Settings_VFX_Holo_2--></T>
+    <T>136670<!--TalkingToilet_Settings_VFX_Holo_3--></T>
+    <T>142614<!--TalkingToilet_Settings_VFX_Holo_4--></T>
+  </L>
+</I>

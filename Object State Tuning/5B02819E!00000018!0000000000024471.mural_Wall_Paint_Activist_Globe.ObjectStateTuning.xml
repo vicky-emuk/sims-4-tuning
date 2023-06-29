@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="mural_Wall_Paint_Activist_Globe" s="148593">
+  <L n="_values">
+    <T>148597<!--mural_Wall_ActGlobe_Complete--></T>
+    <T>148598<!--mural_Wall_ActGlobe_Defaced--></T>
+    <T>148599<!--mural_Wall_ActGlobe_NotStarted--></T>
+    <T>148601<!--mural_Wall_ActGlobe_AToBase_0--></T>
+    <T>148602<!--mural_Wall_ActGlobe_AToBase_1--></T>
+    <T>148603<!--mural_Wall_ActGlobe_AToBase_2--></T>
+    <T>148604<!--mural_Wall_ActGlobe_AToBase_3--></T>
+    <T>148605<!--mural_Wall_ActGlobe_AToBase_4--></T>
+    <T>148607<!--mural_Wall_ActGlobe_BaseToLines_0--></T>
+    <T>148608<!--mural_Wall_ActGlobe_BaseToLines_1--></T>
+    <T>148609<!--mural_Wall_ActGlobe_BaseToLines_2--></T>
+    <T>148610<!--mural_Wall_ActGlobe_BaseToLines_3--></T>
+    <T>148611<!--mural_Wall_ActGlobe_BaseToLines_4--></T>
+    <T>148613<!--mural_Wall_ActGlobe_LinesToFinal_0--></T>
+    <T>148614<!--mural_Wall_ActGlobe_LinesToFinal_1--></T>
+    <T>148615<!--mural_Wall_ActGlobe_LinesToFinal_2--></T>
+    <T>148616<!--mural_Wall_ActGlobe_LinesToFinal_3--></T>
+    <T>148617<!--mural_Wall_ActGlobe_LinesToFinal_4--></T>
+  </L>
+  <T n="linked_stat">148595<!--commodity_Mural_ActivistGlobe--></T>
+  <T n="persists_across_gallery">True</T>
+</I>

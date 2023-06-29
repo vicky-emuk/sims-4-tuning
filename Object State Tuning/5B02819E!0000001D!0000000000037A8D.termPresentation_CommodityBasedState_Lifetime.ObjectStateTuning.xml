@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="termPresentation_CommodityBasedState_Lifetime" s="227981">
+  <L n="_values">
+    <T>227978<!--university_TermPresentation_CommodityBased_StateValues_Lifetime_Active--></T>
+    <T>227979<!--university_TermPresentation_CommodityBased_StateValues_Lifetime_EndOfLife--></T>
+    <T>230100<!--university_TermPresentation_CommodityBased_StateValues_Lifetime_Active_8Days--></T>
+    <T>230101<!--university_TermPresentation_CommodityBased_StateValues_Lifetime_Active_9Days--></T>
+  </L>
+  <T n="linked_stat">227983<!--commodity_University_TermPresentation_Lifetime--></T>
+</I>

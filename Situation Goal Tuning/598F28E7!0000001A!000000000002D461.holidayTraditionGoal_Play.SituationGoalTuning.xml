@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalObjectInteraction" i="situation_goal" m="situations.situation_goal_object_interaction" n="holidayTraditionGoal_Play" s="185441">
+  <V n="_display_data" t="enabled">
+    <U n="enabled">
+      <V n="instance_display_icon" t="enabled">
+        <T n="enabled" p="InEP05\UI\Icons\Events\HolidayTraditions\HolidayTraditions_Play.png">2f7d0004:00000000:8d1c054f56cd751d</T>
+      </V>
+      <V n="instance_display_name" t="enabled">
+        <T n="enabled">0xA0C92C3F<!--Games--></T>
+      </V>
+      <V n="instance_display_tooltip" t="enabled">
+        <T n="enabled">0xD1763E83<!--Strategy, learning, entertainment, and accomplishment all in the same activity. Great alone or with friends.\n\nTo participate, play with video games, toys, the arcade, or the chess table.--></T>
+      </V>
+    </U>
+  </V>
+  <L n="_goal_loot_list">
+    <T>190504<!--Loot_HolidayTraditions_HolidayGoalComplete--></T>
+  </L>
+  <U n="_goal_test">
+    <L n="affordances">
+      <T>14441<!--toy_Play--></T>
+      <T>155712<!--toy_play_Watch--></T>
+      <T>147697<!--toy_toddler_play--></T>
+      <T>151814<!--toy_toddler_play_show--></T>
+      <T>97322<!--chess_PlayWithPicker--></T>
+      <T>97616<!--Chess_PonderMoves--></T>
+      <T>13155<!--Chess_Social--></T>
+      <T>168618<!--social_Pet_Play_Fetch_BoredProtection_Setup--></T>
+      <T>167750<!--social_Pet_Play_Fetch_Command--></T>
+      <T>164068<!--social_Pet_Play_Fetch_FakeThrow--></T>
+      <T>167533<!--social_Pet_Play_Fetch_Training--></T>
+      <T>176592<!--social_Pet_Play_Fetch_Wait--></T>
+      <T>145979<!--si_Touching_Toddler_Roughhouse--></T>
+      <T>13131<!--cardGame_Playing--></T>
+      <T>127342<!--DontWakeLlamaGame_Play--></T>
+      <T>127885<!--game_Social_Challenge_DontWakeLlama--></T>
+      <T>109945<!--horseshoes_Social_PlayGame--></T>
+      <T>103934<!--Horseshoes_Social_Practice--></T>
+      <T>158660<!--bowlingLane_Bowl--></T>
+      <T>134735<!--battleStation_Social_BattleMonsters--></T>
+      <T>135598<!--battleStation_Social_Practice--></T>
+      <T>128280<!--si_Dartboard_StartPlaying--></T>
+      <T>124008<!--foosballTable_Social_Challenge--></T>
+      <T>124821<!--foosballTable_Social_Challenge_Solo--></T>
+      <T>121528<!--foosballTable_Play--></T>
+    </L>
+    <V n="interaction_outcome" t="disabled" />
+    <L n="tags">
+      <E>Interaction_PlayToy</E>
+      <E>Interaction_PlayVideoGames</E>
+      <E>Interaction_Basketball_Play</E>
+    </L>
+    <E n="test_event">InteractionStart</E>
+  </U>
+  <T n="_iterations">4</T>
+  <T n="_score">25</T>
+  <T n="audio_sting_on_complete" p="InGame\Audio\Bumper\bumper_event_goal_complete.propx">39b2aa4a:00000000:ed52c39bcc2a7111</T>
+  <E n="display_type">COMPLETION_ONLY</E>
+  <V n="score_on_iteration_complete" t="enabled">
+    <T n="enabled">25</T>
+  </V>
+</I>

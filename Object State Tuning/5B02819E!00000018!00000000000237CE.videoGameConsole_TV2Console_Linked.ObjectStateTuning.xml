@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectStateValue" i="object_state" m="objects.components.state" n="videoGameConsole_TV2Console_Linked" s="145358">
+  <L n="super_affordances">
+    <T>147645<!--videoGameConsole_PlayGame_Start_Party_TV--></T>
+    <T>147646<!--videoGameConsole_PlayGame_Start_Platformer_TV--></T>
+    <T>147647<!--videoGameConsole_PlayGame_Start_Racing_TV--></T>
+    <T>147648<!--videoGameConsole_PlayGame_Start_RPG_TV--></T>
+    <T>147654<!--videoGameConsole_GamedOut_Start_Party_TV--></T>
+    <T>147655<!--videoGameConsole_GamedOut_Start_Platformer_TV--></T>
+    <T>147656<!--videoGameConsole_GamedOut_Start_Racing_TV--></T>
+    <T>147657<!--videoGameConsole_GamedOut_Start_RPG_TV--></T>
+    <T>147637<!--videoGameConsole_Livestream_Start_Party_TV--></T>
+    <T>147638<!--videoGameConsole_Livestream_Start_Platformer_TV--></T>
+    <T>147639<!--videoGameConsole_Livestream_Start_Racing_TV--></T>
+    <T>147640<!--videoGameConsole_Livestream_Start_RPG_TV--></T>
+    <T>147662<!--videoGameConsole_StreamLetsPlay_Start_Party_TV--></T>
+    <T>147663<!--videoGameConsole_StreamLetsPlay_Start_Platformer_TV--></T>
+    <T>147664<!--videoGameConsole_StreamLetsPlay_Start_Racing_TV--></T>
+    <T>147665<!--videoGameConsole_StreamLetsPlay_Start_RPG_TV--></T>
+    <T>147641<!--videoGameConsole_PlayGameTournament_Start_Party_TV--></T>
+    <T>147642<!--videoGameConsole_PlayGameTournament_Start_Platformer_TV--></T>
+    <T>147643<!--videoGameConsole_PlayGameTournament_Start_Racing_TV--></T>
+    <T>147644<!--videoGameConsole_PlayGameTournament_Start_RPG_TV--></T>
+    <T>147658<!--videoGameConsole_PlayGameTournamentPro_Start_Party_TV--></T>
+    <T>147659<!--videoGameConsole_PlayGameTournamentPro_Start_Platformer_TV--></T>
+    <T>147660<!--videoGameConsole_PlayGameTournamentPro_Start_Racing_TV--></T>
+    <T>147661<!--videoGameConsole_PlayGameTournamentPro_Start_RPG_TV--></T>
+    <T>147741<!--videoGameConsole_PlayWith_Multiplayer_Party_TV--></T>
+    <T>150763<!--videoGameConsole_Burnt_ToolTip_TV--></T>
+    <T>147742<!--videoGameConsole_PlayWith_Multiplayer_Racing_TV--></T>
+    <T>147738<!--videoGameConsole_PlayWith_Online_Party_TV--></T>
+    <T>147740<!--videoGameConsole_PlayWith_Online_Racing_TV--></T>
+    <T>147546<!--videoGameConsole_JoinGame_TV--></T>
+    <T>147547<!--videoGameConsole_WatchGame_TV--></T>
+    <T>150513<!--videoGameConsole_Broken_ToolTip_TV--></T>
+    <T>150661<!--videoGameConsole_TurnOff_Immediate_TV--></T>
+  </L>
+</I>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000036">
+  <Instances>
+    <I name="lifeMilestone_FirstFight" schema="DevelopmentalMilestone" type="Object">
+      <L name="ages">
+        <T type="Int64">4</T>
+        <T type="Int64">8</T>
+        <T type="Int64">16</T>
+        <T type="Int64">32</T>
+        <T type="Int64">64</T>
+      </L>
+      <T name="category">4</T>
+      <T name="icon">00B2D882-00000000-E8F814877D6A4718</T>
+      <V name="is_primary_milestone" variant="0xB602B441" schema="DevelopmentalMilestoneIsPrimaryMilestone">
+        <T name="hint_text">0xDD418955</T>
+        <V name="revealable_name" variant="0xF8CBBF4C">
+          <T type="LocalizationKey">0xB564411B</T>
+        </V>
+        <L name="tests">
+          <L type="Vector">
+            <V type="Variant" variant="0xCB5FDDC7" schema="TunableTraitTest">
+              <T name="apply_thresholds_on_individual_basis">1</T>
+              <L name="blacklist_trait_types" />
+              <L name="blacklist_traits">
+                <T type="TableSetReference">251970</T>
+              </L>
+              <T name="num_blacklist_allowed">0</T>
+              <T name="num_whitelist_required">1</T>
+              <T name="subject">1</T>
+              <L name="whitelist_trait_types" />
+              <L name="whitelist_traits">
+                <T type="TableSetReference">16857</T>
+                <T type="TableSetReference">248829</T>
+              </L>
+            </V>
+          </L>
+        </L>
+      </V>
+      <T name="name">0x7E007305</T>
+      <T name="ui_sort_order">3</T>
+      <T name="unlocked_text">0xF5476E0B</T>
+      <T name="unlocked_text_no_context">0x36586B0F</T>
+      <T name="unlocked_text_target_sim_header">0x881E311A</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="DevelopmentalMilestone" schema_hash="0x87ED1F96">
+      <Columns>
+        <Column name="ages" type="Vector" flags="0x00000000" />
+        <Column name="category" type="UInt32" flags="0x00000000" />
+        <Column name="icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="is_primary_milestone" type="Variant" flags="0x00000000" />
+        <Column name="name" type="LocalizationKey" flags="0x00000000" />
+        <Column name="ui_sort_order" type="Int32" flags="0x00000000" />
+        <Column name="unlocked_text" type="LocalizationKey" flags="0x00000000" />
+        <Column name="unlocked_text_no_context" type="LocalizationKey" flags="0x00000000" />
+        <Column name="unlocked_text_target_sim_header" type="LocalizationKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="DevelopmentalMilestoneIsPrimaryMilestone" schema_hash="0x14C33DFE">
+      <Columns>
+        <Column name="hint_text" type="LocalizationKey" flags="0x00000000" />
+        <Column name="revealable_name" type="Variant" flags="0x00000000" />
+        <Column name="tests" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableTraitTest" schema_hash="0x7D5993BF">
+      <Columns>
+        <Column name="apply_thresholds_on_individual_basis" type="Boolean" flags="0x00000000" />
+        <Column name="blacklist_trait_types" type="Vector" flags="0x00000000" />
+        <Column name="blacklist_traits" type="Vector" flags="0x00000000" />
+        <Column name="num_blacklist_allowed" type="Int32" flags="0x00000000" />
+        <Column name="num_whitelist_required" type="Int32" flags="0x00000000" />
+        <Column name="subject" type="Int64" flags="0x00000000" />
+        <Column name="whitelist_trait_types" type="Vector" flags="0x00000000" />
+        <Column name="whitelist_traits" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

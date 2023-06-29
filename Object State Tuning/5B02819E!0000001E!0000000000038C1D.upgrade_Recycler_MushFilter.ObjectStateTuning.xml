@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="upgrade_Recycler_MushFilter" s="232477">
+  <L n="_values">
+    <T>232469<!--upgrade_Recycler_NotStarted_MushFilter--></T>
+    <T>232473<!--upgrade_Recycler_Partial_MushFilter--></T>
+    <T>232465<!--upgrade_Recycler_Completed_MushFilter--></T>
+  </L>
+  <T n="linked_stat">232461<!--statistic_Object_Upgrade_Recycler_MushFilter--></T>
+</I>

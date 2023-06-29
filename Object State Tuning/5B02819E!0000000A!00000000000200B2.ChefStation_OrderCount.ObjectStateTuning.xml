@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="ChefStation_OrderCount" s="131250">
+  <L n="_values">
+    <T>131253<!--ChefStationOrderCount_NoOrders--></T>
+    <T>131254<!--ChefStationOrderCount_SomeOrders--></T>
+    <T>131255<!--ChefStationOrderCount_FullOrders--></T>
+  </L>
+  <T n="linked_stat">131251<!--commodity_ChefStation_OrderCount--></T>
+</I>

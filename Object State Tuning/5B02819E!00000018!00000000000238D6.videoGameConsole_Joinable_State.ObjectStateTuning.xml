@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="videoGameConsole_Joinable_State" s="145622">
+  <L n="_values">
+    <T>145625<!--videoGameConsole_Joinable_Off--></T>
+    <T>145624<!--videoGameConsole_Joinable_On--></T>
+    <T>151188<!--videoGameConsole_Values_Joinable_Off_SinglePlayer--></T>
+  </L>
+</I>

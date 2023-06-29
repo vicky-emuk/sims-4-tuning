@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AnimationElement" i="animation" m="animation.animation_element" n="infectedPlant_TakePhoto" s="203089">
+  <T n="asm_key" p="InGP07\Sage\investigationSystem_labDoor_takePicture.interactionasm">02d5df13:00000000:4421da852392143e</T>
+  <L n="begin_states">
+    <T>TakePicture</T>
+  </L>
+  <T n="target_name" o="true" />
+</I>

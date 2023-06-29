@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x0000001D">
+  <Instances>
+    <I name="casStoriesQuestion_EP08_University_Q4" schema="CasStoriesQuestion" type="Object">
+      <T name="icon">00B2D882-00000000-540B941EE3590BFB</T>
+      <T name="pack">29</T>
+      <L name="possible_answers">
+        <T type="TableSetReference">227147</T>
+        <T type="TableSetReference">227148</T>
+        <T type="TableSetReference">227149</T>
+      </L>
+      <T name="text">0xC9A6CD5A</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="CasStoriesQuestion" schema_hash="0x5ACAD7C3">
+      <Columns>
+        <Column name="icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="pack" type="Int64" flags="0x00000000" />
+        <Column name="possible_answers" type="Vector" flags="0x00000000" />
+        <Column name="text" type="LocalizationKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

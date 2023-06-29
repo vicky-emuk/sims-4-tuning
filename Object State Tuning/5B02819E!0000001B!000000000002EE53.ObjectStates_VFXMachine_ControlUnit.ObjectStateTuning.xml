@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="ObjectStates_VFXMachine_ControlUnit" s="192083">
+  <L n="_values">
+    <T>192086<!--ObjectState_VFXMachine_ControlUnit_Bubbles--></T>
+    <T>192087<!--ObjectState_VFXMachine_ControlUnit_Confetti--></T>
+    <T>192088<!--ObjectState_VFXMachine_ControlUnit_Ash--></T>
+    <T>192089<!--ObjectState_VFXMachine_ControlUnit_Off--></T>
+    <T>192090<!--ObjectState_VFXMachine_ControlUnit_Rain--></T>
+    <T>192091<!--ObjectState_VFXMachine_ControlUnit_Snow--></T>
+    <T>192092<!--ObjectState_VFXMachine_ControlUnit_Sparkles--></T>
+    <T>198269<!--objectState_VFXMachine_ControlUnit_Blossom--></T>
+    <T>198268<!--objectState_VFXMachine_ControlUnit_Leaves--></T>
+    <T>198270<!--objectState_VFXMachine_ControlUnit_Money--></T>
+    <T>201559<!--objectState_VFXMachine_ControlUnit_Meatball--></T>
+    <T>201568<!--objectState_VFXMachine_ControlUnit_Hearts--></T>
+    <T>202962<!--objectState_VFXMachine_ControlUnit_GenericIdle--></T>
+  </L>
+</I>

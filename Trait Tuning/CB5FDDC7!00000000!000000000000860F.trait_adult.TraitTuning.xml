@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Trait" i="trait" m="traits.traits" n="trait_adult" s="34319">
+  <L n="actor_mixers">
+    <U>
+      <T n="key">13991<!--sim_BeAffectionate--></T>
+      <L n="value">
+        <T>120627<!--mixer_Social_OfferFootMassage_Targeted_Friendly_AlwaysOn--></T>
+        <T>270939<!--mixer_Social_OfferPedicure_Targeted_Friendly_AlwaysOn--></T>
+        <T>120628<!--mixer_Social_OfferHandMassage_Targeted_Friendly_AlwaysOn--></T>
+        <T>270937<!--mixer_Social_OfferManicure_Targeted_Friendly_AlwaysOn--></T>
+      </L>
+    </U>
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>98300<!--mixer_social_AskMoveIn_targeted_Friendly_alwaysOn--></T>
+        <T>26911<!--mixer_social_ExpressAdmiration_targeted_Friendly_MiddleScore--></T>
+        <T>25909<!--mixer_social_DiscussInterests_friendly_STC--></T>
+        <T>98637<!--mixer_social_ChatAboutPropertyVaules_targeted_friendly_alwaysOn_neighbor--></T>
+        <T>26910<!--mixer_social_DeepConversation_targeted_Friendly_MiddleScore--></T>
+        <T>98635<!--mixer_social_ComplainAboutLocalYouths_targeted_friendly_alwaysOn_neighbor--></T>
+        <T>26909<!--mixer_social_AskAboutDay_targeted_Friendly_alwaysOn--></T>
+        <T>24556<!--mixer_Social_GetToKnow_Friendly_STC--></T>
+        <T>25584<!--mixer_social_GossipAbout_targeted_friendly_alwaysOn--></T>
+        <T>26006<!--mixer_social_Apologize_targeted_friendly_lowScore--></T>
+        <T>26154<!--mixer_social_BegForgiveness_targeted_friendly_lowScore--></T>
+        <T>26153<!--mixer_social_FindCommonGround_targeted_friendly_lowScore--></T>
+        <T>26152<!--mixer_social_TryToChat_targeted_friendly_lowScore--></T>
+        <T>25908<!--mixer_social_AskAboutCareer_friendly_STC--></T>
+        <T>125431<!--mixer_social_targeted_friendly_MiddleScore_SeeOutfit_Everyday--></T>
+        <T>125433<!--mixer_social_targeted_friendly_MiddleScore_SeeOutfit_Athletic--></T>
+        <T>130268<!--mixer_socials_EnthuseAboutMeal_Targeted_Friendly_AlwaysOn_DiningSocials--></T>
+        <T>187811<!--mixer_social_ComplimentCostume_Targeted_Friendly--></T>
+        <T>187810<!--mixer_social_DiscussCostume_targeted_Friendly--></T>
+        <T>122889<!--mixer_foosball_DiscussGame--></T>
+        <T>149273<!--mixer_social_ConfessFearOfVampires_Targeted_Friendly_AlwaysOn_STC--></T>
+        <T>149464<!--mixer_social_VampireCreation_AskToTurn--></T>
+        <T>149274<!--mixer_social_DebateExistenceOfVampires_Targeted_Friendly_AlwaysOn--></T>
+        <T>149272<!--mixer_social_EnthuseAboutVampires_Targeted_Friendly_AlwaysOn--></T>
+        <T>148970<!--mixer_social_PraiseVampireLifestyle_Targeted_Friendly_AlwaysOn--></T>
+        <T>98639<!--mixer_social_ComplimentHouse_targeted_friendly_alwaysOn_neighbor--></T>
+        <T>125432<!--mixer_social_targeted_friendly_MiddleScore_SeeOutfit_Formal--></T>
+        <T>125436<!--mixer_social_targeted_friendly_MiddleScore_SeeOutfit_Party--></T>
+        <T>125435<!--mixer_social_targeted_friendly_MiddleScore_SeeOutfit_Sleep--></T>
+        <T>125434<!--mixer_social_targeted_friendly_MiddleScore_SeeOutfit_Swim--></T>
+        <T>128417<!--mixer_Social_Dartboard_DiscussGame_Targeted_Friendly_AlwaysOn--></T>
+        <T>131940<!--mixer_social_AskToPlayInFountain_targeted_friendly_alwaysOn--></T>
+        <T>139622<!--mixer_social_CheerUp_targeted_Friendly_alwaysOn_TragicClown--></T>
+        <T>135594<!--mixer_social_AskToJustBeFriends_Targeted_Friendly_alwaysOn--></T>
+        <T>136400<!--mixer_social_AskAboutCulturalFoods_targeted_Friendly--></T>
+        <T>186275<!--mixer_social_targeted_friendly_MiddleScore_SeeOutfit_ColdOutfit--></T>
+        <T>186276<!--mixer_social_targeted_friendly_MiddleScore_SeeOutfit_HotOutfit--></T>
+        <T>28631<!--mixer_social_AskAboutFood_targeted_Friendly_alwaysOn_Event--></T>
+        <T>29359<!--mixer_social_AskAboutDrink_targeted_Friendly_alwaysOn_Event--></T>
+        <T>32163<!--mixer_social_ComplainAboutBills_targeted_Friendly_alwaysOn_bills--></T>
+        <T>32168<!--mixer_social_ComplainAboutLackOfWater_targeted_friendly_alwaysOn_bills--></T>
+        <T>32169<!--mixer_social_ComplainAboutLackOfPower_targeted_friendly_alwaysOn_billsLack--></T>
+        <T>33756<!--mixer_social_WritingJournalism_ArticlePositive_Thanks_targeted_Friendly_alwaysOn--></T>
+        <T>34954<!--mixer_social_Congratulate_targeted_Friendly_alwaysOn_event--></T>
+        <T>35490<!--mixer_social_ComplimentColorChoices_targeted_Friendly_alwaysOn_situation_Day1DLC--></T>
+        <T>35495<!--mixer_social_ComplimentCostume_targeted_Friendly_alwaysOn_situation_Day1DLC--></T>
+        <T>35493<!--mixer_social_DiscussLackOfNewspapers_targeted_Friendly_alwysOn_situation_Day1DLC--></T>
+        <T>35491<!--mixer_social_DiscussZebras_targeted_Friendly_alwaysOn_situation_Day1DLC--></T>
+        <T>36729<!--mixer_social_AskDueDate_targeted_friendly_alwaysOn_Pregnancy--></T>
+        <T>98638<!--mixer_social_DiscussLocalFishingSpots_targeted_friendly_alwaysOn_neighbor--></T>
+        <T>98636<!--mixer_social_DiscussNeighborhoodChanges_targeted_friendly_alwaysOn_neighbor--></T>
+        <T>182159<!--mixer_social_WeatherTemperatureSocials_TalkAboutWeather--></T>
+        <T>182188<!--mixer_social_WeatherTemperatureSocials_TalkAboutTemperature--></T>
+        <T>109583<!--mixer_social_DiscussSimilarities_Targeted_Friendly_AlwaysOn_clone--></T>
+        <T>119533<!--mixer_social_WooHooInSteamRoom_targeted_romance_transition--></T>
+        <T>119534<!--mixer_social_TryForBabyInSteamRoom_targeted_romance_transition--></T>
+        <T>26916<!--mixer_social_TellDramaticStory_group_Friendly_MiddleScore--></T>
+        <T>26915<!--mixer_social_TellEngagingStory_group_Friendly_MiddleScore--></T>
+        <T>27879<!--mixer_social_TalkAboutArt_targeted_Friendly_alwaysOn--></T>
+        <T>30986<!--mixer_social_PointOutConstellations_targeted_Friendly_alwaysOn_careers--></T>
+        <T>295791<!--mixer_Social_TryForBabyInPhotobooth_targeted_romance_transition--></T>
+        <T>25959<!--mixer_social_ShowOffMuscles_targeted_friendly_emotionSpecific--></T>
+        <T>98634<!--mixer_social_GossipAboutNeighbors_targeted_friendly_alwaysOn_neighbor--></T>
+        <T>26162<!--mixer_social_Flirt_targeted_romance_alwaysOn--></T>
+        <T>26164<!--mixer_social_PickupLine_targeted_romance_alwaysOn--></T>
+        <T>33870<!--mixer_social_AskOnDateEvent_targeted_romance_alwaysOn--></T>
+      </L>
+    </U>
+  </L>
+  <L n="ages">
+    <E>ADULT</E>
+  </L>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">34526<!--Buff_Trait_Adult--></T>
+    </U>
+    <U>
+      <T n="buff_type">246488<!--buff_Lifestyles_CanUnlockLifestyles--></T>
+    </U>
+    <U>
+      <T n="buff_type">315849<!--buff_SelfDiscovery_CanMakeProgress--></T>
+    </U>
+    <U>
+      <T n="buff_type">282929<!--buff_Route_UsePhone_PC_Only--></T>
+    </U>
+  </L>
+  <T n="buffs_add_on_spawn_only">False</T>
+  <L n="conditional_commodities">
+    <U>
+      <T n="commodity">312963<!--commodity_MidlifeCrisis_PreMidlife--></T>
+      <L n="tests">
+        <L>
+          <V t="trait">
+            <U n="trait">
+              <L n="blacklist_traits">
+                <T>313577<!--trait_Hidden_MidlifeCrisis_HadACrisis--></T>
+              </L>
+            </U>
+          </V>
+        </L>
+      </L>
+    </U>
+  </L>
+  <L n="conflicting_traits">
+    <T>34314<!--trait_baby--></T>
+    <T>34316<!--trait_child--></T>
+    <T>34317<!--trait_teen--></T>
+    <T>34318<!--trait_youngAdult--></T>
+    <T>34320<!--trait_elder--></T>
+  </L>
+  <T n="display_name">0x68283798<!--Adult--></T>
+  <T n="display_name_gender_neutral">0x94C9F940<!--Adult--></T>
+  <L n="event_test_based_loots">
+    <U>
+      <T n="loot">247120<!--loot_Lifestyles_Progress_Unlock_Technophobe--></T>
+      <V n="test" t="utility">
+        <U n="utility">
+          <L n="utility_states">
+            <U>
+              <T n="require_active">False</T>
+            </U>
+          </L>
+        </U>
+      </V>
+    </U>
+  </L>
+  <T n="icon" p="InGame\UI\Icons\SimSocialStatus\SimSocialStatus_Age_Adult.png">2f7d0004:00000000:810e3a4d4bf15fbc</T>
+  <L n="initial_commodities">
+    <T>272961<!--commodity_Sim_Fulfillment--></T>
+    <T>304271<!--commodity_Burnout_CreativeTracker--></T>
+    <T>306749<!--commodity_Burnout_MentalTracker--></T>
+  </L>
+  <E n="min_lod_value">MINIMUM</E>
+  <L n="provided_mixers">
+    <U>
+      <T n="key">13991<!--sim_BeAffectionate--></T>
+      <L n="value">
+        <T>119941<!--mixer_Social_AskForFootMassage_Targeted_Friendly_AlwaysOn--></T>
+        <T>270936<!--mixer_Social_AskForPedicure_Targeted_Friendly_AlwaysOn--></T>
+        <T>119940<!--mixer_Social_AskForHandMassage_Targeted_Friendly_AlwaysOn--></T>
+        <T>270934<!--mixer_Social_AskForManicure_Targeted_Friendly_AlwaysOn--></T>
+      </L>
+    </U>
+    <U>
+      <T n="key">13998<!--sim_Chat--></T>
+      <L n="value">
+        <T>118113<!--mixer_social_AskForMassage_Fertility_Friendly_alwaysOn--></T>
+        <T>118120<!--mixer_social_AskForMassage_Aromatherapy_Mint_Friendly_alwaysOn--></T>
+        <T>118122<!--mixer_social_AskForMassage_Aromatherapy_LotusBlossom_Friendly_alwaysOn--></T>
+        <T>118121<!--mixer_social_AskForMassage_Aromatherapy_Lavender_Friendly_alwaysOn--></T>
+        <T>118109<!--mixer_social_AskForMassage_Swedish_Friendly_alwaysOn--></T>
+        <T>118112<!--mixer_social_AskForMassage_StoneMassage_Friendly_alwaysOn--></T>
+        <T>118111<!--mixer_social_AskForMassage_SportsMassage_Friendly_alwaysOn--></T>
+        <T>118110<!--mixer_social_AskForMassage_DeepTissue_Friendly_alwaysOn--></T>
+        <T>282664<!--mixer_Social_Romance_AskAboutSexualOrientation--></T>
+        <T>291671<!--mixer_Social_SexualOrientation_AskAboutWooHooInterests--></T>
+        <T>291676<!--mixer_Social_SexualOrientation_AskToBeWooHooPartners--></T>
+        <T>291700<!--mixer_Social_SexualOrientation_EndWooHooPartners--></T>
+      </L>
+    </U>
+  </L>
+  <L n="species">
+    <E />
+  </L>
+  <L n="super_affordances">
+    <T>200871<!--debug_GiveAutograph_Card--></T>
+    <T>285495<!--infant_Picker_Greetings_AskToBeIntroducedTo--></T>
+    <T>200870<!--debug_GiveAutograph_Paper--></T>
+    <T>314987<!--infant_Picker_Greetings_IntroduceTo_TYAETarget--></T>
+    <T>200864<!--debug_GiveAutograph_Picture--></T>
+    <T>202847<!--DebugEmotionIntensity_Possessed--></T>
+    <T>258405<!--debug_SimPreference_Add--></T>
+    <T>221386<!--debug_Organizations_Join_ArtSociety--></T>
+    <T>221387<!--debug_Organizations_Join_Debate--></T>
+    <T>221391<!--debug_Organizations_Join_HonorSociety--></T>
+    <T>221388<!--debug_Organizations_Join_Party--></T>
+    <T>221389<!--debug_Organizations_Join_Prank--></T>
+    <T>221390<!--debug_Organizations_Join_Robotics--></T>
+    <T>221392<!--debug_Organizations_Join_SecretSociety--></T>
+    <T>221393<!--debug_Organizations_Leave_ArtSociety--></T>
+    <T>221394<!--debug_Organizations_Leave_Debate--></T>
+    <T>221395<!--debug_Organizations_Leave_HonorSociety--></T>
+    <T>221396<!--debug_Organizations_Leave_Party--></T>
+    <T>221397<!--debug_Organizations_Leave_Prank--></T>
+    <T>221398<!--debug_Organizations_Leave_Robotics--></T>
+    <T>221399<!--debug_Organizations_Leave_SecretSociety--></T>
+    <T>224551<!--autonomousObjectPicker_SoccerBall_Juggle--></T>
+    <T>224549<!--autonomousObjectPicker_SoccerBall_PlayWith--></T>
+    <T>225354<!--debug_Scholarships_Skill_Apply_TheGreatOutdoors--></T>
+    <T>225351<!--debug_Scholarships_ShowHighChanceScholarships--></T>
+    <T>225352<!--debug_Scholarships_GetScholarshipStatusLoot--></T>
+    <T>225373<!--debug_Scholarships_Skill_Apply_AlleyCat--></T>
+    <T>245467<!--debugEmotionIntensity_SlowExperiences_EmotionalControl--></T>
+    <T>245466<!--debugEmotionIntensity_SlowExperiences_SlowedDown--></T>
+    <T>276451<!--social_WeddingTradition_TellWeddingStory--></T>
+    <T>318635<!--debugImmediate_MidlifeCrisis_StartAdventure--></T>
+    <T>318637<!--debugImmediate_MidlifeCrisis_StartCreate--></T>
+    <T>318633<!--debugImmediate_MidlifeCrisis_StartCrisis--></T>
+    <T>318636<!--debugImmediate_MidlifeCrisis_StartRelationship--></T>
+    <T>318638<!--debugImmediate_MidlifeCrisis_StartSuccess--></T>
+    <T>224548<!--objectInInventory_SoccerBall_Juggle--></T>
+    <T>224569<!--autonomousObjectInInventory_SoccerBall_Juggle--></T>
+    <T>282769<!--autonomousObjectInInventory_ThrowFootball_RegularPlayWith--></T>
+    <T>282777<!--autonomousObjectPicker_ThrowFootball_RegularPlayWith--></T>
+    <T>282935<!--autonomousObjectInInventory_ThrowFootball_HardPlayWith--></T>
+    <T>282937<!--autonomousObjectPicker_ThrowFootball_HardPlayWith--></T>
+    <T>283325<!--super_SitOnGround_CrossLegged--></T>
+    <T>309134<!--debugImmediate_WorkRival_Add--></T>
+    <T>309135<!--debugImmediate_WorkRival_Remove--></T>
+    <T>333238<!--debugImmediate_WorkRival_IncreaseChance--></T>
+    <T>324896<!--debugImmediate_JobLoss_StartLayoffPeriod--></T>
+  </L>
+  <L n="tags">
+    <E>TraitAge</E>
+  </L>
+  <L n="target_super_affordances">
+    <U>
+      <T n="affordance">282994<!--objectInInventory_ThrowFootball_HardPlayWith--></T>
+    </U>
+    <U>
+      <T n="affordance">282705<!--objectInInventory_ThrowFootball_RegularPlayWith--></T>
+    </U>
+    <U>
+      <T n="affordance">224547<!--objectInInventory_SoccerBall_PlayWith--></T>
+      <V n="object_filter" t="filter_by_sim" />
+    </U>
+    <U>
+      <T n="affordance">224568<!--autonomousObjectInInventory_SoccerBall_PlayWith--></T>
+      <V n="object_filter" t="filter_by_sim" />
+    </U>
+    <U>
+      <T n="affordance">234104<!--civilDesigner_Concept_PickConceptToPresent--></T>
+    </U>
+    <U>
+      <T n="affordance">287187<!--objectInInventoryPicker_WerewolfPack_GiveToSim--></T>
+    </U>
+  </L>
+  <E n="trait_type">HIDDEN</E>
+  <V n="vfx_mask" t="apply_vfx_mask">
+    <L n="apply_vfx_mask">
+      <E>MASK_ADULT</E>
+    </L>
+  </V>
+</I>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x0000001E">
+  <Instances>
+    <I name="recyclingPieces" schema="CurrencyBuck" type="Object">
+      <V name="_display_data" variant="0xC1A03855" />
+      <T name="buck_type">67</T>
+      <T name="flyaway_gain_audio">PiecesGainFlyaway</T>
+      <T name="flyaway_loss_audio">PiecesLossFlyaway</T>
+      <T name="gain_string">0xC6A53621</T>
+      <T name="lose_string">0xC9D94A73</T>
+      <T name="value_string">0xFAB66A41</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="CurrencyBuck" schema_hash="0x62AAC17C">
+      <Columns>
+        <Column name="_display_data" type="Variant" flags="0x00000000" />
+        <Column name="buck_type" type="UInt32" flags="0x00000000" />
+        <Column name="flyaway_gain_audio" type="String" flags="0x00000000" />
+        <Column name="flyaway_loss_audio" type="String" flags="0x00000000" />
+        <Column name="gain_string" type="LocalizationKey" flags="0x00000000" />
+        <Column name="lose_string" type="LocalizationKey" flags="0x00000000" />
+        <Column name="value_string" type="LocalizationKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

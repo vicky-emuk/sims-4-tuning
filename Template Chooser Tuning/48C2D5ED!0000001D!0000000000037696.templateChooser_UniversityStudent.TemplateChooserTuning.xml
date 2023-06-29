@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="TunableTemplateChooser" i="template_chooser" m="filters.sim_template" n="templateChooser_UniversityStudent" s="226966">
+  <L n="_templates">
+    <U>
+      <T n="template">221778<!--template_UniversityStudent_ArtHistory--></T>
+    </U>
+    <U>
+      <T n="template">221779<!--template_UniversityStudent_Biology--></T>
+    </U>
+    <U>
+      <T n="template">221780<!--template_UniversityStudent_Communications--></T>
+    </U>
+    <U>
+      <T n="template">221781<!--template_UniversityStudent_ComputerScience--></T>
+    </U>
+    <U>
+      <T n="template">221783<!--template_UniversityStudent_CulinaryArts--></T>
+    </U>
+    <U>
+      <T n="template">221785<!--template_UniversityStudent_Drama--></T>
+    </U>
+    <U>
+      <T n="template">221788<!--template_UniversityStudent_Economics--></T>
+    </U>
+    <U>
+      <T n="template">221777<!--template_UniversityStudent_FineArts--></T>
+    </U>
+    <U>
+      <T n="template">221789<!--template_UniversityStudent_History--></T>
+    </U>
+    <U>
+      <T n="template">221790<!--template_UniversityStudent_LanguageAndLiterature--></T>
+    </U>
+    <U>
+      <T n="template">221791<!--template_UniversityStudent_Physics--></T>
+    </U>
+    <U>
+      <T n="template">221792<!--template_UniversityStudent_Psychology--></T>
+    </U>
+    <U>
+      <T n="template">221793<!--template_UniversityStudent_Villainy--></T>
+    </U>
+  </L>
+</I>

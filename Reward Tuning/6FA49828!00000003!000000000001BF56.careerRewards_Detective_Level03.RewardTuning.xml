@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SimReward" i="reward" m="rewards.reward" n="careerRewards_Detective_Level03" s="114518">
+  <T n="icon" p="InGame\UI\Icons\Headlines\Final\headline_careerpromotion.png">2f7d0004:00000000:a6ed756af9cb04a1</T>
+  <T n="name">0x9A909927</T>
+  <V n="reward_description" t="enabled">
+    <T n="enabled">0x9A909927</T>
+  </V>
+  <L n="rewards">
+    <V t="specific_reward">
+      <V n="specific_reward" t="build_buy_object">
+        <U n="build_buy_object">
+          <T n="object_definition">82281</T>
+        </U>
+      </V>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">82281<!--shelfWall1x1_EP01POLICEcellTowel_set1 (Most Modern Cell Towel Rack)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">82283<!--shelfWall1x1_EP01POLICEcellTowel_set2 (Most Modern Cell Towel Rack)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">82285<!--shelfWall1x1_EP01POLICEcellTowel_set3 (Most Modern Cell Towel Rack)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">82287<!--shelfWall1x1_EP01POLICEcellTowel_set4 (Most Modern Cell Towel Rack)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">82289<!--shelfWall1x1_EP01POLICEcellTowel_set5 (Most Modern Cell Towel Rack)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">82291<!--shelfWall1x1_EP01POLICEcellTowel_set6 (Most Modern Cell Towel Rack)--></T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="build_buy_object">
+        <U n="build_buy_object">
+          <T n="object_definition">80719</T>
+        </U>
+      </V>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80719<!--shelfWall1x1_EP01POLICEcellLarge_set1 (Get with the Gloss Metal Shelf)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80721<!--shelfWall1x1_EP01POLICEcellLarge_set2 (Get with the Gloss Metal Shelf)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80723<!--shelfWall1x1_EP01POLICEcellLarge_set3 (Get with the Gloss Metal Shelf)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80725<!--shelfWall1x1_EP01POLICEcellLarge_set4 (Get with the Gloss Metal Shelf)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80727<!--shelfWall1x1_EP01POLICEcellLarge_set5 (Get with the Gloss Metal Shelf)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80729<!--shelfWall1x1_EP01POLICEcellLarge_set6 (Get with the Gloss Metal Shelf)--></T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="build_buy_object">
+        <U n="build_buy_object">
+          <T n="object_definition">82263</T>
+        </U>
+      </V>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">82263<!--shelfWall1x1_EP01POLICEcellSmall_set1 (The Lonely Man’s Shelf)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">82265<!--shelfWall1x1_EP01POLICEcellSmall_set2 (The Lonely Man’s Shelf)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">82267<!--shelfWall1x1_EP01POLICEcellSmall_set3 (The Lonely Man’s Shelf)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">82269<!--shelfWall1x1_EP01POLICEcellSmall_set4 (The Lonely Man’s Shelf)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">82271<!--shelfWall1x1_EP01POLICEcellSmall_set5 (The Lonely Man’s Shelf)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">82273<!--shelfWall1x1_EP01POLICEcellSmall_set6 (The Lonely Man’s Shelf)--></T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="build_buy_object">
+        <U n="build_buy_object">
+          <T n="object_definition">80973</T>
+        </U>
+      </V>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80973<!--toilet_EP01POLICEcell_set1 (Cold Steel)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80975<!--toilet_EP01POLICEcell_set2 (Cold Steel)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80977<!--toilet_EP01POLICEcell_set3 (Cold Steel)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80979<!--toilet_EP01POLICEcell_set4 (Cold Steel)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80981<!--toilet_EP01POLICEcell_set5 (Cold Steel)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80983<!--toilet_EP01POLICEcell_set6 (Cold Steel)--></T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="build_buy_object">
+        <U n="build_buy_object">
+          <T n="object_definition">82221</T>
+        </U>
+      </V>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">82221<!--sitOttoman2x1_EP01POLICEcell_set1 (Stinkman's Wall Bench)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">82223<!--sitOttoman2x1_EP01POLICEcell_set2 (Stinkman's Wall Bench)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">82227<!--sitOttoman2x1_EP01POLICEcell_set3 (Stinkman's Wall Bench)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">82231<!--sitOttoman2x1_EP01POLICEcell_set4 (Stinkman's Wall Bench)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">82235<!--sitOttoman2x1_EP01POLICEcell_set5 (Stinkman's Wall Bench)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">82239<!--sitOttoman2x1_EP01POLICEcell_set6 (Stinkman's Wall Bench)--></T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="build_buy_object">
+        <U n="build_buy_object">
+          <T n="object_definition">80921</T>
+        </U>
+      </V>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80921<!--mirrorWall1x1_EP01POLICEcell_set1 (Hard Time Mirror)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80923<!--mirrorWall1x1_EP01POLICEcell_set2 (Hard Time Mirror)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80925<!--mirrorWall1x1_EP01POLICEcell_set3 (Hard Time Mirror)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80927<!--mirrorWall1x1_EP01POLICEcell_set4 (Hard Time Mirror)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80929<!--mirrorWall1x1_EP01POLICEcell_set5 (Hard Time Mirror)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">80931<!--mirrorWall1x1_EP01POLICEcell_set6 (Hard Time Mirror)--></T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="build_buy_object">
+        <U n="build_buy_object">
+          <T n="object_definition">78543</T>
+        </U>
+      </V>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78543<!--bedSingle_EP01POLICEcell_set1 (The Solitary Sleeper)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78545<!--bedSingle_EP01POLICEcell_set2 (The Solitary Sleeper)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78547<!--bedSingle_EP01POLICEcell_set3 (The Solitary Sleeper)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78549<!--bedSingle_EP01POLICEcell_set4 (The Solitary Sleeper)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78551<!--bedSingle_EP01POLICEcell_set5 (The Solitary Sleeper)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78553<!--bedSingle_EP01POLICEcell_set6 (The Solitary Sleeper)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78555<!--bedSingle_EP01POLICEcell_set7 (The Solitary Sleeper)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">78557<!--bedSingle_EP01POLICEcell_set8 (The Solitary Sleeper)--></T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="build_buy_object">
+        <U n="build_buy_object">
+          <T n="object_definition">66882</T>
+        </U>
+      </V>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">66882<!--cellWall1x1_EP01GENcellWall_set1 (The Impenetrable)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">73925<!--cellWall1x1_EP01GENcellWall_set2 (The Impenetrable)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">73926<!--cellWall1x1_EP01GENcellWall_set3 (The Impenetrable)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">73927<!--cellWall1x1_EP01GENcellWall_set4 (The Impenetrable)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">73928<!--cellWall1x1_EP01GENcellWall_set5 (The Impenetrable)--></T>
+            </U>
+          </V>
+        </U>
+        <U>
+          <V n="reward" t="object_definition">
+            <U n="object_definition">
+              <T n="definition">73929<!--cellWall1x1_EP01GENcellWall_set6 (The Impenetrable)--></T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="build_buy_object">
+            <U n="build_buy_object">
+              <T n="object_definition">79574</T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="build_buy_object">
+            <U n="build_buy_object">
+              <T n="object_definition">79581</T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="build_buy_object">
+            <U n="build_buy_object">
+              <T n="object_definition">79567</T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="money">
+        <U n="money">
+          <V n="money" t="literal">
+            <U n="literal">
+              <T n="value">224</T>
+            </U>
+          </V>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="object_definition">
+        <U n="object_definition">
+          <T n="definition">79574<!--cellWall1x1_EP01GENcellWallSingle4Tile_set1 (Jaded Cell Depository)--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="object_definition">
+        <U n="object_definition">
+          <T n="definition">79581<!--cellWall1x1_EP01GENcellWallSingle5Tile_set1 (Holey Door of Holding)--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="object_definition">
+        <U n="object_definition">
+          <T n="definition">79567<!--cellWall1x1_EP01GENcellWallSingle_set1 (Single Serving Justice Dispenser)--></T>
+        </U>
+      </V>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="build_buy_object">
+            <U n="build_buy_object">
+              <T n="object_definition">79159</T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="object_definition">
+        <U n="object_definition">
+          <T n="definition">79159<!--cellWall1x1_EP01GENcellWall4Tile_set1 (The Impossible)--></T>
+        </U>
+      </V>
+    </V>
+    <V t="random_reward">
+      <L n="random_reward">
+        <U>
+          <V n="reward" t="build_buy_object">
+            <U n="build_buy_object">
+              <T n="object_definition">79186</T>
+            </U>
+          </V>
+        </U>
+      </L>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="object_definition">
+        <U n="object_definition">
+          <T n="definition">79186<!--cellWall1x1_EP01GENcellWall5Tile_set1 (The "Don't Even Try")--></T>
+        </U>
+      </V>
+    </V>
+    <V t="specific_reward">
+      <V n="specific_reward" t="bucks">
+        <U n="bucks">
+          <T n="amount">5</T>
+          <E n="bucks_type">InfluenceBuck</E>
+        </U>
+      </V>
+    </V>
+  </L>
+</I>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="arcadeMachine_MotherShipProgression" s="130149">
+  <L n="_values">
+    <T>130154<!--arcadeMachine_MotherShip_Playing_Level_1--></T>
+    <T>130155<!--arcadeMachine_MotherShip_Playing_Level_2--></T>
+    <T>130156<!--arcadeMachine_MotherShip_Playing_Level_3--></T>
+    <T>130157<!--arcadeMachine_MotherShip_Playing_Level_4--></T>
+    <T>130158<!--arcadeMachine_MotherShip_Playing_Level_5--></T>
+    <T>130159<!--arcadeMachine_MotherShip_Playing_Level_6--></T>
+    <T>130160<!--arcadeMachine_MotherShip_Playing_Level_7--></T>
+    <T>130153<!--arcadeMachine_MotherShip_Playing_Level_8--></T>
+    <T>130162<!--arcadeMachine_MotherShip_Victory_Level_1--></T>
+    <T>130163<!--arcadeMachine_MotherShip_Victory_Level_2--></T>
+    <T>130164<!--arcadeMachine_MotherShip_Victory_Level_3--></T>
+    <T>130165<!--arcadeMachine_MotherShip_Victory_Level_4--></T>
+    <T>130166<!--arcadeMachine_MotherShip_Victory_Level_5--></T>
+    <T>130167<!--arcadeMachine_MotherShip_Victory_Level_6--></T>
+    <T>130168<!--arcadeMachine_MotherShip_Victory_Level_7--></T>
+    <T>130161<!--arcadeMachine_MotherShip_Victory_Level_8--></T>
+    <T>130150<!--arcadeMachine_MotherShip_WaitingToStart--></T>
+    <T>130169<!--arcadeMachine_MotherShip_WinGame--></T>
+  </L>
+  <T n="linked_stat">127408<!--commodity_ArcadeMachine_Progression--></T>
+</I>

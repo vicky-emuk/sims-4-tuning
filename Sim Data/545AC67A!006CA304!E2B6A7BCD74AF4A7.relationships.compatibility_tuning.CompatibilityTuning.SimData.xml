@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000000">
+  <Instances>
+    <I name="relationships.compatibility_tuning.CompatibilityTuning" schema="relationships.compatibility_tuning.CompatibilityTuning" type="Object">
+      <L name="COMPATIBILITY_LEVEL_ICONS_MAP">
+        <U type="Object" schema="COMPATIBILITY_LEVEL_ICONS_MAP">
+          <T name="key">0</T>
+          <U name="value" schema="TunableTuple">
+            <T name="icon">00B2D882-00000000-1C251FD86A3726FD</T>
+            <T name="small_icon">00B2D882-00000000-DDF16BA13A139665</T>
+          </U>
+        </U>
+        <U type="Object" schema="COMPATIBILITY_LEVEL_ICONS_MAP">
+          <T name="key">4</T>
+          <U name="value" schema="TunableTuple">
+            <T name="icon">00B2D882-00000000-BC6EEF2DD004E35B</T>
+            <T name="small_icon">00B2D882-00000000-D9F296F291E14373</T>
+          </U>
+        </U>
+        <U type="Object" schema="COMPATIBILITY_LEVEL_ICONS_MAP">
+          <T name="key">3</T>
+          <U name="value" schema="TunableTuple">
+            <T name="icon">00B2D882-00000000-BC6EEF2DD004E35B</T>
+            <T name="small_icon">00B2D882-00000000-D9F296F291E14373</T>
+          </U>
+        </U>
+        <U type="Object" schema="COMPATIBILITY_LEVEL_ICONS_MAP">
+          <T name="key">1</T>
+          <U name="value" schema="TunableTuple">
+            <T name="icon">00B2D882-00000000-1C251FD86A3726FD</T>
+            <T name="small_icon">00B2D882-00000000-DDF16BA13A139665</T>
+          </U>
+        </U>
+      </L>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="relationships.compatibility_tuning.CompatibilityTuning" schema_hash="0x4DD1A07E">
+      <Columns>
+        <Column name="COMPATIBILITY_LEVEL_ICONS_MAP" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="COMPATIBILITY_LEVEL_ICONS_MAP" schema_hash="0xE1400BC8">
+      <Columns>
+        <Column name="key" type="Int64" flags="0x00000000" />
+        <Column name="value" type="Object" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TunableTuple" schema_hash="0xF009A876">
+      <Columns>
+        <Column name="icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="small_icon" type="ResourceKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

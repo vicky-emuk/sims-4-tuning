@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Objective" i="objective" m="event_testing.objective_tuning" n="objectives_Asp_ExtremeSportsEnthusiast_L1_3" s="249998">
+  <L n="completion_loot">
+    <T>273578<!--loot_Want_AspirationCompleted--></T>
+  </L>
+  <T n="display_text">0x71EE0443<!--Use a Mt. Komorebi Info Board--></T>
+  <V n="objective_test" t="ran_interaction_test">
+    <U n="ran_interaction_test">
+      <L n="affordances">
+        <T>249335<!--infoBoard_CheckWildlifeReport--></T>
+        <T>249251<!--infoBoard_SeeFestivalSchedule--></T>
+        <T>249252<!--infoBoard_SeeNextFestivalInfo--></T>
+        <T>249253<!--infoBoard_LearnAbout_Excursion--></T>
+        <T>249229<!--infoBoard_LearnAbout_Hiking--></T>
+        <T>249233<!--infoBoard_LearnAbout_OnsenVenue--></T>
+        <T>249232<!--infoBoard_LearnAbout_RockClimbing--></T>
+        <T>249230<!--infoBoard_LearnAbout_SkiingAndSnowboarding--></T>
+        <T>249231<!--infoBoard_LearnAbout_Sledding--></T>
+        <T>247549<!--infoBoard_CheckConditions--></T>
+      </L>
+    </U>
+  </V>
+  <T n="satisfaction_points">75</T>
+  <T n="tooltip">0x45D7EDE4<!--Travel to any of the Mt. Komorebi neighborhoods and locate a Mt. Komorebi Info Board. Interact with it to gather valuable information concerning the mountain.--></T>
+</I>

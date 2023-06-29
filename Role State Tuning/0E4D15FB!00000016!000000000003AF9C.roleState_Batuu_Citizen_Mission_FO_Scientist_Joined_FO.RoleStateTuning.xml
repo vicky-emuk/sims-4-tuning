@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RoleState" i="role_state" m="role.role_state" n="roleState_Batuu_Citizen_Mission_FO_Scientist_Joined_FO" s="241564">
+  <L n="_buffs">
+    <U>
+      <T n="buff_type">142027<!--buff_Role_Appropriateness_NoPhone--></T>
+    </U>
+    <U>
+      <T n="buff_type">101052<!--Buff_Role_Appropriateness_NoCallToMeal--></T>
+    </U>
+    <U>
+      <T n="buff_type">240036<!--buff_AutonomyMod_SocialNone--></T>
+    </U>
+    <U>
+      <T n="buff_type">74343<!--buff_PreventRunning--></T>
+    </U>
+    <U>
+      <T n="buff_type">27833<!--buff_Suppress_Visible_Motives--></T>
+    </U>
+    <U>
+      <T n="buff_type">241569<!--buff_Batuu_NPC_Walkby_Citizen_Scientist_Joined_FO--></T>
+    </U>
+    <U>
+      <T n="buff_type">228865<!--buff_AutonomyMod_LockedMotives--></T>
+    </U>
+  </L>
+  <U n="_off_lot_autonomy_buff">
+    <T n="buff_type">40411<!--buff_offLotAutonomyMod_All--></T>
+  </U>
+  <V n="_on_activate" t="push_affordance">
+    <U n="push_affordance">
+      <T n="affordance">240629<!--batuu_LTAgnon_GetIntoPosition--></T>
+    </U>
+  </V>
+  <L n="preroll_affordances">
+    <T>241565<!--batuu_Mission_SuperInteraction_Follow_Agnon--></T>
+    <T>240629<!--batuu_LTAgnon_GetIntoPosition--></T>
+  </L>
+</I>

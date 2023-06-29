@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x0000001F">
+  <Instances>
+    <I name="forecast_Summit_BaseCamp1" schema="WeatherForecast" type="Object">
+      <T name="calendar_icon">00B2D882-00000000-3BFBBBF55A1D37FD</T>
+      <T name="calendar_icon_large">00B2D882-00000000-4020AE259881E0D9</T>
+      <T name="calendar_icon_mascot">00B2D882-00000000-92745E9CB6D13AA4</T>
+      <T name="forecast_description">0x6F5DA87F</T>
+      <T name="forecast_name">0x15A93AA6</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="WeatherForecast" schema_hash="0x86E8C335">
+      <Columns>
+        <Column name="calendar_icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="calendar_icon_large" type="ResourceKey" flags="0x00000000" />
+        <Column name="calendar_icon_mascot" type="ResourceKey" flags="0x00000000" />
+        <Column name="forecast_description" type="LocalizationKey" flags="0x00000000" />
+        <Column name="forecast_name" type="LocalizationKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

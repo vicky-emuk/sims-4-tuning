@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CharacteristicPreferenceItem" i="cas_preference_item" m="cas.cas_preference_item" n="preferenceItem_Characteristic_Idealist" s="308046">
+  <T n="cas_preference_category">307793<!--PreferenceCategory_Characteristic--></T>
+  <T n="dislike">306415<!--trait_SimPreference_Dislikes_Characteristic_Idealist--></T>
+  <T n="like">305946<!--trait_SimPreference_Likes_Characteristic_Idealist--></T>
+  <V n="tooltip" t="enabled">
+    <T n="enabled">0xF5225BB4<!--Idealist Sims love to imagine, and don't care much for being practical or logical! They might enjoy the creations of others, or maybe they're motivated to create things themselves. They're often drawn to all sorts of creative hobbies, whether visual or musical.\n\nLiking Idealist Sims means other Sims with traits like <b>Creative</b>, <b>Art Lover</b>, or <b>Music Lover</b> will gain some compatibility with your Sim. However, traits like <b>Genius</b> will lower their compatibility with your Sim.--></T>
+  </V>
+  <L n="trait_map">
+    <U>
+      <T n="key">16841<!--trait_Geek--></T>
+      <T n="value">-1</T>
+    </U>
+    <U>
+      <T n="key">16850<!--trait_Creative--></T>
+      <T n="value">3</T>
+    </U>
+    <U>
+      <T n="key">258766<!--trait_SimPreference_Likes_Activities_Painting--></T>
+    </U>
+    <U>
+      <T n="key">258768<!--trait_SimPreference_Likes_Activities_Violin--></T>
+    </U>
+    <U>
+      <T n="key">264175<!--Trait_SimPreference_Likes_Activities_Acting--></T>
+    </U>
+    <U>
+      <T n="key">264183<!--Trait_SimPreference_Likes_Activities_MediaProduction--></T>
+    </U>
+    <U>
+      <T n="key">264186<!--Trait_SimPreference_Likes_Activities_Photography--></T>
+    </U>
+    <U>
+      <T n="key">264195<!--trait_SimPreference_Likes_Activities_Writing--></T>
+    </U>
+    <U>
+      <T n="key">264197<!--trait_SimPreference_Likes_Activities_Guitar--></T>
+    </U>
+    <U>
+      <T n="key">264198<!--trait_SimPreference_Likes_Activities_Piano--></T>
+    </U>
+    <U>
+      <T n="key">264199<!--Trait_SimPreference_Likes_Activities_PipeOrgan--></T>
+    </U>
+    <U>
+      <T n="key">264200<!--Trait_SimPreference_Likes_Activities_Singing--></T>
+    </U>
+    <U>
+      <T n="key">27917<!--trait_Genius--></T>
+      <T n="value">-1</T>
+    </U>
+    <U>
+      <T n="key">27918<!--trait_ArtLover--></T>
+      <T n="value">3</T>
+    </U>
+    <U>
+      <T n="key">9604<!--trait_MusicLover--></T>
+      <T n="value">3</T>
+    </U>
+  </L>
+</I>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RelationshipBit" i="relbit" m="relationships.relationship_bit" n="relationshipbit_Compatibility_Awful" s="308878">
+  <T n="autonomy_multiplier">-4</T>
+  <T n="bit_description">0x8FD6C610<!--Oh no! Based on their preferences, these Sims <i>totally</i> clash. To grow this relationship, both Sims will need to put in more effort than usual as they seek to overcome their many differences. --></T>
+  <T n="display_name">0xF05E5548<!--Awful Compatibility--></T>
+  <T n="icon" p="InGame\UI\Icons\Compatibility\Compatibility_Bad.png">2f7d0004:00000000:bc6eef2dd004e35b</T>
+</I>

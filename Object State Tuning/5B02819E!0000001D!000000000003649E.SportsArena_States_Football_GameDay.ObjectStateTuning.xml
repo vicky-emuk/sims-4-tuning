@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="SportsArena_States_Football_GameDay" s="222366">
+  <L n="_values">
+    <T>222373<!--sportsShell_ObjectStateValues_Football_GameDay_True--></T>
+    <T>222374<!--sportsShell_ObjectStateValues_Football_GameDay_False--></T>
+    <T>229232<!--sportsShell_ObjectStateValues_Football_GameDay_Ended--></T>
+    <T>222375<!--sportsShell_ObjectStateValues_Esports_GameDay_True--></T>
+    <T>229231<!--sportsShell_ObjectStateValues_Esports_GameDay_Ended--></T>
+  </L>
+</I>

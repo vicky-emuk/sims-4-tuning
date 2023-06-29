@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CareerEvent" i="career_event" m="careers.career_event" n="careerEvent_ParanormalInvestigator_Easy" s="252640">
+  <V n="required_zone" t="random_lot">
+    <U n="random_lot">
+      <L n="random_weight_terms">
+        <U>
+          <T n="negate">True</T>
+          <V n="test" t="venue_type">
+            <U n="venue_type">
+              <L n="venues">
+                <T>252380<!--venue_residential_HauntedHouse--></T>
+                <T>229251<!--venue_residential_tinyhome--></T>
+                <T>28614<!--venue_residential--></T>
+                <T>173833<!--venue_Rentable_Jungle--></T>
+                <T>103675<!--venue_rentable_cabin--></T>
+                <T>239458<!--venue_rentable_vacation_generic--></T>
+                <T>16869<!--venue_bar--></T>
+                <T>205126<!--venue_beach--></T>
+                <T>16870<!--venue_club--></T>
+                <T>107453<!--venue_ForestPark--></T>
+                <T>9279<!--venue_generic--></T>
+                <T>16873<!--venue_gym--></T>
+                <T>16874<!--venue_library--></T>
+                <T>16875<!--venue_lounge--></T>
+                <T>16876<!--venue_museum--></T>
+                <T>25847<!--venue_park--></T>
+                <T>123794<!--venue_pool--></T>
+                <T>98817<!--venue_VisitorsAllowed--></T>
+                <T>105591<!--venue_Hermit--></T>
+                <T>105157<!--venue_retail--></T>
+                <T>118135<!--venue_RelaxationCenter--></T>
+                <T>122247<!--venue_cafe--></T>
+                <T>125223<!--venue_ChaletGardens--></T>
+                <T>130713<!--venue_Restaurant--></T>
+                <T>212896<!--venue_MagicHQ--></T>
+                <T>144206<!--venue_artscenter--></T>
+                <T>137844<!--venue_karaoke--></T>
+                <T>138380<!--venue_MyshunoMeadows--></T>
+                <T>158847<!--venue_Vet--></T>
+                <T>190058<!--venue_ActingStudio--></T>
+                <T>223944<!--venue_CommunityLot--></T>
+                <T>247473<!--venue_Onsen--></T>
+              </L>
+            </U>
+          </V>
+          <V n="weight" t="forbid" />
+        </U>
+        <U>
+          <V n="test" t="belongs_to_active_player" />
+          <V n="weight" t="forbid" />
+        </U>
+        <U>
+          <T n="negate">True</T>
+          <V n="test" t="is_owned_by_any_household" />
+          <V n="weight" t="forbid" />
+        </U>
+      </L>
+    </U>
+  </V>
+  <V n="scorable_situation" t="main_event">
+    <U n="main_event">
+      <U n="medal_payout_bronze">
+        <L n="additional_loots">
+          <T>255074<!--loot_Career_ParanormalInvestigator_Reward_Failure--></T>
+        </L>
+        <U n="money">
+          <T n="base_value">0</T>
+        </U>
+        <T n="text">0x182043D4<!--Gig Failed!--></T>
+        <U n="work_performance">
+          <T n="base_value">-3</T>
+        </U>
+      </U>
+      <U n="medal_payout_gold">
+        <L n="additional_loots">
+          <T>254763<!--loot_Career_ParanormalInvestigator_Reward_Easy--></T>
+        </L>
+        <U n="money">
+          <T n="base_value">1</T>
+        </U>
+        <T n="text">0x3EFC7897<!--Gig Complete!--></T>
+        <U n="work_performance">
+          <T n="base_value">0.4</T>
+        </U>
+      </U>
+      <U n="medal_payout_silver">
+        <L n="additional_loots">
+          <T>255074<!--loot_Career_ParanormalInvestigator_Reward_Failure--></T>
+        </L>
+        <U n="money">
+          <T n="base_value">0</T>
+        </U>
+        <T n="text">0x182043D4<!--Gig Failed!--></T>
+        <U n="work_performance">
+          <T n="base_value">-3</T>
+        </U>
+      </U>
+      <U n="medal_payout_tin">
+        <L n="additional_loots">
+          <T>255074<!--loot_Career_ParanormalInvestigator_Reward_Failure--></T>
+        </L>
+        <U n="money">
+          <T n="base_value">0</T>
+        </U>
+        <T n="text">0x182043D4<!--Gig Failed!--></T>
+        <U n="work_performance">
+          <T n="base_value">-3</T>
+        </U>
+      </U>
+      <T n="situation">254924<!--lotStatisticBasedCareerEventSituation_ParanormalInvestigator_Easy--></T>
+    </U>
+  </V>
+</I>

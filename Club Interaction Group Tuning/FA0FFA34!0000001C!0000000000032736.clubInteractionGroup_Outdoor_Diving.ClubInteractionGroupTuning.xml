@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ClubInteractionGroup" i="club_interaction_group" m="clubs.club_tuning" n="clubInteractionGroup_Outdoor_Diving" s="206646">
+  <L n="affordances">
+    <T>204909<!--OceanDiving_Freediving--></T>
+    <T>207359<!--OceanDiving_ClothesSpin_Freediving--></T>
+    <T>204868<!--waypoint_Snorkeling--></T>
+    <T>206086<!--oceanDiving_Freediving_TreasureHunt--></T>
+    <T>206088<!--oceanDiving_ScubaDiving_Seashells--></T>
+    <T>206083<!--oceanDiving_ScubaDiving--></T>
+    <T>206090<!--oceanDiving_Freediving_SpearFish--></T>
+    <T>206091<!--oceanDiving_ScubaDiving_TakePhotos--></T>
+    <T>206089<!--oceanDiving_ScubaDiving_TreasureHunt--></T>
+    <T>206154<!--waypoint_Snorkeling_child--></T>
+    <T>206085<!--oceanDiving_Freediving_Seashells--></T>
+    <T>207367<!--oceanDiving_ClothesSpin_Freediving_Seashells--></T>
+    <T>207368<!--oceanDiving_ClothesSpin_Freediving_TreasureHunt--></T>
+    <T>207374<!--oceanDiving_ClothesSpin_ScubaDiving_Spearfish--></T>
+    <T>207370<!--oceanDiving_ClothesSpin_ScubaDiving--></T>
+    <T>207371<!--oceanDiving_ClothesSpin_ScubaDiving_Seashells--></T>
+    <T>207372<!--oceanDiving_ClothesSpin_ScubaDiving_TakePhotos--></T>
+    <T>211695<!--oceanDiving_ClothesSpin_ScubaDiving_Survey--></T>
+    <T>207373<!--oceanDiving_ClothesSpin_ScubaDiving_TreasureHunt--></T>
+    <T>213663<!--oceanDiving_Mermaid_Freediving--></T>
+    <T>213664<!--oceanDiving_Mermaid_Freediving_Seashells--></T>
+    <T>213684<!--oceanDiving_Mermaid_Freediving_Spearfish--></T>
+    <T>213675<!--oceanDiving_Mermaid_Freediving_TreasureHunt--></T>
+    <T>212989<!--oceanDiving_Mermaid_ScubaDiving_Survey--></T>
+    <T>212990<!--oceanDiving_Mermaid_ScubaDiving_TakePhotos--></T>
+  </L>
+  <E n="category">OUTDOOR</E>
+  <T n="category_icon" p="InEP07\UI\Icons\Career\Career_Diver_Main.png">2f7d0004:00000000:cd42def803375a86</T>
+  <T n="child_safe">False</T>
+  <T n="club_bucks_reward">2</T>
+  <T n="is_targeted">False</T>
+  <T n="name">0x7313A37D<!--Dive in the Ocean--></T>
+  <T n="tooltip_template">0xD4307056<!--Dive in the Ocean--></T>
+  <T n="tooltip_template_negative">0x6C47A80<!--Do Not Dive in the Ocean--></T>
+</I>

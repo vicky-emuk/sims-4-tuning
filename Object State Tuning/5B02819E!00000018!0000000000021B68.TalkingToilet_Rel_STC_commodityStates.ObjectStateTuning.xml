@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="TalkingToilet_Rel_STC_commodityStates" s="138088">
+  <L n="_values">
+    <T>138085<!--TalkingToilet_commodity_Rel_STC_Negative--></T>
+    <T>138087<!--TalkingToilet_commodity_Rel_STC_Neutral--></T>
+    <T>138086<!--TalkingToilet_commodity_Rel_STC_Positive--></T>
+  </L>
+  <T n="linked_stat">138082<!--commodity_Object_TalkingToilet_Rel_STC--></T>
+</I>

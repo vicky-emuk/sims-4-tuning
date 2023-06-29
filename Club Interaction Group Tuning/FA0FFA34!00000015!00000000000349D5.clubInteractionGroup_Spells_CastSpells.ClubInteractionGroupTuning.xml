@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ClubInteractionGroup" i="club_interaction_group" m="clubs.club_tuning" n="clubInteractionGroup_Spells_CastSpells" s="215509">
+  <L n="affordance_lists">
+    <T>215510<!--affordanceList_Spells--></T>
+  </L>
+  <L n="affordances">
+    <T>215471<!--spells_Sim_Pusher_BindFamiliar--></T>
+    <T>216512<!--spells_Sim_Pusher_Change_Appearance--></T>
+    <T>217437<!--spells_Sim_Pusher_Clean--></T>
+    <T>213312<!--spells_Sim_Pusher_Confuse--></T>
+    <T>213989<!--spells_Sim_Pusher_Fire--></T>
+    <T>215475<!--spells_Sim_Pusher_Freeze--></T>
+    <T>215016<!--spells_Sim_Pusher_Lightning--></T>
+    <T>217438<!--spells_Sim_Pusher_MindControl--></T>
+    <T>213525<!--spells_Sim_Pusher_Resurrect--></T>
+    <T>213406<!--spells_Sim_Pusher_Sadness--></T>
+    <T>213538<!--spells_Sim_Pusher_Transformation--></T>
+    <T>215283<!--simPicker_Spells_Fight--></T>
+    <T>215394<!--simPicker_Spells_Love--></T>
+  </L>
+  <E n="category">MISCHIEF_AND_MAYHEM</E>
+  <T n="category_icon" p="InGP08\UI\Icons\Clubs\Rules\clubs_rules_CastSpells.png">2f7d0004:00000000:7dc1f070cf6e2587</T>
+  <T n="club_bucks_reward">2</T>
+  <T n="is_targeted">False</T>
+  <T n="name">0x3B47A46E<!--Cast Spells--></T>
+  <T n="tooltip_template">0x1EF3FB65<!--Cast Spells--></T>
+  <T n="tooltip_template_negative">0x9F9E6EF5<!--Don't Cast Spells--></T>
+</I>

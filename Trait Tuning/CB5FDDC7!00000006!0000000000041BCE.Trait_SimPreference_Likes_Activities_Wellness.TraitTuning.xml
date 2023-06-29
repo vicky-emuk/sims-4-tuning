@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Preference" i="trait" m="traits.preference" n="Trait_SimPreference_Likes_Activities_Wellness" s="269262">
+  <L n="ages">
+    <E>TEEN</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+    <E>YOUNGADULT</E>
+    <E>CHILD</E>
+  </L>
+  <L n="bb_filter_tags">
+    <E>Func_Wellness</E>
+  </L>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">258402<!--buff_SimPreference_HasPreference_Activity--></T>
+    </U>
+  </L>
+  <T n="cas_trait_asm_param">ColorPreference</T>
+  <L n="conflicting_traits">
+    <T>269263<!--Trait_SimPreference_Dislikes_Activities_Wellness--></T>
+  </L>
+  <T n="display_name">0x497D8C0D<!--Likes Wellness--></T>
+  <T n="display_name_gender_neutral">0x2FDCF973<!--Likes Wellness--></T>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\Preferences\traits_WellnessSkill.png">2f7d0004:00000000:8cdf0e7f1a39339f</T>
+  <T n="persistable">True</T>
+  <T n="preference_item">269266<!--PreferenceItem_Activities_Wellness--></T>
+  <L n="species">
+    <E />
+  </L>
+  <T n="trait_description">0x37941D9C<!--Wellness--></T>
+  <T n="trait_origin_description">0xDD31D5F1<!--Sim Preference Trait Origin PH--></T>
+  <E n="trait_type">LIKE</E>
+</I>

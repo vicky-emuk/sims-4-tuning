@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000000">
+  <Instances>
+    <I name="developmental_milestones.developmental_milestone.DevelopmentalMilestone" schema="developmental_milestones.developmental_milestone.DevelopmentalMilestone" type="Object">
+      <L name="DEVELOPMENTAL_MILESTONE_CATEGORIES">
+        <U type="Object" schema="DevelopmentalMilestoneCategoryMapping">
+          <T name="key">4</T>
+          <U name="value" schema="DevelopmentalMilestoneCategoryTuple">
+            <L name="ages">
+              <T type="Int64">32</T>
+              <T type="Int64">64</T>
+              <T type="Int64">16</T>
+              <T type="Int64">8</T>
+              <T type="Int64">2</T>
+              <T type="Int64">128</T>
+              <T type="Int64">4</T>
+            </L>
+            <T name="icon">00B2D882-00000000-F2EF0C85DA66F07D</T>
+            <T name="name">0x92D8FD89</T>
+            <T name="sim_info_panel_default_icon">00B2D882-00000000-BB09FD6B78C38824</T>
+            <T name="sim_info_panel_over_icon">00B2D882-00000000-956A2E97447CF499</T>
+            <T name="tooltip">0x620E41B1</T>
+          </U>
+        </U>
+        <U type="Object" schema="DevelopmentalMilestoneCategoryMapping">
+          <T name="key">0</T>
+          <U name="value" schema="DevelopmentalMilestoneCategoryTuple">
+            <L name="ages">
+              <T type="Int64">128</T>
+            </L>
+            <T name="icon">00B2D882-00000000-F2EF0C85DA66F07D</T>
+            <T name="name">0x3CA1E0CD</T>
+            <T name="sim_info_panel_default_icon">00B2D882-00000000-BB09FD6B78C38824</T>
+            <T name="sim_info_panel_over_icon">00B2D882-00000000-956A2E97447CF499</T>
+            <T name="tooltip">0x58943B65</T>
+          </U>
+        </U>
+        <U type="Object" schema="DevelopmentalMilestoneCategoryMapping">
+          <T name="key">1</T>
+          <U name="value" schema="DevelopmentalMilestoneCategoryTuple">
+            <L name="ages">
+              <T type="Int64">128</T>
+            </L>
+            <T name="icon">00B2D882-00000000-F2EF0C85DA66F07D</T>
+            <T name="name">0xFE61BB33</T>
+            <T name="sim_info_panel_default_icon">00B2D882-00000000-BB09FD6B78C38824</T>
+            <T name="sim_info_panel_over_icon">00B2D882-00000000-956A2E97447CF499</T>
+            <T name="tooltip">0xB1831503</T>
+          </U>
+        </U>
+        <U type="Object" schema="DevelopmentalMilestoneCategoryMapping">
+          <T name="key">5</T>
+          <U name="value" schema="DevelopmentalMilestoneCategoryTuple">
+            <L name="ages">
+              <T type="Int64">32</T>
+              <T type="Int64">64</T>
+              <T type="Int64">16</T>
+              <T type="Int64">8</T>
+              <T type="Int64">2</T>
+              <T type="Int64">4</T>
+              <T type="Int64">128</T>
+            </L>
+            <T name="icon">00B2D882-00000000-F2EF0C85DA66F07D</T>
+            <T name="name">0xF5F59B91</T>
+            <T name="sim_info_panel_default_icon">00B2D882-00000000-BB09FD6B78C38824</T>
+            <T name="sim_info_panel_over_icon">00B2D882-00000000-956A2E97447CF499</T>
+            <T name="tooltip">0x753D0386</T>
+          </U>
+        </U>
+        <U type="Object" schema="DevelopmentalMilestoneCategoryMapping">
+          <T name="key">6</T>
+          <U name="value" schema="DevelopmentalMilestoneCategoryTuple">
+            <L name="ages">
+              <T type="Int64">32</T>
+              <T type="Int64">64</T>
+              <T type="Int64">16</T>
+              <T type="Int64">8</T>
+              <T type="Int64">2</T>
+              <T type="Int64">4</T>
+              <T type="Int64">128</T>
+            </L>
+            <T name="icon">00B2D882-00000000-F2EF0C85DA66F07D</T>
+            <T name="name">0xEB0D0621</T>
+            <T name="sim_info_panel_default_icon">00B2D882-00000000-BB09FD6B78C38824</T>
+            <T name="sim_info_panel_over_icon">00B2D882-00000000-956A2E97447CF499</T>
+            <T name="tooltip">0xEC024869</T>
+          </U>
+        </U>
+        <U type="Object" schema="DevelopmentalMilestoneCategoryMapping">
+          <T name="key">7</T>
+          <U name="value" schema="DevelopmentalMilestoneCategoryTuple">
+            <L name="ages">
+              <T type="Int64">2</T>
+            </L>
+            <T name="icon">00B2D882-00000000-F2EF0C85DA66F07D</T>
+            <T name="name">0x7A62DBCC</T>
+            <T name="sim_info_panel_default_icon">00B2D882-00000000-BB09FD6B78C38824</T>
+            <T name="sim_info_panel_over_icon">00B2D882-00000000-956A2E97447CF499</T>
+            <T name="tooltip">0xA0FE2644</T>
+          </U>
+        </U>
+        <U type="Object" schema="DevelopmentalMilestoneCategoryMapping">
+          <T name="key">8</T>
+          <U name="value" schema="DevelopmentalMilestoneCategoryTuple">
+            <L name="ages">
+              <T type="Int64">2</T>
+            </L>
+            <T name="icon">00B2D882-00000000-F2EF0C85DA66F07D</T>
+            <T name="name">0x3DB8DE6A</T>
+            <T name="sim_info_panel_default_icon">00B2D882-00000000-BB09FD6B78C38824</T>
+            <T name="sim_info_panel_over_icon">00B2D882-00000000-956A2E97447CF499</T>
+            <T name="tooltip">0xF78718B9</T>
+          </U>
+        </U>
+      </L>
+      <L name="LIFETIME_MILESTONE_PANEL_FILTERS">
+        <U type="Object" schema="LifetimeMilestoneFilterTerm">
+          <L name="ages">
+            <T type="Int64">128</T>
+            <T type="Int64">1</T>
+          </L>
+          <T name="icon">00B2D882-00000000-648177375478D4AC</T>
+          <T name="name">0x24598133</T>
+        </U>
+        <U type="Object" schema="LifetimeMilestoneFilterTerm">
+          <L name="ages">
+            <T type="Int64">2</T>
+          </L>
+          <T name="icon">00B2D882-00000000-315F2C176C4E4C9A</T>
+          <T name="name">0xC8E52DBE</T>
+        </U>
+        <U type="Object" schema="LifetimeMilestoneFilterTerm">
+          <L name="ages">
+            <T type="Int64">4</T>
+            <T type="Int64">8</T>
+          </L>
+          <T name="icon">00B2D882-00000000-C45BAA7BF0CBA6AC</T>
+          <T name="name">0x9CB3B0A1</T>
+        </U>
+        <U type="Object" schema="LifetimeMilestoneFilterTerm">
+          <L name="ages" />
+          <T name="icon">00B2D882-00000000-8A242052167990D9</T>
+          <T name="name">0xE7FC1EEC</T>
+        </U>
+        <U type="Object" schema="LifetimeMilestoneFilterTerm">
+          <L name="ages">
+            <T type="Int64">16</T>
+            <T type="Int64">32</T>
+            <T type="Int64">64</T>
+          </L>
+          <T name="icon">00B2D882-00000000-CFE1D806AD362EF8</T>
+          <T name="name">0xDDF32417</T>
+        </U>
+      </L>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="developmental_milestones.developmental_milestone.DevelopmentalMilestone" schema_hash="0x8F5B1F63">
+      <Columns>
+        <Column name="DEVELOPMENTAL_MILESTONE_CATEGORIES" type="Vector" flags="0x00000000" />
+        <Column name="LIFETIME_MILESTONE_PANEL_FILTERS" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="DevelopmentalMilestoneCategoryMapping" schema_hash="0x2CC5A387">
+      <Columns>
+        <Column name="key" type="UInt32" flags="0x00000000" />
+        <Column name="value" type="Object" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="DevelopmentalMilestoneCategoryTuple" schema_hash="0x62EC0D5F">
+      <Columns>
+        <Column name="ages" type="Vector" flags="0x00000000" />
+        <Column name="icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="name" type="LocalizationKey" flags="0x00000000" />
+        <Column name="sim_info_panel_default_icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="sim_info_panel_over_icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="tooltip" type="LocalizationKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="LifetimeMilestoneFilterTerm" schema_hash="0x33489F64">
+      <Columns>
+        <Column name="ages" type="Vector" flags="0x00000000" />
+        <Column name="icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="name" type="LocalizationKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

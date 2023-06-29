@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="laundry_States_ClothesLine_LineLoad" s="176491">
+  <L n="_values">
+    <T>176487<!--laundry_ClothesLine_LineLoad_Values_Empty--></T>
+    <T>176489<!--laundry_ClothesLine_LineLoad_Values_Full--></T>
+    <T>185876<!--laundry_ClothesLine_LineLoad_Values_Full_Rain--></T>
+  </L>
+</I>

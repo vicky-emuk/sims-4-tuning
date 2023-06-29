@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="mural_Wall_Paint_Cultural_Elephant" s="148948">
+  <L n="_values">
+    <T>148884<!--mural_Wall_CulElephant_LinesToFinal_4--></T>
+    <T>148880<!--mural_Wall_CulElephant_LinesToFinal_0--></T>
+    <T>148881<!--mural_Wall_CulElephant_LinesToFinal_1--></T>
+    <T>148882<!--mural_Wall_CulElephant_LinesToFinal_2--></T>
+    <T>148883<!--mural_Wall_CulElephant_LinesToFinal_3--></T>
+    <T>148878<!--mural_Wall_CulElephant_BaseToLines_4--></T>
+    <T>148874<!--mural_Wall_CulElephant_BaseToLines_0--></T>
+    <T>148875<!--mural_Wall_CulElephant_BaseToLines_1--></T>
+    <T>148876<!--mural_Wall_CulElephant_BaseToLines_2--></T>
+    <T>148877<!--mural_Wall_CulElephant_BaseToLines_3--></T>
+    <T>148872<!--mural_Wall_CulElephant_AToBase_4--></T>
+    <T>148868<!--mural_Wall_CulElephant_AToBase_0--></T>
+    <T>148869<!--mural_Wall_CulElephant_AToBase_1--></T>
+    <T>148870<!--mural_Wall_CulElephant_AToBase_2--></T>
+    <T>148871<!--mural_Wall_CulElephant_AToBase_3--></T>
+    <T>148866<!--mural_Wall_CulElephant_NotStarted--></T>
+    <T>148864<!--mural_Wall_CulElephant_Complete--></T>
+    <T>148865<!--mural_Wall_CulElephant_Defaced--></T>
+  </L>
+  <T n="linked_stat">148911<!--commodity_Mural_CulturalElephant--></T>
+  <T n="persists_across_gallery">True</T>
+</I>

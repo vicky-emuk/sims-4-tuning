@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectPart" i="object_part" m="objects.part" n="podiumPair_Stand" s="221259">
+  <U n="supported_affordance_data">
+    <V n="compatibility" t="literal">
+      <U n="literal">
+        <V n="default_inclusion" t="exclude_all">
+          <U n="exclude_all">
+            <L n="include_affordances">
+              <T>218941<!--podiumPair_Debate_College--></T>
+              <T>218942<!--podiumPair_Debate_Homework--></T>
+              <T>218943<!--podiumPair_Debate_Internet--></T>
+              <T>218948<!--podiumPair_Debate_Professional--></T>
+              <T>218944<!--podiumPair_Debate_Teachers--></T>
+              <T>218945<!--podiumPair_Debate_Television--></T>
+              <T>218922<!--podiumPair_Debate_Acting--></T>
+              <T>229196<!--podiumPair_Debate_PickedSim--></T>
+              <T>218925<!--podiumPair_Debate_Charisma--></T>
+              <T>218926<!--podiumPair_Debate_Comedy--></T>
+              <T>218927<!--podiumPair_Debate_Debate--></T>
+              <T>218928<!--podiumPair_Debate_Fitness--></T>
+              <T>218929<!--podiumPair_Debate_Handiness--></T>
+              <T>218930<!--podiumPair_Debate_Logic--></T>
+              <T>229418<!--podiumPair_Solo_Commentary_Start--></T>
+              <T>218934<!--podiumPair_Debate_Painting--></T>
+              <T>218935<!--podiumPair_Debate_Programming--></T>
+              <T>218936<!--podiumPair_Debate_Robotics--></T>
+              <T>218937<!--podiumPair_Debate_RocketScience--></T>
+              <T>218938<!--podiumPair_Debate_Videogaming--></T>
+              <T>218939<!--podiumPair_Debate_Writing--></T>
+              <T>221263<!--generic_PodiumPair_Debate--></T>
+              <T>218838<!--podiumPair_Solo_Commentary--></T>
+              <T>218837<!--podiumPair_Solo_Practice--></T>
+              <T>229916<!--podiumPair_Debate_Professional_Wave--></T>
+              <T>228838<!--podiumPair_Debate_Cooking--></T>
+              <T>228839<!--podiumPair_Debate_Gardening--></T>
+              <T>228840<!--podiumPair_Debate_Photography--></T>
+              <T>228794<!--podiumPair_DebateShowdown--></T>
+              <T>230580<!--podiumPair_StepBack--></T>
+            </L>
+          </U>
+        </V>
+      </U>
+    </V>
+  </U>
+  <V n="supported_posture_types" t="literal">
+    <L n="literal">
+      <U>
+        <T n="posture_type">221261<!--posture_PodiumPair_Debate--></T>
+      </U>
+      <U>
+        <T n="posture_type">15537<!--posture_Stand--></T>
+      </U>
+    </L>
+  </V>
+</I>

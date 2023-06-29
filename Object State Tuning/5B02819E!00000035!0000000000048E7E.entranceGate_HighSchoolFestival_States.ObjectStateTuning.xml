@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="entranceGate_HighSchoolFestival_States" s="298622">
+  <L n="_values">
+    <T>298620<!--entranceGate_HighSchoolFestival_NoVFX--></T>
+    <T>298621<!--entranceGate_HighSchoolFestival_StartBalloonVFX--></T>
+    <T>298625<!--entranceGate_HighSchoolFestival_StartCannonVFX--></T>
+    <T>298624<!--entranceGate_HighSchoolFestival_StartConfettiVFX--></T>
+    <T>298623<!--entranceGate_HighSchoolFestival_StartFireworkVFX--></T>
+    <T>298627<!--entranceGate_HighSchoolFestival_TriggerVFX--></T>
+  </L>
+</I>

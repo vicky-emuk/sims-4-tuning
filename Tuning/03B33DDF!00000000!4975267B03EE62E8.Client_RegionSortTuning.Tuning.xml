@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="RegionSortTuning" i="RegionSort" m="RegionSort.Client_RegionSort" n="Client_RegionSortTuning" s="5293179246832673512">
+  <L n="RegionList">
+    <T>8086</T>
+    <T>15740<!--recipe_Food_Gourmet_SandwichMonteCristo-Single--></T>
+    <T>93517</T>
+    <T>72480</T>
+    <T>99995</T>
+    <T>65983</T>
+    <T>117425<!--mixer_yogaMat_TreePose_Practice--></T>
+    <T>146196<!--situationJob_PenthouseNeighbors_Hangout_Munchies_KeyHolders_Glutton--></T>
+    <T>160112</T>
+    <T>176583</T>
+    <T>197663</T>
+    <T>208768</T>
+    <T>216823<!--situationJob_Object_Fashion_Studio_Tripod_Subject--></T>
+    <T>222656</T>
+    <T>221598</T>
+    <T>235805<!--situation_Walkby_Batuu_Citizen--></T>
+    <T>239546<!--mixer_Starship_Motive_Energy--></T>
+    <T>246370<!--socials_Friendly_Skill_RockClimbing_OfferTips_Continuation--></T>
+    <T>263602<!--social_VillagerHelp_ScoldGroceryOwner--></T>
+    <T>287506</T>
+    <T>310555<!--loot_SelfDiscovery_Reward_Skill_Perfectionist--></T>
+    <T>290968<!--loot_Venue_ThriftStore_SetNeutralTrend_Rocker--></T>
+    <T>326726</T>
+  </L>
+</I>

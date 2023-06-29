@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000003">
+  <Instances>
+    <I name="business_Retail" schema="Business" type="Object">
+      <L name="advertising_name_map">
+        <U type="Object" schema="AdvertisingEnumDataMappingTuple">
+          <T name="advertising_enum">3</T>
+          <T name="advertising_name">0xB7A885AF</T>
+        </U>
+        <U type="Object" schema="AdvertisingEnumDataMappingTuple">
+          <T name="advertising_enum">4</T>
+          <T name="advertising_name">0x6321E94F</T>
+        </U>
+        <U type="Object" schema="AdvertisingEnumDataMappingTuple">
+          <T name="advertising_enum">5</T>
+          <T name="advertising_name">0xB32E5F60</T>
+        </U>
+        <U type="Object" schema="AdvertisingEnumDataMappingTuple">
+          <T name="advertising_enum">6</T>
+          <T name="advertising_name">0x1860D4E0</T>
+        </U>
+      </L>
+      <L name="advertising_type_sort_order" />
+      <T name="bucks">12289</T>
+      <V name="business_summary_tooltip" variant="0xC1A03855" />
+      <L name="markup_multiplier_data">
+        <U type="Object" schema="MarkupMultiplierData">
+          <T name="markup_multiplier">1.05</T>
+          <T name="name">0x0A3ADA47</T>
+        </U>
+        <U type="Object" schema="MarkupMultiplierData">
+          <T name="markup_multiplier">1.15</T>
+          <T name="name">0xBFE95A70</T>
+        </U>
+        <U type="Object" schema="MarkupMultiplierData">
+          <T name="markup_multiplier">1.25</T>
+          <T name="name">0xE88AED25</T>
+        </U>
+        <U type="Object" schema="MarkupMultiplierData">
+          <T name="markup_multiplier">1.5</T>
+          <T name="name">0xEF797EAE</T>
+        </U>
+        <U type="Object" schema="MarkupMultiplierData">
+          <T name="markup_multiplier">2</T>
+          <T name="name">0x0CB2445C</T>
+        </U>
+      </L>
+      <L name="quality_settings" />
+      <T name="show_employee_button">0</T>
+      <T name="show_sell_button">1</T>
+      <V name="show_settings_button" variant="0xC1A03855" />
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="Business" schema_hash="0x488F6722">
+      <Columns>
+        <Column name="advertising_name_map" type="Vector" flags="0x00000000" />
+        <Column name="advertising_type_sort_order" type="Vector" flags="0x00000000" />
+        <Column name="bucks" type="Int64" flags="0x00000000" />
+        <Column name="business_summary_tooltip" type="Variant" flags="0x00000000" />
+        <Column name="markup_multiplier_data" type="Vector" flags="0x00000000" />
+        <Column name="quality_settings" type="Vector" flags="0x00000000" />
+        <Column name="show_employee_button" type="Boolean" flags="0x00000000" />
+        <Column name="show_sell_button" type="Boolean" flags="0x00000000" />
+        <Column name="show_settings_button" type="Variant" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="AdvertisingEnumDataMappingTuple" schema_hash="0xA5B95D88">
+      <Columns>
+        <Column name="advertising_enum" type="UInt32" flags="0x00000000" />
+        <Column name="advertising_name" type="LocalizationKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="MarkupMultiplierData" schema_hash="0x66414D17">
+      <Columns>
+        <Column name="markup_multiplier" type="Single" flags="0x00000000" />
+        <Column name="name" type="LocalizationKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

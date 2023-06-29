@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Objective" i="objective" m="event_testing.objective_tuning" n="objectives_MidlifeCrisis_DesireforRelationship_5" s="317566">
+  <L n="additional_tests">
+    <L>
+      <V t="relationship">
+        <U n="relationship">
+          <U n="prohibited_relationship_bits">
+            <L n="match_any">
+              <T>24490<!--family_husband_wife--></T>
+              <T>99429<!--romantic-Promised--></T>
+              <T>15825<!--romantic-Significant_Other--></T>
+              <T>15816<!--romantic-Engaged--></T>
+              <T>15822<!--romantic-Married--></T>
+            </L>
+          </U>
+          <L n="subject">
+            <E>Actor</E>
+          </L>
+          <L n="target_sim">
+            <E>TargetSim</E>
+          </L>
+        </U>
+      </V>
+    </L>
+  </L>
+  <L n="completion_loot">
+    <T>314282<!--loot_MidlifeCrisis_ObjectiveComplete--></T>
+  </L>
+  <T n="display_text">0x55CCFEF<!--Casual Flirt {1.Number} Times--></T>
+  <L n="loot_on_completion_ui_update">
+    <T>320213<!--loot_MidlifeCrisis_AddObjective_Relationship--></T>
+  </L>
+  <V n="objective_completion_type" t="iterations">
+    <U n="iterations">
+      <T n="iterations_required_to_pass">8</T>
+    </U>
+  </V>
+  <V n="objective_test" t="ran_interaction_test">
+    <U n="ran_interaction_test">
+      <L n="affordance_lists">
+        <T>24510<!--social_Mixers_Romance_NonTouching--></T>
+      </L>
+      <L n="affordances">
+        <T>25873<!--mixer_social_FrenziedKiss_targeted_romance_emotionSpecific--></T>
+        <T>25864<!--mixer_social_OfferRose_targeted_romance_emotionSpeficic--></T>
+        <T>25865<!--mixer_social_PassionateKiss_targeted_romance_emotionSpecific--></T>
+        <T>25872<!--mixer_social_SuaveKiss_targeted_romance_emotionSpecific--></T>
+        <T>26167<!--mixer_social_CaressCheek_targeted_romance_highScore--></T>
+        <T>26157<!--mixer_social_RekindleTheRomance_targeted_romance_lowScore--></T>
+        <T>26161<!--mixer_social_Embrace_targeted_romance_middleScore_STC--></T>
+        <T>26131<!--mixer_social_FirstKiss_targeted_romance_STC--></T>
+        <T>26160<!--mixer_social_HoldHands_targeted_romance_middleScore--></T>
+        <T>26158<!--mixer_social_WhisperSeductively_targeted_romance_middleScore--></T>
+        <T>28612<!--mixer_social_Kiss_targeted_romance_middleScore--></T>
+        <T>26147<!--mixer_social_ProfessUndyingLove_targeted_romance_highScore--></T>
+        <T>25870<!--mixer_social_SweetTalk_targeted_romance_skills--></T>
+        <T>97070<!--mixer_social_KissCheek_targeted_romance_alwaysOn--></T>
+        <T>74851<!--mixer_social_KissNeck_targeted_romance_relationship_teen--></T>
+        <T>98293<!--mixer_social_KissHands_targeted_romance_emotionSpecific--></T>
+        <T>25963<!--mixer_social_Seduce_targeted_romance_emotionSpecific--></T>
+        <T>99467<!--mxier_social_Seduce_targeted_romance_emotionSpecific_femaleVersion--></T>
+        <T>106740<!--mixer_social_CheckForFever_targeted_romance_alwaysOn_ActiveCareer_Doctor--></T>
+        <T>26159<!--mixer_social_AskIfSingle_targeted_romance_alwaysOn--></T>
+        <T>26163<!--mixer_social_ComplimentAppearance_targeted_romance_alwaysOn--></T>
+        <T>25875<!--mixer_social_Serenade_targeted_romance_emotionSpecific--></T>
+        <T>26168<!--mixer_social_BlowAKiss_targeted_romance_highScore--></T>
+        <T>26165<!--mixer_social_ConfessAttraction_targeted_romance_middleScore--></T>
+        <T>125281<!--mixer_social_Closet_MakeOut_targeted_romance_highScore--></T>
+        <T>26918<!--mixer_social_ExpressFondness_targeted_Romance_alwaysOn--></T>
+        <T>29347<!--mixer_social_AskRisqueQuestion_targeted_romance_alwaysOn--></T>
+        <T>74045<!--mixer_social_AskToStayTheNight_targeted_romance_highScore--></T>
+        <T>149392<!--mixer_social_DeclareEternalLove_Targeted_Romance_HighScore--></T>
+        <T>99655<!--mixer_social_ConvinceToLeaveSpouse_targeted_romance_relationship--></T>
+        <T>113593<!--mixer_social_FlirtCovertly_Targeted_Romance_AlwaysOn_ActiveCareer--></T>
+        <T>118662<!--mixer_social_ComplimentYogaPants_targeted_romance_alwaysOn_YogaInstructor--></T>
+        <T>125637<!--mixer_social_GoingOutSocials_ExchangeNumbers--></T>
+        <T>32413<!--mixer_social_SitIntimate_Cuddle_targeted_friendly_alwaysOn--></T>
+        <T>26545<!--mixer_social_SitIntimate_MakeAMove_targeted_romance_alwaysOn--></T>
+        <T>182708<!--mixer_social_WeatherTemperatureSocials_WarmUp--></T>
+        <T>26546<!--mixer_social_SitIntimate_Kiss_targeted_romance_emotionSpecific--></T>
+        <T>186374<!--mixer_social_Mistletoe_kiss--></T>
+        <T>26552<!--mixer_social_SitIntimate_TickleMercilessly_targeted_romance_middleScore--></T>
+        <T>99926<!--mixer_social_SitIntimate_TeaseFlirtatiously_targeted_romance_middleScore--></T>
+        <T>26551<!--mixer_social_SitIntimate_WhisperSweetNothings_targeted_romance_middleScore--></T>
+        <T>99913<!--mixer_social_SitIntimate_LookDeeplyIntoEyes_targeted_romance_middleScore--></T>
+        <T>26547<!--mixer_social_SitIntimate_MakeOut_targeted_romance_highScore--></T>
+        <T>26549<!--mixer_social_SitIntimate_GiveVigorousMassage_targeted_romance_highScore--></T>
+        <T>205837<!--mixer_social_Mermaid_MerfolkKiss_targeted_alwaysOn--></T>
+        <T>26548<!--mixer_social_SitIntimate_GiveMassage_targeted_romance_highScore--></T>
+        <T>26550<!--mixer_social_SitIntimate_AskForMassage_targeted_romance_highScore--></T>
+        <T>131172<!--mixer_social_SitIntimate_FeedABite_targeted_romance_alwaysOn--></T>
+        <T>26162<!--mixer_social_Flirt_targeted_romance_alwaysOn--></T>
+        <T>286659<!--socials_Targeted_Romance_AlwaysOn_STC_Werewolf--></T>
+        <T>131181<!--mixer_social_UltimatePickUp_targeted_romance_AlwaysOn--></T>
+        <T>273207<!--socials_Targeted_Romance_AlwaysOn_STC_SociallyAwkward_AmIDoingThisRight--></T>
+        <T>289770<!--socials_Targeted_Romance_DeclareLove--></T>
+        <T>145779<!--mixer_social_FlirtyDream_Festival_Blossom_targeted_romance--></T>
+        <T>145780<!--mixer_social_HeatofMomentPassion_Festival_Blossom_targeted_romance--></T>
+        <T>145777<!--mixer_social_JokeGettingTogether_Festival_Blossom_targeted_romance--></T>
+        <T>145776<!--mixer_social_MentionFlirtyVibe_Festival_Blossom_targeted_romance--></T>
+        <T>315358<!--mixer_social_Romance_HighScore_Loyal_ExpressDevotion--></T>
+        <T>210379<!--mixer_social_JuiceKeg_MakeOut_Flirty_AlwaysOn--></T>
+        <T>210303<!--mixer_social_JuiceKeg_WantToMakeOut_Flirty_alwaysOn--></T>
+        <T>238686<!--mixer_social_Targeted_Romance_CivicPolicy_FreeLove_NT_AskRisqueQuestion--></T>
+        <T>238687<!--mixer_social_Targeted_Romance_CivicPolicy_FreeLove_NT_BlowAKiss--></T>
+        <T>238690<!--mixer_social_Targeted_Romance_CivicPolicy_FreeLove_NT_Flirt--></T>
+        <T>238688<!--mixer_social_Targeted_Romance_CivicPolicy_FreeLove_T_CaressCheek--></T>
+        <T>238689<!--mixer_social_Targeted_Romance_CivicPolicy_FreeLove_T_Embrace--></T>
+        <T>238691<!--mixer_social_Targeted_Romance_CivicPolicy_FreeLove_T_HoldHands--></T>
+        <T>238692<!--mixer_social_Targeted_Romance_CivicPolicy_FreeLove_T_KissNeck--></T>
+        <T>238693<!--mixer_social_Targeted_Romance_CivicPolicy_FreeLove_T_OfferMassage--></T>
+        <T>238694<!--mixer_social_Targeted_Romance_CivicPolicy_FreeLove_T_WhisperSeductively--></T>
+        <T>154549<!--mixer_social_Vampire_CompareToLongLostLove_Targeted_Romance_MiddleScore--></T>
+        <T>286661<!--mixer_social_WhisperSeductively_targeted_romance_middleScore_Werewolf--></T>
+        <T>290911<!--mixer_social_WhisperSeductively_targeted_romance_middleScore_Werewolf_F--></T>
+        <T>211844<!--mixer_social_Mermaid_KissinWater--></T>
+        <T>214084<!--mixer_social_Mermaid_KissinWater_Mermaid--></T>
+      </L>
+    </U>
+  </V>
+  <T n="relative_to_unlock_moment">True</T>
+  <T n="satisfaction_points">10</T>
+  <T n="tooltip">0xD7840370<!--{0.SimFirstName} wants to feel the thrilling excitement of flirting with someone {0.SimPronounSubjective}'s not in a committed relationship with.--></T>
+</I>

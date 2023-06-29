@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="AutographedObject_AppraisalState" s="199684">
+  <L n="_values">
+    <T>199682<!--AutographedObject_Appraised--></T>
+    <T>200662<!--AutographedObject_RecentlyAppraised--></T>
+    <T>199681<!--AutographedObject_Unappraised--></T>
+  </L>
+  <T n="linked_stat">200664<!--commodity_Object_AutographedObject_AppraisalCooldownTimer--></T>
+</I>

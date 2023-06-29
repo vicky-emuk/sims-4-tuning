@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="teaSet_States_Drinks" s="275683">
+  <L n="_values">
+    <T>275691<!--teaSet_Values_Drinks_BlackDragon--></T>
+    <T>275694<!--teaSet_Values_Drinks_Empty--></T>
+    <T>275692<!--teaSet_Values_Drinks_OrangeBlossom--></T>
+    <T>278236<!--teaSet_Values_Drinks_SparklingAppleJuice--></T>
+    <T>278231<!--teaSet_Values_Drinks_CalmingChamomile--></T>
+    <T>278232<!--teaSet_Values_Drinks_EarlGrey--></T>
+    <T>278233<!--teaSet_Values_Drinks_HealthyGreen--></T>
+    <T>278234<!--teaSet_Values_Drinks_PitchBlack--></T>
+    <T>278235<!--teaSet_Values_Drinks_RunOolong--></T>
+  </L>
+</I>

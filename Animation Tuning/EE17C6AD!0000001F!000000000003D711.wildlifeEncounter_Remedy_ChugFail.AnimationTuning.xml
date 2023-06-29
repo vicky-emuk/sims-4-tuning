@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="AnimationElement" i="animation" m="animation.animation_element" n="wildlifeEncounter_Remedy_ChugFail" s="251665">
+  <T n="asm_key" p="InEP10\Sage\WildlifeEncounter_UseRemedy_Chug.interactionasm">02d5df13:00000000:004c53868a36d724</T>
+  <L n="begin_states">
+    <T>ChugFail</T>
+  </L>
+  <T n="carry_target_name">emeticPotion</T>
+  <T n="target_name">emeticPotion</T>
+</I>

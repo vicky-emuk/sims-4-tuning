@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000003">
+  <Instances>
+    <I name="SC_27_PicturePerfect" schema="Achievement" type="Object">
+      <L name="category">
+        <T type="TableSetReference">24656</T>
+      </L>
+      <T name="descriptive_text">0xCC3BACC0</T>
+      <T name="disabled">0</T>
+      <T name="display_name">0xB148E400</T>
+      <T name="icon">00B2D882-00000000-56826BF5D4A6259D</T>
+      <T name="is_hidden">0</T>
+      <T name="is_origin">0</T>
+      <L name="objectives">
+        <T type="TableSetReference">106963</T>
+      </L>
+      <T name="point_value">50</T>
+      <T name="reward">0</T>
+      <T name="valid_with_cheats">0</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="Achievement" schema_hash="0xE11C1B1C">
+      <Columns>
+        <Column name="category" type="Vector" flags="0x00000000" />
+        <Column name="descriptive_text" type="LocalizationKey" flags="0x00000000" />
+        <Column name="disabled" type="Boolean" flags="0x00000000" />
+        <Column name="display_name" type="LocalizationKey" flags="0x00000000" />
+        <Column name="icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="is_hidden" type="Boolean" flags="0x00000000" />
+        <Column name="is_origin" type="Boolean" flags="0x00000000" />
+        <Column name="objectives" type="Vector" flags="0x00000000" />
+        <Column name="point_value" type="Int32" flags="0x00000000" />
+        <Column name="reward" type="TableSetReference" flags="0x00000000" />
+        <Column name="valid_with_cheats" type="Boolean" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="teenPranks_PrankedObject" s="285029">
+  <L n="_values">
+    <T>285027<!--teenPranks_NotPranked--></T>
+    <T>285025<!--teenPranks_Pranked--></T>
+  </L>
+</I>

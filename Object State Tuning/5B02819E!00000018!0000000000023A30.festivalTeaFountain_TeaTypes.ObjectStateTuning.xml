@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="festivalTeaFountain_TeaTypes" s="145968">
+  <L n="_values">
+    <T>145965<!--festivalTeaFountain_DarkTea--></T>
+    <T>145964<!--festivalTeaFountain_LightTea--></T>
+    <T>145966<!--festivalTeaFountain_SakuraTea--></T>
+  </L>
+</I>

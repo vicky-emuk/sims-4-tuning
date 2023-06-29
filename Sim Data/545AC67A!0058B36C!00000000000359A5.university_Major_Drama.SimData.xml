@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x0000001D">
+  <Instances>
+    <I name="university_Major_Drama" schema="UniversityMajor" type="Object">
+      <L name="career_tracks">
+        <T type="TableSetReference">189131</T>
+        <T type="TableSetReference">30298</T>
+        <T type="TableSetReference">135367</T>
+      </L>
+      <T name="display_description">0xF1716886</T>
+      <T name="display_name">0xBD099E1E</T>
+      <U name="icons" schema="UniversityMajorIconTuple">
+        <T name="icon">00B2D882-00000000-1C3314BCD607987A</T>
+        <T name="icon_high_res">00B2D882-00000000-4A176D01779730FE</T>
+        <T name="icon_prestige">00B2D882-00000000-2DBF182F9E66FA35</T>
+        <T name="icon_prestige_high_res">00B2D882-00000000-51D8E7BCF4E49F0F</T>
+      </U>
+      <L name="major_benefit_map">
+        <U type="Object" schema="UniversityMajorBenefitMapping">
+          <T name="key">219731</T>
+          <T name="value">0x2B9A15E3</T>
+        </U>
+        <U type="Object" schema="UniversityMajorBenefitMapping">
+          <T name="key">219732</T>
+          <T name="value">0x422BABF1</T>
+        </U>
+      </L>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="UniversityMajor" schema_hash="0xEBC5859E">
+      <Columns>
+        <Column name="career_tracks" type="Vector" flags="0x00000000" />
+        <Column name="display_description" type="LocalizationKey" flags="0x00000000" />
+        <Column name="display_name" type="LocalizationKey" flags="0x00000000" />
+        <Column name="icons" type="Object" flags="0x00000000" />
+        <Column name="major_benefit_map" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="UniversityMajorIconTuple" schema_hash="0x9301567B">
+      <Columns>
+        <Column name="icon" type="ResourceKey" flags="0x00000000" />
+        <Column name="icon_high_res" type="ResourceKey" flags="0x00000000" />
+        <Column name="icon_prestige" type="ResourceKey" flags="0x00000000" />
+        <Column name="icon_prestige_high_res" type="ResourceKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="UniversityMajorBenefitMapping" schema_hash="0xFA662859">
+      <Columns>
+        <Column name="key" type="TableSetReference" flags="0x00000000" />
+        <Column name="value" type="LocalizationKey" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

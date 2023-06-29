@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalSet" i="situation_goal_set" m="situations.situation_goal_set" n="goalSet_CareerDoctor_ManageMotives_looping" s="112508">
+  <L n="chained_goal_sets">
+    <T>112508<!--goalSet_CareerDoctor_ManageMotives_looping--></T>
+  </L>
+  <L n="goals">
+    <U>
+      <T n="goal">112251<!--careerDoctor_GetCaffinated--></T>
+    </U>
+    <U>
+      <T n="goal">112264<!--careerDoctor_GrabSnack--></T>
+    </U>
+    <U>
+      <T n="goal">112507<!--careerDoctor_WashHands--></T>
+    </U>
+    <U>
+      <T n="goal">115794<!--careerDoctor_ChemicalAnalyzer_clean--></T>
+      <T n="weight">2</T>
+    </U>
+  </L>
+  <L n="role_tags">
+    <E>Role_Doctor</E>
+  </L>
+</I>

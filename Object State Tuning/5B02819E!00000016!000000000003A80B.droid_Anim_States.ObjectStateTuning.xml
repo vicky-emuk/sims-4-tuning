@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="droid_Anim_States" s="239627">
+  <L n="_values">
+    <T>239626<!--droid_Anim_Idle_Active--></T>
+    <T>239628<!--droid_Anim_React_Positive--></T>
+    <T>240832<!--droid_Anim_React_Negative--></T>
+    <T>234387<!--droid_BB_Anim_Shock--></T>
+    <T>242321<!--droid_Anim_Idle_Off--></T>
+    <T>242771<!--droid_Anim_React_Confident--></T>
+    <T>242767<!--droid_Anim_React_Excited--></T>
+    <T>242770<!--droid_Anim_React_Sad--></T>
+    <T>242769<!--droid_Anim_React_Scared--></T>
+    <T>242768<!--droid_Anim_React_Happy--></T>
+    <T>242775<!--droid_Anim_React_Angry--></T>
+    <T>247260<!--droid_Anim_Activate--></T>
+    <T>247261<!--droid_Anim_Deactivate--></T>
+    <T>251022<!--droid_Anim_Idle_Starship--></T>
+  </L>
+</I>

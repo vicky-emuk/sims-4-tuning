@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ObjectState" i="object_state" m="objects.components.state" n="pumpkin_States_Preserved" s="125031">
+  <L n="_values">
+    <T>125009<!--pumpkin_Preserved_Active--></T>
+    <T>125010<!--pumpkin_Preserved_Deactive--></T>
+  </L>
+  <T n="persists_across_gallery">True</T>
+</I>

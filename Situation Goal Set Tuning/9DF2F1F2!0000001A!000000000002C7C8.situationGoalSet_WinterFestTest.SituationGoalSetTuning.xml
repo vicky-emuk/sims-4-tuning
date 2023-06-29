@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="SituationGoalSet" i="situation_goal_set" m="situations.situation_goal_set" n="situationGoalSet_WinterFestTest" s="182216">
+  <L n="chained_goal_sets">
+    <T>182216<!--situationGoalSet_WinterFestTest--></T>
+  </L>
+  <L n="goals">
+    <U>
+      <T n="goal">181857<!--HolidayTraditionGoal_BeFestive--></T>
+    </U>
+    <U>
+      <T n="goal">181854<!--HolidayTraditionGoal_OpenPresent--></T>
+    </U>
+    <U>
+      <T n="goal">181855<!--HolidayTraditionGoal_EatGrandMeal--></T>
+    </U>
+    <U>
+      <T n="goal">181898<!--HolidayTraditionGoal_HaveDecorations--></T>
+    </U>
+    <U>
+      <T n="goal">181856<!--HolidayTraditionGoal_TalkToFatherWinter--></T>
+    </U>
+    <U>
+      <T n="goal">181872<!--HolidayTraditionGoal_LightKinara--></T>
+    </U>
+    <U>
+      <T n="goal">181871<!--HolidayTraditionGoal_LightMenorah--></T>
+    </U>
+    <U>
+      <T n="goal">181874<!--HolidayTraditionGoal_GoToServices--></T>
+    </U>
+    <U>
+      <T n="goal">181861<!--HolidayTraditionGoal_CelebrateWithLights--></T>
+    </U>
+    <U>
+      <T n="goal">181883<!--HolidayTraditionGoal_AirGrievances--></T>
+    </U>
+  </L>
+</I>

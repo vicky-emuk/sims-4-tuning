@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="UniversityCourseData" i="university_course_data" m="sims.university.university_tuning" n="university_CourseData_ArtHistory_ClassK" s="219404">
+  <L n="classroom_tag">
+    <U>
+      <T n="key">219731<!--ScienceUniversity--></T>
+      <L n="value">
+        <E>Func_ScienceUniversityShell_Shell1</E>
+      </L>
+    </U>
+    <U>
+      <T n="key">219732<!--ArtsUniversity--></T>
+      <L n="value">
+        <E>Func_ArtsUniversityShell_Shell1</E>
+      </L>
+    </U>
+  </L>
+  <T n="cost">240</T>
+  <U n="course_skill_data">
+    <V n="related_skill" t="enabled">
+      <T n="enabled">16699<!--statistic_Skill_AdultMajor_Charisma--></T>
+    </V>
+  </U>
+  <E n="final_requirement_type">EXAM</E>
+  <T n="icon" p="InEP08\UI\Icons\DegreeSystem\Class\DegreeSystem_class_charisma.png">2f7d0004:00000000:bb6b2381617cca1c</T>
+  <L n="professor_assignment_trait">
+    <U>
+      <T n="key">219731<!--ScienceUniversity--></T>
+      <T n="value">224865<!--trait_Hidden_ProfessorNPC_Course_Science_C--></T>
+    </U>
+    <U>
+      <T n="key">219732<!--ArtsUniversity--></T>
+      <T n="value">224822<!--trait_Hidden_ProfessorNPC_Course_Arts_C--></T>
+    </U>
+  </L>
+  <L n="spawn_point_tag">
+    <U>
+      <T n="key">219731<!--ScienceUniversity--></T>
+      <L n="value">
+        <E>Spawn_ScienceUniversityShell_Shell1</E>
+      </L>
+    </U>
+    <U>
+      <T n="key">219732<!--ArtsUniversity--></T>
+      <L n="value">
+        <E>Spawn_ArtsUniversityShell_Shell1</E>
+      </L>
+    </U>
+  </L>
+  <L n="university_course_mapping">
+    <U>
+      <T n="key">219731<!--ScienceUniversity--></T>
+      <U n="value">
+        <T n="course_description">0x62AD3CDE<!--What is a piece of art really worth? This class uses some basic economic principles along with a vast history of art sales to attempt to understand how the market for art changes over time.--></T>
+        <T n="course_name">0xD4048E1<!--How Much? Valuating Art in Today's Economy--></T>
+      </U>
+    </U>
+    <U>
+      <T n="key">219732<!--ArtsUniversity--></T>
+      <U n="value">
+        <T n="course_description">0xDC6ACF8E<!--What does art mean in our modern age? Can we draw a line from historical peer-curated salons to modern social media like Simstagram? This course looks to examine how art has spread in the past, along with what the future may hold.--></T>
+        <T n="course_name">0x730C1FB1<!--The Spread of Art, from Salons to Online--></T>
+      </U>
+    </U>
+  </L>
+</I>

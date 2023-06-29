@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x0000001A">
+  <Instances>
+    <I name="lotDecorationPresets_Holidays_WinterFest" schema="LotDecorationPreset" type="Object">
+      <V name="_display_data" variant="0x3BB04258" schema="OptionalDisplayMixinTunable">
+        <V name="instance_display_description" variant="0xC1A03855" />
+        <V name="instance_display_icon" variant="0xC1A03855" />
+        <V name="instance_display_name" variant="0x87E76EC3">
+          <T type="LocalizationKey">0x3E52A2A2</T>
+        </V>
+        <V name="instance_display_secondary_icon" variant="0xC1A03855" />
+        <V name="instance_display_tooltip" variant="0xC1A03855" />
+      </V>
+      <L name="location_content">
+        <U type="Object" schema="LocationContentKeyValue">
+          <T name="key">1</T>
+          <L name="value">
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">191124</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">191125</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">191126</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">191127</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">191129</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194667</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194673</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194796</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194798</T>
+              <T name="value">1</T>
+            </U>
+          </L>
+        </U>
+        <U type="Object" schema="LocationContentKeyValue">
+          <T name="key">3</T>
+          <L name="value">
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">191117</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">191119</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">191123</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194560</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194561</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194673</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194747</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194748</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194749</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194750</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194751</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194752</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194753</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194754</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194755</T>
+              <T name="value">1</T>
+            </U>
+          </L>
+        </U>
+        <U type="Object" schema="LocationContentKeyValue">
+          <T name="key">0</T>
+          <L name="value">
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">191117</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">191118</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">191119</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">191126</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">191127</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">191129</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194590</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194599</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194603</T>
+              <T name="value">1</T>
+            </U>
+          </L>
+        </U>
+        <U type="Object" schema="LocationContentKeyValue">
+          <T name="key">2</T>
+          <L name="value">
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">191124</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">191125</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">191126</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">191127</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">191129</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194796</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194798</T>
+              <T name="value">1</T>
+            </U>
+          </L>
+        </U>
+        <U type="Object" schema="LocationContentKeyValue">
+          <T name="key">4</T>
+          <L name="value">
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">191117</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">191119</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">191123</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">191126</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">191127</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">191129</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194560</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194747</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194748</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194749</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194750</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194751</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194752</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194753</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194754</T>
+              <T name="value">1</T>
+            </U>
+            <U type="Object" schema="TrimWeightKeyValue">
+              <T name="key">194755</T>
+              <T name="value">1</T>
+            </U>
+          </L>
+        </U>
+      </L>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="LotDecorationPreset" schema_hash="0xE727D47A">
+      <Columns>
+        <Column name="_display_data" type="Variant" flags="0x00000000" />
+        <Column name="location_content" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="OptionalDisplayMixinTunable" schema_hash="0x2A90C3F5">
+      <Columns>
+        <Column name="instance_display_description" type="Variant" flags="0x00000000" />
+        <Column name="instance_display_icon" type="Variant" flags="0x00000000" />
+        <Column name="instance_display_name" type="Variant" flags="0x00000000" />
+        <Column name="instance_display_secondary_icon" type="Variant" flags="0x00000000" />
+        <Column name="instance_display_tooltip" type="Variant" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="LocationContentKeyValue" schema_hash="0x72DE74BF">
+      <Columns>
+        <Column name="key" type="Int64" flags="0x00000000" />
+        <Column name="value" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+    <Schema name="TrimWeightKeyValue" schema_hash="0xB2A3A491">
+      <Columns>
+        <Column name="key" type="UInt32" flags="0x00000000" />
+        <Column name="value" type="Single" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

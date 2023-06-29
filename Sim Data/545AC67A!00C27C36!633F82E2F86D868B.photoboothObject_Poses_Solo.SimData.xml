@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000035">
+  <Instances>
+    <I name="photoboothObject_Poses_Solo" schema="Client_ThumbnailPoses" type="Object">
+      <T name="asm_key">02D5DF13-00000000-B09B9CC7D93DF968</T>
+      <L name="Poses">
+        <T type="String">Fine_Photo</T>
+        <T type="String">Angry_Photo</T>
+        <T type="String">Bored_Photo</T>
+        <T type="String">Confident_Photo</T>
+        <T type="String">Dazed_Photo</T>
+        <T type="String">Embarrased_Photo</T>
+        <T type="String">Energized_Photo</T>
+        <T type="String">Flirty_Photo</T>
+        <T type="String">Focused_Photo</T>
+        <T type="String">Happy_Photo</T>
+        <T type="String">Inspired_Photo</T>
+        <T type="String">Playful_Photo</T>
+        <T type="String">Sad_Photo</T>
+        <T type="String">Scared_Photo</T>
+        <T type="String">Tense_Photo</T>
+        <T type="String">Uncomfortable_Photo</T>
+      </L>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="Client_ThumbnailPoses" schema_hash="0x9EE5F676">
+      <Columns>
+        <Column name="asm_key" type="ResourceKey" flags="0x00000000" />
+        <Column name="Poses" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000000">
+  <Instances>
+    <I name="uuCASPart_Earrings_cuAcc_EarringsSDX020HearingAidR" schema="Client_CASThumbnailCamera" type="Object">
+      <T name="CameraPosition">-0.6738845,1.294638,0.4677908</T>
+      <T name="TargetPosition">0.08845232,1.178315,-0.07283434</T>
+      <T name="CameraFOV">10</T>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="Client_CASThumbnailCamera" schema_hash="0x5C3D3343">
+      <Columns>
+        <Column name="CameraPosition" type="Float3" flags="0x00000000" />
+        <Column name="TargetPosition" type="Float3" flags="0x00000000" />
+        <Column name="CameraFOV" type="Int32" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>

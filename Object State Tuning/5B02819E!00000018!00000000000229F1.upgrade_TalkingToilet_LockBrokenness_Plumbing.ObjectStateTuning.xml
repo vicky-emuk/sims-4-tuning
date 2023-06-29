@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="upgrade_TalkingToilet_LockBrokenness_Plumbing" s="141809">
+  <L n="_values">
+    <T>141802<!--upgrade_TalkingToilet_LockBrokenness_Plumbing_NotStarted--></T>
+    <T>141804<!--upgrade_TalkingToilet_LockBrokenness_Plumbing_Partial--></T>
+    <T>141806<!--upgrade_TalkingToilet_LockBrokenness_Plumbing_Completed--></T>
+  </L>
+  <T n="linked_stat">141801<!--statistic_Object_Upgrade_TalkingToilet_LockBrokenness_plumbing--></T>
+</I>

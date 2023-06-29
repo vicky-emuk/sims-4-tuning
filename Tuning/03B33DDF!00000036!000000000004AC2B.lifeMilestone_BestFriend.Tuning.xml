@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="DevelopmentalMilestone" i="developmental_milestone" m="developmental_milestones.developmental_milestone" n="lifeMilestone_BestFriend" s="306219">
+  <L n="ages">
+    <E>CHILD</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+  </L>
+  <E n="category">Social</E>
+  <T n="goal">305716<!--lifeMilestoneGoal_Rel_BestFriend--></T>
+  <T n="icon" p="InEP13\UI\Icons\DevelopmentalMilestones\milestone_MadeaBestFriend.png">2f7d0004:00000000:5ea9ca81f19f4512</T>
+  <V n="is_primary_milestone" t="True">
+    <U n="True">
+      <T n="hint_text">0x84C4A38F<!--Could {0.SimFirstName} find that special someone who's not just a friend, but a <i>best</i> friend?--></T>
+      <V n="revealable_name" t="enabled">
+        <T n="enabled">0xF350F125<!--Make a Best Friend--></T>
+      </V>
+      <L n="tests">
+        <L>
+          <V t="trait">
+            <U n="trait">
+              <L n="whitelist_traits">
+                <T>16826<!--trait_Bro--></T>
+                <T>9322<!--trait_Cheerful--></T>
+                <T>125437<!--trait_Insider--></T>
+                <T>29571<!--trait_Outgoing--></T>
+                <T>248617<!--trait_Lifestyles_CloseKnit--></T>
+                <T>248616<!--trait_Lifestyles_Networker--></T>
+              </L>
+            </U>
+          </V>
+          <V t="developmental_milestone_completion">
+            <U n="developmental_milestone_completion">
+              <U n="developmental_milestones">
+                <V n="blacklist" t="specify">
+                  <U n="specify">
+                    <L n="blacklist">
+                      <T>306219<!--lifeMilestone_BestFriend--></T>
+                    </L>
+                  </U>
+                </V>
+              </U>
+            </U>
+          </V>
+        </L>
+        <L>
+          <V t="selected_aspiration_track_test">
+            <U n="selected_aspiration_track_test">
+              <T n="aspiration_track">25276<!--Track_Popularity_B--></T>
+            </U>
+          </V>
+          <V t="developmental_milestone_completion">
+            <U n="developmental_milestone_completion">
+              <U n="developmental_milestones">
+                <V n="blacklist" t="specify">
+                  <U n="specify">
+                    <L n="blacklist">
+                      <T>306219<!--lifeMilestone_BestFriend--></T>
+                    </L>
+                  </U>
+                </V>
+              </U>
+            </U>
+          </V>
+        </L>
+        <L>
+          <V t="selected_aspiration_track_test">
+            <U n="selected_aspiration_track_test">
+              <T n="aspiration_track">25277<!--Track_Popularity_C--></T>
+            </U>
+          </V>
+          <V t="developmental_milestone_completion">
+            <U n="developmental_milestone_completion">
+              <U n="developmental_milestones">
+                <V n="blacklist" t="specify">
+                  <U n="specify">
+                    <L n="blacklist">
+                      <T>306219<!--lifeMilestone_BestFriend--></T>
+                    </L>
+                  </U>
+                </V>
+              </U>
+            </U>
+          </V>
+        </L>
+        <L>
+          <V t="selected_aspiration_track_test">
+            <U n="selected_aspiration_track_test">
+              <T n="aspiration_track">25692<!--Track_Social--></T>
+            </U>
+          </V>
+          <V t="developmental_milestone_completion">
+            <U n="developmental_milestone_completion">
+              <U n="developmental_milestones">
+                <V n="blacklist" t="specify">
+                  <U n="specify">
+                    <L n="blacklist">
+                      <T>306219<!--lifeMilestone_BestFriend--></T>
+                    </L>
+                  </U>
+                </V>
+              </U>
+            </U>
+          </V>
+        </L>
+      </L>
+    </U>
+  </V>
+  <T n="name">0x74DDA473<!--Made a Best Friend--></T>
+  <T n="repeatable">True</T>
+  <T n="ui_sort_order">200</T>
+  <T n="unlocked_text">0x6830C55D<!--{0.SimFirstName} and {1.SimName} became Best Friends.--></T>
+  <T n="unlocked_text_no_context">0x16456E79<!--{0.SimFirstName} made a new Best Friend!--></T>
+  <T n="unlocked_text_target_sim_header">0x881E311A<!--With--></T>
+</I>

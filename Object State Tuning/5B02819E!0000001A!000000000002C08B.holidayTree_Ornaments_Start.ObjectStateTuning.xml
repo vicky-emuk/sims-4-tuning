@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectStateValue" i="object_state" m="objects.components.state" n="holidayTree_Ornaments_Start" s="180363">
+  <V n="default_value" t="use_default_value" />
+  <U n="range">
+    <T n="upper_bound">1</T>
+  </U>
+  <L n="super_affordances">
+    <T>180410<!--holidayTree_DecorateOrnaments_Type1--></T>
+    <T>180505<!--holidayTree_DecorateOrnaments_Type2--></T>
+    <T>180504<!--holidayTree_DecorateOrnaments_Type3--></T>
+    <T>180739<!--holidayTree_SimPicker_DecorateWith_Ornament_Type1--></T>
+    <T>180743<!--holidayTree_SimPicker_DecorateWith_Ornament_Type2--></T>
+    <T>180744<!--holidayTree_SimPicker_DecorateWith_Ornament_Type3--></T>
+  </L>
+</I>

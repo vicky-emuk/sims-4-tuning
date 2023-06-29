@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="upgrade_WeatherController_HumidityChiller" s="186604">
+  <L n="_values">
+    <T>186479<!--upgrade_WeatherController_HumidityChiller_NotStarted--></T>
+    <T>186487<!--upgrade_WeatherController_HumidityChiller_Partial--></T>
+    <T>186471<!--upgrade_WeatherController_HumidityChiller_Completed--></T>
+  </L>
+  <T n="linked_stat">186463<!--statistic_Object_Upgrade_WeatherController_HumidityChiller--></T>
+</I>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="ClubInteractionGroup" i="club_interaction_group" m="clubs.club_tuning" n="clubInteractionGroup_SkillBuilding_Garden" s="122445">
+  <L n="affordances">
+    <T>13411<!--Gardening_Graft--></T>
+    <T>77800<!--Gardening_Graft_low--></T>
+    <T>100149<!--Gardening_Graft_shoot_display--></T>
+    <T>13416<!--Gardening_Splice--></T>
+    <T>77757<!--Gardening_Splice_Low--></T>
+    <T>13412<!--Gardening_Graft_Picker--></T>
+    <T>77802<!--Gardening_Graft_Picker_low--></T>
+    <T>76783<!--gardening_Fertilize_picker--></T>
+    <T>13415<!--Gardening_put_in_inventory--></T>
+    <T>35935<!--computer_Browse_Research_GardeningTips--></T>
+    <T>74590<!--Gardening_Plant_ConvertBonsai--></T>
+    <T>39335<!--Gardening_Plant_Evolve--></T>
+    <T>183316<!--Gardening_Weed_All_Area_Planter--></T>
+    <T>102633<!--Gardening_Ghost_Decay_Plants--></T>
+    <T>13419<!--Gardening_Talk_To_Plants--></T>
+    <T>32938<!--Gardening_Water_with_Tears--></T>
+    <T>38896<!--Gardening_Fertilize--></T>
+    <T>13409<!--Gardening_Fertilize_continuation--></T>
+    <T>13410<!--Gardening_Fertilize_Toxic--></T>
+    <T>77438<!--Gardening_Spray_Unit_autonomous--></T>
+    <T>38938<!--Gardening_Water_Unit_autonomous--></T>
+    <T>38546<!--Gardening_Spray_All--></T>
+    <T>38549<!--Gardening_Spray_Continuation--></T>
+    <T>183354<!--Gardening_Spray_All_Area--></T>
+    <T>76153<!--Gardening_Tend_Continuation_spray--></T>
+    <T>36199<!--Gardening_Tend_Continuation_water--></T>
+    <T>101265<!--Gardening_Water_Alien_display--></T>
+    <T>8258<!--Gardening_Water_All_low--></T>
+    <T>183148<!--Gardening_Water_All_Area--></T>
+    <T>8416<!--Gardening_Water_Continuation--></T>
+    <T>38940<!--Gardening_Weed_Unit_autonomous--></T>
+    <T>76152<!--Gardening_Tend_Continuation_weed--></T>
+    <T>38464<!--Gardening_Weed_All--></T>
+    <T>38465<!--Gardening_Weed_Continuation--></T>
+    <T>97820<!--Gardening_Weed_Unit_Planter_autonomous--></T>
+    <T>98047<!--Gardening_Tend_Continuation_weed_Planter--></T>
+    <T>97822<!--Gardening_Weed_All_Planter--></T>
+    <T>183295<!--Gardening_Weed_All_Area--></T>
+    <T>97823<!--Gardening_Weed_Planter_Continuation--></T>
+    <T>39826<!--Gardening_Harvest_Unit_autonomous--></T>
+    <T>77770<!--Gardening_Harvest_Unit_autonomous_low--></T>
+    <T>34995<!--Gardening_KillWild_All--></T>
+    <T>34996<!--Gardening_KillWild_Continuation--></T>
+    <T>36197<!--Gardening_Tend_All--></T>
+    <T>117875<!--Gardening_Tend_Start--></T>
+    <T>13413<!--Gardening_Harvest--></T>
+    <T>100776<!--Gardening_Harvest_All--></T>
+    <T>100782<!--Gardening_Harvest_Continuation--></T>
+    <T>190139<!--Gardening_Weed_Area_Continuation--></T>
+    <T>190140<!--Gardening_Weed_Planter_Area_Continuation--></T>
+    <T>259653<!--super_GiantCrops_Plant_Fertilize--></T>
+    <T>9532<!--Gardening_Revive_Cowplant--></T>
+    <T>9245<!--Gardening_Revive_Generic--></T>
+    <T>13408<!--GardeningFruit_Plant--></T>
+    <T>76308<!--GardeningFruit_Plant_All--></T>
+    <T>98587<!--GardeningFruit_Plant_All_Pot--></T>
+    <T>76309<!--GardeningFruit_Plant_Continuation--></T>
+    <T>100876<!--GardeningFruit_Plant_Inventory_fake--></T>
+    <T>77070<!--GardeningFruit_Plant_Planter--></T>
+    <T>97297<!--GardeningFruit_Plant_Planter_continuation--></T>
+    <T>77327<!--GardeningFruit_Plant_Pot--></T>
+    <T>97268<!--GardeningFruit_Plant_Pot_continuation--></T>
+    <T>268703<!--super_GiantCrops_Plant_PlantCrop_Aubergine--></T>
+    <T>259472<!--super_GiantCrops_Plant_PruneCrop--></T>
+    <T>259348<!--super_GiantCrops_Plant_HarvestCrop--></T>
+    <T>261386<!--super_GiantCrops_Plant_HarvestCrop_All--></T>
+    <T>270428<!--super_GiantCrops_Plant_PruneCrop_Continuation--></T>
+    <T>265126<!--super_GiantCrops_Plant_TalkToCrop_NatureConversationalistTrait--></T>
+    <T>260536<!--super_GiantCrops_Plant_TalkToCrop--></T>
+    <T>259644<!--picker_GiantCrops_Fertilize_SelectFertilizer--></T>
+    <T>259477<!--picker_GiantCrops_PlantCrop_SelectSeed_FromPatch--></T>
+    <T>261411<!--super_GiantCrops_Plant_Cry--></T>
+    <T>190787<!--Gardening_Water_Planter_Start--></T>
+    <T>268705<!--super_GiantCrops_Plant_PlantCrop_GiantMushroom--></T>
+    <T>268707<!--super_GiantCrops_Plant_PlantCrop_Lettuce--></T>
+    <T>268706<!--super_GiantCrops_Plant_PlantCrop_Pumpkin--></T>
+    <T>268704<!--super_GiantCrops_Plant_PlantCrop_Watermelon--></T>
+    <T>270942<!--gardeningFruit_Plant_GardeningPatch_Cont--></T>
+    <T>270941<!--gardeningFruit_Plant_GardeningPatch--></T>
+  </L>
+  <E n="category">OUTDOOR</E>
+  <T n="category_icon" p="InGame\UI\Icons\Clubs\Rules\clubs_rules_Garden.png">2f7d0004:00000000:a800844a14c9e8a8</T>
+  <T n="club_bucks_reward">2</T>
+  <T n="is_targeted">False</T>
+  <T n="name">0x142B5923<!--Tend Garden--></T>
+  <T n="tooltip_template">0x7EF745CC<!--Tend Garden--></T>
+  <T n="tooltip_template_negative">0x7B421E2<!--Don't Tend Gardens--></T>
+</I>

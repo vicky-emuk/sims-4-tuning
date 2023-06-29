@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="Objective" i="objective" m="event_testing.objective_tuning" n="objective_UsedArchaeologyTable" s="178028">
+  <V n="objective_test" t="ran_interaction_test">
+    <U n="ran_interaction_test">
+      <L n="affordances">
+        <T>175702<!--archaeologyTable_AnalyzeCollectible--></T>
+        <T>175993<!--archaeologyTable_AuthenticateArtifact--></T>
+        <T>175638<!--archaeologyTable_ExtractElement--></T>
+        <T>175475<!--archaeologyTable_RefineCrystal--></T>
+        <T>175887<!--archaeologyTable_UncoverArtifact--></T>
+      </L>
+    </U>
+  </V>
+  <T n="resettable">True</T>
+</I>

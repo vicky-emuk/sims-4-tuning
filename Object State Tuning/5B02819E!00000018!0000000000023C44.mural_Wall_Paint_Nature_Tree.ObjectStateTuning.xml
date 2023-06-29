@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="CommodityBasedObjectState" i="object_state" m="objects.components.state" n="mural_Wall_Paint_Nature_Tree" s="146500">
+  <L n="_values">
+    <T>147493<!--mural_Wall_Tree_Complete--></T>
+    <T>146607<!--mural_Wall_Tree_Defaced--></T>
+    <T>147492<!--mural_Wall_Tree_NotStarted--></T>
+    <T>146606<!--mural_Wall_Tree_BaseToLines_0--></T>
+    <T>147485<!--mural_Wall_Tree_BaseToLines_1--></T>
+    <T>147486<!--mural_Wall_Tree_BaseToLines_2--></T>
+    <T>147487<!--mural_Wall_Tree_BaseToLines_3--></T>
+    <T>147488<!--mural_Wall_Tree_BaseToLines_4--></T>
+    <T>147489<!--mural_Wall_Tree_LinesToFinal_1--></T>
+    <T>146608<!--mural_Wall_Tree_LinesToFinal_2--></T>
+    <T>147490<!--mural_Wall_Tree_LinesToFinal_3--></T>
+    <T>147491<!--mural_Wall_Tree_LinesToFinal_4--></T>
+    <T>147495<!--mural_Wall_Tree_LinesToFinal_0--></T>
+    <T>147763<!--mural_Wall_Tree_AToBase_0--></T>
+    <T>147764<!--mural_Wall_Tree_AToBase_1--></T>
+    <T>147765<!--mural_Wall_Tree_AToBase_2--></T>
+    <T>147766<!--mural_Wall_Tree_AToBase_3--></T>
+    <T>147767<!--mural_Wall_Tree_AToBase_4--></T>
+  </L>
+  <T n="linked_stat">147494<!--commodity_Mural_Tree--></T>
+  <T n="persists_across_gallery">True</T>
+</I>

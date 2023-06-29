@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimData version="0x00000101" u="0x00000035">
+  <Instances>
+    <I name="HS_GraduationPoses" schema="Client_ThumbnailPoses" type="Object">
+      <T name="asm_key">02D5DF13-00000000-718FD0749D10C48E</T>
+      <L name="Poses">
+        <T type="String">Graduation_Event_Photo_Pose</T>
+      </L>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="Client_ThumbnailPoses" schema_hash="0x9EE5F676">
+      <Columns>
+        <Column name="asm_key" type="ResourceKey" flags="0x00000000" />
+        <Column name="Poses" type="Vector" flags="0x00000000" />
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>
